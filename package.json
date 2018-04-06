@@ -1,0 +1,19 @@
+{
+  "name": "terminal-translations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binarium-team/terminal-translations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binarium-team/terminal-translations/issues"
+  },
+  "homepage": "https://github.com/binarium-team/terminal-translations#readme"
+}

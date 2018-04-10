@@ -133,7 +133,6 @@
     "count-minute-short": "{{@count}} m",
     "count-hour-short": "{{@count}} h",
     "count-day-short": "{{@count}} d",
-    "load-sync": "Syncing",
     "binary-cap": "Binary",
     "error-too-small-bet": "Impossible to make a bet equal to {{@sum}}, the minimum bet for the currency {{@currency}} is {{@minbet}}",
     "error-too-big-bet": "It is impossible to make a bet equal to {{@sum}}, the maximum bet for the currency {{@currency}} is {{@maxbet}}",

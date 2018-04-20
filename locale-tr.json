@@ -161,7 +161,7 @@
     "no-tournament-description": "Yarışma açıklaması yok",
     "utc-info": "(UTC{{@offset}})",
     "begin-time": "Başlıyor",
-    "deductions": "Deduction",
+    "deductions": "Kesinti",
     "reg-in-tournament-for": "Join the Contest {{@price}}",
     "choose-tournament-to-see-info": "Please select a contest",
     "has-reged-in-tournament": "You are registered",

@@ -143,6 +143,7 @@
     "internet-connection-trouble": "Возникла неполадка интернет соединения",
     "lang-name-eng": "Английский",
     "lang-name-rus": "Русский",
+    "lang-name-ger": "Немецкий",
     "lang-name-chinese": "Китайский (упрощенный)",
     "timezone-info": "(UTC+{{@offset}}) {{@country}}",
     "you-started-using-real-wallet": "Вы начали использовать реальный счёт",

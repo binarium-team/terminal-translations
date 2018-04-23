@@ -144,6 +144,7 @@
     "lang-name-eng": "İngilizce",
     "lang-name-rus": "Rusça",
     "lang-name-ger": "German",
+    "lang-name-turkish": "Turkish",
     "lang-name-chinese": "Çince (basitleştirilmiş)",
     "timezone-info": "(UTC+{{@offset}}) {{@country}}",
     "you-started-using-real-wallet": "Gerçek bir hesap kullanmaya başladınız",

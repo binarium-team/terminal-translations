@@ -408,7 +408,7 @@
     "asset-type-currency": "Währung",
     "asset-type-crypto": "Krypto",
     "asset-type-goods": "Waren",
-    "cashbox-withdrawal-info": "Processing the application will take some time. Please note that we do not freeze the account until the payment is complete so that you could continue trading\n",
+    "cashbox-withdrawal-info": "Die Antragsbearbeitung nimmt einige Zeit in Anspruch. Bitte beachten Sie, dass wir das Konto bis zum Zahlungsabschluss nicht einfrieren, sodass wir weiter handeln können\n",
     "expiration-caption-16": "Binnen 24 Stunden",
     "expiration-caption-15": "Am Tagesende",
     "trends": "Trends",

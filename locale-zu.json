@@ -461,5 +461,12 @@
 	"trading-room-entering-time": "crwdns22044:0crwdne22044:0",
 	"trading-room-expiration": "crwdns22045:0crwdne22045:0",
 	"trading-room-strength": "crwdns22046:0crwdne22046:0",
-	"trading-room-strike-price": "crwdns22047:0crwdne22047:0"
+	"trading-room-strike-price": "crwdns22047:0crwdne22047:0",
+	"demo-stats-banner-header-caption": "crwdns22313:0crwdne22313:0",
+	"demo-stats-banner-you-earned-on-demo": "crwdns22314:0crwdne22314:0",
+	"demo-stats-banner-total-deals-amount": "crwdns22315:0crwdne22315:0",
+	"demo-stats-banner-successfull-deals-percentage": "crwdns22316:0crwdne22316:0",
+	"demo-stats-banner-real-account-opening-request": "crwdns22317:0crwdne22317:0",
+	"demo-stats-banner-open-real-account-button-caption": "crwdns22318:0crwdne22318:0",
+	"demo-stats-banner-keep-trading-on-demo": "crwdns22319:0crwdne22319:0"
 }

@@ -468,5 +468,44 @@
 	"demo-stats-banner-successfull-deals-percentage": "Percentage of successful trades",
 	"demo-stats-banner-real-account-opening-request": "Open a real account, and you will be able to withdraw the income you earned",
 	"demo-stats-banner-open-real-account-button-caption": "Open a real account",
-	"demo-stats-banner-keep-trading-on-demo": "Continue trading with a demo account"
+	"demo-stats-banner-keep-trading-on-demo": "Continue trading with a demo account",
+	"tour-next-button-caption": "Далее",
+	"tour-reading-duration-caption": "Чтение 4 мин.",
+	"tour-slides-steps-count": "Шаг {{@currentSlide}} из {{@totalSlidesCount}}",
+	"tour-slide-0-caption": "Добро пожаловать на торговую платформу Binarium",
+	"tour-slide-0-content": "Эта краткая демонстрация познакомит вас с принципами торговли и интерфейсом платформы Binarium.",
+	"tour-slide-0-extra-info": "Прочитайте все карточки для более эффективной торговли на платформе.",
+	"tour-slide-1-caption": "Как можно зарабатывать с помощью платформы?",
+	"tour-slide-1-content": "<span class=\"bold\">Торговая платформа позволяет заключать сделки</span> в виде краткосрочных инвестиций в финансовые активы: валютные пары, криптовалюты, товары и другие финансовые инструменты.",
+	"tour-slide-2-caption": "Какой основной принцип сделки?",
+	"tour-slide-2-content-a": "<span class=\"bold\">Сделка — это прогноз изменения цены финансового актива</span> в заданный временной период на <span class=\"green\">повышение</span> или <span class=\"red\">понижение.</span>",
+	"tour-slide-2-content-b": "<span class=\"bold\">Если прогноз оказался верным, вы получаете вознаграждение</span>, в ином случае вы теряете все инвестированные вами средства.",
+	"tour-slide-3-caption": "Как заключать сделки на платформе Binarium?",
+	"tour-slide-3-content": "<span class=\"bold\">Выберите актив</span>, движение курса которого вы хотите спрогнозировать.",
+	"tour-slide-4-caption": "Как заключать сделки  на платформе Binarium?",
+	"tour-slide-4-content": "<span class=\"bold\">Задайте размер инвестиции.</span>",
+	"tour-slide-5-caption": "Как заключать сделки  на платформе Binarium?",
+	"tour-slide-5-content": "<span class=\"bold\">Откройте сделку</span>, сделав прогноз, куда будет двигаться цена — <span class=\"green\">вверх</span> или <span class=\"red\">вниз</span>. Дождитесь закрытия сделки.",
+	"tour-slide-6-caption": "Удачной торговли  на платформе Binarium",
+	"tour-slide-6-additional-caption": "В случае успешного прогноза прибыль автоматически зачисляется на ваш торговый счет.",
+	"tour-slide-6-a-trading-rules": "Торговые условия",
+	"tour-slide-6-a-card-0-caption": "Размер вознаграждения за успешный прогноз:",
+	"tour-slide-6-a-card-0-content": "<span class=\"big\">До 90%</span> от суммы инвестиции",
+	"tour-slide-6-a-card-1-caption": "Размер депозита  для торговли:",
+	"tour-slide-6-a-card-1-content": "<span class=\"big\">от {{@minWithdrawal}}</span>",
+	"tour-slide-6-a-card-2-caption": "Среднее время вывода средств:",
+	"tour-slide-6-a-card-2-content": "<span class=\"big\">30</span> минут",
+	"tour-slide-6-a-card-3-caption": "Для начала торговли внесите депозит на реальный счет",
+	"tour-slide-6-a-card-3-button-caption": "Внести депозит и торговать",
+	"tour-slide-6-a-dont-show-again": "Больше не показывать тур по платформе",
+	"tour-slide-6-b-trading-rules": "Торговые условия",
+	"tour-slide-6-b-card-0-caption": "Размер вознаграждения за успешный прогноз:",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">До 90%</span> от суммы инвестиции",
+	"tour-slide-6-b-card-1-caption": "Размер депозита  для торговли:",
+	"tour-slide-6-b-card-1-content": "<span class=\"big\">от {{@minWithdrawal}}</span>",
+	"tour-slide-6-b-card-2-caption": "Среднее время вывода средств:",
+	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> минут",
+	"tour-slide-6-b-card-3-caption": "Учитесь торговать без риска с помощью демо-счета",
+	"tour-slide-6-b-card-3-button-caption": "Торговать на демо-счете",
+	"tour-slide-6-b-dont-show-again": "Больше не показывать тур по платформе"
 }

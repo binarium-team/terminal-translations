@@ -461,12 +461,5 @@
 	"trading-room-entering-time": "Zeitangabe",
 	"trading-room-expiration": "Ablaufzeitpunkt",
 	"trading-room-strength": "Stärke",
-	"trading-room-strike-price": "Basispreis",
-	"demo-stats-banner-header-caption": "Отлично!",
-	"demo-stats-banner-you-earned-on-demo": "Вы заработали на демо счёте",
-	"demo-stats-banner-total-deals-amount": "Всего сделок",
-	"demo-stats-banner-successfull-deals-percentage": "Процент успешных сделок",
-	"demo-stats-banner-real-account-opening-request": "Откройте реальный счёт и ваш заработанный доход можно будет выводить",
-	"demo-stats-banner-open-real-account-button-caption": "Открыть реальный счёт",
-	"demo-stats-banner-keep-trading-on-demo": "Остаться торговать на демо счёте"
+	"trading-room-strike-price": "Basispreis"
 }

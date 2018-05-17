@@ -57,3 +57,7 @@ any()
 "33 сделки"; 
 "12 сделок";
 ```
+
+
+
+Создал: [sanyabeast](http://github.com/sanyabeast)

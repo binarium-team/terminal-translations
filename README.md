@@ -58,6 +58,5 @@ any()
 "12 сделок";
 ```
 
-
-
+### Дополнительная информация
 Создал: [sanyabeast](http://github.com/sanyabeast)

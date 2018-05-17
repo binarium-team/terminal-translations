@@ -1,4 +1,5 @@
 {
+	"@PLURAL": "any()#equals(or(0, 1))",
 	"dearUser": "Sayın Kullanıcı!",
 	"error": "Hata",
 	"settings": "Ayarlar",

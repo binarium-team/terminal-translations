@@ -1,4 +1,5 @@
 {
+	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
 	"dearUser": "Dear User!",
 	"error": "Error",
 	"settings": "Settings",
@@ -469,6 +470,10 @@
 	"demo-stats-banner-real-account-opening-request": "Open a real account, and you will be able to withdraw the income you earned",
 	"demo-stats-banner-open-real-account-button-caption": "Open a real account",
 	"demo-stats-banner-keep-trading-on-demo": "Continue trading with a demo account",
+	"demo-stats-banner-you-have-done": "Вы совершили",
+	"demo-stats-banner-you-have-trades-closed-in-a-row": "#{сделку@сделки@сделок?count} подряд",
+	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "#{прибыльную@прибыльных@прибыльных?count} #{сделку@сделки@сделок?count} подряд",
+	"demo-stats-banner-earning-on-demo-account": "Заработок на демо-счёте",
 	"tour-next-button-caption": "Далее",
 	"tour-reading-duration-caption": "Чтение 4 мин.",
 	"tour-slides-steps-count": "Шаг {{@currentSlide}} из {{@totalSlidesCount}}",

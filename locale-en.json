@@ -479,7 +479,7 @@
 	"tour-slides-steps-count": "Step {{@currentSlide}} of {{@totalSlidesCount}}",
 	"tour-slide-0-caption": "Welcome to the Binarium trading platform",
 	"tour-slide-0-content": "This brief demonstration will introduce you to the basic principles of trading and the Binarium platform interface.",
-	"tour-slide-0-extra-info": "Read through all of the cards to learn how to trade more effectively on the platform. ",
+	"tour-slide-0-extra-info": "Read through all of the cards to learn how to trade more effectively on the platform.",
 	"tour-slide-1-caption": "How do you earn money on the platform?",
 	"tour-slide-1-content": "<span class=\"bold\">The trading platform allows you to place trades</span> by making short-term investments in financial assets: forex currency pairs, cryptocurrencies, commodities, and other financial instruments.",
 	"tour-slide-2-caption": "What is the basic principle behind making a trade?",

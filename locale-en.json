@@ -1,5 +1,5 @@
 {
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
+	"@PLURAL" : "any()#equals(1)",
 	"dearUser": "Dear User!",
 	"error": "Error",
 	"settings": "Settings",

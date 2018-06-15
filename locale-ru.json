@@ -34,7 +34,7 @@
 	"trading-history": "История торговли",
 	"section-under-construction": "Раздел находится в разработке",
 	"count-purchase": "{{@count}} сделок",
-	"count-purchases": "{{@count}} сделка",
+	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
 	"cancel": "Отменить",
 	"apply": "Применить",
 	"period": "Период",

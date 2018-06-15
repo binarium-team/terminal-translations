@@ -34,7 +34,7 @@
 	"trading-history": "Trading history",
 	"section-under-construction": "This section is under construction",
 	"count-purchase": "{{@count}} trade",
-	"count-purchases": "{{@count}} trades",
+	"count-purchases": "{{@count}} #{trades@trade?count}",
 	"cancel": "Cancel",
 	"apply": "Apply",
 	"period": "Period",

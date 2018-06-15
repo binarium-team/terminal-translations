@@ -34,7 +34,7 @@
 	"trading-history": "Ticaret geçmişi",
 	"section-under-construction": "Bu bölüm yapım aşamasındadır",
 	"count-purchase": "{{@count}} ticaret",
-	"count-purchases": "{{@count}} ticaret",
+	"count-purchases": "{{@count}} #{trades@trade?count}",
 	"cancel": "İptal",
 	"apply": "Uygula",
 	"period": "Dönem",

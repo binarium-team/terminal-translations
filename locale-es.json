@@ -1,5 +1,5 @@
 {
-	"@PLURAL": "any()#equals(1)",
+	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
 	"dearUser": "Dear User!",
 	"error": "Error",
 	"settings": "Settings",
@@ -178,6 +178,9 @@
 	"tournament-option-type-turbo": "Turbo",
 	"tournament-option-type-binary": "Binary",
 	"tournament-option-type-both": "Both",
+	"tournament-winning-rules": "Побеждает трейдер с наибольшим балансом на момент завершения турнира.",
+	"available-assets": "Доступные активы",
+	"available-options": "Доступные типы сделок",
 	"cashbox-plus-bonus": "+ bonus {{@value}}",
 	"cashbox-input": "Deposit",
 	"cashbox-output": "Withdrawal",

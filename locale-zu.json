@@ -1,5 +1,5 @@
 {
-	"@PLURAL": "crwdns23140:0crwdne23140:0",
+	"@PLURAL": "crwdns24832:0crwdne24832:0",
 	"dearUser": "crwdns21601:0crwdne21601:0",
 	"error": "crwdns21602:0crwdne21602:0",
 	"settings": "crwdns21603:0crwdne21603:0",
@@ -178,6 +178,9 @@
 	"tournament-option-type-turbo": "crwdns22326:0crwdne22326:0",
 	"tournament-option-type-binary": "crwdns22327:0crwdne22327:0",
 	"tournament-option-type-both": "crwdns22328:0crwdne22328:0",
+	"tournament-winning-rules": "crwdns24833:0crwdne24833:0",
+	"available-assets": "crwdns24834:0crwdne24834:0",
+	"available-options": "crwdns24835:0crwdne24835:0",
 	"cashbox-plus-bonus": "crwdns21769:0crwdne21769:0",
 	"cashbox-input": "crwdns21770:0crwdne21770:0",
 	"cashbox-output": "crwdns21771:0crwdne21771:0",

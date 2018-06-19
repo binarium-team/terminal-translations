@@ -34,7 +34,7 @@
 	"trading-history": "История торговли",
 	"section-under-construction": "Раздел находится в разработке",
 	"count-purchase": "{{@count}} сделок",
-	"count-purchases": "{{@count}} сделка",
+	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
 	"cancel": "Отменить",
 	"apply": "Применить",
 	"period": "Период",
@@ -179,6 +179,9 @@
 	"tournament-option-type-turbo" : "Турбо",
 	"tournament-option-type-binary" : "Бинарный",
 	"tournament-option-type-both" : "Оба",
+	"tournament-winning-rules": "Побеждает трейдер с наибольшим балансом на момент завершения турнира.",
+	"available-assets": "Доступные активы",
+	"available-options": "Доступные типы сделок",
 
 	"cashbox-plus-bonus": "+ бонус {{@value}}",
 	"cashbox-input": "Пополнение",

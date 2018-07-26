@@ -246,7 +246,7 @@
 	"stoch-oversell-value": "การขายมากเกินไป",
 	"stoch-oversell-line-width": "การขายมากเกินไป - ความกว้าง",
 	"stoch-oversell-line-color": "การขายมากเกินไป - สี",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "This value is not valid",
+	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "ค่านี้ไม่ถูกต้อง",
 	"889954f14a3839c141bd8d5102094fbb": "This value is already used",
 	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "This value is not a valid email address",
 	"bf447c1c-0266-4e10-9c6c-573df282e413": "This value is not a valid email address",

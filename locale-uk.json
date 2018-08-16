@@ -167,7 +167,7 @@
 	"reg-in-tournament-for": "Прийняти участь у турнирі {{@price}}",
 	"choose-tournament-to-see-info": "Виберіть турнір, щоб побачити тут докладну інформацію про нього",
 	"has-reged-in-tournament": "Ви вже у турнірі",
-	"wait-for-reg-in-tournament": "Запит на реєстрацію відправлено",
+	"wait-for-reg-in-tournament": "Заявку на реєстрацію відправлено",
 	"prize-places-low": "{{@count}} призових місць",
 	"starting-balance": "Стартовий баланс",
 	"min-deal-size": "Мінімальна угода",

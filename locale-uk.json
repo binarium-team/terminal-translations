@@ -1,6 +1,6 @@
 {
 	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Шановний відвідувач!",
+	"dearUser": "Шановний користувач!",
 	"error": "Помилка",
 	"settings": "Налаштування",
 	"regionalSettings": "Регіональні параметри",
@@ -24,8 +24,8 @@
 	"count-charts": "{{@count}} графіків",
 	"one-chart": "1 графік",
 	"two-charts": "2 графіка",
-	"three-charts": "3 графіка",
-	"four-charts": "4 графіка",
+	"three-charts": "3 графіки",
+	"four-charts": "4 графіки",
 	"refill": "Поповнити",
 	"history": "Історія",
 	"cashbox": "Каса",

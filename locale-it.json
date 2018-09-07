@@ -238,7 +238,7 @@
 	"tment-just-started": "\"{{@name}}\" è appena iniziato",
 	"tment-just-created": "\"{{@name}}\" è stato appena creato",
 	"read-more": "Per saperne di più",
-	"history-is-empty": "Non hai nessuna offerta scaduta",
+	"history-is-empty": "Non hai nessuna trattativa scaduta",
 	"tournaments-current-is-empty": "Nessun concorso corrente",
 	"tournaments-future-is-empty": "Nessun concorso futuro",
 	"tournaments-ended-is-empty": "Nessun concorso terminato",

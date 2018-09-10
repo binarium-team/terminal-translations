@@ -339,6 +339,7 @@
 	"wrong-promocode-only-for-first-deposit": "Доступний тільки для першого депозиту",
 	"fill-user-wrong-phone": "Невірний номер телефону",
 	"fill-user-wrong-card": "Невірний номер картки",
+	"fill-user-wrong-customer_purse": "Некорректный номер кошелька",
 	"please-rotate-device": "Для зручного користування терміналом, будь ласка, переверніть пристрій.",
 	"swipe-up-to-enter-fs": "Для входу в режим повного екрану, потягніть пальцем вгору",
 	"reconnect": "Перепідключити",
@@ -519,5 +520,6 @@
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> хвилин",
 	"tour-slide-6-b-card-3-caption": "Навчайтеся торгувати без ризику за допомогою демо-рахунку",
 	"tour-slide-6-b-card-3-button-caption": "Торгувати на демо-рахунку",
-	"tour-slide-6-b-dont-show-again": "Більше не показувати тур по платформі"
+	"tour-slide-6-b-dont-show-again": "Більше не показувати тур по платформі",
+	"user-terms-caption": "Торговля в один клик"
 }

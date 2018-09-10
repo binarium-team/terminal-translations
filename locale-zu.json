@@ -339,6 +339,7 @@
 	"wrong-promocode-only-for-first-deposit": "crwdns22334:0crwdne22334:0",
 	"fill-user-wrong-phone": "crwdns21915:0crwdne21915:0",
 	"fill-user-wrong-card": "crwdns21916:0crwdne21916:0",
+	"fill-user-wrong-customer_purse": "crwdns25717:0crwdne25717:0",
 	"please-rotate-device": "crwdns21917:0crwdne21917:0",
 	"swipe-up-to-enter-fs": "crwdns21918:0crwdne21918:0",
 	"reconnect": "crwdns21919:0crwdne21919:0",
@@ -521,5 +522,6 @@
 	"tour-slide-6-b-card-2-content": "crwdns23245:0crwdne23245:0",
 	"tour-slide-6-b-card-3-caption": "crwdns23246:0crwdne23246:0",
 	"tour-slide-6-b-card-3-button-caption": "crwdns23247:0crwdne23247:0",
-	"tour-slide-6-b-dont-show-again": "crwdns23248:0crwdne23248:0"
+	"tour-slide-6-b-dont-show-again": "crwdns23248:0crwdne23248:0",
+	"user-terms-caption": "crwdns25718:0crwdne25718:0"
 }

@@ -339,6 +339,7 @@
 	"wrong-promocode-only-for-first-deposit": "Available only for the first deposit",
 	"fill-user-wrong-phone": "Invalid phone number",
 	"fill-user-wrong-card": "Invalid card number",
+	"fill-user-wrong-customer_purse": "Некорректный номер кошелька",
 	"please-rotate-device": "Please rotate your device",
 	"swipe-up-to-enter-fs": "Swipe up to enter fullscreen mode",
 	"reconnect": "Reconnect",
@@ -519,5 +520,6 @@
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> minutes",
 	"tour-slide-6-b-card-3-caption": "Learn how to trade without risk using a demo account",
 	"tour-slide-6-b-card-3-button-caption": "Trade using a demo account",
-	"tour-slide-6-b-dont-show-again": "Dismiss the platform tour"
+	"tour-slide-6-b-dont-show-again": "Dismiss the platform tour",
+	"user-terms-caption": "Торговля в один клик"
 }

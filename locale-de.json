@@ -339,6 +339,7 @@
 	"wrong-promocode-only-for-first-deposit": "Nur für die erste Einzahlung verfügbar",
 	"fill-user-wrong-phone": "Ungültige Telefonnummer",
 	"fill-user-wrong-card": "Ungültige Kartennummer",
+	"fill-user-wrong-customer_purse": "Invalid customer purse",
 	"please-rotate-device": "Bitte drehen Sie Ihr Gerät",
 	"swipe-up-to-enter-fs": "Wischen Sie nach oben, um in den Vollbildschirm zu wechseln",
 	"reconnect": "Erneut anschließen",
@@ -521,5 +522,6 @@
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> Minuten",
 	"tour-slide-6-b-card-3-caption": "Lernen Sie mit einem Demo-Konto ohne Risiko zu handeln",
 	"tour-slide-6-b-card-3-button-caption": "Handel mit Demo-Konto",
-	"tour-slide-6-b-dont-show-again": "Plattform-Tour überspringen"
+	"tour-slide-6-b-dont-show-again": "Plattform-Tour überspringen",
+	"user-terms-caption": "One Click Trade"
 }

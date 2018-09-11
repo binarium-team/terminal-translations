@@ -523,5 +523,13 @@
 	"tour-slide-6-b-card-3-caption": "Learn how to trade without risk using a demo account",
 	"tour-slide-6-b-card-3-button-caption": "Trade using a demo account",
 	"tour-slide-6-b-dont-show-again": "Dismiss the platform tour",
-	"user-terms-caption" : "One Click Trade"
+	"user-terms-caption" : "One Click Trade",
+	
+	"what-is-trading-room" : "What is a trading room?",
+	"what-is-trading-room-advice-content" : "A trading room is a useful tool that lets you copy the trades of the best traders on the platform in one click. You can use this tool to save time and make your trading more efficient.",
+
+	"not-enough-money-for-trading-room-detailed" : "Trade and earn with the best traders on the Binarium platform by using the trading room. Add up to {{@minBalance}} to your real balance and get the following advantages:",
+	"get-access-to-trading-room"				 : "Get access to the trading room",
+	"trading-room-features-one" 				 : "Track the deals of the platform’s most successful traders",
+	"trading-room-features-two" 				 : "Duplicate deals and make a profit"
 }

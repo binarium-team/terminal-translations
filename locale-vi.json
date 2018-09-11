@@ -421,7 +421,7 @@
 	"requisite-name-phone": "Điện thoại",
 	"requisite-name-customer_purse": "Ví khách hàng",
 	"withdrawal-request-sent": "Yêu cầu đã được đặt trong hàng đợi",
-	"withdrawal-request-sent-extra-info": "Trạng thái của yêu cầu có thể được theo dõi trong phần “Lịch sử giao dịch”",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

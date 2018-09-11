@@ -421,7 +421,7 @@
 	"requisite-name-phone": "Telefono",
 	"requisite-name-customer_purse": "Portafogli del cliente",
 	"withdrawal-request-sent": "La richiesta è stata messa in coda",
-	"withdrawal-request-sent-extra-info": "Lo stato della richiesta può essere monitorato nella sezione \"Cronologia transazioni\"",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

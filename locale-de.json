@@ -421,7 +421,7 @@
 	"requisite-name-phone": "Telefon",
 	"requisite-name-customer_purse": "Kunden-Geldbörse",
 	"withdrawal-request-sent": "Die Anforderung wird in die Warteschlange gelegt",
-	"withdrawal-request-sent-extra-info": "Der Status der Anfrage kann im Bereich \"Transaktionsverlauf\" verfolgt werden\"",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

@@ -421,7 +421,7 @@
 	"requisite-name-phone": "Telefon",
 	"requisite-name-customer_purse": "Müşteri cüzdanı",
 	"withdrawal-request-sent": "Talep sıraya kondu",
-	"withdrawal-request-sent-extra-info": "Talebin durumunu \"İşlem geçmişi\" kısmından takip edebilirsiniz\"",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

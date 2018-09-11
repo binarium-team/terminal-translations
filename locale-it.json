@@ -339,7 +339,7 @@
 	"wrong-promocode-only-for-first-deposit": "Disponibile solo per il primo deposito",
 	"fill-user-wrong-phone": "Numero di telefono non valido",
 	"fill-user-wrong-card": "Numero carta non valido",
-	"fill-user-wrong-customer_purse": "Invalid customer purse",
+	"fill-user-wrong-customer_purse": "Portafoglio cliente non valido",
 	"please-rotate-device": "Ruota il dispositivo",
 	"swipe-up-to-enter-fs": "Scorri verso l'alto per accedere alla modalità a schermo intero",
 	"reconnect": "Riconnetti",
@@ -523,5 +523,5 @@
 	"tour-slide-6-b-card-3-caption": "Scopri come commerciare senza rischi usando un conto demo",
 	"tour-slide-6-b-card-3-button-caption": "Commercia usando un conto demo",
 	"tour-slide-6-b-dont-show-again": "Ignora la visita della piattaforma",
-	"user-terms-caption": "One Click Trade"
+	"user-terms-caption": "Trading in un clic"
 }

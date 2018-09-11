@@ -421,7 +421,7 @@
 	"requisite-name-phone": "โทรศัพท์",
 	"requisite-name-customer_purse": "กระเป๋าสตางค์ลูกค้า",
 	"withdrawal-request-sent": "คำร้องขอได้รับการนำเข้าคิวแล้ว",
-	"withdrawal-request-sent-extra-info": "สถานะของคำร้องขอ สามารถติดตามได้ในส่วน “ประวัติธุรกรรม”",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

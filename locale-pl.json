@@ -421,7 +421,7 @@
 	"requisite-name-phone": "Phone",
 	"requisite-name-customer_purse": "Customer purse",
 	"withdrawal-request-sent": "The request is placed in the queue",
-	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history” section”",
+	"withdrawal-request-sent-extra-info": "The status of the request can be tracked in the “Transaction history section”",
 	"withdrawal-method-qiwi_ecom": "Qiwi",
 	"withdrawal-method-qiwi": "Qiwi",
 	"withdrawal-method-yandex_money": "Yandex Money",

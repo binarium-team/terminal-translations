@@ -34,7 +34,7 @@
 	"trading-history": "Lịch sử giao dịch",
 	"section-under-construction": "Phần này đang được xây dựng",
 	"count-purchase": "{{@count}} giao dịch",
-	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
+	"count-purchases": "{{@count}} #{giao dịch@giao dịch@giao dịch?count}",
 	"cancel": "Hủy bỏ",
 	"apply": "Áp dụng",
 	"period": "Thời gian",

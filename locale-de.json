@@ -34,7 +34,7 @@
 	"trading-history": "Handelsverlauf",
 	"section-under-construction": "Dieser Abschnitt wird überarbeitet",
 	"count-purchase": "{{@count}} Handelsaktivität",
-	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
+	"count-purchases": "{{@count}} #{Handelsaktivität@Handelsaktivität@Handelsaktivität?count}",
 	"cancel": "Abbrechen",
 	"apply": "Anwenden",
 	"period": "Zeitraum",

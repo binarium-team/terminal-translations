@@ -34,7 +34,7 @@
 	"trading-history": "ประวัติการซื้อขาย",
 	"section-under-construction": "ส่วนนี้กำลังสร้าง",
 	"count-purchase": "{{@count}} การซื้อขาย",
-	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
+	"count-purchases": "{{@count}} #{การซื้อขาย@การซื้อขาย@การซื้อขาย?count}",
 	"cancel": "ยกเลิก",
 	"apply": "นำไปใช้",
 	"period": "รอบระยะเวลา",

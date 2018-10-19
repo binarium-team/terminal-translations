@@ -507,7 +507,7 @@
 	"tour-slide-6-a-card-0-content": "<span class=\"big\">До 90%</span> від суми інвестиції",
 	"tour-slide-6-a-card-1-caption": "Розмір депозиту для торгівлі:",
 	"tour-slide-6-a-card-1-content": "<span class=\"big\">від {{@minWithdrawal}}</span>",
-	"tour-slide-6-a-card-2-caption": "Середній час виведення коштів:",
+	"tour-slide-6-a-card-2-caption": "Среднее время  вывода средств:",
 	"tour-slide-6-a-card-2-content": "<span class=\"big\">30</span> хвилин",
 	"tour-slide-6-a-card-3-caption": "Для початку торгівлі внесіть депозит на реальний рахунок",
 	"tour-slide-6-a-card-3-button-caption": "Внести депозит і торгувати",
@@ -517,7 +517,7 @@
 	"tour-slide-6-b-card-0-content": "<span class=\"big\">До 90%</span> від суми інвестиції",
 	"tour-slide-6-b-card-1-caption": "Розмір депозиту для торгівлі:",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">від {{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "Середній час виведення коштів:",
+	"tour-slide-6-b-card-2-caption": "Среднее время  вывода средств:",
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> хвилин",
 	"tour-slide-6-b-card-3-caption": "Навчайтеся торгувати без ризику за допомогою демо-рахунку",
 	"tour-slide-6-b-card-3-button-caption": "Торгувати на демо-рахунку",

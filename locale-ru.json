@@ -150,6 +150,7 @@
 	"lang-name-locale-uk": "Украинский",
 	"lang-name-locale-th": "Тайский",
 	"lang-name-locale-it": "Итальянский",
+	"lang-name-locale-pl": "Польский",
 	"lang-name-chinese": "Китайский (упрощенный)",
 	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
 	"you-started-using-real-wallet": "Вы начали использовать реальный счёт",

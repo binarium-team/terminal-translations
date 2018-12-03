@@ -445,7 +445,7 @@
 	"trends-is-empty": "Trends is being updated",
 	"what-are-trends": "What are trends?",
 	"what-are-trends-advice-content": "Trends are a special trading tool that allows you to quickly find an asset with a pronounced price direction and open a trade in the direction of the trend.",
-	"not-enough-money-for-trends-detailed": "A unique trading tool from Binarium is available for customers with a real balance over {{@balance}}. The trends`s section opens the following possibilities:",
+	"not-enough-money-for-trends-detailed": "A unique trading tool from Binarium is available for customers with a real balance over {{@balance}}. The trends's section opens the following possibilities:",
 	"get-access-to-trends": "Get access to trends",
 	"trends-features-one": "Tracking all active trends in the market at the moment",
 	"trends-features-two": "Immediate opening of the trade in the direction of the trend movement",

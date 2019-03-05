@@ -187,6 +187,7 @@
 	"tournament-winning-rules": "Trader with the highest balance at the end of the tournament is the winner.",
 	"available-assets": "Available assets",
 	"available-options": "Available types of transactions",
+	"greeting": "Добро пожаловать",
 	"cashbox-plus-bonus": "+ bonus {{@value}}",
 	"cashbox-input": "Deposit",
 	"cashbox-output": "Withdrawal",

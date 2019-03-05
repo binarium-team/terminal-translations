@@ -187,6 +187,7 @@
 	"tournament-winning-rules": "Перемегає трейдер з найбільшим балансом на момент завершення турніру.",
 	"available-assets": "Доступні активи",
 	"available-options": "Доступні типи угод",
+	"greeting": "Добро пожаловать",
 	"cashbox-plus-bonus": "+ бонус {{@value}}",
 	"cashbox-input": "Поповнення",
 	"cashbox-output": "Виведення коштів",

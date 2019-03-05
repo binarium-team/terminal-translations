@@ -188,7 +188,7 @@
 	"tournament-winning-rules": "Побеждает трейдер с наибольшим балансом на момент завершения турнира.",
 	"available-assets": "Доступные активы",
 	"available-options": "Доступные типы сделок",
-
+	"greeting": "Добро пожаловать",
 	"cashbox-plus-bonus": "+ бонус {{@value}}",
 	"cashbox-input": "Пополнение",
 	"cashbox-output": "Вывод средств",

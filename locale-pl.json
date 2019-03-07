@@ -529,8 +529,8 @@
 	"tour-slide-6-b-dont-show-again": "Zamknij samouczek platformy",
 	"user-terms-caption": "Handel jednym kliknięciem",
 	"what-is-trading-room": "Co to jest trading room?",
-	"what-is-trading-room-advice-content": "Trading room jest poręcznym narzędziem, które pozwala jednym kliknięciem kopiować transakcje najlepszych handlowców platformy. Za pomocą tego można zwiększyć efektywność handlu i zaoszczędzić czas.",
-	"not-enough-money-for-trading-room-detailed": "Handluj i zarabiaj z najlepszymi handlowcami platformy Binarium z pomocą trading roomu. Uzupełnij swój faktyczny bilans do {{@minBalance}} i uzyskaj następujące korzyści:",
+	"what-is-trading-room-advice-content": "Trading room jest poręcznym narzędziem, które pozwala jednym kliknięciem kopiować transakcje najlepszych traderów platformy. Za pomocą tego narzędzia można zwiększyć efektywność handlu i zaoszczędzić czas.",
+	"not-enough-money-for-trading-room-detailed": "Handluj i zarabiaj z najlepszymi traderami platformy Binarium z pomocą trading roomu. Uzupełnij swój faktyczny bilans do {{@minBalance}} i uzyskaj następujące korzyści:",
 	"get-access-to-trading-room": "Uzyskaj dostęp do trading roomu",
 	"trading-room-features-one": "Śledź transakcje najlepszego tradera platformy",
 	"trading-room-features-two": "Kopiuj transakcje i zarabiaj"

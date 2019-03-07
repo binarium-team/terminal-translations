@@ -522,16 +522,16 @@
 	"tour-slide-6-b-card-0-content": "<span class=\"big\">Do 90%</span> kwoty inwestycji",
 	"tour-slide-6-b-card-1-caption": "Minimalna wpłata na trading:",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "Average time  needed to withdraw funds:",
+	"tour-slide-6-b-card-2-caption": "Średni czas\n potrzebny do wypłaty środków:",
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> minut",
 	"tour-slide-6-b-card-3-caption": "Dowiedz się jak handlować bez ryzyka, korzystając z konta demo",
 	"tour-slide-6-b-card-3-button-caption": "Dokonuj transakcji za pomocą konta demo",
 	"tour-slide-6-b-dont-show-again": "Zamknij samouczek platformy",
-	"user-terms-caption": "Trade in one click",
-	"what-is-trading-room": "What is a trading room?",
-	"what-is-trading-room-advice-content": "A trading room is a handy tool that allows you to copy transactions of the best traders of the platform in one click. Using this tool you will increase the efficiency of your trade and save time.",
-	"not-enough-money-for-trading-room-detailed": "Trade and earn with the best traders of the Binarium platform with the help of a trading room. Top up your real balance to {{@minBalance}} and get the following benefits:",
-	"get-access-to-trading-room": "Get access to the trading room",
-	"trading-room-features-one": "Keep an eye out for transactions of the most successful trader of the platform",
-	"trading-room-features-two": "Copy transactions and make profit"
+	"user-terms-caption": "Handel jednym kliknięciem",
+	"what-is-trading-room": "Co to jest trading room?",
+	"what-is-trading-room-advice-content": "Trading room jest poręcznym narzędziem, które pozwala jednym kliknięciem kopiować transakcje najlepszych handlowców platformy. Za pomocą tego można zwiększyć efektywność handlu i zaoszczędzić czas.",
+	"not-enough-money-for-trading-room-detailed": "Handluj i zarabiaj z najlepszymi handlowcami platformy Binarium z pomocą trading roomu. Uzupełnij swój faktyczny bilans do {{@minBalance}} i uzyskaj następujące korzyści:",
+	"get-access-to-trading-room": "Uzyskaj dostęp do trading roomu",
+	"trading-room-features-one": "Śledź transakcje najlepszego tradera platformy",
+	"trading-room-features-two": "Kopiuj transakcje i zarabiaj"
 }

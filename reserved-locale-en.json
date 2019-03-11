@@ -356,6 +356,8 @@
 	"wrong-promocode-only-for-first-deposit": "Available only for the first deposit",
 	"fill-user-wrong-phone": "Invalid phone number",
 	"fill-user-wrong-card": "Invalid card number",
+	"fill-user-wrong-name": "Invalid name",
+	"fill-user-wrong-surname": "Invalid surname",
 	"please-rotate-device": "Please rotate your device",
 	"swipe-up-to-enter-fs": "Swipe up to enter fullscreen mode",
 	"click-to-enter-fs": "Tap anywhere on the screen to switch to full-screen mode",

@@ -345,6 +345,8 @@
 	"fill-user-wrong-phone": "หมายเลขโทรศัพท์ไม่ถูกต้อง",
 	"fill-user-wrong-card": "หมายเลขบัตรไม่ถูกต้อง",
 	"fill-user-wrong-customer_purse": "หมายเลขบัญชีไม่ถูกต้อง",
+	"fill-user-wrong-name": "Некорректное имя",
+	"fill-user-wrong-surname": "Некорректная фамилия",
 	"please-rotate-device": "กรุณาหมุนอุปกรณ์ของคุณ",
 	"swipe-up-to-enter-fs": "ปัดนิ้วขึ้นเพื่อเข้าสู่โหมดเต็มหน้าจอ",
 	"click-to-enter-fs": "แตะที่ใดก็ได้บนหน้าจอ เพื่อสลับไปเป็นโหมดเต็มจอ",

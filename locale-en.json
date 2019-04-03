@@ -340,7 +340,7 @@
 	"wrong-promocode-max-sum": "Maximum deposit amount {{@sum}}",
 	"wrong-promocode-min-sum": "Minimum sum {{@sum}}",
 	"wrong-withdrawal-min-sum": "Minimum sum {{@sum}}",
-	"wrong-withdrawal-max-sum": "Максимальная сумма вывода {{@sum}}",
+	"wrong-withdrawal-max-sum": "Maximum withdrawal amount {{@sum}}",
 	"wrong-promocode-expired": "Promo code expired",
 	"wrong-promocode-only-for-second-deposit": "Available only for the second and subsequent deposits",
 	"wrong-promocode-only-for-first-deposit": "Available only for the first deposit",

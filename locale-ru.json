@@ -340,6 +340,8 @@
 	"fill-user-wrong-promocode" : "Некорректный промо код",
 	"wrong-promocode-max-sum" : "Максимальная сума депозита {{@sum}}",
 	"wrong-promocode-min-sum" : "Минимальная сума {{@sum}}",
+	"wrong-withdrawal-min-sum" : "Минимальная сума {{@sum}}",
+	"wrong-withdrawal-max-sum" : "Максимальная сума вивода {{@sum}}",
 	"wrong-promocode-expired" : "Промокод закончился",
 	"wrong-promocode-only-for-second-deposit" : "Доступен только для второго и последующих депозитов",
 	"wrong-promocode-only-for-first-deposit" : "Доступен только для первого депозита",
@@ -506,7 +508,7 @@
 	"tour-slide-2-caption" : "Какой основной принцип сделки?",
 	"tour-slide-2-content-a" : "<span class=\"bold\">Сделка — это прогноз изменения цены финансового актива</span> в заданный временной период на <span class=\"green\">повышение</span> или <span class=\"red\">понижение.</span>",
 	"tour-slide-2-content-b" : "<span class=\"bold\">Если прогноз оказался верным, вы получаете вознаграждение</span>, в ином случае вы теряете все инвестированные вами средства.",
-	
+
 	"tour-slide-3-caption" : "Как заключать сделки на платформе Binarium?",
 	"tour-slide-3-content" : "<span class=\"bold\">Выберите актив</span>, движение курса которого вы хотите спрогнозировать.",
 

@@ -339,6 +339,8 @@
 	"fill-user-wrong-promocode": "Invalid promo code",
 	"wrong-promocode-max-sum": "Maximum deposit amount {{@sum}}",
 	"wrong-promocode-min-sum": "Minimum sum {{@sum}}",
+	"wrong-withdrawal-min-sum": "Минимальная сума {{@sum}}",
+	"wrong-withdrawal-max-sum": "Максимальная сума вивода {{@sum}}",
 	"wrong-promocode-expired": "Promo code expired",
 	"wrong-promocode-only-for-second-deposit": "Available only for the second and subsequent deposits",
 	"wrong-promocode-only-for-first-deposit": "Available only for the first deposit",

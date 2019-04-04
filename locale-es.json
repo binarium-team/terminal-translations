@@ -514,7 +514,7 @@
 	"tour-slide-6-a-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment",
 	"tour-slide-6-a-card-1-caption": "Minimum deposit size for trading:",
 	"tour-slide-6-a-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-a-card-2-caption": "Average time needed to withdraw funds:",
+	"tour-slide-6-a-card-2-caption": "Average time  needed to withdraw funds:",
 	"tour-slide-6-a-card-2-content": "<span class=\"big\">30</span> minutes",
 	"tour-slide-6-a-card-3-caption": "Deposit funds into a real account in order to start trading",
 	"tour-slide-6-a-card-3-button-caption": "Deposit funds and start trading",
@@ -524,7 +524,7 @@
 	"tour-slide-6-b-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment",
 	"tour-slide-6-b-card-1-caption": "Minimum deposit size for trading:",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "Average time needed to withdraw funds:",
+	"tour-slide-6-b-card-2-caption": "Average time  needed to withdraw funds:",
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> minutes",
 	"tour-slide-6-b-card-3-caption": "Learn how to trade without risk using a demo account",
 	"tour-slide-6-b-card-3-button-caption": "Trade using a demo account",

@@ -337,6 +337,7 @@
 	"resend-confirmation-again" : "Отправить еще раз",
 	"confirmation-mail-sent" : "Письмо отправлено",
 	"banner-not-enough-funds-for-tment" : "На вашем балансе недостаточно средств. Для участия в турнире, пожалуйста, пополните счет.",
+	"tment-reenter-not-allowed" : "Вы не можете совершить докупку пока есть открытые сделки.",
 	"fill-profile-wrong-phone" : "Неверный формат номера телефона",
 	"fill-profile-wrong-name" : "Некорректное имя",
 	"fill-profile-wrong-surname" : "Некорректная фамилия",

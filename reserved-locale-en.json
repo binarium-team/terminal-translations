@@ -347,6 +347,7 @@
 	"resend-confirmation-again": "Try again",
 	"confirmation-mail-sent": "Sent",
 	"banner-not-enough-funds-for-tment": "You have insufficient funds on your account. Please top up your account to participate in the contest.",
+	"tment-reenter-not-allowed" : "Вы не можете совершить докупку пока есть открытые сделки.",
 	"fill-profile-wrong-phone": "Invalid phone number",
 	"fill-profile-wrong-name": "Invalid name",
 	"fill-profile-wrong-surname": "Invalid surname",

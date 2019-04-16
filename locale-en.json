@@ -348,6 +348,7 @@
 	"wrong-promocode-expired": "Promo code expired",
 	"wrong-promocode-only-for-second-deposit": "Available only for the second and subsequent deposits",
 	"wrong-promocode-only-for-first-deposit": "Available only for the first deposit",
+	"wrong-promocode-used": "Промокод уже использован",
 	"fill-user-wrong-phone": "Invalid phone number",
 	"fill-user-wrong-card": "Invalid card number",
 	"fill-user-wrong-customer_purse": "Invalid account number",

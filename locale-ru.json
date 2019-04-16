@@ -349,6 +349,7 @@
 	"wrong-promocode-expired" : "Промокод закончился",
 	"wrong-promocode-only-for-second-deposit" : "Доступен только для второго и последующих депозитов",
 	"wrong-promocode-only-for-first-deposit" : "Доступен только для первого депозита",
+	"wrong-promocode-used": "Промокод уже использован",
 	"fill-user-wrong-phone" : "Некорректный номер телефона",
 	"fill-user-wrong-card" : "Некорректный номер карточки",
 	"fill-user-wrong-customer_purse" : "Некорректный номер кошелька",

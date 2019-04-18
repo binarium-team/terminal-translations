@@ -44,6 +44,7 @@
 	"period": "Period",
 	"line-thickness": "Line thickness",
 	"line-color": "Line Color",
+	"line-offset": "Line Offset",
 	"top-line-thickness": "Top line thickness",
 	"mid-line-thickness": "Middle line thickness",
 	"offset": "Offset",

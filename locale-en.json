@@ -322,6 +322,7 @@
 	"start-trading": "Start trading",
 	"personal-data-safety": "Safety of personal data is guaranteed",
 	"bonus": "Bonus",
+	"new-bonus": "на счет {{@bonus}}",
 	"expires-in": "Expires in",
 	"cannot-buy-option-try-later": "Unable to open this trade, please try again later.",
 	"max-total-bet-limit-exceeded": "You have exceeded allowed trade amount.\n Allowed trade amount is {{@maxBet}}",

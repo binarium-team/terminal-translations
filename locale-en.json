@@ -385,6 +385,7 @@
 	"support": "Support",
 	"search-asset": "Search asset",
 	"error-sending-email-confirmation": "An error occurred while sending mail. Please try again later.",
+	"error-sending-email-confirmation-with-time": "Новое письмо может быть отправлено вам через {{@time}} минут. Чтобы активировать аккаунт, пожалуйста, проверьте свою почту или обратитесь в службу поддержки.",
 	"risk-free-trades": "Risk free trades",
 	"count-trades-for-bet": "{{@count}} trades for {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",
@@ -556,6 +557,7 @@
 	"what-is-trading-room-advice-content": "A trading room is a handy tool that allows you to copy transactions of the best traders of the platform in one click. Using this tool you will increase the efficiency of your trade and save time.",
 	"not-enough-money-for-trading-room-detailed": "Trade and earn with the best traders of the Binarium platform with the help of a trading room. Top up your real balance to {{@minBalance}} and get the following benefits:",
 	"get-access-to-trading-room": "Get access to the trading room",
+	"have-access-to-trading-room": "Чтобы получить доступ в «Торговую комнату» обратитесь к своему менеджеру или в службу поддержки.",
 	"trading-room-features-one": "Keep an eye out for transactions of the most successful trader of the platform",
 	"trading-room-features-two": "Copy transactions and make profit"
 }

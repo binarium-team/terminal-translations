@@ -449,6 +449,8 @@
 	"deposit-info-3": "The bonus does not limit the withdrawal of funds in any way - you can withdraw profits at any time, as well as the amount of your deposit.",
 	"withdrawal-heading": "Your application will be processed within 24 hours from the moment it is issued.",
 	"withdrawal-content": "If the application was issued outside the working hours of the company's financial department, it will be processed within the next business day.",
+    "withdrawal-restricted-heading": "Exceeded limit for withdrawal requests",
+    "withdrawal-restricted-content": "Unfortunately, we accept no more than 5 applications per day. To issue a new application, cancel the application, issued earlier. Or try again in 24 hours.",
 	"withdrawal-amount-caption": "Amount of payment",
 	"withdrawal-type-caption": "Funds withdrawal method",
 	"withdrawal-button-caption": "Withdraw funds",

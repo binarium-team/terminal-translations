@@ -385,6 +385,7 @@
 	"support": "crwdns21934:0crwdne21934:0",
 	"search-asset": "crwdns21935:0crwdne21935:0",
 	"error-sending-email-confirmation": "crwdns21936:0crwdne21936:0",
+	"error-sending-email-confirmation-with-time": "crwdns26706:0crwdne26706:0",
 	"risk-free-trades": "crwdns21937:0crwdne21937:0",
 	"count-trades-for-bet": "crwdns21938:0crwdne21938:0",
 	"count-x-bet": "crwdns26616:0crwdne26616:0",
@@ -444,6 +445,8 @@
 	"deposit-info-3": "crwdns26654:0crwdne26654:0",
 	"withdrawal-heading": "crwdns26656:0crwdne26656:0",
 	"withdrawal-content": "crwdns26658:0crwdne26658:0",
+	"withdrawal-restricted-heading": "crwdns26708:0crwdne26708:0",
+	"withdrawal-restricted-content": "crwdns26710:0crwdne26710:0",
 	"withdrawal-amount-caption": "crwdns21991:0crwdne21991:0",
 	"withdrawal-type-caption": "crwdns21992:0crwdne21992:0",
 	"withdrawal-button-caption": "crwdns21993:0crwdne21993:0",
@@ -556,6 +559,7 @@
 	"what-is-trading-room-advice-content": "crwdns26460:0crwdne26460:0",
 	"not-enough-money-for-trading-room-detailed": "crwdns26462:0crwdne26462:0",
 	"get-access-to-trading-room": "crwdns26464:0crwdne26464:0",
+	"have-access-to-trading-room": "crwdns26712:0crwdne26712:0",
 	"trading-room-features-one": "crwdns26466:0crwdne26466:0",
 	"trading-room-features-two": "crwdns26468:0crwdne26468:0"
 }

@@ -385,6 +385,7 @@
 	"support": "Destek",
 	"search-asset": "Varlık ara",
 	"error-sending-email-confirmation": "Posta gönderirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+	"error-sending-email-confirmation-with-time": "Новое письмо может быть отправлено вам через {{@time}} минут. Чтобы активировать аккаунт, пожалуйста, проверьте свою почту или обратитесь в службу поддержки.",
 	"risk-free-trades": "Risksiz ticaretler",
 	"count-trades-for-bet": "{{@count}} için ticaret oranı; {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",
@@ -444,6 +445,8 @@
 	"deposit-info-3": "Бонус никак не ограничивает вывод средств — вы в любой момент можете выводить прибыль, а также сумму вашего депозита.",
 	"withdrawal-heading": "Ваша заявка будет обработана в течение 24 часов с момента оформлен.",
 	"withdrawal-content": "В случае, если заявка была оформлена вне рабочего время финансового отдела компании, она будет обработана в течение следующего рабочего дня.",
+	"withdrawal-restricted-heading": "Превышен лимит заявок на вывод средств",
+	"withdrawal-restricted-content": "К сожалению, принимаем не более 5 заявок в день. Для оформления новой заявки, отмените заявки, оформленные ранее. Или попробуйте повторить попытку через 24 часа.",
 	"withdrawal-amount-caption": "Ödeme tutarı",
 	"withdrawal-type-caption": "Para çekme yöntemi",
 	"withdrawal-button-caption": "Para çekin",
@@ -556,6 +559,7 @@
 	"what-is-trading-room-advice-content": "Ticaret odası, tek bir tıklamayla platformun en iyi tüccarlarının işlemlerini kopyalamanıza izin veren kullanışlı bir araçtır. Bu aracı kullanarak ticaretinizin etkinliğini arttırıp zaman kazanabilirsiniz.",
 	"not-enough-money-for-trading-room-detailed": "Ticaret odası yardımıyla Binarium platformunun en iyi tüccarlarıyla ticaret yapın ve kazanın. Gerçek bakiyenizi {{@minBalance}} tutarına tamamlayın ve aşağıdaki avantajları elde edin:",
 	"get-access-to-trading-room": "Ticaret odasına erişim sahibi olun",
+	"have-access-to-trading-room": "Чтобы получить доступ в «Торговую комнату» обратитесь к своему менеджеру или в службу поддержки.",
 	"trading-room-features-one": "Platformun en başarılı tüccarının işlemlerine göz atın",
 	"trading-room-features-two": "İşlemleri kopyalayın ve kâr sağlayın"
 }

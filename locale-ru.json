@@ -35,6 +35,8 @@
 	"section-under-construction": "Раздел находится в разработке",
 	"count-purchase": "{{@count}} сделок",
 	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
+	"total-investment": "Общая инвестиция",
+	"total-payout": "Общая выплата",
 	"cancel": "Отменить",
 	"apply": "Применить",
 	"period": "Период",

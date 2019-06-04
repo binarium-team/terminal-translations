@@ -39,6 +39,8 @@
 	"section-under-construction": "This section is under construction",
 	"count-purchase": "{{@count}} trade",
 	"count-purchases": "{{@count}} #{сделка@сделки@сделок?count}",
+    "total-investment": "Total investment",
+    "total-payout": "Total payout",
 	"cancel": "Cancel",
 	"apply": "Apply",
 	"period": "Period",

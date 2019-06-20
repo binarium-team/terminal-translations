@@ -80,7 +80,7 @@
 	"signal-period-width": "Ancho del punto de señal",
 	"bars-color": "Color de la barra",
 	"bars-color-maofmacd": "MA del color de la barra MACD",
-	"smoothing-period": "Smoothing period",
+	"smoothing-period": "Período de suavizado",
 	"adx-minus-di-color": "Color -DI",
 	"adx-plus-di-color": "Color +DI",
 	"adx-line-color": "Color de la línea ADX",

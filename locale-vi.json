@@ -550,7 +550,7 @@
 	"tour-slide-6-a-dont-show-again": "Bỏ qua video hướng dẫn về nền tảng",
 	"tour-slide-6-b-trading-rules": "Điều kiện giao dịch",
 	"tour-slide-6-b-card-0-caption": "Lượng thu nhập bạn nhận được từ một dự đoán đúng:",
-	"tour-slide-6-b-card-0-content": "<span class=\\\"big\\\">Lên đến 90%</span> khoản đầu tư của bạn",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment.",
 	"tour-slide-6-b-card-1-caption": "số tiền nộp tối thiểu để giao dịch.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "thời gian trung bình cần thiết để rút tiền.",

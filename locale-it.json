@@ -550,7 +550,7 @@
 	"tour-slide-6-a-dont-show-again": "Ignora la visita della piattaforma",
 	"tour-slide-6-b-trading-rules": "Condizioni di trading",
 	"tour-slide-6-b-card-0-caption": "L'importo del guadagno che riceverai da una previsione esatta:",
-	"tour-slide-6-b-card-0-content": "<span class=\\\"big\\\">Fino al 90%</span> dell'importo del tuo investimento",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment.",
 	"tour-slide-6-b-card-1-caption": "importo minimo del deposito per il trading.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "tempo medio necessario per prelevare i fondi.",

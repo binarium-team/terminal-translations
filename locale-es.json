@@ -550,7 +550,7 @@
 	"tour-slide-6-a-dont-show-again": "Ignorar la visita introductoria a la plataforma",
 	"tour-slide-6-b-trading-rules": "Condiciones de trading",
 	"tour-slide-6-b-card-0-caption": "La cantidad de ingresos que usted recibirá al hacer una predicción exitosa:",
-	"tour-slide-6-b-card-0-content": "<span class=\\\"big\\\">Hasta un 90%</span> del monto de su inversión",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment.",
 	"tour-slide-6-b-card-1-caption": "depósito mínimo para operar.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "tiempo promedio necesario para retirar fondos.",

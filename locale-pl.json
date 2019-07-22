@@ -550,7 +550,7 @@
 	"tour-slide-6-a-dont-show-again": "Zamknij samouczek platformy",
 	"tour-slide-6-b-trading-rules": "Warunki tradingu",
 	"tour-slide-6-b-card-0-caption": "Kwota przychodu, którą otrzymasz za spełnioną prognozę:",
-	"tour-slide-6-b-card-0-content": "<span class=\\\"big\\\">Do 90%</span> kwoty inwestycji",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">Do 90%</span> kwoty inwestycji.",
 	"tour-slide-6-b-card-1-caption": "minimalna wpłata na trading.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "średni czas potrzebny do wypłaty środków.",

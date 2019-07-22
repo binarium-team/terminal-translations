@@ -550,7 +550,7 @@
 	"tour-slide-6-a-dont-show-again": "ให้การทัวร์แพลตฟอร์มออกไป",
 	"tour-slide-6-b-trading-rules": "เงื่อนไขการซื้อขาย",
 	"tour-slide-6-b-card-0-caption": "จำนวนรายได้ที่คุณจะได้รับ จากการคาดการณ์ที่ประสบความสำเร็จ:",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">Up to 90%</span> of the amount of your investment.",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">สูงสุดถึง 90%</span> ของจำนวนเงินลงทุนของคุณ.",
 	"tour-slide-6-b-card-1-caption": "ปริมาณเงินฝากขั้นต่ำสำหรับการซื้อขาย.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "เวลาเฉลี่ยที่ต้องใช้ในการถอนเงิน.",

@@ -554,7 +554,7 @@
 	"tour-slide-6-b-card-1-caption": "minimalna wpłata na trading.",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "średni czas potrzebny do wypłaty środków.",
-	"tour-slide-6-b-card-2-content": "<span class=\\\"big\\\">30</span> minut",
+	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> minutes",
 	"tour-slide-6-b-card-3-caption": "Dowiedz się jak handlować bez ryzyka, korzystając z konta demo",
 	"tour-slide-6-b-card-3-button-caption": "Trade using a demo account",
 	"tour-slide-6-b-dont-show-again": "Zamknij samouczek platformy",

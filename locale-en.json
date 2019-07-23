@@ -585,8 +585,14 @@
 	"mobile-app-profile-fill": "Заполните пустые поля и получите бонус",
 	"mobile-app-name": "Имя",
 	"mobile-app-surname": "Фамилия",
-	"mobile-app-phone": "Телефон",
+	"mobile-app-phone": "Номер телефона (с кодом страны)",
 	"mobile-app-profile-button": "Начать торговать",
 	"mobile-app-secured": "Безопасность средств в европейском банке",
-	"mobile-app-privacy": "Политика неразглашения личных данных"
+	"mobile-app-privacy": "Политика неразглашения личных данных",
+	"mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Логин или пароль введен неверно",
+	"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Обязательное поле: эл. почта",
+	"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Обязательное поле: пароль",
+	"mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email": "Указанный адрес эл. почты невалиден",
+	"mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Значение должно содержать 8 или более символов",
+	"mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Пользователь не существует"
 }

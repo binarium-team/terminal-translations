@@ -142,7 +142,7 @@
 	"count-day-short": "{{@count}} d",
 	"binary-cap": "Binarios",
 	"error-too-small-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta mínima para la moneda {{@currency}} es {{@minbet}}",
-	"error-too-big-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta máxima para la moneda {{@currency}} es {{@minbet}}",
+	"error-too-big-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta máxima para la moneda {{@currency}} es {{@maxbet}}",
 	"error-wrong-expiration": "Hora de caducidad incorrecta {{@time}}",
 	"not-enough-money": "Fondos insuficientes",
 	"option-closed-head": "Opción cerrada",

@@ -386,7 +386,7 @@
 	"support": "Soporte",
 	"search-asset": "Buscar un activo",
 	"error-sending-email-confirmation": "Se ha producido un error al enviar el correo. Por favor, inténtelo de nuevo más tarde.",
-	"error-sending-email-confirmation-with-time": "Podemos enviarle un nuevo correo electrónico en {{{@time}}} minutos. Para activar su cuenta, consulte su correo electrónico o póngase en contacto con nuestro Soporte.",
+	"error-sending-email-confirmation-with-time": "Podemos enviarle un nuevo correo electrónico en {{@time}} minutos. Para activar su cuenta, consulte su correo electrónico o póngase en contacto con nuestro Soporte.",
 	"risk-free-trades": "Operaciones sin riesgos",
 	"count-trades-for-bet": "{{@count}} operaciones para {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",

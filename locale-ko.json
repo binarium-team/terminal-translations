@@ -1,9 +1,9 @@
 {
 	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Dear User!",
-	"error": "Error",
-	"settings": "Settings",
-	"settings-2": "Terminal settings",
+	"dearUser": "안녕하세요, 사용자님!",
+	"error": "오류",
+	"settings": "설정",
+	"settings-2": "터미널 설정",
 	"regionalSettings": "Region settings",
 	"timezone": "Timezone",
 	"timezone-2": "Time Zone",

@@ -428,7 +428,7 @@
 	"refresh": "Atualizar",
 	"browser": "Navegador",
 	"make-a-deposit": "Faça um depósito",
-	"cashbox-withdrawal-info-0-header": "How can I withdraw funds from my account?",
+	"cashbox-withdrawal-info-0-header": "Como posso levantar fundos da minha conta?",
 	"cashbox-withdrawal-info-0-content": "Available options are: bank card, Qiwi/Yandex Money/WebMoney e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.",
 	"cashbox-withdrawal-info-1-header": "What is the minimum amount of money that can be withdrawn from the account?",
 	"cashbox-withdrawal-info-1-content": "Minimum withdrawal amount — ₽300 or $5 or €5. Maximum withdrawal amount for a single transaction — ₽15,000 or $200 or €200.",

@@ -368,7 +368,7 @@
 	"wrong-promocode-expired": "Expiré",
 	"wrong-promocode-only-for-second-deposit": "Disponible seulement pour le second dépôt et les suivants",
 	"wrong-promocode-only-for-first-deposit": "Disponible seulement pour le premier dépôt",
-	"wrong-promocode-used": "The promo code was already redeemed",
+	"wrong-promocode-used": "Le code promo a déjà été récupéré",
 	"fill-user-wrong-phone": "Numéro de téléphone invalide",
 	"fill-user-wrong-card": "Numéro de carte invalide",
 	"fill-user-wrong-customer_purse": "Numéro de compte invalide",

@@ -395,7 +395,7 @@
 	"support": "Assistance",
 	"search-asset": "Rechercher un actif",
 	"error-sending-email-confirmation": "Une erreur a eu lieu pendant l'envoi de l'e-mail. Merci de réessayer plus tard.",
-	"error-sending-email-confirmation-with-time": "A new e-mail can be sent to you in {{@time}} minutes. To activate your account, please check your email or contact our support service.",
+	"error-sending-email-confirmation-with-time": "Un nouvel e-mail peut vous-être envoyé dans {{@time}} minutes. Pour activer votre compte, veuillez consulter vos e-mails ou contacter notre service d'assistance.",
 	"risk-free-trades": "Risk free trades",
 	"count-trades-for-bet": "{{@count}} trades for {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",

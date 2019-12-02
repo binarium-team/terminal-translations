@@ -528,7 +528,7 @@
 	"demo-stats-banner-earning-on-demo-account": "Bénéfices dans votre compte démo",
 	"demo-stats-banner-closed-in-a-row-2": "transactions réussies",
 	"tour-next-button-caption": "Continuer",
-	"tour-reading-duration-caption": "Lecture de 4 minutes.",
+	"tour-reading-duration-caption": "4 minutes de lecture.",
 	"tour-slides-steps-count": "Étape {{@currentSlide}} de {{@totalSlidesCount}}",
 	"tour-slide-0-caption": "Bienvenue dans la plateforme de trading Binarium",
 	"tour-slide-0-content": "Cette brève démonstration vous présentera les principes de base du trading et l'interface de la plateforme Binarium.",

@@ -429,7 +429,7 @@
 	"browser": "浏览器",
 	"make-a-deposit": "存入保证金",
 	"cashbox-withdrawal-info-0-header": "如何从我的帐户中提取资金？",
-	"cashbox-withdrawal-info-0-content": "Available options are: bank card, Qiwi/Yandex Money/WebMoney e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.",
+	"cashbox-withdrawal-info-0-content": "可用选项包括：银行卡、Qwi/Yandex Money/WebMoney 电子钱包。小额帐户的所有者只能有一个处理中的提款申请。",
 	"cashbox-withdrawal-info-1-header": "可以从帐户中提取的最低金额是多少？",
 	"cashbox-withdrawal-info-1-content": "最低提款金额——300 卢布或 5 美元或 5 欧元。单笔交易的最高提款金额——15,000 卢布或 200 美元或 200 欧元。",
 	"cashbox-withdrawal-info-2-header": "如何提取 15,000 卢布或 200 美元或 200 欧元以上的金额？",

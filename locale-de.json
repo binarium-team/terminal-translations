@@ -10,7 +10,7 @@
 	"language": "Sprache",
 	"skin-theme": "Thema",
 	"ui-zoom": "Zoom",
-	"ui-zoom-2": "Skala",
+	"ui-zoom-2": "Maßstab",
 	"investment": "Handelsaktivität",
 	"payout": "Auszahlung",
 	"options": "Optionen",
@@ -625,11 +625,11 @@
 	"modal-profile_surname": "Nachname",
 	"modal-profile_phone": "Telefonnummer mit Vorwahl",
 	"modal-profile_button": "Beginnen Sie mit dem Handeln",
-	"modal-profile_aside": "The safety of your personal data is guaranteed.",
-	"form-error_required": "This field is required.",
-	"form-error_name-short": "The name is too short.",
-	"form-error_name-format": "Invalid name format",
-	"form-error_surname-short": "The last name is too short.",
-	"form-error_surname-format": "Invalid last name format.",
-	"form-error_phone-format": "Invalid phone number format"
+	"modal-profile_aside": "Die Sicherheit Ihrer persönlichen Daten ist gewährleistet.",
+	"form-error_required": "Dieses Feld ist ein Pflichtfeld.",
+	"form-error_name-short": "Der Name ist zu kurz.",
+	"form-error_name-format": "Ungültiges Namensformat",
+	"form-error_surname-short": "Der Nachname ist zu kurz.",
+	"form-error_surname-format": "Ungültiges Nachnamensformat.",
+	"form-error_phone-format": "Ungültiges Telefonnummernformat"
 }

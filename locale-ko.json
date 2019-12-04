@@ -396,7 +396,7 @@
 	"search-asset": "자산 검색",
 	"error-sending-email-confirmation": "이메일을 전송하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
 	"error-sending-email-confirmation-with-time": "새 이메일이 {{@time}}분 후에 전송됩니다. 계좌를 활성화하려면 이메일을 확인하거나 지원 서비스로 문의해 주십시오.",
-	"risk-free-trades": "Risk free trades",
+	"risk-free-trades": "위험 없는 거래",
 	"count-trades-for-bet": "{{@count}} trades for {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",
 	"White": "White",

@@ -429,7 +429,7 @@
 	"browser": "브라우저",
 	"make-a-deposit": "예탁하기",
 	"cashbox-withdrawal-info-0-header": "자금을 계좌에서 어떻게 인출합니까?",
-	"cashbox-withdrawal-info-0-content": "Available options are: bank card, Qiwi/Yandex Money/WebMoney e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.",
+	"cashbox-withdrawal-info-0-content": "사용 가능한 옵션은 은행 카드, Qiwi/Yandex Money/WebMoney 전자 지갑입니다. 소액 계좌 소유자는 자금 인출에 대한 활성화된 신청을 하나만 가질 수 있습니다.",
 	"cashbox-withdrawal-info-1-header": "What is the minimum amount of money that can be withdrawn from the account?",
 	"cashbox-withdrawal-info-1-content": "Minimum withdrawal amount — ₽300 or $5 or €5. Maximum withdrawal amount for a single transaction — ₽15,000 or $200 or €200.",
 	"cashbox-withdrawal-info-2-header": "How do I withdraw an amount that is greater than ₽15,000 or $200 or €200?",

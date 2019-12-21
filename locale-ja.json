@@ -1,8 +1,8 @@
 {
 	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Dear User!",
+	"dearUser": "お客様",
 	"error": "Error",
-	"settings": "Settings",
+	"settings": "設定",
 	"settings-2": "Terminal settings",
 	"regionalSettings": "Region settings",
 	"timezone": "Timezone",

@@ -357,7 +357,7 @@
 	"confirmation-mail-sent": "送信済み",
 	"banner-not-enough-funds-for-tment": "アカウントの資金が不足しています。コンテストに参加するには、アカウントを補充してください。",
 	"tment-reenter-not-allowed": "未処理のトランザクションがある間は追加購入はできません。",
-	"fill-profile-wrong-phone": "Invalid phone number",
+	"fill-profile-wrong-phone": "電話番号は無効です",
 	"fill-profile-wrong-name": "名前が正しくありません",
 	"fill-profile-wrong-surname": "姓が正しくありません",
 	"fill-user-wrong-promocode": "プロモーションコードが正しくありません",

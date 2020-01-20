@@ -478,6 +478,8 @@
 	"asset-type-currency": "Currency",
 	"asset-type-crypto": "Crypto",
 	"asset-type-goods": "Goods",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "It will take some time to process a request. Usually it takes up to 24 hours for the finance department to review request during business hours. We are happy to report that we do not freeze your balance while you wait for the withdrawal request to be approved. That way, you can continue trading.",
 	"expiration-caption-16": "In 24 hours",
 	"expiration-caption-15": "At the end of the day",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "To access the \"Trading room\", refill your balance to",
 	"account_level": "Account level",
 	"modal-confirm_title": "Confirm your e-mail address",
-	"modal-confirm_text-1": "The confirmation link in the message that you received after registration:",
-	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "Send the message again",
 	"modal-confirm_error-1-1": "A new e-mail can be sent to you in {{@time}} minutes. To activate your account, please check your email or contact our support service or",
 	"modal-confirm_error-1-2": "contact the support service.",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "Invalid name format",
 	"form-error_surname-short": "The last name is too short.",
 	"form-error_surname-format": "Invalid last name format.",
-	"form-error_phone-format": "Invalid phone number format"
+	"form-error_phone-format": "Invalid phone number format",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

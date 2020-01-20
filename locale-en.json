@@ -589,8 +589,8 @@
 	"trading-room_refill": "To access the \"Trading room\", refill your balance to",
 	"account_level": "Account level",
 	"modal-confirm_title": "Confirm your e-mail address",
-	"modal-confirm_text-1": "The confirmation link in the message that you received after registration:",
-	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again:",
+	"modal-confirm_text-1": "Ссылка подтверждения в письме, полученном после регистрации.",
+	"modal-confirm_text-2": "Не получили письмо с ссылкой подтверждения? Проверьте пожалуйста папку «Спам», иногда письма попадают туда. Или запросите письмо.",
 	"modal-confirm_button": "Send the message again",
 	"modal-confirm_error-1-1": "A new e-mail can be sent to you in {{@time}} minutes. To activate your account, please check your email or contact our support service or",
 	"modal-confirm_error-1-2": "contact the support service.",
@@ -636,5 +636,9 @@
 	"form-error_name-format": "Invalid name format",
 	"form-error_surname-short": "The last name is too short.",
 	"form-error_surname-format": "Invalid last name format.",
-	"form-error_phone-format": "Invalid phone number format"
+	"form-error_phone-format": "Invalid phone number format",
+	"srv-err_asset-is-disabled": "Актив недоступен",
+	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступен в данном турнире",
+	"srv-err_binary-is-disabled-for-this-tournament": "Бинарные опционы недоступы в данном турнире",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Турбо опционы недоступны в данном турнире"
 }

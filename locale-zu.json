@@ -478,6 +478,8 @@
 	"asset-type-currency": "crwdns22006:0crwdne22006:0",
 	"asset-type-crypto": "crwdns22007:0crwdne22007:0",
 	"asset-type-goods": "crwdns22008:0crwdne22008:0",
+	"asset-type-countries": "crwdns27769:0crwdne27769:0",
+	"asset-type-leaders": "crwdns27771:0crwdne27771:0",
 	"cashbox-withdrawal-info": "crwdns27589:0crwdne27589:0",
 	"expiration-caption-16": "crwdns22010:0crwdne22010:0",
 	"expiration-caption-15": "crwdns22011:0crwdne22011:0",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "crwdns27621:0crwdne27621:0",
 	"account_level": "crwdns27623:0crwdne27623:0",
 	"modal-confirm_title": "crwdns27625:0crwdne27625:0",
-	"modal-confirm_text-1": "crwdns27627:0crwdne27627:0",
-	"modal-confirm_text-2": "crwdns27629:0crwdne27629:0",
+	"modal-confirm_text-1": "crwdns27773:0crwdne27773:0",
+	"modal-confirm_text-2": "crwdns27775:0crwdne27775:0",
 	"modal-confirm_button": "crwdns27631:0crwdne27631:0",
 	"modal-confirm_error-1-1": "crwdns27633:0crwdne27633:0",
 	"modal-confirm_error-1-2": "crwdns27635:0crwdne27635:0",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "crwdns27715:0crwdne27715:0",
 	"form-error_surname-short": "crwdns27717:0crwdne27717:0",
 	"form-error_surname-format": "crwdns27719:0crwdne27719:0",
-	"form-error_phone-format": "crwdns27721:0crwdne27721:0"
+	"form-error_phone-format": "crwdns27721:0crwdne27721:0",
+	"srv-err_asset-is-disabled": "crwdns27777:0crwdne27777:0",
+	"srv-err_asset-is-disabled-for-this-tournament": "crwdns27779:0crwdne27779:0",
+	"srv-err_binary-is-disabled-for-this-tournament": "crwdns27781:0crwdne27781:0",
+	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27783:0crwdne27783:0"
 }

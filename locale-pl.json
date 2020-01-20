@@ -478,6 +478,8 @@
 	"asset-type-currency": "Waluta",
 	"asset-type-crypto": "Krypto",
 	"asset-type-goods": "Towary",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "Przetworzenie wniosku zajmie trochę czasu. Zazwyczaj rozpatrzenie wniosku w godzinach pracy zajmuje działowi finansowemu maksymalnie 24 godziny. Z przyjemnością informujemy, że nie zamrażamy Twojego salda w oczekiwaniu na zatwierdzenie wniosku o wypłatę środków. Dzięki temu możesz kontynuować handel.",
 	"expiration-caption-16": "W ciągu 24 godzin",
 	"expiration-caption-15": "Na koniec dnia",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "Aby uzyskać dostęp do sekcji „Trading room”, uzupełnij swoje saldo do kwoty",
 	"account_level": "Poziom konta",
 	"modal-confirm_title": "Potwierdź swój adres e-mail",
-	"modal-confirm_text-1": "Łącze umożliwiające potwierdzenie w wiadomości otrzymanej po rejestracji:",
-	"modal-confirm_text-2": "Wiadomość z łączem umożliwiającym potwierdzenie nie dotarła? Sprawdź folder „Spam”. Czasami wiadomości kończą właśnie tam. Możesz też zażądać ponownego wysłania wiadomości:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "Ponownie wyślij wiadomość",
 	"modal-confirm_error-1-1": "Nowa wiadomość e-mail może zostać wysłana do Ciebie w ciągu {{@time}} minut. Aby aktywować konto, sprawdź swój adres e-mail lub skontaktuj się z naszym działem obsługi klienta lub",
 	"modal-confirm_error-1-2": "skontaktuj się z działem obsługi klienta.",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "Nieprawidłowy format imienia",
 	"form-error_surname-short": "Nazwisko jest zbyt krótkie.",
 	"form-error_surname-format": "Nieprawidłowy format nazwiska.",
-	"form-error_phone-format": "Nieprawidłowy format numeru telefonu"
+	"form-error_phone-format": "Nieprawidłowy format numeru telefonu",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

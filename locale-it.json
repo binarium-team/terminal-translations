@@ -478,6 +478,8 @@
 	"asset-type-currency": "Valuta",
 	"asset-type-crypto": "Crypto",
 	"asset-type-goods": "Beni",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "L'elaborazione di una richiesta richiederà un po' di tempo. Di solito il reparto finanziario impiega fino a 24 ore per esaminare una richiesta durante l'orario di lavoro. Siamo lieti di comunicarti che non blocchiamo il tuo saldo mentre aspetti che la richiesta di prelievo venga approvata. In questo modo, potrai continuare a fare trading.",
 	"expiration-caption-16": "Tra 24 ore",
 	"expiration-caption-15": "Alla fine della giornata",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "Per accedere alla \"Sala trading\", ricarica il tuo saldo per un importo pari a",
 	"account_level": "Livello del conto",
 	"modal-confirm_title": "Conferma il tuo indirizzo e-mail",
-	"modal-confirm_text-1": "Il link di conferma nel messaggio ricevuto dopo la registrazione:",
-	"modal-confirm_text-2": "Non hai ricevuto un messaggio contenente un link di conferma? Controlla la tua cartella \"Spam\". A volte i messaggi finiscono qui. Oppure richiedi un nuovo invio del messaggio:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "Invia nuovamente il messaggio",
 	"modal-confirm_error-1-1": "Potremo inviarti una nuova e-mail tra {{@time}} minuti. Per attivare il tuo account, controlla la tua casella e-mail o contatta il nostro servizio di assistenza o",
 	"modal-confirm_error-1-2": "contatta il servizio di assistenza.",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "Formato nome non valido",
 	"form-error_surname-short": "Il cognome è troppo breve.",
 	"form-error_surname-format": "Formato cognome non valido.",
-	"form-error_phone-format": "Formato numero di telefono non valido"
+	"form-error_phone-format": "Formato numero di telefono non valido",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

@@ -329,7 +329,7 @@
 	"start-trading": "Начать торговать",
 	"personal-data-safety": "Сохранность персональных данных гарантирована",
 	"bonus": "Бонус",
-	"new-bonus": "на счет {{@bonus}}",
+	"new-bonus": "на счет",
 	"received-bonus": "Вместе с выбранным депозитом вы получите ",
 	"received-bonus-value": "бонус в размере: {{@bonus}}",
 	"mobile-received-bonus-value": "+ бонус {{@bonus}}",

@@ -478,6 +478,8 @@
 	"asset-type-currency": "สกุลเงิน",
 	"asset-type-crypto": "สกุลเงินดิจิทัล",
 	"asset-type-goods": "สินค้า",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "จะต้องใช้เวลาสักระยะหนึ่ง ในการประมวลผลคำร้องขอ โดยปกติจะใช้เวลาสูงสุดถึง 24 ชั่วโมง เพื่อให้แผนกการเงินตรวจดูคำร้องขอในระหว่างเวลาทำการ เรายินดีที่จะรายงานให้ทราบว่า เราไม่ได้แช่แข็งยอดคงเหลือของคุณไว้ ในระหว่างที่คุณรอคอยคำขอถอนเงินให้อนุมัติอยู่ ซึ่งโดยวิธีดังกล่าว ทำให้คุณสามารถดำเนินการซื้อขายต่อไปได้",
 	"expiration-caption-16": "ใน 24 ชั่วโมง",
 	"expiration-caption-15": "เมื่อสิ้นวัน",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "ในการเข้าถึง \"ห้องซื้อขาย\" ให้เติมเงินยอดคงเหลือของคุณ",
 	"account_level": "ระดับบัญชี",
 	"modal-confirm_title": "ยืนยันอีเมลของคุณ",
-	"modal-confirm_text-1": "ลิงก์ยืนยันในข้อความที่คุณได้รับหลังจากลงทะเบียน:",
-	"modal-confirm_text-2": "คุณไม่ได้รับข้อความพร้อมลิงก์ยืนยันใช่หรือไม่? กรุณาตรวจสอบโฟลเดอร์ \"สแปม\" ของคุณ บางครั้งข้อความจะไปอยู่ที่นั่น หรือไม่ก็ร้องขอข้อความอีกครั้ง:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "ส่งข้อความอีกครั้ง",
 	"modal-confirm_error-1-1": "อีเมลใหม่จะส่งถึงคุณใน {{@time}} นาที ในการเปิดใช้งานบัญชีของคุณ กรุณาตรวจสอบอีเมลของคุณ หรือติดต่อฝ่ายบริการลูกค้าของเรา หรือ",
 	"modal-confirm_error-1-2": "ติดต่อฝ่ายบริการลูกค้า",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "รูปแบบชื่อไม่ถูกต้อง",
 	"form-error_surname-short": "นามสกุลสั้นเกินไป",
 	"form-error_surname-format": "รูปแบบนามสกุลไม่ถูกต้อง",
-	"form-error_phone-format": "รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง"
+	"form-error_phone-format": "รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

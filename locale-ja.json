@@ -478,6 +478,8 @@
 	"asset-type-currency": "通過",
 	"asset-type-crypto": "仮想通貨",
 	"asset-type-goods": "商品",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "リクエストの処理にはある程度の時間がかかります。通常、営業時間中に財務部門がリクエストを確認するのに最大24時間を要します。お客様が出金リクエストの承認を待つ間、残高を凍結しないことをお知らせいたします。ひいては取引を続けることができます。",
 	"expiration-caption-16": "24時間で",
 	"expiration-caption-15": "一日の終わりに",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "「トレーディング・ルーム」にアクセスするには、残高を補充してください",
 	"account_level": "口座レベル",
 	"modal-confirm_title": "メールアドレスの認証を行ってください",
-	"modal-confirm_text-1": "登録後に受け取ったメッセージ内の確認リンク：",
-	"modal-confirm_text-2": "確認リンクを含むメッセージを受信できませんでしたか？「スパム」フォルダを確認してください。そこにメッセージが届くことがあります。またはメッセージを再度リクエストして下さい。",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "メッセージを再送信",
 	"modal-confirm_error-1-1": "{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。",
 	"modal-confirm_error-1-2": "カスタマーサポートにご連絡ください",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "無効な名前形式",
 	"form-error_surname-short": "姓が短すぎます。",
 	"form-error_surname-format": "無効な姓名形式",
-	"form-error_phone-format": "無効な電話番号形式"
+	"form-error_phone-format": "無効な電話番号形式",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

@@ -478,6 +478,8 @@
 	"asset-type-currency": "Moeda",
 	"asset-type-crypto": "Cripto",
 	"asset-type-goods": "Bens",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "Levará 24 horas para processar o pedido. Normalmente leva até 24 horas para o departamento financeiro analisar o pedido durante o horário de funcionamento. Temos muito gosto em informar que não congelamos o seu saldo enquanto aguarda pela aprovação do pedido de levantamento. Desta forma, pode continuar a negociar.",
 	"expiration-caption-16": "Em 24 horas",
 	"expiration-caption-15": "No final do dia",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "Para aceder à \"Sala de Negociação\", recarregue o seu saldo para",
 	"account_level": "Nível da conta",
 	"modal-confirm_title": "Confirme o seu endereço eletrónico",
-	"modal-confirm_text-1": "A ligação de confirmação na mensagem que recebeu após a inscrição:",
-	"modal-confirm_text-2": "Não recebeu uma mensagem com uma ligação de confirmação? Verifique a sua pasta de \"Spam\". Por vezes as mensagens são reencaminhadas para aí. Ou solicite novamente a mensagem:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "Enviar a mensagem novamente",
 	"modal-confirm_error-1-1": "Podemos enviar-lhe uma nova mensagem de correio eletrónico dentro de {{@time}} minutos. Para ativar a sua conta, verifique o seu correio eletrónico ou contacte o nosso serviço de assistência ou",
 	"modal-confirm_error-1-2": "contactar o serviço de assistência.",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "Formato do nome inválido",
 	"form-error_surname-short": "O apelido é demasiado pequeno.",
 	"form-error_surname-format": "Formato do apelido inválido.",
-	"form-error_phone-format": "Formato do número de telefone inválido"
+	"form-error_phone-format": "Formato do número de telefone inválido",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

@@ -478,6 +478,8 @@
 	"asset-type-currency": "货币",
 	"asset-type-crypto": "加密货币",
 	"asset-type-goods": "商品",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "处理请求将需要一些时间。通常，财务部门最多需要 24 小时才能在工作时间内审核请求。 我们很高兴地通知您，在您等待出金请求获得批准时，我们不会冻结您的余额。这样，您可以继续交易。",
 	"expiration-caption-16": "24 小时后",
 	"expiration-caption-15": "一天结束时",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "要访问“交易室”，请将余额充值到",
 	"account_level": "账户级别",
 	"modal-confirm_title": "确认您的电子邮件地址",
-	"modal-confirm_text-1": "注册后收到的消息中的确认链接：",
-	"modal-confirm_text-2": "您没有收到包含确认链接的消息？请检查您的“垃圾邮件”文件夹。有时消息会在这里。或再次请求消息：",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "再次发送消息",
 	"modal-confirm_error-1-1": "您可以在 {{@time}} 分钟内收到一封新的电子邮件。要激活您的账户，请查看您的电子邮件或联系我们的支持服务或",
 	"modal-confirm_error-1-2": "联系支持服务。",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "名称格式无效",
 	"form-error_surname-short": "姓氏太短。",
 	"form-error_surname-format": "姓氏格式无效。",
-	"form-error_phone-format": "电话号码格式无效"
+	"form-error_phone-format": "电话号码格式无效",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

@@ -478,6 +478,8 @@
 	"asset-type-currency": "Para Birimi",
 	"asset-type-crypto": "Kripto",
 	"asset-type-goods": "Mallar",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "Talebin işlenmesi biraz zaman alır. Finans departmanının talebi incelemesi iş saatleri sırasında gönderilmişse 24 saati bulabilir. Çekme talebinizin onaylanmasını beklerken bakiyenizi dondurmadığımızı söylemekten mutluluk duyarız. Bu şekilde, ticaret yapmaya devam edebilirsiniz.",
 	"expiration-caption-16": "24 saat içerisinde",
 	"expiration-caption-15": "Günün sonunda",
@@ -587,8 +589,8 @@
 	"trading-room_refill": "\"Ticaret odası\"na erişmek için bakiyenizi şu miktara yeniden doldurun:",
 	"account_level": "Hesap seviyesi",
 	"modal-confirm_title": "E-posta adresinizi onaylayın",
-	"modal-confirm_text-1": "Kayıttan sonra size gelen mesajdaki onay bağlantısı:",
-	"modal-confirm_text-2": "Onay bağlantısı içeren bir mesaj almadınız mı? Lütfen \"istenmeyen\" klasörünüzü kontrol edin. Bazen mesajlar oraya gider. Veya mesajı tekrar talep edin:",
+	"modal-confirm_text-1": "The confirmation link in the message that you received after registration.",
+	"modal-confirm_text-2": "Did you fail to receive a message with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
 	"modal-confirm_button": "Mesajı tekrar gönder",
 	"modal-confirm_error-1-1": "{{@time}} dakika içinde size yeni bir e-posta gönderilebilir. Hesabınızı aktive etmek için lütfen e-postanızı kontrol edin veya destek hizmetimizle iletişime geçin ya da",
 	"modal-confirm_error-1-2": "destek hizmetiyle iletişime geçin.",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "Geçersiz ad formatı",
 	"form-error_surname-short": "Soyadı çok kısa.",
 	"form-error_surname-format": "Geçersiz soyadı formatı.",
-	"form-error_phone-format": "Geçersiz telefon numarası formatı"
+	"form-error_phone-format": "Geçersiz telefon numarası formatı",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

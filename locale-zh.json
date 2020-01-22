@@ -329,7 +329,7 @@
 	"start-trading": "开始交易",
 	"personal-data-safety": "保证个人数据的安全",
 	"bonus": "奖励金",
-	"new-bonus": "至账户 {{@bonus}}",
+	"new-bonus": "至账户",
 	"received-bonus": "连同选定的存款，您将收到",
 	"received-bonus-value": "以下金额的奖励金：{{@bonus}}",
 	"mobile-received-bonus-value": "+ 奖励金 {{@bonus}}",
@@ -478,6 +478,8 @@
 	"asset-type-currency": "货币",
 	"asset-type-crypto": "加密货币",
 	"asset-type-goods": "商品",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "处理请求将需要一些时间。通常，财务部门最多需要 24 小时才能在工作时间内审核请求。 我们很高兴地通知您，在您等待出金请求获得批准时，我们不会冻结您的余额。这样，您可以继续交易。",
 	"expiration-caption-16": "24 小时后",
 	"expiration-caption-15": "一天结束时",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "名称格式无效",
 	"form-error_surname-short": "姓氏太短。",
 	"form-error_surname-format": "姓氏格式无效。",
-	"form-error_phone-format": "电话号码格式无效"
+	"form-error_phone-format": "电话号码格式无效",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

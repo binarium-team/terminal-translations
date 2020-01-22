@@ -329,7 +329,7 @@
 	"start-trading": "取引開始",
 	"personal-data-safety": "個人情報の保護は保障されています",
 	"bonus": "ボーナス",
-	"new-bonus": "アカウントに {{@bonus}}",
+	"new-bonus": "アカウントに",
 	"received-bonus": "選択の入金と共に受け取ります",
 	"received-bonus-value": "{{@bonus}} の金額内のボーナス",
 	"mobile-received-bonus-value": "+ ボーナス {{@bonus}}",
@@ -478,6 +478,8 @@
 	"asset-type-currency": "通過",
 	"asset-type-crypto": "仮想通貨",
 	"asset-type-goods": "商品",
+	"asset-type-countries": "Countries",
+	"asset-type-leaders": "Leaders",
 	"cashbox-withdrawal-info": "リクエストの処理にはある程度の時間がかかります。通常、営業時間中に財務部門がリクエストを確認するのに最大24時間を要します。お客様が出金リクエストの承認を待つ間、残高を凍結しないことをお知らせいたします。ひいては取引を続けることができます。",
 	"expiration-caption-16": "24時間で",
 	"expiration-caption-15": "一日の終わりに",
@@ -634,5 +636,9 @@
 	"form-error_name-format": "無効な名前形式",
 	"form-error_surname-short": "姓が短すぎます。",
 	"form-error_surname-format": "無効な姓名形式",
-	"form-error_phone-format": "無効な電話番号形式"
+	"form-error_phone-format": "無効な電話番号形式",
+	"srv-err_asset-is-disabled": "Asset is disabled",
+	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
 }

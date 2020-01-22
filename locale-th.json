@@ -329,7 +329,7 @@
 	"start-trading": "เริ่มการซื้อขาย",
 	"personal-data-safety": "ขอรับประกันความปลอดภัยของข้อมูลส่วนบุคคล",
 	"bonus": "โบนัส",
-	"new-bonus": "ไปยังบัญชี {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "พร้อมกับเงินฝากที่เลือก คุณจะได้รับ",
 	"received-bonus-value": "โบนัสเป็นจำนวน: {{@bonus}}",
 	"mobile-received-bonus-value": "+ โบนัส {{@bonus}}",

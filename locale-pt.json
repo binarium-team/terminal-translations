@@ -329,7 +329,7 @@
 	"start-trading": "Começar a negociar",
 	"personal-data-safety": "Segurança dos dados pessoais garantida",
 	"bonus": "Bónus",
-	"new-bonus": "para a conta {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "Juntamente com o depósito selecionado irá receber",
 	"received-bonus-value": "um bónus no valor de: {{@bonus}}",
 	"mobile-received-bonus-value": "+ bónus {{@bonus}}",

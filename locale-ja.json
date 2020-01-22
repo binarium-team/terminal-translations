@@ -329,7 +329,7 @@
 	"start-trading": "取引開始",
 	"personal-data-safety": "個人情報の保護は保障されています",
 	"bonus": "ボーナス",
-	"new-bonus": "アカウントに {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "選択の入金と共に受け取ります",
 	"received-bonus-value": "{{@bonus}} の金額内のボーナス",
 	"mobile-received-bonus-value": "+ ボーナス {{@bonus}}",

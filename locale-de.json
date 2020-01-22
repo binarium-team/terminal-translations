@@ -329,7 +329,7 @@
 	"start-trading": "Beginnen Sie mit dem Handeln",
 	"personal-data-safety": "Die Sicherheit der Kundendaten ist gewährleistet",
 	"bonus": "Bonus",
-	"new-bonus": "auf das Konto {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "Zusammen mit der ausgewählten Einzahlung erhalten Sie",
 	"received-bonus-value": "einen Bonus in Höhe von: {{@bonus}}",
 	"mobile-received-bonus-value": "+ Bonus {{@bonus}}",

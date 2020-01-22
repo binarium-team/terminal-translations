@@ -329,7 +329,7 @@
 	"start-trading": "거래 시작",
 	"personal-data-safety": "개인 데이터 안전은 보장됩니다.",
 	"bonus": "보너스",
-	"new-bonus": "{{@bonus}}의 보너스를 계좌로",
+	"new-bonus": "to the account",
 	"received-bonus": "선택한 예금과 함께 받게 될 보너스:",
 	"received-bonus-value": "보너스 금액: {{@bonus}}",
 	"mobile-received-bonus-value": "+ 보너스 {{@bonus}}",

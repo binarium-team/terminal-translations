@@ -329,7 +329,7 @@
 	"start-trading": "Zacznij trading",
 	"personal-data-safety": "Bezpieczeństwo danych osobowych jest gwarantowane",
 	"bonus": "Premia",
-	"new-bonus": "na konto {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "Wraz z wybraną wpłatą otrzymasz",
 	"received-bonus-value": "premię w kwocie: {{@bonus}}",
 	"mobile-received-bonus-value": "+ premia {{@bonus}}",

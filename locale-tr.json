@@ -329,7 +329,7 @@
 	"start-trading": "Ticarete başlayın",
 	"personal-data-safety": "Kişisel verilerin güvenliğini garanti altında",
 	"bonus": "Bonus",
-	"new-bonus": "hesaba {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "Seçili para yatırma işlemiyle birlikte alacağınız",
 	"received-bonus-value": "{{@bonus}} tutarında bir bonus",
 	"mobile-received-bonus-value": "+ bonus {{@bonus}}",

@@ -329,7 +329,7 @@
 	"start-trading": "Bắt đầu giao dịch",
 	"personal-data-safety": "Sự an toàn của dữ liệu cá nhân được đảm bảo",
 	"bonus": "Thưởng",
-	"new-bonus": "đến tài khoản {{@bonus}}",
+	"new-bonus": "to the account",
 	"received-bonus": "Cùng với khoản tiền nộp đã chọn, bạn sẽ nhận được",
 	"received-bonus-value": "tiền thưởng là: {{@bonus}}",
 	"mobile-received-bonus-value": "+ {{@bonus}} thưởng",

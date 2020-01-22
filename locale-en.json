@@ -329,7 +329,7 @@
 	"start-trading": "Start trading",
 	"personal-data-safety": "Safety of personal data is guaranteed",
 	"bonus": "Bonus",
-	"new-bonus": "на счет",
+	"new-bonus": "to the account",
 	"received-bonus": "Together with the selected deposit you will receive",
 	"received-bonus-value": "a bonus in the amount of: {{@bonus}}",
 	"mobile-received-bonus-value": "+ bonus {{@bonus}}",

@@ -645,6 +645,6 @@
 	"form-error_phone-format": "유효하지 않은 전화 번호 형식입니다.",
 	"srv-err_asset-is-disabled": "Asset is disabled",
 	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
+	"srv-err_binary-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Asset is disabled for this tournament"
 }

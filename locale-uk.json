@@ -46,7 +46,7 @@
 	"fast-stochastic-period": "Період швидкої лінії",
 	"slow-stochastic-period": "Період повільної лінії",
 	"fast-stochastic-line-color": "Колір швидкої лінії",
-	"slow-stochastic-line-color": "Колір повільної лінії",
+	"slow-stochastic-line-color": "Цвет медленной линии",
 	"fast-stochastic-line-thickness": "Товщина швидкої лінії",
 	"line-thickness": "Товщина лінії",
 	"line-color": "Колір лінії",
@@ -645,6 +645,6 @@
 	"form-error_phone-format": "Невірний формат телефона",
 	"srv-err_asset-is-disabled": "Актив недоступний",
 	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"srv-err_binary-is-disabled-for-this-tournament": "Бінарні опціони недоступні в даному турнірі",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Турбо опціони недоступні в даному турнірі"
+	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступен в данном турнире",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступен в данном турнире"
 }

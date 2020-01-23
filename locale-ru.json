@@ -645,6 +645,6 @@
 	"form-error_phone-format": "Неверный формат телефона",
 	"srv-err_asset-is-disabled": "Актив недоступен",
 	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступен в данном турнире",
-	"srv-err_binary-is-disabled-for-this-tournament": "Бинарные опционы недоступны в данном турнире",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Турбо опционы недоступны в данном турнире"
+	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступен в данном турнире",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступен в данном турнире"
 }

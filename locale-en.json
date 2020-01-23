@@ -46,7 +46,7 @@
 	"fast-stochastic-period": "Fast line period",
 	"slow-stochastic-period": "Slow line period",
 	"fast-stochastic-line-color": "Fast line color",
-	"slow-stochastic-line-color": "Цвет медленной линии",
+	"slow-stochastic-line-color": "Slow line color",
 	"fast-stochastic-line-thickness": "Fast line thickness",
 	"line-thickness": "Line thickness",
 	"line-color": "Line Color",
@@ -645,6 +645,6 @@
 	"form-error_phone-format": "Invalid phone number format",
 	"srv-err_asset-is-disabled": "Asset is disabled",
 	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступен в данном турнире",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступен в данном турнире"
+	"srv-err_binary-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Asset is disabled for this tournament"
 }

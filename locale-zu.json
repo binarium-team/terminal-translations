@@ -645,6 +645,6 @@
 	"form-error_phone-format": "crwdns27721:0crwdne27721:0",
 	"srv-err_asset-is-disabled": "crwdns27777:0crwdne27777:0",
 	"srv-err_asset-is-disabled-for-this-tournament": "crwdns27779:0crwdne27779:0",
-	"srv-err_binary-is-disabled-for-this-tournament": "crwdns27781:0crwdne27781:0",
-	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27783:0crwdne27783:0"
+	"srv-err_binary-is-disabled-for-this-tournament": "crwdns27861:0crwdne27861:0",
+	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27863:0crwdne27863:0"
 }

@@ -645,6 +645,6 @@
 	"form-error_phone-format": "รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง",
 	"srv-err_asset-is-disabled": "Asset is disabled",
 	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"srv-err_binary-is-disabled-for-this-tournament": "Binary is disabled for this tournament",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Turbo is disabled for this tournament"
+	"srv-err_binary-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Asset is disabled for this tournament"
 }

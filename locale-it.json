@@ -643,8 +643,8 @@
 	"form-error_surname-short": "Il cognome è troppo breve.",
 	"form-error_surname-format": "Formato cognome non valido.",
 	"form-error_phone-format": "Formato numero di telefono non valido",
-	"srv-err_asset-is-disabled": "Asset is disabled",
-	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"srv-err_binary-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Asset is disabled for this tournament"
+	"srv-err_asset-is-disabled": "L'asset è disattivato",
+	"srv-err_asset-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo",
+	"srv-err_binary-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo",
+	"srv-err_turbo-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo"
 }

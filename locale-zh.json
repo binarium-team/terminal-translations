@@ -573,7 +573,7 @@
 	"tour-slide-6-b-trading-rules": "交易条件",
 	"tour-slide-6-b-card-0-caption": "成功预测后您将获得的收入金额：",
 	"tour-slide-6-b-card-0-content": "<span class=\"big\">高达您投资金额的 90%</span>。",
-	"tour-slide-6-b-card-1-caption": "交易所需的最低入金金额",
+	"tour-slide-6-b-card-1-caption": "交易所需的最低入金金额：",
 	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
 	"tour-slide-6-b-card-2-caption": "出金所需的平均时间：",
 	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> 分钟",

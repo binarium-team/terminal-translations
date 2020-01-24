@@ -643,8 +643,8 @@
 	"form-error_surname-short": "성이 너무 짧습니다.",
 	"form-error_surname-format": "유효하지 않은 성 형식입니다.",
 	"form-error_phone-format": "유효하지 않은 전화 번호 형식입니다.",
-	"srv-err_asset-is-disabled": "자신이 사용 중지되었습니다.",
-	"srv-err_asset-is-disabled-for-this-tournament": "자신이 이 토너먼트에서 사용 중지되었습니다.",
-	"srv-err_binary-is-disabled-for-this-tournament": "자신이 이 토너먼트에서 사용 중지되었습니다.",
-	"srv-err_turbo-is-disabled-for-this-tournament": "자신이 이 토너먼트에서 사용 중지되었습니다."
+	"srv-err_asset-is-disabled": "자산이 사용 중지되었습니다.",
+	"srv-err_asset-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
+	"srv-err_binary-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
+	"srv-err_turbo-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다."
 }

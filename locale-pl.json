@@ -562,7 +562,7 @@
 	"tour-slide-6-a-trading-rules": "Warunki tradingu",
 	"tour-slide-6-a-card-0-caption": "Kwota przychodu, którą otrzymasz za spełnioną prognozę:",
 	"tour-slide-6-a-card-0-content-1": "maksymalnie {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "kwota inwestycji, którą otrzymasz dzięki sporządzeniu trafnej prognozy.",
+	"tour-slide-6-a-card-0-content-2": "kwoty inwestycji, którą otrzymasz dzięki sporządzeniu trafnej prognozy.",
 	"tour-slide-6-a-card-1-caption": "minimalna wpłata na trading.",
 	"tour-slide-6-a-card-1-content": "od {{@minWithdrawal}}",
 	"tour-slide-6-a-card-2-caption": "średni czas potrzebny do wypłaty środków:",

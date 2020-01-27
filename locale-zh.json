@@ -202,7 +202,7 @@
 	"available-assets": "可用资产",
 	"available-options": "可用交易类型",
 	"greeting": "欢迎",
-	"cashbox-plus-bonus": "+ 奖励金 {{@value}}",
+	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "入金",
 	"cashbox-output": "出金",
 	"bonus-terms-of-use": "奖励金使用条款",

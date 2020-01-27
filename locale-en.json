@@ -525,7 +525,7 @@
 	"trading-room-expiration": "Expiration",
 	"trading-room-strength": "Strength",
 	"trading-room-strike-price": "Strike price",
-	"trading-room-is-empty": "Доступных сигналов нет. Пожалуйста, проверьте «Торговую комнату» чуть позже.",
+	"trading-room-is-empty": "No signals available. Please check the Trading Room shortly.",
 	"demo-stats-banner-header-caption": "Excellent!",
 	"demo-stats-banner-header-caption-2": "Congratulations!",
 	"demo-stats-banner-you-earned-on-demo": "You've earned money in a demo account.",

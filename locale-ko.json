@@ -202,7 +202,7 @@
 	"available-assets": "이용 가능한 자산",
 	"available-options": "이용 가능한 트랜잭션 유형",
 	"greeting": "환영합니다",
-	"cashbox-plus-bonus": "+ 보너스 {{@value}}",
+	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "예금",
 	"cashbox-output": "인출",
 	"bonus-terms-of-use": "보너스 이용 약관",

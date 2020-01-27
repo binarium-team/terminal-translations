@@ -202,7 +202,7 @@
 	"available-assets": "Доступні активи",
 	"available-options": "Доступні типи угод",
 	"greeting": "Ласкаво просимо",
-	"cashbox-plus-bonus": "+ бонус {{@value}}",
+	"cashbox-plus-bonus": "бонус",
 	"cashbox-input": "Поповнення",
 	"cashbox-output": "Виведення коштів",
 	"bonus-terms-of-use": "Умови використання бонусу",

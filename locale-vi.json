@@ -202,7 +202,7 @@
 	"available-assets": "Tài sản có sẵn",
 	"available-options": "Các loại giao dịch có sẵn",
 	"greeting": "Chào mừng",
-	"cashbox-plus-bonus": "+ {{@value}} thưởng",
+	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Nộp tiền",
 	"cashbox-output": "Rút tiền",
 	"bonus-terms-of-use": "Điều khoản bổ sung của người dùng",

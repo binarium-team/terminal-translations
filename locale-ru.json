@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Экспирация",
 	"trading-room-strength": "Сила",
 	"trading-room-strike-price": "Страйк цена",
+	"trading-room-is-empty": "Доступных сигналов нет. Пожалуйста, проверьте «Торговую комнату» чуть позже.",
 	"demo-stats-banner-header-caption": "Отлично!",
 	"demo-stats-banner-header-caption-2": "Поздравляем!",
 	"demo-stats-banner-you-earned-on-demo": "Вы заработали на демосчёте",

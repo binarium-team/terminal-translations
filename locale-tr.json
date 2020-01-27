@@ -202,7 +202,7 @@
 	"available-assets": "Kullanılabilir varlıklar",
 	"available-options": "Kullanılabilir işlem türleri",
 	"greeting": "Hoş geldiniz",
-	"cashbox-plus-bonus": "+ bonus {{@value}}",
+	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Depozito",
 	"cashbox-output": "Para Çekme",
 	"bonus-terms-of-use": "Kullanıcı bonus şartları",

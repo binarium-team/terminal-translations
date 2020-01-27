@@ -202,7 +202,7 @@
 	"available-assets": "Dostępne aktywa",
 	"available-options": "Dostępne typy transakcji",
 	"greeting": "Witamy",
-	"cashbox-plus-bonus": "+ premia {{@value}}",
+	"cashbox-plus-bonus": "premia",
 	"cashbox-input": "Wpłata",
 	"cashbox-output": "Wypłata",
 	"bonus-terms-of-use": "Warunki premii dla użytkownika",

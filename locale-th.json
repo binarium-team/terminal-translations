@@ -202,7 +202,7 @@
 	"available-assets": "สินทรัพย์ที่มี",
 	"available-options": "ประเภทของธุรกรรมที่มี",
 	"greeting": "ยินดีต้อนรับ",
-	"cashbox-plus-bonus": "+ โบนัส {{@value}}",
+	"cashbox-plus-bonus": "โบนัส",
 	"cashbox-input": "การฝากเงิน",
 	"cashbox-output": "การถอนเงิน",
 	"bonus-terms-of-use": "เงื่อนไขโบนัสของผู้ใช้งาน",

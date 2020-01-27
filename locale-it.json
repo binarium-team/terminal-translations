@@ -202,7 +202,7 @@
 	"available-assets": "Asset disponibili",
 	"available-options": "Tipi di transazioni disponibili",
 	"greeting": "Benvenuto",
-	"cashbox-plus-bonus": "+ bonus {{@value}}",
+	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Deposito",
 	"cashbox-output": "Prelievo",
 	"bonus-terms-of-use": "Termini di utilizzo del bonus",

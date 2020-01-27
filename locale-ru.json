@@ -202,7 +202,7 @@
 	"available-assets": "Доступные активы",
 	"available-options": "Доступные типы сделок",
 	"greeting": "Добро пожаловать",
-	"cashbox-plus-bonus": "+ бонус {{@value}}",
+	"cashbox-plus-bonus": "бонус",
 	"cashbox-input": "Пополнение",
 	"cashbox-output": "Вывод средств",
 	"bonus-terms-of-use": "Условия использования бонуса",

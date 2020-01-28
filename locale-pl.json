@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Wygaśnięcie",
 	"trading-room-strength": "Siła",
 	"trading-room-strike-price": "Cena wykonania",
+	"trading-room-is-empty": "No signals available. Please check the Trading Room shortly.",
 	"demo-stats-banner-header-caption": "Doskonale!",
 	"demo-stats-banner-header-caption-2": "Gratulacje!",
 	"demo-stats-banner-you-earned-on-demo": "Zarabiasz pieniądze na koncie demo.",

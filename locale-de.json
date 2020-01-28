@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Ablaufzeitpunkt",
 	"trading-room-strength": "Stärke",
 	"trading-room-strike-price": "Basispreis",
+	"trading-room-is-empty": "No signals available. Please check the Trading Room shortly.",
 	"demo-stats-banner-header-caption": "Perfekt!",
 	"demo-stats-banner-header-caption-2": "Herzlichen Glückwunsch!",
 	"demo-stats-banner-you-earned-on-demo": "Sie haben im Demo-Konto Geld verdient.",

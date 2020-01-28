@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Caducidad",
 	"trading-room-strength": "Fuerza",
 	"trading-room-strike-price": "Precio de ejercicio",
+	"trading-room-is-empty": "No hay señales disponibles. Por favor vuelva a consultar el salón de trading en breve.",
 	"demo-stats-banner-header-caption": "¡Excelente!",
 	"demo-stats-banner-header-caption-2": "¡Felicitaciones!",
 	"demo-stats-banner-you-earned-on-demo": "Ha ganado dinero en una cuenta de demostración.",

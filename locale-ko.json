@@ -525,6 +525,7 @@
 	"trading-room-expiration": "만료",
 	"trading-room-strength": "강도",
 	"trading-room-strike-price": "집행 가격",
+	"trading-room-is-empty": "이용할 수 있는 신호가 없습니다. 거래방을 잠시 확인해 보십시오.",
 	"demo-stats-banner-header-caption": "잘하셨습니다!",
 	"demo-stats-banner-header-caption-2": "축하합니다!",
 	"demo-stats-banner-you-earned-on-demo": "데모 계좌에서 수익을 얻으셨습니다.",

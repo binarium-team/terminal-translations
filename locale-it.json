@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Scadenza",
 	"trading-room-strength": "Forza",
 	"trading-room-strike-price": "Prezzo di esercizio",
+	"trading-room-is-empty": "No signals available. Please check the Trading Room shortly.",
 	"demo-stats-banner-header-caption": "Eccellente!",
 	"demo-stats-banner-header-caption-2": "Congratulazioni!",
 	"demo-stats-banner-you-earned-on-demo": "Hai guadagnato denaro su un conto demo.",

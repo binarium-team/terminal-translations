@@ -525,6 +525,7 @@
 	"trading-room-expiration": "Експірація",
 	"trading-room-strength": "Сила",
 	"trading-room-strike-price": "Страйк ціна",
+	"trading-room-is-empty": "Доступних сигналів немає. Будь ласка, перевірте «Торгову кімнату» трохи пізніше.",
 	"demo-stats-banner-header-caption": "Відмінно!",
 	"demo-stats-banner-header-caption-2": "Вітаємо!",
 	"demo-stats-banner-you-earned-on-demo": "Ви заробили на демо-рахунку",

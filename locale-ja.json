@@ -631,7 +631,7 @@
 	"modal-tn_button": "開始",
 	"modal-nickname_title": "ニックネームを選択",
 	"modal-nickname_text": "コンテストに参加するには、コンテスト参加者リストにニックネームを入力して下さい。プロファイル設定でいつでも変更できます。",
-	"modal-nickname_button": "Save and continue",
+	"modal-nickname_button": "保存して続く",
 	"modal-profile_title": "追加情報",
 	"modal-profile_text": "プラットフォームでの作業を続行するには、追加情報を入力してください。",
 	"modal-profile_name": "名",

@@ -441,7 +441,7 @@
 	"cashbox-withdrawal-info-0-content": "Các tùy chọn sẵn có là: thẻ ngân hàng, ví điện tử Qiwi/Yandex Money/WebMoney. Chủ sở hữu của các tài khoản micro chỉ có thể có một đơn rút tiền đang hoạt động.",
 	"cashbox-withdrawal-info-1-header": "Số tiền tối thiểu có thể được rút ra từ tài khoản?",
 	"cashbox-withdrawal-info-1-content": "Số tiền rút tối thiểu — ₽300 hay $5 hoặc €5. Số tiền rút tối đa cho một giao dịch — ₽15.000 hay $200 hoặc €200.",
-	"cashbox-withdrawal-info-2-header": "Làm thế nào tôi có thể rút một số tiền lớn hơn ₽15.000 hay $200 hoặc €200?",
+	"cashbox-withdrawal-info-2-header": "Làm thế nào tôi có thể rút một số tiền lớn hơn ₽15.000 hay $200 hoặc €200,?",
 	"cashbox-withdrawal-info-2-content": "Hạn chế này đã được thiết lập để ngăn chặn việc rút tiền nhanh. Số tiền vượt quá giới hạn đã quy định chỉ có thể được rút trong một khoảng thời gian lâu hơn. Nếu bạn cần rút số tiền lớn hơn, bạn có thể chia tiền của mình thành các khoản ₽15.000 hoặc $200 hay €200. Bạn không bị giới hạn nào về số yêu cầu rút tiền có thể thực hiện. Nếu bạn muốn rút nhiều tiền hơn trong một lần thanh toán, hãy liên hệ với nhóm hỗ trợ nền tảng. Nếu tài khoản của bạn không được xác minh, có thể sẽ cần đến 3 ngày làm việc để xử lý yêu cầu rút tiền của bạn. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày.",
 	"cashbox-withdrawal-info-3-header": "Quy trình rút tiền nhanh như thế nào?",
 	"cashbox-withdrawal-info-3-content-a": "Cần một giờ để xử lý một yêu cầu, giả sử rằng yêu cầu này được gửi đi trong giờ làm việc của bộ phận tài chính của nền tảng và tài khoản của bạn đã được xác minh theo các yêu cầu của nền tảng. ",

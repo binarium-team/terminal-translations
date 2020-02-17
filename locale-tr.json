@@ -441,7 +441,7 @@
 	"cashbox-withdrawal-info-0-content": "Kullanılabilen seçenekler: banka kartı, Qiwi/Yandex Money/WebMoney e-cüzdanları. Mikro hesap sahiplerinin para çekebilmek için yalnızca bir etkin müraacatı olabilir.",
 	"cashbox-withdrawal-info-1-header": "Hesaptan çekilebilecek maksimum para miktarı nedir?",
 	"cashbox-withdrawal-info-1-content": "Minimum çekme miktarı — 300 ₽ veya 5 $ ya da 5 €. Tek bir işlem için maksimum çekme miktarı — 15.000 ₽ veya 200 $ ya da 200 €.",
-	"cashbox-withdrawal-info-2-header": "15.000 ₽ veya 200 $ ya da 200 € üzerinde bir miktarı nasıl çekebilirim?",
+	"cashbox-withdrawal-info-2-header": "15.000 ₽ veya 200 $ ya da 200, € üzerinde bir miktarı nasıl çekebilirim?",
 	"cashbox-withdrawal-info-2-content": "Bu kısıtlama, hızlı hesap çekme işlemlerini önlemek için getirildi. Belirlenen limiti aşan miktarlar sadece uzun süre içinde çekilebilir. Daha yüksek bir miktar çekmek istiyorsanız paranızı 15.000 ₽ veya 200 $ ya da 200 €'luk çekimlere ayırabilirsiniz. Çekme talebi sayısı bakımından kısıtlama yoktur. Tek bir ödemede daha yüksek bir miktar çekmek isterseniz lütfen platform destek ekibiyle iletişime geçin. Hesabınız doğrulanmamışsa para çekme talebinizin işlenmesi üç iş gününü bulabilir. Günde birden fazla para çekme talebi gönderemezsiniz.",
 	"cashbox-withdrawal-info-3-header": "Çekim işlemi ne kadar hızlıdır?",
 	"cashbox-withdrawal-info-3-content-a": "Platformun finans departmanının iş saatleri sırasında gönderildiği ve platformun gerekliliklerine göre hesabınızın doğrulanmış olduğu farz edildiğinde, talebin işlenmesi bir saat sürer. ",

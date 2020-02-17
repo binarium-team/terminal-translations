@@ -441,7 +441,7 @@
 	"cashbox-withdrawal-info-0-content": "可用选项包括：银行卡、Qwi/Yandex Money/WebMoney 电子钱包。小额账户的所有者只能有一个处理中的出金请求。",
 	"cashbox-withdrawal-info-1-header": "可以从账户中提取的最低金额是多少？",
 	"cashbox-withdrawal-info-1-content": "最低出金金额 - 300 卢布或 5 美元或 5 欧元。单笔交易的最高出金金额 - 15,000 卢布或 200 美元或 200 欧元。",
-	"cashbox-withdrawal-info-2-header": "如何提取 15,000 卢布或 200 美元或 200 欧元以上的金额？",
+	"cashbox-withdrawal-info-2-header": "如何提取 15,000 卢布或 200 美元或 200, 欧元以上的金额？",
 	"cashbox-withdrawal-info-2-content": "设置此限制是为了防止快速账户出金。超过规定限额的金额只能在较长时间内分多次出金。如果您需要提取更大的金额，可以将出金分成 15,000 卢布或 200 美元或 200 欧元。您可以提出的出金请求数量不受限制。如果您想在一次付款中提取更大金额，请联系平台支持团队。如果您的账户未通过验证，则最多可能需要三个工作日才能处理您的出金请求。您每天最多只能提交一个出金请求。",
 	"cashbox-withdrawal-info-3-header": "如何快速提取资金？",
 	"cashbox-withdrawal-info-3-content-a": "假设请求是在平台财务部门的工作时间内提交的，并且您的账户已经根据平台要求进行了验证，则处理该请求需要一个小时。 ",

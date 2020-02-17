@@ -441,7 +441,7 @@
 	"cashbox-withdrawal-info-0-content": "Las opciones disponibles son: tarjeta bancaria o monederos electrónicos Qiwi/Yandex Money/WebMoney. Los dueños de microcuentas pueden tener solo una aplicación activa para el retiro de fondos.",
 	"cashbox-withdrawal-info-1-header": "¿Cuál es el importe mínimo de dinero que se puede retirar de la cuenta?",
 	"cashbox-withdrawal-info-1-content": "Importe mínimo de retiro: ₽300 o $5 o €5. Importe máximo de retiro para una única transacción: ₽15.000 o $200 o €200.",
-	"cashbox-withdrawal-info-2-header": "¿Cómo retiro un importe mayor a ₽15.000 o $200 o €200?",
+	"cashbox-withdrawal-info-2-header": "¿Cómo retiro un importe mayor a ₽15.000 o $200 o €200,?",
 	"cashbox-withdrawal-info-2-content": "Esta restricción tiene como fin evitar retiros rápidos de las cuentas. Los importes que superan el límite establecido solo podrán retirarse durante un período de tiempo mayor. Si necesita retirar un importe mayor, puede dividir sus retiros en importes de ₽15.000 o $200 o €200. No hay límite en la cantidad de solicitudes de retiro que puede hacer. Si quisiera un retiro por un monto mayor en un único pago, por favor contacte al equipo de soporte de la plataforma. Si su cuenta no está verificada, podría tomar hasta 3 días hábiles procesar su solicitud de retiro de fondos. No puede enviar más de una solicitud de retiro de fondos por día.",
 	"cashbox-withdrawal-info-3-header": "¿Qué tan rápido se ejecuta el retiro de fondos?",
 	"cashbox-withdrawal-info-3-content-a": "Procesar una solicitud toma una hora, asumiendo que la solicitud se envíe en el horario de trabajo del departamento financiero de la plataforma y que su cuenta haya sido verificada de acuerdo con los requisitos de la plataforma. ",

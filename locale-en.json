@@ -649,6 +649,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
 	"srv-err_binary-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Asset is disabled for this tournament",
-	"tournament@btn.paid-participate": "Участие",
-	"tournament@info.paid": "Платный турнир"
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

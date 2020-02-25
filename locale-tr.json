@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "Varlık devre dışı bırakıldı",
 	"srv-err_asset-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
 	"srv-err_binary-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

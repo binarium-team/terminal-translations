@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "資産は無効化されています",
 	"srv-err_asset-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
 	"srv-err_binary-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
-	"srv-err_turbo-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています"
+	"srv-err_turbo-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

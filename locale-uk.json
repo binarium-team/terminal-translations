@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "Актив недоступний",
 	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
 	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
+	"tournament@btn.paid-participate": "Участие",
+	"tournament@info.paid": "Платный турнир"
 }

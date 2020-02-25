@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "L'asset è disattivato",
 	"srv-err_asset-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo",
 	"srv-err_binary-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo",
-	"srv-err_turbo-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo"
+	"srv-err_turbo-is-disabled-for-this-tournament": "L'asset è disattivato per questo torneo",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

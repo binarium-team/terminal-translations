@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "crwdns27777:0crwdne27777:0",
 	"srv-err_asset-is-disabled-for-this-tournament": "crwdns27779:0crwdne27779:0",
 	"srv-err_binary-is-disabled-for-this-tournament": "crwdns27861:0crwdne27861:0",
-	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27863:0crwdne27863:0"
+	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27863:0crwdne27863:0",
+	"tournament@btn.paid-participate": "crwdns28008:0crwdne28008:0",
+	"tournament@info.paid": "crwdns28010:0crwdne28010:0"
 }

@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "资产已禁用",
 	"srv-err_asset-is-disabled-for-this-tournament": "资产已对此比赛禁用",
 	"srv-err_binary-is-disabled-for-this-tournament": "资产已对此比赛禁用",
-	"srv-err_turbo-is-disabled-for-this-tournament": "资产已对此比赛禁用"
+	"srv-err_turbo-is-disabled-for-this-tournament": "资产已对此比赛禁用",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

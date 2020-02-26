@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "Ativo desativado",
 	"srv-err_asset-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
 	"srv-err_binary-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Ativo desativado para este torneio"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

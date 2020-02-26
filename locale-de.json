@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "Anlage ist deaktiviert",
 	"srv-err_asset-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
 	"srv-err_binary-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

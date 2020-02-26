@@ -648,5 +648,7 @@
 	"srv-err_asset-is-disabled": "สินทรัพย์ถูกปิดใช้งาน",
 	"srv-err_asset-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
 	"srv-err_binary-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
-	"srv-err_turbo-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้"
+	"srv-err_turbo-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

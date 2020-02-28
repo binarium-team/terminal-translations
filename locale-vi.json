@@ -652,6 +652,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
 	"srv-err_binary-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "Phí tham gia",
+	"tournament@info.paid": "Cuộc thi có tiền thưởng"
 }

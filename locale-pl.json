@@ -652,6 +652,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
 	"srv-err_binary-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "Wpisowe",
+	"tournament@info.paid": "Płatny konkurs"
 }

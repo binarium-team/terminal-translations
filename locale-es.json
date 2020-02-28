@@ -652,6 +652,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
 	"srv-err_binary-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "Precio de la inscripción",
+	"tournament@info.paid": "Torneo pago"
 }

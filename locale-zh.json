@@ -145,8 +145,11 @@
 	"payment-history": "支付历史记录",
 	"exit": "退出",
 	"count-second-short": "{{@count}} 秒",
+	"count-seconds-short": "{{@count}} 秒",
 	"count-minute-short": "{{@count}} 分钟",
+	"count-minutes-short": "{{@count}} 分钟",
 	"count-hour-short": "{{@count}} 小时",
+	"count-hours-short": "{{@count}} 小时",
 	"count-day-short": "{{@count}} 天",
 	"binary-cap": "二元",
 	"error-too-small-bet": "无法进行金额为 {{@sum}} 的下注，货币 {{@currency}} 的最小下注为 {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "资产已禁用",
 	"srv-err_asset-is-disabled-for-this-tournament": "资产已对此比赛禁用",
 	"srv-err_binary-is-disabled-for-this-tournament": "资产已对此比赛禁用",
-	"srv-err_turbo-is-disabled-for-this-tournament": "资产已对此比赛禁用"
+	"srv-err_turbo-is-disabled-for-this-tournament": "资产已对此比赛禁用",
+	"tournament@btn.paid-participate": "Entry fee",
+	"tournament@info.paid": "Paid tournament"
 }

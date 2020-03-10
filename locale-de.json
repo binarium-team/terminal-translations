@@ -145,8 +145,11 @@
 	"payment-history": "Zahlungsverlauf",
 	"exit": "Abmeldung",
 	"count-second-short": "{{@count}} s",
+	"count-seconds-short": "{{@count}} s",
 	"count-minute-short": "{{@count}} m",
+	"count-minutes-short": "{{@count}} m",
 	"count-hour-short": "{{@count}} h",
+	"count-hours-short": "{{@count}} h",
 	"count-day-short": "{{@count}} d",
 	"binary-cap": "Binär",
 	"error-too-small-bet": "Es ist unmöglich, einen Einsatz von {{@sum}} zu setzen, der minimale Einsatz für die Währung {{@currency}} beträgt {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "Anlage ist deaktiviert",
 	"srv-err_asset-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
 	"srv-err_binary-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Anlage ist für dieses Turnier deaktiviert",
+	"tournament@btn.paid-participate": "Startgeld",
+	"tournament@info.paid": "Zahlungspflichtiges Turnier"
 }

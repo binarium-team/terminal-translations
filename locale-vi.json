@@ -145,8 +145,11 @@
 	"payment-history": "Lịch sử thanh toán",
 	"exit": "Đăng xuất",
 	"count-second-short": "{{@count}} giây",
+	"count-seconds-short": "{{@count}} giây",
 	"count-minute-short": "{{@count}} phút",
+	"count-minutes-short": "{{@count}} phút",
 	"count-hour-short": "{{@count}} giờ",
+	"count-hours-short": "{{@count}} giờ",
 	"count-day-short": "{{@count}} ngày",
 	"binary-cap": "Nhị phân",
 	"error-too-small-bet": "Không thể đặt cược {{@sum}}, khoản cược tối thiểu cho đồng tiền {{@currency}} là {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "Tài sản bị vô hiệu",
 	"srv-err_asset-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
 	"srv-err_binary-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
+	"tournament@btn.paid-participate": "Phí tham gia",
+	"tournament@info.paid": "Cuộc thi có tiền thưởng"
 }

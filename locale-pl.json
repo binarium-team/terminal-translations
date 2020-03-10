@@ -145,8 +145,11 @@
 	"payment-history": "Historia płatności",
 	"exit": "Wyloguj",
 	"count-second-short": "{{@count}} s",
+	"count-seconds-short": "{{@count}} s",
 	"count-minute-short": "{{@count}} m",
+	"count-minutes-short": "{{@count}} m",
 	"count-hour-short": "{{@count}} h",
+	"count-hours-short": "{{@count}} h",
 	"count-day-short": "{{@count}} d",
 	"binary-cap": "Binarne",
 	"error-too-small-bet": "Nie można zlecić kupna na kwotę {{@sum}}, minimalne zlecenie sprzedaży waluty {{@currency}} wynosi {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "Aktywa są wyłączone",
 	"srv-err_asset-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
 	"srv-err_binary-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Aktywa są wyłączone w tym konkursie",
+	"tournament@btn.paid-participate": "Wpisowe",
+	"tournament@info.paid": "Płatny konkurs"
 }

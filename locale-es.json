@@ -145,8 +145,11 @@
 	"payment-history": "Historial de pagos",
 	"exit": "Cerrar la sesión",
 	"count-second-short": "{{@count}} s",
+	"count-seconds-short": "{{@count}} s",
 	"count-minute-short": "{{@count}} m",
+	"count-minutes-short": "{{@count}} m",
 	"count-hour-short": "{{@count}} h",
+	"count-hours-short": "{{@count}} h",
 	"count-day-short": "{{@count}} d",
 	"binary-cap": "Binarios",
 	"error-too-small-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta mínima para la moneda {{@currency}} es {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "Activo deshabilitado",
 	"srv-err_asset-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
 	"srv-err_binary-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
+	"tournament@btn.paid-participate": "Precio de la inscripción",
+	"tournament@info.paid": "Torneo pago"
 }

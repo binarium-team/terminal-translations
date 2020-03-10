@@ -145,8 +145,11 @@
 	"payment-history": "Історія операцій",
 	"exit": "Вихід",
 	"count-second-short": "{{@count}} c",
+	"count-seconds-short": "{{@count}} c",
 	"count-minute-short": "{{@count}} хв",
+	"count-minutes-short": "{{@count}} хв",
 	"count-hour-short": "{{@count}} г",
+	"count-hours-short": "{{@count}} г",
 	"count-day-short": "{{@count}} д",
 	"binary-cap": "Бінарний",
 	"error-too-small-bet": "Мінімальна доступна інвестиція {{@minbet}}",
@@ -649,6 +652,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
 	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"tournament@btn.paid-participate": "Участие",
-	"tournament@info.paid": "Платный турнир"
+	"tournament@btn.paid-participate": "Участь",
+	"tournament@info.paid": "Платний турнір"
 }

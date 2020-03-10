@@ -145,8 +145,11 @@
 	"payment-history": "ประวัติการชำระเงิน",
 	"exit": "ออกจากระบบ",
 	"count-second-short": "{{@count}} วินาที",
+	"count-seconds-short": "{{@count}} วินาที",
 	"count-minute-short": "{{@count}} นาที",
+	"count-minutes-short": "{{@count}} นาที",
 	"count-hour-short": "{{@count}} ชม.",
+	"count-hours-short": "{{@count}} ชม.",
 	"count-day-short": "{{@count}} วัน",
 	"binary-cap": "ไบนารี",
 	"error-too-small-bet": "ไม่สามารถวางเดิมพันเท่ากับ {{@sum}} ได้ จำนวนเงินเดิมพันขั้นต่ำของสกุลเงิน {{@currency}} คือ {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "สินทรัพย์ถูกปิดใช้งาน",
 	"srv-err_asset-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
 	"srv-err_binary-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
-	"srv-err_turbo-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้"
+	"srv-err_turbo-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
+	"tournament@btn.paid-participate": "ค่าธรรมเนียมการเข้าร่วม",
+	"tournament@info.paid": "ทัวร์นาเมนต์ที่ต้องชำระเงิน"
 }

@@ -145,8 +145,11 @@
 	"payment-history": "支払い履歴",
 	"exit": "ログアウト",
 	"count-second-short": "{{@count}} 秒",
+	"count-seconds-short": "{{@count}} 秒",
 	"count-minute-short": "{{@count}} 分",
+	"count-minutes-short": "{{@count}} 分",
 	"count-hour-short": "{{@count}} 時間",
+	"count-hours-short": "{{@count}} 時間",
 	"count-day-short": "{{@count}} 日",
 	"binary-cap": "バイナリー",
 	"error-too-small-bet": "このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最小ベットは{{@minbet}} です。",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "資産は無効化されています",
 	"srv-err_asset-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
 	"srv-err_binary-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
-	"srv-err_turbo-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています"
+	"srv-err_turbo-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
+	"tournament@btn.paid-participate": "入場料",
+	"tournament@info.paid": "支払い済みのトーナメント"
 }

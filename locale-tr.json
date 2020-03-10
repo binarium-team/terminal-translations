@@ -145,8 +145,11 @@
 	"payment-history": "Ödeme geçmişi",
 	"exit": "Çıkış",
 	"count-second-short": "{{@count}} sn",
+	"count-seconds-short": "{{@count}} sn",
 	"count-minute-short": "{{@count}} dk",
+	"count-minutes-short": "{{@count}} dk",
 	"count-hour-short": "{{@count}} st",
+	"count-hours-short": "{{@count}} st",
 	"count-day-short": "{{@count}} gn",
 	"binary-cap": "İkili",
 	"error-too-small-bet": "{{@sum}} değerine eşit bir bahiste bulunmak mümkün değildir, {{@currency}} para birimi için minimum bahis miktarı; {{@minbet}}",
@@ -648,5 +651,7 @@
 	"srv-err_asset-is-disabled": "Varlık devre dışı bırakıldı",
 	"srv-err_asset-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
 	"srv-err_binary-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı"
+	"srv-err_turbo-is-disabled-for-this-tournament": "Bu turnuva için varlık devre dışı bırakıldı",
+	"tournament@btn.paid-participate": "Giriş ücreti",
+	"tournament@info.paid": "Ücretli turnuva"
 }

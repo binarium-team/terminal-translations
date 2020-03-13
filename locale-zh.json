@@ -343,9 +343,9 @@
 	"mobile-received-bonus-value": "+ 奖励金 {{@bonus}}",
 	"expires-in": "距到期剩余时间：",
 	"cannot-buy-option-try-later": "无法开立此交易，请稍后再试。",
-	"notifications$demo-option-limit": "Want to open more than 5 trades at once? Open a real account. To continue using your demo account, wait until the trade is complete",
+	"notifications$demo-option-limit": "想要一次执行 5 个以上的交易？请开立真实账户。要继续使用您的模拟账户，请等待该交易完成",
 	"max-total-bet-limit-exceeded": "您已超出允许的交易金额。\n  允许的交易金额为 {{@maxBet}}",
-	"chart-opens-in": "Asset will be available in:",
+	"chart-opens-in": "资产将在以下时间后可用：",
 	"hint-activate-tment-wallet": "点击此处开始使用比赛账户",
 	"largest-profit-banner-on-the-asset": "在资产上",
 	"largest-profit-banner-button-trade-caption": "交易",
@@ -653,6 +653,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "资产已对此比赛禁用",
 	"srv-err_binary-is-disabled-for-this-tournament": "资产已对此比赛禁用",
 	"srv-err_turbo-is-disabled-for-this-tournament": "资产已对此比赛禁用",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "报名费",
+	"tournament@info.paid": "付费比赛"
 }

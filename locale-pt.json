@@ -343,9 +343,9 @@
 	"mobile-received-bonus-value": "+ bónus {{@bonus}}",
 	"expires-in": "Expira em",
 	"cannot-buy-option-try-later": "Não foi possível abrir esta negociação, tente novamente mais tarde.",
-	"notifications$demo-option-limit": "Want to open more than 5 trades at once? Open a real account. To continue using your demo account, wait until the trade is complete",
+	"notifications$demo-option-limit": "Quer abrir mais do que 5 negócios ao mesmo tempo? Abra uma conta real. Para continuar a utilizar a sua conta de demonstração, aguarde até o negócio estar concluído",
 	"max-total-bet-limit-exceeded": "Ultrapassou o limite permitido de negociação.\n O imite permitido de negociação é {{@maxBet}}",
-	"chart-opens-in": "Asset will be available in:",
+	"chart-opens-in": "O ativo estará disponível em:",
 	"hint-activate-tment-wallet": "Prima aqui para começar a utilizar a conta de concurso",
 	"largest-profit-banner-on-the-asset": "no ativo",
 	"largest-profit-banner-button-trade-caption": "Negociar",
@@ -653,6 +653,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
 	"srv-err_binary-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
 	"srv-err_turbo-is-disabled-for-this-tournament": "Ativo desativado para este torneio",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "Taxa de entrada",
+	"tournament@info.paid": "Torneio pago"
 }

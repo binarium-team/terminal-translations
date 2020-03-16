@@ -343,8 +343,9 @@
 	"mobile-received-bonus-value": "+ 보너스 {{@bonus}}",
 	"expires-in": "만료까지 남은 시간:",
 	"cannot-buy-option-try-later": "이 거래를 시작할 수 없습니다. 나중에 다시 시도해 주십시오.",
+	"notifications$demo-option-limit": "5개 넘는 거래를 한 번에 열고 싶으십니까? 그렇다면 실제 계정에서 여십시오. 데모 계정을 계속 사용하려면 거래가 완료될 때까지 기다리셔야 합니다.",
 	"max-total-bet-limit-exceeded": "허용된 거래 금액을 초과했습니다.\n 허용된 거래 금액은 최대 {{@maxBet}}입니다.",
-	"chart-opens-in": "시작까지 남은 시간:",
+	"chart-opens-in": "자산 이용 가능 위치:",
 	"hint-activate-tment-wallet": "컨테스트 계좌를 사용해 시작하려면 여기를 누르십시오.",
 	"largest-profit-banner-on-the-asset": "자산에서",
 	"largest-profit-banner-button-trade-caption": "거래",
@@ -652,6 +653,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
 	"srv-err_binary-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
 	"srv-err_turbo-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "참가비",
+	"tournament@info.paid": "유료 토너먼트"
 }

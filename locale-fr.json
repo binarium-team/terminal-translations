@@ -343,8 +343,9 @@
 	"mobile-received-bonus-value": "+ bonus {{@bonus}}",
 	"expires-in": "Expire dans",
 	"cannot-buy-option-try-later": "Impossible d'ouvrir cet échange, merci de réessayer plus tard.",
+	"notifications$demo-option-limit": "Vous voulez ouvrir plus de 5 échanges à la fois ? Ouvrez un vrai compte. Pour continuer à utiliser votre compte démo, attendez que l'échange se termine",
 	"max-total-bet-limit-exceeded": "Vous avez dépassé le montant d'échange autorisé.\n Le montant autorisé est {{@maxBet}}",
-	"chart-opens-in": "S'ouvre dans :",
+	"chart-opens-in": "L'actif sera disponible dans :",
 	"hint-activate-tment-wallet": "Appuyez ici pour commencer à utiliser le compte de concours",
 	"largest-profit-banner-on-the-asset": "sur l'actif",
 	"largest-profit-banner-button-trade-caption": "Échanger",
@@ -652,6 +653,6 @@
 	"srv-err_asset-is-disabled-for-this-tournament": "L'actif est désactivé pour ce tournoi",
 	"srv-err_binary-is-disabled-for-this-tournament": "L'actif est désactivé pour ce tournoi",
 	"srv-err_turbo-is-disabled-for-this-tournament": "L'actif est désactivé pour ce tournoi",
-	"tournament@btn.paid-participate": "Entry fee",
-	"tournament@info.paid": "Paid tournament"
+	"tournament@btn.paid-participate": "Frais d'inscription",
+	"tournament@info.paid": "Tournoi payant"
 }

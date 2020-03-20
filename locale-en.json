@@ -152,7 +152,7 @@
 	"count-hours-short": "{{@count}} h",
 	"count-day-short": "{{@count}} d",
 	"binary-cap": "Binary",
-	"error-too-small-bet": "Impossible to make a bet equal to {{@sum}}, the minimum bet for the currency {{@currency}} is {{@minbet}}",
+	"error-too-small-bet": "The minimum bet is {{@minbet}}",
 	"error-too-big-bet": "It is impossible to make a bet equal to {{@sum}}, the maximum bet for the currency {{@currency}} is {{@maxbet}}",
 	"error-wrong-expiration": "Wrong expiration time {{@time}}",
 	"not-enough-money": "You have insufficient funds in your account.",

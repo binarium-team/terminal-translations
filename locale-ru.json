@@ -541,7 +541,7 @@
 	"demo-stats-banner-you-have-trades-closed-in-a-row": "сделок подряд",
 	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "прибыльных сделок подряд",
 	"demo-stats-banner-earning-on-demo-account": "Заработок на демосчёте",
-	"demo-stats-banner-closed-inarow-2": "успешных сделок",
+	"demo-stats-banner-closed-in-a-row-2": "успешных сделок",
 	"tour-next-button-caption": "Далее",
 	"tour-reading-duration-caption": "Чтение 4 мин.",
 	"tour-slides-steps-count": "Шаг {{@currentSlide}} из {{@totalSlidesCount}}",

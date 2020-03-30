@@ -748,7 +748,7 @@
 	"menu@faq": "FAQ",
 	"cashbox@no-bonus": "Не отримувати бонус",
 	"wallet-menu@real-title": "Реальні кошти",
-	"wallet-menu@bonus-title": "Бонусные средства",
-	"wallet-menu@wager-title": "Оборот для вывода бонуса",
-	"wallet-menu@wager-link": "Подробнее о бонусах"
+	"wallet-menu@bonus-title": "Бонусні кошти",
+	"wallet-menu@wager-title": "Оборот для виведення бонусу",
+	"wallet-menu@wager-link": "Детальніше про бонуси"
 }

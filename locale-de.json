@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>Alle Informationen aus dem Transaktionsverlauf sind im System des Brokers gespeichert. Darin sind die exakten Kurse der Anlage zur Schluss- und Öffnungszeit der Transaktion, der Anlagenname, die sekundengenaue Öffnungs-/Schlusszeit der Transaktion enthalten.</p><p>Sollte der Händler Zweifel haben, sendet der Broker eine Anfrage an den Angebotsanbieter zur Abstimmung von Kursen. In diesem Fall dauert der Verifizierungsvorgang ab dem Zeitpunkt der Anmeldung weniger als drei Tage. Der Kunde erhält die Verifizierungsergebnisse direkt nachdem sie bei Binarium eingehen.</p>",
 	"faq@c3q10": "Warum stimmen die Kurse nicht mit den FOREX-Kursen und anderen Quellen überein?",
 	"faq@c3a10": "<p>Für die Unterschiede gibt es folgende Gründe:</p><ul><li>Forex zeigt den Bid-Ask-Kurs an, wobei Binarium den Durchschnittskurs angibt. Dieser wird mit der Formel (Bid+Ask)/2 berechnet;</li><li>Die Kurse stammen von unterschiedlichen Quellen, deshalb unterscheiden sie sich leicht;</li><li>Eine kleine Zeitdifferenz beim Erhalt der Kurse kann zu Unterschieden der Kurse führen (genauestens bei der 4. oder 5. Kommastelle).</li></ul><p>Bei der Anmeldung stimmen Sie den Kursen von Binarium als primäre Quellen zu. Sie stimmen womöglich nicht mit den Kursen anderer Quellen überein. Dritte Quellen können nicht zum Ausgleich von Kursen angegeben werden, sondern dürfen nur als Hilfsmittel Anwendung finden.</p>",
-	"menu@faq": "FAQ"
+	"menu@faq": "FAQ",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

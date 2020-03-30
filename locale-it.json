@@ -749,6 +749,6 @@
 	"cashbox@no-bonus": "Non ricevere il bonus",
 	"wallet-menu@real-title": "Fondi reali",
 	"wallet-menu@bonus-title": "Fondi bonus",
-	"wallet-menu@wager-title": "Turnover to withdraw bonus",
-	"wallet-menu@wager-link": "Read more about bonuses"
+	"wallet-menu@wager-title": "Volume di transazioni per prelevare il bonus",
+	"wallet-menu@wager-link": "Maggiori informazioni sui bonus"
 }

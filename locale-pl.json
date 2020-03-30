@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>Wszystkie informacje dostępne w historii transakcji są przechowywane w systemie brokera. Obejmują one dokładną cenę aktywów w chwili zamknięcia i otwarcia transakcji, nazwę aktywów oraz czas otwarcia/zamknięcia transakcji co do sekundy.</p><p>Jeśli trader ma jakiekolwiek wątpliwości, broker wyśle do oferenta zapytanie dotyczące uzgodnienia kursów. W tym przypadku proces weryfikacji trwa nie krócej niż 3 dni od daty złożenia wniosku. Klient otrzymuje wyniki weryfikacji natychmiast po ich otrzymaniu przez Binarium.</p>",
 	"faq@c3q10": "Dlaczego notowania nie pokrywają się z notowaniami FOREX i innych źródeł?",
 	"faq@c3a10": "<p>Przyczyny takiej rozbieżności są następujące: </p><ul><li>Forex wyświetla cenę kupna (bid) i sprzedaży (ask), a Binarium wyświetla średnią cenę, obliczaną według wzoru (cena kupna+cena sprzedaży)/2;</li><li>Notowania pochodzą z różnych źródeł, mogą się więc nieznacznie różnić;</li><li>Niewielka różnica w czasie otrzymania notowań może spowodować różnicę kursów (dokładnie — 4 lub 5 cyfr po przecinku).</li></ul><p>Rejestrując się zgadzasz się, że to właśnie notowania z Binarium są najważniejsze. Mogą one nie pokrywać się z notowaniami z innych źródeł. Źródła zewnętrzne nie mogą być stosowane do uzgadniania notowań, mogą być wykorzystywane wyłącznie jako narzędzie pomocnicze.</p>",
-	"menu@faq": "Często zadawane pytania"
+	"menu@faq": "Często zadawane pytania",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

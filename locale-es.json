@@ -749,6 +749,6 @@
 	"cashbox@no-bonus": "No recibir bonificación",
 	"wallet-menu@real-title": "Fondos reales",
 	"wallet-menu@bonus-title": "Fondos de bonificación",
-	"wallet-menu@wager-title": "Turnover to withdraw bonus",
-	"wallet-menu@wager-link": "Read more about bonuses"
+	"wallet-menu@wager-title": "Monto de transacciones para retirar la bonificación",
+	"wallet-menu@wager-link": "Leer más acerca de las bonificaciones"
 }

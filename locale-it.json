@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>Tutte le informazioni che vedi nella cronologia delle transazioni sono memorizzate nel sistema del broker. Contiene il prezzo esatto dell'asset al momento della chiusura e dell'apertura della transazione, il nome dell'asset, l'orario di apertura/chiusura della transazione al secondo.</p><p>Se il trader ha dei dubbi, il broker invierà una richiesta al fornitore delle quotazioni per quanto riguarda la riconciliazione delle quotazioni. In questo caso, il processo di verifica dura non meno di 3 giorni dalla data della richiesta. Il cliente riceve i risultati della verifica subito dopo essere stati ricevuti da Binarium.</p>",
 	"faq@c3q10": "Perché le quotazioni non coincidono con le quotazioni di FOREX e altre fonti?",
 	"faq@c3a10": "<p>Le ragioni di tale variazione sono:</p><ul><li>Forex visualizza il prezzo di Bid e Ask, mentre Binarium visualizza il prezzo medio, che è calcolato con la formula (Bid + Ask)/2;</li><li>le quotazioni provengono da fonti diverse, possono variare leggermente;</li><li>una piccola differenza nel momento della ricezione delle quotazioni può causare una differenza di quotazioni (esattamente - 4°-5° cifra dopo la virgola).</li></ul><p>Registrandoti accetti che sono le quotazioni di Binarium a essere di primaria importanza. Esse potrebbero non coincidere con le quotazioni di altre fonti. Le fonti di terze parti non possono essere utilizzate per riconciliare le quotazioni, possono essere utilizzate solo come strumento ausiliario.</p>",
-	"menu@faq": "FAQ"
+	"menu@faq": "FAQ",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

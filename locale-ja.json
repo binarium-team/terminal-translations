@@ -749,6 +749,6 @@
 	"cashbox@no-bonus": "ボーナスを受け取らないでください",
 	"wallet-menu@real-title": "掘り出し物",
 	"wallet-menu@bonus-title": "ボーナスファンド",
-	"wallet-menu@wager-title": "Turnover to withdraw bonus",
-	"wallet-menu@wager-link": "Read more about bonuses"
+	"wallet-menu@wager-title": "ターンオーバーしてボーナスを引き落とす",
+	"wallet-menu@wager-link": "ボーナスについて続きを読む"
 }

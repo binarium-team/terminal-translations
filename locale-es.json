@@ -746,9 +746,9 @@
 	"faq@c3q10": "¿Por qué las cotizaciones no coinciden con las cotizaciones FOREX y de otras fuentes?",
 	"faq@c3a10": "<p>Las razones de tal variación son: </p><ul><li>Forex muestra el precio de Bid y Ask, mientras que Binarium muestra el precio medio, que se calcula mediante la fórmula (Bid+Ask)/2;</li><li>Las cotizaciones provienen de diferentes fuentes y pueden variar ligeramente;</li><li>Una pequeña diferencia en el momento de la recepción de las cotizaciones puede causar una diferencia en las cotizaciones (exactamente - 4º -5º dígito después de una coma).</li></ul><p>Al registrarse, estás de acuerdo en que las cotizaciones de Binarium son las que tienen mayor importancia. Pueden no coincidir con las cotizaciones de otros recursos. Los recursos de terceros no se pueden utilizar para conciliar cotizaciones, solo se pueden utilizar como herramienta auxiliar.</p>",
 	"menu@faq": "FAQ",
-	"cashbox@no-bonus": "Don't receive bonus",
-	"wallet-menu@real-title": "Real funds",
-	"wallet-menu@bonus-title": "Bonus funds",
+	"cashbox@no-bonus": "No recibir bonificación",
+	"wallet-menu@real-title": "Fondos reales",
+	"wallet-menu@bonus-title": "Fondos de bonificación",
 	"wallet-menu@wager-title": "Turnover to withdraw bonus",
 	"wallet-menu@wager-link": "Read more about bonuses"
 }

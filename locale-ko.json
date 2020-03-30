@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>All information you see in the history of transactions is stored in the broker's system. It contains the exact price of the asset at the time of closing and opening the transaction, the name of the asset, the opening/closing time of the transaction to within a second.</p><p>If the trader has any doubts, the broker will send a request to the quotation provider regarding the reconciliation of quotations. In this case, the verification process lasts no less than 3 days from the date of the application. The client receives the verification results immediately after they are received by the Binarium.</p>",
 	"faq@c3q10": "Why quotes do not coincide with FOREX-quotations and other sources?",
 	"faq@c3a10": "<p>The reasons for such variance are:</p><ul><li>Forex displays the price of Bid and Ask, while Binarium displays the average price, which is calculated by the formula (Bid+Ask)/2;</li><li>Quotations come from different sources, they may vary slightly;</li><li>A small difference in the time of receipt of quotations may cause a difference in quotes (exactly - 4th-5th digit after comma).</li></ul><p>By registering you agree that it is the quotes from Binarium that are of primary importance. They may not coincide with quotations from other resources. Third-party resources can not be used to reconcile quotations, they can be used only as an auxiliary tool.</p>",
-	"menu@faq": "FAQ"
+	"menu@faq": "FAQ",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

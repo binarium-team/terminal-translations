@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>Toàn bộ thông tin bạn nhìn thấy trong lịch sử giao dịch được lưu trữ trong hệ thống của nhà môi giới. Nó chứa giá chính xác của tài sản tại thời điểm đóng và mở giao dịch, tên của tài sản, giờ mở/đóng cửa của giao dịch chính xác đến một giây.</p><p>Nếu nhà giao dịch có bất kỳ nghi vấn nào, nhà môi giới sẽ gửi một yêu cầu đến đơn vị cung cấp báo giá về việc tái điều giải báo giá. Trong trường hợp này, quy trình xác minh sẽ kéo dài tối đa 3 ngày kể từ ngày tiếp nhận đơn. Khách hàng sẽ nhận được kết quả xác minh ngay sau khi Binarium tiếp nhận chúng.</p>",
 	"faq@c3q10": "Vì sao báo giá không khớp với báo giá FOREX và các nguồn khác?",
 	"faq@c3a10": "<p>Lý do cho sự chênh lệch này là:</p><ul><li>Forex hiển thị giá Chào mua và Chào bán, trong khi Binarium hiển thị giá trung bình, được tính theo công thức (Chào mua+Chào bán)/2;</li><li>Báo giá đến từ các nguồn khác nhau, và có thể chênh lệch đôi chút;</li><li>Một sự chênh lệch nhỏ trong thời gian tiếp nhận báo giá có thể gây ra báo giá khác nhau (chính xác - số thập phân thứ 4 hoặc thứ 5 sau dấu phẩy).</li></ul><p>Thông qua việc đăng ký, bạn đồng ý rằng báo giá từ Binarium là quan trọng nhất. Báo giá này có thể không trùng với báo giá từ các nguồn khác. Các tài nguyên của bên thứ ba không thể được sử dụng để tái điều giải báo giá, chúng chỉ có thể được sử dụng như một công cụ phụ trợ.</p>",
-	"menu@faq": "FAQ"
+	"menu@faq": "FAQ",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

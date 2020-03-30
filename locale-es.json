@@ -745,5 +745,10 @@
 	"faq@c3a9": "<p>Toda la información que ve en el historial de transacciones se almacena en el sistema del agente. Contiene el precio exacto del activo en el momento del cierre y apertura de la transacción, el nombre del activo, el tiempo de apertura/cierre de la transacción hasta un segundo.</p><p>Si el trader tiene alguna duda, el agente enviará una solicitud al proveedor de la cotización en relación con la conciliación de las cotizaciones. En este caso, el proceso de verificación dura por lo menos 3 días a partir de la fecha de la solicitud. El cliente recibe los resultados de la verificación inmediatamente después de recibirlos en la plataforma Binarium.</p>",
 	"faq@c3q10": "¿Por qué las cotizaciones no coinciden con las cotizaciones FOREX y de otras fuentes?",
 	"faq@c3a10": "<p>Las razones de tal variación son: </p><ul><li>Forex muestra el precio de Bid y Ask, mientras que Binarium muestra el precio medio, que se calcula mediante la fórmula (Bid+Ask)/2;</li><li>Las cotizaciones provienen de diferentes fuentes y pueden variar ligeramente;</li><li>Una pequeña diferencia en el momento de la recepción de las cotizaciones puede causar una diferencia en las cotizaciones (exactamente - 4º -5º dígito después de una coma).</li></ul><p>Al registrarse, estás de acuerdo en que las cotizaciones de Binarium son las que tienen mayor importancia. Pueden no coincidir con las cotizaciones de otros recursos. Los recursos de terceros no se pueden utilizar para conciliar cotizaciones, solo se pueden utilizar como herramienta auxiliar.</p>",
-	"menu@faq": "FAQ"
+	"menu@faq": "FAQ",
+	"cashbox@no-bonus": "Не получать бонус",
+	"wallet-menu@real-title": "Реальные средства",
+	"wallet-menu@bonus-title": "Бонусные средства",
+	"wallet-menu@wager-title": "Оборот для вывода бонуса",
+	"wallet-menu@wager-link": "Подробнее о бонусах"
 }

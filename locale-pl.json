@@ -746,8 +746,8 @@
 	"faq@c3q10": "Dlaczego notowania nie pokrywają się z notowaniami FOREX i innych źródeł?",
 	"faq@c3a10": "<p>Przyczyny takiej rozbieżności są następujące: </p><ul><li>Forex wyświetla cenę kupna (bid) i sprzedaży (ask), a Binarium wyświetla średnią cenę, obliczaną według wzoru (cena kupna+cena sprzedaży)/2;</li><li>Notowania pochodzą z różnych źródeł, mogą się więc nieznacznie różnić;</li><li>Niewielka różnica w czasie otrzymania notowań może spowodować różnicę kursów (dokładnie — 4 lub 5 cyfr po przecinku).</li></ul><p>Rejestrując się zgadzasz się, że to właśnie notowania z Binarium są najważniejsze. Mogą one nie pokrywać się z notowaniami z innych źródeł. Źródła zewnętrzne nie mogą być stosowane do uzgadniania notowań, mogą być wykorzystywane wyłącznie jako narzędzie pomocnicze.</p>",
 	"menu@faq": "Często zadawane pytania",
-	"cashbox@no-bonus": "Don't receive bonus",
-	"wallet-menu@real-title": "Real funds",
+	"cashbox@no-bonus": "Nie odbieraj premii",
+	"wallet-menu@real-title": "Faktyczne środki",
 	"wallet-menu@bonus-title": "Bonus funds",
 	"wallet-menu@wager-title": "Turnover to withdraw bonus",
 	"wallet-menu@wager-link": "Read more about bonuses"

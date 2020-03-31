@@ -748,7 +748,7 @@
 	"menu@faq": "Często zadawane pytania",
 	"cashbox@no-bonus": "Nie odbieraj premii",
 	"wallet-menu@real-title": "Faktyczne środki",
-	"wallet-menu@bonus-title": "Bonus funds",
-	"wallet-menu@wager-title": "Turnover to withdraw bonus",
+	"wallet-menu@bonus-title": "Środki premiowe",
+	"wallet-menu@wager-title": "Obrót do wypłaty premii",
 	"wallet-menu@wager-link": "Read more about bonuses"
 }

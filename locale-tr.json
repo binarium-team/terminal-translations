@@ -746,9 +746,9 @@
 	"faq@c3q10": "Teklifler neden FOREX teklifleri ve diğer kaynaklarla uyuşmuyor?",
 	"faq@c3a10": "<p>Varyansın sebepleri:</p><ul><li>Forex Teklif ve Sor ücretini görüntüler, bu sırada Binarium ortalama fiyatı gösterirken, ki bu fiyat (Teklif+Sor)/2 formülüyle hesaplanır;</li><li>Kotasyonlar farklı kaynaklardan gelir ve ufak farklılıklar gösterebilir;</li><li>Kotasyon hasılatı zamanında ufak bir farklılık kurlarda farklılıklara sebep olabilir (tam olarak virgülden sonra 4.-5. hane).</li></ul><p> Kayıt yaptırarak Binarium'dan gelen kurların öncelikli olduğunu kabul etmiş oluyorsunuz. Bu kurlar diğer kaynaklardan gelen kotasyonlarla örtüşmeyebilir, Üçüncü taraf kaynakları kotasyon uzlaşması için kullanılamazlar, yalnızca yardımcı araç olarak kullanılabilirler.<p>",
 	"menu@faq": "SSS",
-	"cashbox@no-bonus": "Не получать бонус",
-	"wallet-menu@real-title": "Реальные средства",
-	"wallet-menu@bonus-title": "Бонусные средства",
-	"wallet-menu@wager-title": "Оборот для вывода бонуса",
-	"wallet-menu@wager-link": "Подробнее о бонусах"
+	"cashbox@no-bonus": "Bonus alma",
+	"wallet-menu@real-title": "Gerçek fon",
+	"wallet-menu@bonus-title": "Bonus fon",
+	"wallet-menu@wager-title": "Bonus çekmek için ciro",
+	"wallet-menu@wager-link": "Bonuslar hakkında daha fazla bilgi alın"
 }

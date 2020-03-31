@@ -746,9 +746,9 @@
 	"faq@c3q10": "Why quotes do not coincide with FOREX-quotations and other sources?",
 	"faq@c3a10": "<p>The reasons for such variance are:</p><ul><li>Forex displays the price of Bid and Ask, while Binarium displays the average price, which is calculated by the formula (Bid+Ask)/2;</li><li>Quotations come from different sources, they may vary slightly;</li><li>A small difference in the time of receipt of quotations may cause a difference in quotes (exactly - 4th-5th digit after comma).</li></ul><p>By registering you agree that it is the quotes from Binarium that are of primary importance. They may not coincide with quotations from other resources. Third-party resources can not be used to reconcile quotations, they can be used only as an auxiliary tool.</p>",
 	"menu@faq": "FAQ",
-	"cashbox@no-bonus": "Не получать бонус",
-	"wallet-menu@real-title": "Реальные средства",
-	"wallet-menu@bonus-title": "Бонусные средства",
-	"wallet-menu@wager-title": "Оборот для вывода бонуса",
-	"wallet-menu@wager-link": "Подробнее о бонусах"
+	"cashbox@no-bonus": "ボーナスを受け取らないでください",
+	"wallet-menu@real-title": "掘り出し物",
+	"wallet-menu@bonus-title": "ボーナスファンド",
+	"wallet-menu@wager-title": "ターンオーバーしてボーナスを引き落とす",
+	"wallet-menu@wager-link": "ボーナスについて続きを読む"
 }

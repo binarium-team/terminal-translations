@@ -751,7 +751,7 @@
 	"wallet-menu@bonus-title": "ボーナスファンド",
 	"wallet-menu@wager-title": "ターンオーバーしてボーナスを引き落とす",
 	"wallet-menu@wager-link": "ボーナスについて続きを読む",
-	"modal-bonus@title": "You are using bonus funds",
+	"modal-bonus@title": "ボーナスファンドを使っています",
 	"modal-bonus@text": "The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:",
 	"modal-bonus@deal-size": "Trade size",
 	"modal-bonus@real-size": "Real funds",

@@ -762,5 +762,5 @@
 	"modal-bonus@btn-continue": "同意して続ける",
 	"modal-bonus@disable": "今後、このメッセージを表示しない",
 	"trends@restrict-title": "アカウントに充分なファンドがありません",
-	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least"
+	"trends@restrict-text": "「トレンド」セクションをアンロックするには、アカウントに少なくとも次の残高が残っていなければなりません："
 }

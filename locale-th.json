@@ -16,7 +16,7 @@
 	"options": "ออปชัน",
 	"quote": "ข้อมูลราคา",
 	"time": "เวลา",
-	"past": "หมดอายุ",
+	"past": "Closed",
 	"active": "เปิด",
 	"value": "มูลค่า",
 	"add": "แถบใหม่",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "เงินจริง",
 	"wallet-menu@bonus-title": "เงินโบนัส",
 	"wallet-menu@wager-title": "ปริมาณการซื้อขายในการถอนโบนัส",
-	"wallet-menu@wager-link": "อ่านเพิ่มเติมเกี่ยวกับโบนัส"
+	"wallet-menu@wager-link": "อ่านเพิ่มเติมเกี่ยวกับโบนัส",
+	"modal-bonus@title": "You are using bonus funds",
+	"modal-bonus@text": "The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:",
+	"modal-bonus@deal-size": "Trade size",
+	"modal-bonus@real-size": "Real funds",
+	"modal-bonus@bonus-size": "Bonus funds",
+	"modal-bonus@info": "All funds received as part of the trade will be credited to your bonus account.",
+	"modal-bonus@faq": "Bonus fund usage rules",
+	"modal-bonus@btn-cancel": "Cancel",
+	"modal-bonus@btn-continue": "Accept and continue",
+	"modal-bonus@disable": "Don't show this message anymore",
+	"trends@restrict-title": "Insufficient funds in your account",
+	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least"
 }

@@ -16,7 +16,7 @@
 	"options": "Optionen",
 	"quote": "Kursnotierung",
 	"time": "Zeit",
-	"past": "Abgelaufen",
+	"past": "Closed",
 	"active": "Geöffnet",
 	"value": "Wert",
 	"add": "Neue Registerkarte",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "Echte Geldmittel",
 	"wallet-menu@bonus-title": "Bonusgeldmittel",
 	"wallet-menu@wager-title": "Umsatz zum Abheben des Bonus",
-	"wallet-menu@wager-link": "Weitere Informationen über Boni"
+	"wallet-menu@wager-link": "Weitere Informationen über Boni",
+	"modal-bonus@title": "You are using bonus funds",
+	"modal-bonus@text": "The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:",
+	"modal-bonus@deal-size": "Trade size",
+	"modal-bonus@real-size": "Real funds",
+	"modal-bonus@bonus-size": "Bonus funds",
+	"modal-bonus@info": "All funds received as part of the trade will be credited to your bonus account.",
+	"modal-bonus@faq": "Bonus fund usage rules",
+	"modal-bonus@btn-cancel": "Cancel",
+	"modal-bonus@btn-continue": "Accept and continue",
+	"modal-bonus@disable": "Don't show this message anymore",
+	"trends@restrict-title": "Insufficient funds in your account",
+	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least"
 }

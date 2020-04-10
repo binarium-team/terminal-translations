@@ -756,7 +756,7 @@
 	"modal-bonus@deal-size": "取引サイズ",
 	"modal-bonus@real-size": "実際のファンド",
 	"modal-bonus@bonus-size": "ボーナスファンド",
-	"modal-bonus@info": "取引の一部として受領されたすべてのファンドは、ボーナスアカウントに貯金されます。",
+	"modal-bonus@info": "取引の一部として受領されたすべてのファンドは、ボーナスアカウントに入金されます。",
 	"modal-bonus@faq": "ボーナスファンド利用のルール",
 	"modal-bonus@btn-cancel": "キャンセル",
 	"modal-bonus@btn-continue": "同意して続ける",

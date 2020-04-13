@@ -16,7 +16,7 @@
 	"options": "Seçenekler",
 	"quote": "Kota",
 	"time": "Zaman",
-	"past": "Süresi Doldu",
+	"past": "Kapalı",
 	"active": "Açıldı",
 	"value": "Değer",
 	"add": "Yeni sekme",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "Gerçek fon",
 	"wallet-menu@bonus-title": "Bonus fon",
 	"wallet-menu@wager-title": "Bonus çekmek için ciro",
-	"wallet-menu@wager-link": "Bonuslar hakkında daha fazla bilgi alın"
+	"wallet-menu@wager-link": "Bonuslar hakkında daha fazla bilgi alın",
+	"modal-bonus@title": "Bonus fonlarını kullanıyorsunuz",
+	"modal-bonus@text": "Ticaret boyutu kullanılabilir gerçek fonlarınızı aşıyor. Yani bu işlemi açtığınızda bonus fonlarınız kullanılacak:",
+	"modal-bonus@deal-size": "Ticaret boyutu",
+	"modal-bonus@real-size": "Gerçek fon",
+	"modal-bonus@bonus-size": "Bonus fon",
+	"modal-bonus@info": "Ticaretin bir parçası olarak alınan tüm fonlar bonus hesabınıza eklenecek.",
+	"modal-bonus@faq": "Bonus fonu kullanım kuralları",
+	"modal-bonus@btn-cancel": "İptal et",
+	"modal-bonus@btn-continue": "Kabul et ve devam et",
+	"modal-bonus@disable": "Artık bu mesajı gösterme",
+	"trends@restrict-title": "Hesabınızdaki fonlar yetersiz",
+	"trends@restrict-text": "Trendler bölümünün kilidini açmak için hesap bakiyenizin en az şu kadar olması gerekiyor:"
 }

@@ -16,7 +16,7 @@
 	"options": "Opzioni",
 	"quote": "Quotazione",
 	"time": "Tempo",
-	"past": "Scaduto",
+	"past": "Chiusa",
 	"active": "Aperto",
 	"value": "Valore",
 	"add": "Nuova scheda",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "Fondi reali",
 	"wallet-menu@bonus-title": "Fondi bonus",
 	"wallet-menu@wager-title": "Volume di transazioni per prelevare il bonus",
-	"wallet-menu@wager-link": "Maggiori informazioni sui bonus"
+	"wallet-menu@wager-link": "Maggiori informazioni sui bonus",
+	"modal-bonus@title": "Stai usando i fondi bonus",
+	"modal-bonus@text": "La dimensione della negoziazione supera i tuoi fondi reali disponibili. Per questo motivo, all'apertura della negoziazione, saranno utilizzati i tuoi fondi bonus:",
+	"modal-bonus@deal-size": "Dimensione della negoziazione",
+	"modal-bonus@real-size": "Fondi reali",
+	"modal-bonus@bonus-size": "Fondi bonus",
+	"modal-bonus@info": "Tutti i fondi ricevuti nell'ambito della negoziazione saranno accreditati sul tuo conto bonus.",
+	"modal-bonus@faq": "Regole per l'utilizzo del fondo bonus",
+	"modal-bonus@btn-cancel": "Annulla",
+	"modal-bonus@btn-continue": "Accetta e continua",
+	"modal-bonus@disable": "Non mostrare più questo messaggio",
+	"trends@restrict-title": "Fondi insufficienti sul tuo conto",
+	"trends@restrict-text": "Per sbloccare la sezione Trend, il saldo del conto deve essere almeno"
 }

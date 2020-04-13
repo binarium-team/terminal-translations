@@ -16,7 +16,7 @@
 	"options": "Tùy chọn",
 	"quote": "Báo giá",
 	"time": "Thời gian",
-	"past": "Đã hết hạn",
+	"past": "Đã đóng",
 	"active": "Đã mở",
 	"value": "Giá trị",
 	"add": "Thẻ mới",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "Tiền thật",
 	"wallet-menu@bonus-title": "Tiền thưởng",
 	"wallet-menu@wager-title": "Doanh thu để rút tiền thưởng",
-	"wallet-menu@wager-link": "Đọc thêm về tiền thưởng"
+	"wallet-menu@wager-link": "Đọc thêm về tiền thưởng",
+	"modal-bonus@title": "Bạn đang sử dụng tiền thưởng",
+	"modal-bonus@text": "Kích cỡ giao dịch vượt quá số tiền thật của bạn. Để mở giao dịch này, tiền thưởng của bạn sẽ được sử dụng:",
+	"modal-bonus@deal-size": "Kích cỡ giao dịch",
+	"modal-bonus@real-size": "Tiền thật",
+	"modal-bonus@bonus-size": "Tiền thưởng",
+	"modal-bonus@info": "Mọi khoản tiền được nhận vào giao dịch sẽ được ghi có vào tài khoản thưởng của bạn.",
+	"modal-bonus@faq": "Quy tắc sử dụng tiền thưởng",
+	"modal-bonus@btn-cancel": "Hủy",
+	"modal-bonus@btn-continue": "Chấp nhận và tiếp tục",
+	"modal-bonus@disable": "Không hiển thị lại thông báo này",
+	"trends@restrict-title": "Không có đủ tiền trong tài khoản của bạn",
+	"trends@restrict-text": "Để mở khóa phần Xu hướng, số dư tối thiểu cho tài khoản của bạn phải là"
 }

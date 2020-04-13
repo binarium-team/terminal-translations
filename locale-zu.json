@@ -16,7 +16,7 @@
 	"options": "crwdns21611:0crwdne21611:0",
 	"quote": "crwdns21612:0crwdne21612:0",
 	"time": "crwdns21613:0crwdne21613:0",
-	"past": "crwdns21614:0crwdne21614:0",
+	"past": "crwdns28602:0crwdne28602:0",
 	"active": "crwdns21615:0crwdne21615:0",
 	"value": "crwdns21616:0crwdne21616:0",
 	"add": "crwdns21617:0crwdne21617:0",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "crwdns28560:0crwdne28560:0",
 	"wallet-menu@bonus-title": "crwdns28562:0crwdne28562:0",
 	"wallet-menu@wager-title": "crwdns28564:0crwdne28564:0",
-	"wallet-menu@wager-link": "crwdns28566:0crwdne28566:0"
+	"wallet-menu@wager-link": "crwdns28566:0crwdne28566:0",
+	"modal-bonus@title": "crwdns28604:0crwdne28604:0",
+	"modal-bonus@text": "crwdns28606:0crwdne28606:0",
+	"modal-bonus@deal-size": "crwdns28608:0crwdne28608:0",
+	"modal-bonus@real-size": "crwdns28610:0crwdne28610:0",
+	"modal-bonus@bonus-size": "crwdns28612:0crwdne28612:0",
+	"modal-bonus@info": "crwdns28614:0crwdne28614:0",
+	"modal-bonus@faq": "crwdns28616:0crwdne28616:0",
+	"modal-bonus@btn-cancel": "crwdns28618:0crwdne28618:0",
+	"modal-bonus@btn-continue": "crwdns28620:0crwdne28620:0",
+	"modal-bonus@disable": "crwdns28622:0crwdne28622:0",
+	"trends@restrict-title": "crwdns28624:0crwdne28624:0",
+	"trends@restrict-text": "crwdns28626:0crwdne28626:0"
 }

@@ -16,7 +16,7 @@
 	"options": "Opcje",
 	"quote": "Kurs",
 	"time": "Czas",
-	"past": "Ważność wygasła",
+	"past": "Zamknięto",
 	"active": "Otwarte",
 	"value": "Wartość",
 	"add": "Nowa karta",
@@ -750,5 +750,17 @@
 	"wallet-menu@real-title": "Faktyczne środki",
 	"wallet-menu@bonus-title": "Środki premiowe",
 	"wallet-menu@wager-title": "Obrót do wypłaty premii",
-	"wallet-menu@wager-link": "Dowiedz się więcej o premiach"
+	"wallet-menu@wager-link": "Dowiedz się więcej o premiach",
+	"modal-bonus@title": "Używasz środków premiowych",
+	"modal-bonus@text": "Wielkość transakcji przekracza dostępne faktyczne środki. W związku z tym do otwarcia transakcji użyte zostaną środki premiowe:",
+	"modal-bonus@deal-size": "Wielkość transakcji",
+	"modal-bonus@real-size": "Faktyczne środki",
+	"modal-bonus@bonus-size": "Środki premiowe",
+	"modal-bonus@info": "Wszystkie środki otrzymane w ramach transakcji zostaną zaksięgowane na Twoim koncie środków premiowych.",
+	"modal-bonus@faq": "Zasady używania środków premiowych",
+	"modal-bonus@btn-cancel": "Anuluj",
+	"modal-bonus@btn-continue": "Zaakceptuj i kontynuuj",
+	"modal-bonus@disable": "Nie pokazuj już tego komunikatu",
+	"trends@restrict-title": "Za mało środków na koncie",
+	"trends@restrict-text": "Aby można było odblokować sekcję Trendy, saldo Twojego konta musi wynosić co najmniej"
 }

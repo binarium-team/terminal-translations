@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "crwdns28620:0crwdne28620:0",
 	"modal-bonus@disable": "crwdns28622:0crwdne28622:0",
 	"trends@restrict-title": "crwdns28624:0crwdne28624:0",
-	"trends@restrict-text": "crwdns28626:0crwdne28626:0"
+	"trends@restrict-text": "crwdns28626:0crwdne28626:0",
+	"asset-menu@title": "crwdns28674:0crwdne28674:0",
+	"asset-menu@available": "crwdns28676:0crwdne28676:0",
+	"asset-menu@profitable": "crwdns28678:0crwdne28678:0",
+	"asset-menu@interval": "crwdns28680:0crwdne28680:0"
 }

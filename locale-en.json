@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Accept and continue",
 	"modal-bonus@disable": "Don't show this message anymore",
 	"trends@restrict-title": "Insufficient funds in your account",
-	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least"
+	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least",
+	"asset-menu@title": "Активы",
+	"asset-menu@available": "Доступные для торговли активы",
+	"asset-menu@profitable": "Активы с повышенной доходностью",
+	"asset-menu@interval": "мин."
 }

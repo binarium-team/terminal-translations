@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Zaakceptuj i kontynuuj",
 	"modal-bonus@disable": "Nie pokazuj już tego komunikatu",
 	"trends@restrict-title": "Za mało środków na koncie",
-	"trends@restrict-text": "Aby można było odblokować sekcję Trendy, saldo Twojego konta musi wynosić co najmniej"
+	"trends@restrict-text": "Aby można było odblokować sekcję Trendy, saldo Twojego konta musi wynosić co najmniej",
+	"asset-menu@title": "Assets",
+	"asset-menu@available": "Assets available to trade",
+	"asset-menu@profitable": "Assets with increased profitability",
+	"asset-menu@interval": "min."
 }

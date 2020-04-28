@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Aceptar y continuar",
 	"modal-bonus@disable": "No volver a mostrar este mensaje",
 	"trends@restrict-title": "No tiene fondos suficientes en su cuenta",
-	"trends@restrict-text": "Para desbloquear la sección Tendencias, el saldo de su cuenta debe ser de al menos"
+	"trends@restrict-text": "Para desbloquear la sección Tendencias, el saldo de su cuenta debe ser de al menos",
+	"asset-menu@title": "Assets",
+	"asset-menu@available": "Assets available to trade",
+	"asset-menu@profitable": "Assets with increased profitability",
+	"asset-menu@interval": "min."
 }

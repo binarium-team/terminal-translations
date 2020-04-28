@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Akzeptieren und fortfahren",
 	"modal-bonus@disable": "Diese Nachricht nicht mehr anzeigen",
 	"trends@restrict-title": "Die Geldmittel auf Ihrem Konto reichen nicht aus",
-	"trends@restrict-text": "Zum Freischalten des Abschnitts Trends muss Ihr Kontostand mindestens folgenden Wert haben"
+	"trends@restrict-text": "Zum Freischalten des Abschnitts Trends muss Ihr Kontostand mindestens folgenden Wert haben",
+	"asset-menu@title": "Anlagen",
+	"asset-menu@available": "Zum Handeln verfügbare Anlagen",
+	"asset-menu@profitable": "Anlagen mit gestiegener Profitabilität",
+	"asset-menu@interval": "Min."
 }

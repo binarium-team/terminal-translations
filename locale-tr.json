@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Kabul et ve devam et",
 	"modal-bonus@disable": "Artık bu mesajı gösterme",
 	"trends@restrict-title": "Hesabınızdaki fonlar yetersiz",
-	"trends@restrict-text": "Trendler bölümünün kilidini açmak için hesap bakiyenizin en az şu kadar olması gerekiyor:"
+	"trends@restrict-text": "Trendler bölümünün kilidini açmak için hesap bakiyenizin en az şu kadar olması gerekiyor:",
+	"asset-menu@title": "Varlıklar",
+	"asset-menu@available": "Ticaret için uygun varlıklar",
+	"asset-menu@profitable": "Artan kârlılığa sahip varlıklar",
+	"asset-menu@interval": "min."
 }

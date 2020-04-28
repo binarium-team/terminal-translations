@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "ยอมรับและดำเนินการต่อ",
 	"modal-bonus@disable": "ไม่ต้องแสดงข้อความนี้อีกต่อไป",
 	"trends@restrict-title": "เงินไม่เพียงพอในบัญชีของคุณ",
-	"trends@restrict-text": "ในการปลดล็อกส่วน แนวโน้ม ยอดบัญชีของคุณจะต้องเป็นอย่างน้อย"
+	"trends@restrict-text": "ในการปลดล็อกส่วน แนวโน้ม ยอดบัญชีของคุณจะต้องเป็นอย่างน้อย",
+	"asset-menu@title": "สินทรัพย์",
+	"asset-menu@available": "มีสินทรัพย์ให้ซื้อขาย",
+	"asset-menu@profitable": "สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น",
+	"asset-menu@interval": "ขั้นต่ำ"
 }

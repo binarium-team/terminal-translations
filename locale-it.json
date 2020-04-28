@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Accetta e continua",
 	"modal-bonus@disable": "Non mostrare più questo messaggio",
 	"trends@restrict-title": "Fondi insufficienti sul tuo conto",
-	"trends@restrict-text": "Per sbloccare la sezione Trend, il saldo del conto deve essere almeno"
+	"trends@restrict-text": "Per sbloccare la sezione Trend, il saldo del conto deve essere almeno",
+	"asset-menu@title": "Asset",
+	"asset-menu@available": "Asset disponibili per il trading",
+	"asset-menu@profitable": "Asset con aumento della redditività",
+	"asset-menu@interval": "min."
 }

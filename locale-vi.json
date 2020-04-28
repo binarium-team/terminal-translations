@@ -763,8 +763,8 @@
 	"modal-bonus@disable": "Không hiển thị lại thông báo này",
 	"trends@restrict-title": "Không có đủ tiền trong tài khoản của bạn",
 	"trends@restrict-text": "Để mở khóa phần Xu hướng, số dư tối thiểu cho tài khoản của bạn phải là",
-	"asset-menu@title": "Assets",
-	"asset-menu@available": "Assets available to trade",
-	"asset-menu@profitable": "Assets with increased profitability",
-	"asset-menu@interval": "min."
+	"asset-menu@title": "Tài sản",
+	"asset-menu@available": "Tài sản có thể giao dịch",
+	"asset-menu@profitable": "Tài sản có lợi nhuận lớn hơn",
+	"asset-menu@interval": "phút"
 }

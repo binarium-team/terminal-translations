@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Принять и продолжить",
 	"modal-bonus@disable": "Больше не показывать это сообщение",
 	"trends@restrict-title": "На счету недостаточно средств",
-	"trends@restrict-text": "Для доступа к разделу «Тренды» баланс вашего счета необходимо пополнить до"
+	"trends@restrict-text": "Для доступа к разделу «Тренды» баланс вашего счета необходимо пополнить до",
+	"asset-menu@title": "Активы",
+	"asset-menu@available": "Доступные для торговли активы",
+	"asset-menu@profitable": "Активы с повышенной доходностью",
+	"asset-menu@interval": "мин."
 }

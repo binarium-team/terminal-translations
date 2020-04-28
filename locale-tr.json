@@ -763,8 +763,8 @@
 	"modal-bonus@disable": "Artık bu mesajı gösterme",
 	"trends@restrict-title": "Hesabınızdaki fonlar yetersiz",
 	"trends@restrict-text": "Trendler bölümünün kilidini açmak için hesap bakiyenizin en az şu kadar olması gerekiyor:",
-	"asset-menu@title": "Assets",
-	"asset-menu@available": "Assets available to trade",
-	"asset-menu@profitable": "Assets with increased profitability",
+	"asset-menu@title": "Varlıklar",
+	"asset-menu@available": "Ticaret için uygun varlıklar",
+	"asset-menu@profitable": "Artan kârlılığa sahip varlıklar",
 	"asset-menu@interval": "min."
 }

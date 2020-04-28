@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "Прийняти і продовжити",
 	"modal-bonus@disable": "Більше не показувати це повідомлення",
 	"trends@restrict-title": "На рахунку недостатньо коштів",
-	"trends@restrict-text": "Для доступу до розділу «Тренди» баланс вашого рахунку необхідно поповнити до"
+	"trends@restrict-text": "Для доступу до розділу «Тренди» баланс вашого рахунку необхідно поповнити до",
+	"asset-menu@title": "Активи",
+	"asset-menu@available": "Доступні для торгівлі активи",
+	"asset-menu@profitable": "Активи з підвищеною прибутковістю",
+	"asset-menu@interval": "хв."
 }

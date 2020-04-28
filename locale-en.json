@@ -762,6 +762,5 @@
 	"modal-bonus@btn-continue": "Accept and continue",
 	"modal-bonus@disable": "Don't show this message anymore",
 	"trends@restrict-title": "Insufficient funds in your account",
-	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least",
-	"test": "test"
+	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least"
 }

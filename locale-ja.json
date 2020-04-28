@@ -762,5 +762,9 @@
 	"modal-bonus@btn-continue": "同意して続ける",
 	"modal-bonus@disable": "今後、このメッセージを表示しない",
 	"trends@restrict-title": "アカウントに充分なファンドがありません",
-	"trends@restrict-text": "「トレンド」セクションをアンロックするには、アカウントに少なくとも次の残高が残っていなければなりません："
+	"trends@restrict-text": "「トレンド」セクションをアンロックするには、アカウントに少なくとも次の残高が残っていなければなりません：",
+	"asset-menu@title": "Assets",
+	"asset-menu@available": "Assets available to trade",
+	"asset-menu@profitable": "Assets with increased profitability",
+	"asset-menu@interval": "min."
 }

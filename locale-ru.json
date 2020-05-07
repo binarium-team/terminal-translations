@@ -766,5 +766,16 @@
 	"asset-menu@title": "Активы",
 	"asset-menu@available": "Доступные для торговли активы",
 	"asset-menu@profitable": "Активы с повышенной доходностью",
-	"asset-menu@interval": "мин."
+	"asset-menu@interval": "мин.",
+	"confirm-trade@header": "Подтверждение сделки",
+	"confirm-trade@timer": "Закроется автоматически через: {{ data }}с",
+	"confirm-trade@heading": "Отлично! Теперь нужно подтвердить сделку.",
+	"confirm-trade@asset": "Актив",
+	"confirm-trade@direction": "Направление",
+	"confirm-trade@investment": "Инвестиция",
+	"confirm-trade@price": "Текущая цена",
+	"confirm-trade@profitability": "Доходность",
+	"confirm-trade@payout": "Потенциальная выплата",
+	"confirm-trade@btn-cancel": "Отменить",
+	"confirm-trade@btn-confirm": "Подтвердить"
 }

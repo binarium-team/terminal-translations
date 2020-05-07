@@ -766,5 +766,16 @@
 	"asset-menu@title": "Активи",
 	"asset-menu@available": "Доступні для торгівлі активи",
 	"asset-menu@profitable": "Активи з підвищеною прибутковістю",
-	"asset-menu@interval": "хв."
+	"asset-menu@interval": "хв.",
+	"confirm-trade@header": "Підтвердження угоди",
+	"confirm-trade@timer": "Закриється автоматично через: {{ data }}с",
+	"confirm-trade@heading": "Відмінно! Тепер потрібно підтвердити угоду.",
+	"confirm-trade@asset": "Актив",
+	"confirm-trade@direction": "Напрям",
+	"confirm-trade@investment": "Інвестиція",
+	"confirm-trade@price": "Поточна ціна",
+	"confirm-trade@profitability": "Прибутковість",
+	"confirm-trade@payout": "Потенційна виплата",
+	"confirm-trade@btn-cancel": "Скасувати",
+	"confirm-trade@btn-confirm": "Підтвердити"
 }

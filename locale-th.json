@@ -766,5 +766,5 @@
 	"asset-menu@title": "สินทรัพย์",
 	"asset-menu@available": "มีสินทรัพย์ให้ซื้อขาย",
 	"asset-menu@profitable": "สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น",
-	"asset-menu@interval": "ขั้นต่ำ"
+	"asset-menu@interval": "นาที"
 }

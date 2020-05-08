@@ -771,7 +771,7 @@
 	"confirm-trade@timer": "A janela fecha automaticamente em {{ data }} s",
 	"confirm-trade@heading": "Fantástico! Esta prestes a confirmar a negociação. Por favor verifique os detalhes abaixo:",
 	"confirm-trade@asset": "Ativo",
-	"confirm-trade@direction": "Direction",
+	"confirm-trade@direction": "Direção",
 	"confirm-trade@investment": "Investimento",
 	"confirm-trade@price": "Preço atual",
 	"confirm-trade@profitability": "Rentabilidade",

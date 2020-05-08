@@ -771,7 +771,7 @@
 	"confirm-trade@timer": "ウィンドウは{{ data }} で自動的に閉じます ",
 	"confirm-trade@heading": "すばらしい！あなたは今、取引を確認しようとしています。以下の詳細を確認してください。",
 	"confirm-trade@asset": "資産",
-	"confirm-trade@direction": "動向",
+	"confirm-trade@direction": "価格の方向性",
 	"confirm-trade@investment": "投資",
 	"confirm-trade@price": "現在価格",
 	"confirm-trade@profitability": "収益性",

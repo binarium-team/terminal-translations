@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Tài sản có lợi nhuận lớn hơn",
 	"asset-menu@interval": "phút",
 	"confirm-trade@header": "Xác nhận giao dịch",
-	"confirm-trade@timer": "Window auto-close in {{@data}} s",
+	"confirm-trade@timer": "Cửa sổ sẽ tự động đóng trong {{@data}} s",
 	"confirm-trade@heading": "Tuyệt vời! Bạn sắp xác nhận giao dịch. Hãy kiểm tra chi tiết dưới đây:",
 	"confirm-trade@asset": "Tài sản",
 	"confirm-trade@direction": "Hướng",

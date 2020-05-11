@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "수익이 향상된 자산",
 	"asset-menu@interval": "분",
 	"confirm-trade@header": "거래 확인",
-	"confirm-trade@timer": "{{ data }}초 후 창이 자동으로 닫힙니다.",
+	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
 	"confirm-trade@heading": "멋집니다! 이제 거래를 확인하려 하시는군요. 그 전에 아래의 세부 사항을 확인해 주십시오.",
 	"confirm-trade@asset": "자산",
 	"confirm-trade@direction": "방향",

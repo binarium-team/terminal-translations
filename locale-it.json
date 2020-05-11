@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Asset con aumento della redditività",
 	"asset-menu@interval": "min.",
 	"confirm-trade@header": "Conferma dello scambio",
-	"confirm-trade@timer": "Chiusura automatica della finestra tra {{ data }} s",
+	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
 	"confirm-trade@heading": "Fantastico! Stai per confermare lo scambio. Controlla i dettagli sottostanti:",
 	"confirm-trade@asset": "Asset",
 	"confirm-trade@direction": "Direzione",

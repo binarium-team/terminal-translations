@@ -766,5 +766,16 @@
 	"asset-menu@title": "Activos",
 	"asset-menu@available": "Activos disponibles para operar",
 	"asset-menu@profitable": "Activos con rentabilidad aumentada",
-	"asset-menu@interval": "min."
+	"asset-menu@interval": "min.",
+	"confirm-trade@header": "Confirmación de operación",
+	"confirm-trade@timer": "La ventana se cerrará automáticamente en {{ data }} s",
+	"confirm-trade@heading": "¡Excelente! Ya está por confirmar la operación. Revise los detalles a continuación:",
+	"confirm-trade@asset": "Activo",
+	"confirm-trade@direction": "Dirección",
+	"confirm-trade@investment": "Inversión",
+	"confirm-trade@price": "Precio actual",
+	"confirm-trade@profitability": "Rentabilidad",
+	"confirm-trade@payout": "Pago potencial",
+	"confirm-trade@btn-cancel": "Cancelar",
+	"confirm-trade@btn-confirm": "Confirmar"
 }

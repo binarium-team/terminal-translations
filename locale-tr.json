@@ -766,5 +766,16 @@
 	"asset-menu@title": "Varlıklar",
 	"asset-menu@available": "Ticaret için uygun varlıklar",
 	"asset-menu@profitable": "Artan kârlılığa sahip varlıklar",
-	"asset-menu@interval": "min."
+	"asset-menu@interval": "min.",
+	"confirm-trade@header": "Ticaret onayı",
+	"confirm-trade@timer": "Pencere {{ data }} sn içinde otomatik olarak kapanır",
+	"confirm-trade@heading": "Harika! Ticareti onaylamak üzeresiniz. Lütfen aşağıdaki bilgileri kontrol edin:",
+	"confirm-trade@asset": "Varlık",
+	"confirm-trade@direction": "Yön",
+	"confirm-trade@investment": "Yatırım",
+	"confirm-trade@price": "Mevcut fiyat",
+	"confirm-trade@profitability": "Kârlılık",
+	"confirm-trade@payout": "Potansiyel ödeme",
+	"confirm-trade@btn-cancel": "İptal et",
+	"confirm-trade@btn-confirm": "Onayla"
 }

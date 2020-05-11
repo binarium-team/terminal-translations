@@ -766,5 +766,16 @@
 	"asset-menu@title": "Aktywa",
 	"asset-menu@available": "Aktywa dostępne do handlu",
 	"asset-menu@profitable": "Aktywa o zwiększonej rentowności",
-	"asset-menu@interval": "min"
+	"asset-menu@interval": "min",
+	"confirm-trade@header": "Potwierdzenie transakcji",
+	"confirm-trade@timer": "Automatyczne zamknięcie okna za {{ data }} s",
+	"confirm-trade@heading": "Wspaniale! Za chwilę potwierdzisz transakcję. Sprawdź szczegóły poniżej:",
+	"confirm-trade@asset": "Aktywa",
+	"confirm-trade@direction": "Kierunek",
+	"confirm-trade@investment": "Inwestycja",
+	"confirm-trade@price": "Cena bieżąca",
+	"confirm-trade@profitability": "Zyskowność",
+	"confirm-trade@payout": "Potencjalna wypłata",
+	"confirm-trade@btn-cancel": "Anuluj",
+	"confirm-trade@btn-confirm": "Potwierdź"
 }

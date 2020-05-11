@@ -766,5 +766,16 @@
 	"asset-menu@title": "Anlagen",
 	"asset-menu@available": "Zum Handeln verfügbare Anlagen",
 	"asset-menu@profitable": "Anlagen mit gestiegener Profitabilität",
-	"asset-menu@interval": "Min."
+	"asset-menu@interval": "Min.",
+	"confirm-trade@header": "Handelsbestätigung",
+	"confirm-trade@timer": "Fenster schließt automatisch in {{ data }} Sek.",
+	"confirm-trade@heading": "Großartig! Sie sind dabei, den Handel zu bestätigen. Überprüfen Sie bitte unten die Einzelheiten:",
+	"confirm-trade@asset": "Anlage",
+	"confirm-trade@direction": "Richtung",
+	"confirm-trade@investment": "Investition",
+	"confirm-trade@price": "Aktueller Preis",
+	"confirm-trade@profitability": "Rentabilität",
+	"confirm-trade@payout": "Potentielle Auszahlung",
+	"confirm-trade@btn-cancel": "Abbrechen",
+	"confirm-trade@btn-confirm": "Bestätigen"
 }

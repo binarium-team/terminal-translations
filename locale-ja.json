@@ -766,5 +766,16 @@
 	"asset-menu@title": "資産",
 	"asset-menu@available": "取引できる資産",
 	"asset-menu@profitable": "収益性が高まった資産",
-	"asset-menu@interval": "分"
+	"asset-menu@interval": "分",
+	"confirm-trade@header": "取引の確認",
+	"confirm-trade@timer": "ウィンドウは{{ data }} で自動的に閉じます ",
+	"confirm-trade@heading": "すばらしい！あなたは今、取引を確認しようとしています。以下の詳細を確認してください。",
+	"confirm-trade@asset": "資産",
+	"confirm-trade@direction": "価格の方向性",
+	"confirm-trade@investment": "投資",
+	"confirm-trade@price": "現在価格",
+	"confirm-trade@profitability": "収益性",
+	"confirm-trade@payout": "潜在支出",
+	"confirm-trade@btn-cancel": "キャンセル",
+	"confirm-trade@btn-confirm": "確認"
 }

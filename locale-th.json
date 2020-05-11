@@ -766,5 +766,16 @@
 	"asset-menu@title": "สินทรัพย์",
 	"asset-menu@available": "มีสินทรัพย์ให้ซื้อขาย",
 	"asset-menu@profitable": "สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น",
-	"asset-menu@interval": "นาที"
+	"asset-menu@interval": "นาที",
+	"confirm-trade@header": "การยืนยันการซื้อขาย",
+	"confirm-trade@timer": "หน้าต่างจะปิดอัตโนมัติใน {{ data }} วิฯ",
+	"confirm-trade@heading": "เยี่ยม! คุณกำลังจะยืนยันการซื้อขาย กรุณาตรวจสอบรายละเอียดด้านล่าง:",
+	"confirm-trade@asset": "สินทรัพย์",
+	"confirm-trade@direction": "ทิศทาง",
+	"confirm-trade@investment": "การลงทุน",
+	"confirm-trade@price": "ราคาปัจจุบัน",
+	"confirm-trade@profitability": "ความสามารถในการทำกำไร",
+	"confirm-trade@payout": "การจ่ายเงินที่เป็นไปได้",
+	"confirm-trade@btn-cancel": "ยกเลิก",
+	"confirm-trade@btn-confirm": "ยืนยัน"
 }

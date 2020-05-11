@@ -766,5 +766,16 @@
 	"asset-menu@title": "Tài sản",
 	"asset-menu@available": "Tài sản có thể giao dịch",
 	"asset-menu@profitable": "Tài sản có lợi nhuận lớn hơn",
-	"asset-menu@interval": "phút"
+	"asset-menu@interval": "phút",
+	"confirm-trade@header": "Xác nhận giao dịch",
+	"confirm-trade@timer": "Cửa sổ sẽ tự động đóng trong {{ data }} s",
+	"confirm-trade@heading": "Tuyệt vời! Bạn sắp xác nhận giao dịch. Hãy kiểm tra chi tiết dưới đây:",
+	"confirm-trade@asset": "Tài sản",
+	"confirm-trade@direction": "Hướng",
+	"confirm-trade@investment": "Đầu tư",
+	"confirm-trade@price": "Giá hiện tại",
+	"confirm-trade@profitability": "Lợi nhuận",
+	"confirm-trade@payout": "Thanh toán tiềm năng",
+	"confirm-trade@btn-cancel": "Hủy bỏ",
+	"confirm-trade@btn-confirm": "Xác nhận"
 }

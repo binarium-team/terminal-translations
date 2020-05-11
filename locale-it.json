@@ -766,5 +766,16 @@
 	"asset-menu@title": "Asset",
 	"asset-menu@available": "Asset disponibili per il trading",
 	"asset-menu@profitable": "Asset con aumento della redditività",
-	"asset-menu@interval": "min."
+	"asset-menu@interval": "min.",
+	"confirm-trade@header": "Conferma dello scambio",
+	"confirm-trade@timer": "Chiusura automatica della finestra tra {{ data }} s",
+	"confirm-trade@heading": "Fantastico! Stai per confermare lo scambio. Controlla i dettagli sottostanti:",
+	"confirm-trade@asset": "Asset",
+	"confirm-trade@direction": "Direzione",
+	"confirm-trade@investment": "Investimento",
+	"confirm-trade@price": "Prezzo corrente",
+	"confirm-trade@profitability": "Redditività",
+	"confirm-trade@payout": "Pagamento potenziale",
+	"confirm-trade@btn-cancel": "Annulla",
+	"confirm-trade@btn-confirm": "Conferma"
 }

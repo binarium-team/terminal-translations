@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Assets with increased profitability",
 	"asset-menu@interval": "min.",
 	"confirm-trade@header": "Trade confirmation",
-	"confirm-trade@timer": "Закроется автоматически через: {{ @data }}с",
+	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
 	"confirm-trade@heading": "Great! You are about to confirm the trade. Please check details below:",
 	"confirm-trade@asset": "Asset",
 	"confirm-trade@direction": "Direction",

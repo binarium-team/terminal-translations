@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Artan kârlılığa sahip varlıklar",
 	"asset-menu@interval": "min.",
 	"confirm-trade@header": "Ticaret onayı",
-	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
+	"confirm-trade@timer": "Pencere {{@data}} sn içinde otomatik olarak kapanır",
 	"confirm-trade@heading": "Harika! Ticareti onaylamak üzeresiniz. Lütfen aşağıdaki bilgileri kontrol edin:",
 	"confirm-trade@asset": "Varlık",
 	"confirm-trade@direction": "Yön",

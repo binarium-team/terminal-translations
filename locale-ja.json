@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "収益性が高まった資産",
 	"asset-menu@interval": "分",
 	"confirm-trade@header": "取引の確認",
-	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
+	"confirm-trade@timer": "ウィンドウは{{@data}} で自動的に閉じます ",
 	"confirm-trade@heading": "すばらしい！あなたは今、取引を確認しようとしています。以下の詳細を確認してください。",
 	"confirm-trade@asset": "資産",
 	"confirm-trade@direction": "価格の方向性",

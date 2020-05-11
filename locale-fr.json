@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Actifs à profitabilité augmentée",
 	"asset-menu@interval": "min.",
 	"confirm-trade@header": "Confirmation d'échange",
-	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
+	"confirm-trade@timer": "Fermeture automatique de la fenêtre dans {{@data}} s",
 	"confirm-trade@heading": "Super ! Vous allez confirmer l'échange. Veuillez vérifier les informations ci-dessous :",
 	"confirm-trade@asset": "Actif",
 	"confirm-trade@direction": "Direction",

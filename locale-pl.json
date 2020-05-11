@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Aktywa o zwiększonej rentowności",
 	"asset-menu@interval": "min",
 	"confirm-trade@header": "Potwierdzenie transakcji",
-	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
+	"confirm-trade@timer": "Automatyczne zamknięcie okna za {{@data}} s",
 	"confirm-trade@heading": "Wspaniale! Za chwilę potwierdzisz transakcję. Sprawdź szczegóły poniżej:",
 	"confirm-trade@asset": "Aktywa",
 	"confirm-trade@direction": "Kierunek",

@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Ativos com rentabilidade aumentada",
 	"asset-menu@interval": "mins.",
 	"confirm-trade@header": "Confirmação de negociação",
-	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
+	"confirm-trade@timer": "A janela fecha automaticamente em {{@data}} s",
 	"confirm-trade@heading": "Fantástico! Esta prestes a confirmar a negociação. Por favor verifique os detalhes abaixo:",
 	"confirm-trade@asset": "Ativo",
 	"confirm-trade@direction": "Direção",

@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "收益提升的资产",
 	"asset-menu@interval": "分钟",
 	"confirm-trade@header": "确认交易",
-	"confirm-trade@timer": "窗口将在 {{ data }} 秒后自动关闭",
+	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
 	"confirm-trade@heading": "太棒了！您将确认该交易。请查看下面的详细信息：",
 	"confirm-trade@asset": "资产",
 	"confirm-trade@direction": "方向",

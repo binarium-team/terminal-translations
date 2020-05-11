@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น",
 	"asset-menu@interval": "นาที",
 	"confirm-trade@header": "การยืนยันการซื้อขาย",
-	"confirm-trade@timer": "หน้าต่างจะปิดอัตโนมัติใน {{ data }} วิฯ",
+	"confirm-trade@timer": "Window auto-close in {{ @data }} s",
 	"confirm-trade@heading": "เยี่ยม! คุณกำลังจะยืนยันการซื้อขาย กรุณาตรวจสอบรายละเอียดด้านล่าง:",
 	"confirm-trade@asset": "สินทรัพย์",
 	"confirm-trade@direction": "ทิศทาง",

@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "crwdns28678:0crwdne28678:0",
 	"asset-menu@interval": "crwdns28680:0crwdne28680:0",
 	"confirm-trade@header": "crwdns28734:0crwdne28734:0",
-	"confirm-trade@timer": "crwdns28736:0{{ data }}crwdne28736:0",
+	"confirm-trade@timer": "crwdns28758:0crwdne28758:0",
 	"confirm-trade@heading": "crwdns28738:0crwdne28738:0",
 	"confirm-trade@asset": "crwdns28740:0crwdne28740:0",
 	"confirm-trade@direction": "crwdns28742:0crwdne28742:0",

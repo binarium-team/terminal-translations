@@ -768,7 +768,7 @@
 	"asset-menu@profitable": "Активы с повышенной доходностью",
 	"asset-menu@interval": "мин.",
 	"confirm-trade@header": "Подтверждение сделки",
-	"confirm-trade@timer": "Закроется автоматически через: {{ @data }}с",
+	"confirm-trade@timer": "Закроется автоматически через: {{@data}}с",
 	"confirm-trade@heading": "Отлично! Теперь нужно подтвердить сделку.",
 	"confirm-trade@asset": "Актив",
 	"confirm-trade@direction": "Направление",

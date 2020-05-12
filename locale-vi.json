@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "Lợi nhuận",
 	"confirm-trade@payout": "Thanh toán tiềm năng",
 	"confirm-trade@btn-cancel": "Hủy bỏ",
-	"confirm-trade@btn-confirm": "Xác nhận"
+	"confirm-trade@btn-confirm": "Xác nhận",
+	"plot@loading": "Loading",
+	"plot@lock-time": "Lock time",
+	"plot@expiration-time": "Expiration time"
 }

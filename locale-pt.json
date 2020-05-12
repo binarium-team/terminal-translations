@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "Rentabilidade",
 	"confirm-trade@payout": "Pagamento potencial",
 	"confirm-trade@btn-cancel": "Cancelar",
-	"confirm-trade@btn-confirm": "Confirmar"
+	"confirm-trade@btn-confirm": "Confirmar",
+	"plot@loading": "Loading",
+	"plot@lock-time": "Lock time",
+	"plot@expiration-time": "Expiration time"
 }

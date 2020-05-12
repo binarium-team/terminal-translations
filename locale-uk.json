@@ -778,7 +778,7 @@
 	"confirm-trade@payout": "Потенційна виплата",
 	"confirm-trade@btn-cancel": "Скасувати",
 	"confirm-trade@btn-confirm": "Підтвердити",
-	"plot@loading": "Загрузка",
-	"plot@lock-time": "Время начала покупки",
-	"plot@expiration-time": "Время экспирации"
+	"plot@loading": "Завантаження",
+	"plot@lock-time": "Час початку покупки",
+	"plot@expiration-time": "Час експірації"
 }

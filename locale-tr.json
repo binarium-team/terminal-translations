@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "Kârlılık",
 	"confirm-trade@payout": "Potansiyel ödeme",
 	"confirm-trade@btn-cancel": "İptal et",
-	"confirm-trade@btn-confirm": "Onayla"
+	"confirm-trade@btn-confirm": "Onayla",
+	"plot@loading": "Loading",
+	"plot@lock-time": "Lock time",
+	"plot@expiration-time": "Expiration time"
 }

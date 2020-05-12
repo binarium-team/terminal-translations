@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "Доходность",
 	"confirm-trade@payout": "Потенциальная выплата",
 	"confirm-trade@btn-cancel": "Отменить",
-	"confirm-trade@btn-confirm": "Подтвердить"
+	"confirm-trade@btn-confirm": "Подтвердить",
+	"plot@loading": "Загрузка",
+	"plot@lock-time": "Время блокировки",
+	"plot@expiration-time": "Время экспирации"
 }

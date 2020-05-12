@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "ความสามารถในการทำกำไร",
 	"confirm-trade@payout": "การจ่ายเงินที่เป็นไปได้",
 	"confirm-trade@btn-cancel": "ยกเลิก",
-	"confirm-trade@btn-confirm": "ยืนยัน"
+	"confirm-trade@btn-confirm": "ยืนยัน",
+	"plot@loading": "กำลังโหลด",
+	"plot@lock-time": "เวลาล็อก",
+	"plot@expiration-time": "เวลาหมดอายุ"
 }

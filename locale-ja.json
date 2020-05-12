@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "収益性",
 	"confirm-trade@payout": "潜在支出",
 	"confirm-trade@btn-cancel": "キャンセル",
-	"confirm-trade@btn-confirm": "確認"
+	"confirm-trade@btn-confirm": "確認",
+	"plot@loading": "読み込み中",
+	"plot@lock-time": "ロック時間",
+	"plot@expiration-time": "有効期限"
 }

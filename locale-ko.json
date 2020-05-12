@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "수익성",
 	"confirm-trade@payout": "잠재적 지불금",
 	"confirm-trade@btn-cancel": "취소",
-	"confirm-trade@btn-confirm": "확인"
+	"confirm-trade@btn-confirm": "확인",
+	"plot@loading": "로딩 중",
+	"plot@lock-time": "잠금 시간",
+	"plot@expiration-time": "만료 시간"
 }

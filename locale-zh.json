@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "盈利",
 	"confirm-trade@payout": "潜在支出",
 	"confirm-trade@btn-cancel": "取消",
-	"confirm-trade@btn-confirm": "确认"
+	"confirm-trade@btn-confirm": "确认",
+	"plot@loading": "Loading",
+	"plot@lock-time": "Lock time",
+	"plot@expiration-time": "Expiration time"
 }

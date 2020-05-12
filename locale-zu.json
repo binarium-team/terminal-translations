@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "crwdns28748:0crwdne28748:0",
 	"confirm-trade@payout": "crwdns28750:0crwdne28750:0",
 	"confirm-trade@btn-cancel": "crwdns28752:0crwdne28752:0",
-	"confirm-trade@btn-confirm": "crwdns28754:0crwdne28754:0"
+	"confirm-trade@btn-confirm": "crwdns28754:0crwdne28754:0",
+	"plot@loading": "crwdns28770:0crwdne28770:0",
+	"plot@lock-time": "crwdns28772:0crwdne28772:0",
+	"plot@expiration-time": "crwdns28774:0crwdne28774:0"
 }

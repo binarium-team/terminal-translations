@@ -779,6 +779,6 @@
 	"confirm-trade@btn-cancel": "Отменить",
 	"confirm-trade@btn-confirm": "Подтвердить",
 	"plot@loading": "Загрузка",
-	"plot@lock-time": "Время блокировки",
+	"plot@lock-time": "Время начала покупки",
 	"plot@expiration-time": "Время экспирации"
 }

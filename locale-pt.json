@@ -778,7 +778,7 @@
 	"confirm-trade@payout": "Pagamento potencial",
 	"confirm-trade@btn-cancel": "Cancelar",
 	"confirm-trade@btn-confirm": "Confirmar",
-	"plot@loading": "Loading",
-	"plot@lock-time": "Lock time",
-	"plot@expiration-time": "Expiration time"
+	"plot@loading": "A carregar",
+	"plot@lock-time": "Hora de bloqueio",
+	"plot@expiration-time": "Prazo de expiração"
 }

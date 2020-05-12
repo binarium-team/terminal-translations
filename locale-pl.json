@@ -777,5 +777,8 @@
 	"confirm-trade@profitability": "Zyskowność",
 	"confirm-trade@payout": "Potencjalna wypłata",
 	"confirm-trade@btn-cancel": "Anuluj",
-	"confirm-trade@btn-confirm": "Potwierdź"
+	"confirm-trade@btn-confirm": "Potwierdź",
+	"plot@loading": "Loading",
+	"plot@lock-time": "Lock time",
+	"plot@expiration-time": "Expiration time"
 }

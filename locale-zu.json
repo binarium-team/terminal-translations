@@ -780,5 +780,10 @@
 	"confirm-trade@btn-confirm": "crwdns28754:0crwdne28754:0",
 	"plot@loading": "crwdns28770:0crwdne28770:0",
 	"plot@lock-time": "crwdns28772:0crwdne28772:0",
-	"plot@expiration-time": "crwdns28774:0crwdne28774:0"
+	"plot@expiration-time": "crwdns28774:0crwdne28774:0",
+	"tr-empty@text": "crwdns28786:0crwdne28786:0",
+	"tr-empty@business": "crwdns28788:0crwdne28788:0",
+	"tr-empty@vip": "crwdns28790:0crwdne28790:0",
+	"tr-empty@open-btn": "crwdns28792:0crwdne28792:0",
+	"tr-empty@deposit-btn": "crwdns28794:0crwdne28794:0"
 }

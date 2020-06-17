@@ -782,9 +782,9 @@
 	"plot@lock-time": "Czas blokady",
 	"plot@expiration-time": "Czas wygaśnięcia",
 	"tr-empty@text": "Zanurz się w świecie szczegółów tradingu z profesjonalistami. Kopiuj transakcje traderów odnoszących największe sukcesy na platformie i zarabiaj więcej.",
-	"tr-empty@business": "The trading room is open for traders with Business accounts and above. Two 4-hour trading sessions on weekdays. Around 30 signals from professional traders every day. Don't waste your time learning things on your own — Binarium's best traders have already done the work for you.",
-	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
-	"tr-empty@open-btn": "more info • log in",
-	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@business": "Trading room jest otwarty dla traderów mających co najmniej konta Business. Dwie 4-godzinne sesje tradingowe w dni robocze. Codziennie około 30 sygnałów od profesjonalnych traderów. Nie trać czasu na samodzielną naukę — najlepsi traderzy Binarium już wykonali tę pracę za Ciebie.",
+	"tr-empty@vip": "Nasi klienci VIP otrzymują wszystkie przywileje trading room, w tym osobiste sygnały i indywidualną współpracę z traderem z firmy, który odpowie na wszystkie pytania, wyjaśni aktualne trendy rynkowe i zaproponuje obszary o największym potencjale. To najlepszy sposób, aby zarobić jak najwięcej na tradingu.",
+	"tr-empty@open-btn": "więcej informacji • zaloguj się",
+	"tr-empty@deposit-btn": "przejdź do płatności • zaloguj się",
+	"tr-empty@vip-signals": "+ wartościowe sygnały"
 }

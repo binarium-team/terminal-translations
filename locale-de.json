@@ -781,10 +781,10 @@
 	"plot@loading": "Lädt",
 	"plot@lock-time": "Sperrzeit",
 	"plot@expiration-time": "Ablaufzeit",
-	"tr-empty@text": "Tauchen Sie in die Welt des Tradings mit den Profis ein. Kopieren Sie Trades der erfolgreichsten Händler auf der Plattform und verdienen Sie noch mehr.",
-	"tr-empty@business": "The trading room is open for traders with Business accounts and above. Two 4-hour trading sessions on weekdays. Around 30 signals from professional traders every day. Don't waste your time learning things on your own — Binarium's best traders have already done the work for you.",
-	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
-	"tr-empty@open-btn": "more info • log in",
-	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@text": "Tauchen Sie mit den Profis in die Welt des Tradings ein. Kopieren Sie Handelsaktivitäten der erfolgreichsten Händler auf der Plattform und verdienen Sie noch mehr.",
+	"tr-empty@business": "Der Handelsraum steht Händlern mit mindestens dem Business-Konto zur Verfügung. Zwei vierstündige Trading-Sitzungen an Wochentagen. Circa 30 Signale täglich von professionellen Händlern. Verschwenden Sie keine Zeit mit dem Versuch, alles alleine zu lernen – die besten Händler von Binarium haben die Arbeit bereits für Sie erledigt.",
+	"tr-empty@vip": "Unsere VIP-Kunden erhalten alle Privilegien des Handelsraums einschließlich persönlicher Signale und individueller Zusammenarbeit mit einem Unternehmenshändler, der all Ihre Fragen beantwortet, die aktuellen Markttrends erklärt und Bereiche mit dem höchsten Potential vorschlägt. So können Sie am meisten über das Trading lernen.",
+	"tr-empty@open-btn": "weitere Informationen • anmelden",
+	"tr-empty@deposit-btn": "zur Zahlung • anmelden",
+	"tr-empty@vip-signals": "+ wertvolle Signale"
 }

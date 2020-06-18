@@ -781,9 +781,10 @@
 	"plot@loading": "読み込み中",
 	"plot@lock-time": "ロック時間",
 	"plot@expiration-time": "有効期限",
-	"tr-empty@text": "Dive into the detailed world of trading with the pros. Copy trades of the platform's most successful traders and earn more.",
-	"tr-empty@business": "The trading room is open for traders with Business accounts and above. Two 4-hour trading sessions on weekdays. Around 30 signals from professional traders every day. Don't waste your time learning things on your own — Binarium's best traders have already done the work for you.",
-	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
-	"tr-empty@open-btn": "more info • log in",
-	"tr-empty@deposit-btn": "go to payment • log in"
+	"tr-empty@text": "プロと一緒に取引の詳細な世界に飛び込みましょう。プラットフォームの最も成功したトレーダーたちの取引を模倣して、さらに収益を得ましょう。",
+	"tr-empty@business": "取引ルームは、ビジネスアカウント以上のトレーダーのために開かれています。平日に4時間の取引セッションが2回あります。プロのトレーダーたちから毎日約30のシグナルが発信されます。独学で学ぼうとして時間を無駄にしないでくださいーバイナリアムの最も優れたトレーダーたちが、すでにあなたのために稼働しています。",
+	"tr-empty@vip": "当社のVIPクライアントは、個人的シグナルを受け取ることや、質問にすべて回答し、現在の市場動向を説明し、可能性が最も高い分野を示唆してくれる企業トレーダーから個人的な協力を得ることを含む、 取引ルームのあらゆる特典が得られます。これは、取引から最大限に利益を得るための最良の方法です。",
+	"tr-empty@open-btn": "詳細情報・ログイン",
+	"tr-empty@deposit-btn": "支払いに移動・ログイン",
+	"tr-empty@vip-signals": "+ 貴重なシグナル"
 }

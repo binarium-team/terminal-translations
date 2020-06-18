@@ -781,9 +781,10 @@
 	"plot@loading": "Đang tải",
 	"plot@lock-time": "Thời gian khóa",
 	"plot@expiration-time": "Thời gian hết hạn",
-	"tr-empty@text": "Dive into the detailed world of trading with the pros. Copy trades of the platform's most successful traders and earn more.",
-	"tr-empty@business": "The trading room is open for traders with Business accounts and above. Two 4-hour trading sessions on weekdays. Around 30 signals from professional traders every day. Don't waste your time learning things on your own — Binarium's best traders have already done the work for you.",
-	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
-	"tr-empty@open-btn": "more info • log in",
-	"tr-empty@deposit-btn": "go to payment • log in"
+	"tr-empty@text": "Bước vào thế giới giao dịch cùng các chuyên gia. Sao chép giao dịch của những nhà giao dịch thành công nhất trên nền tảng để kiếm được nhiều hơn nữa.",
+	"tr-empty@business": "Phòng giao dịch được mở cửa cho các nhà giao dịch có tài khoản Business hoặc cao hơn. 2 phiên giao dịch, mỗi phiên dài 4 tiếng vào các ngày thường. Khoảng 30 tín hiệu từ các nhà giao dịch chuyên nghiệp mỗi ngày. Đừng lãng phí thời gian tự học — các nhà giao dịch tài giỏi nhất của Binarium đã làm hết việc cho bạn rồi.",
+	"tr-empty@vip": "Các khách hàng VIP của chúng tôi có đặc quyền sử dụng phòng giao dịch, bao gồm các tín hiệu cá nhân và hợp tác với một nhà giao dịch chuyên nghiệp có thể trả lời mọi thắc mắc của bạn, giải thích các xu hướng thị trường hiện tại và đề xuất các lĩnh vực có tiềm năng cao nhất. Đây là cách tốt nhất để kiếm tiền qua giao dịch.",
+	"tr-empty@open-btn": "xem thêm thông tin • đăng nhập",
+	"tr-empty@deposit-btn": "vào thanh toán • đăng nhập",
+	"tr-empty@vip-signals": "+ tín hiệu đáng giá"
 }

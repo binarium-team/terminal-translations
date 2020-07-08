@@ -208,7 +208,7 @@
 	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Deposit",
 	"cashbox-output": "Withdrawal",
-	"cashbox-total": "Бонусы, промо, итого",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Bonus terms of user",
 	"enter-cashbox-input-value": "Enter deposit amount",
 	"enter-cashbox-output-value": "Enter withdrawal amount",
@@ -551,7 +551,7 @@
 	"tour-slide-0-content-1": "Read through all of the cards to learn how to trade more effectively on the platform.",
 	"tour-slide-0-content-2": "This brief demonstration will introduce you to the basic principles of trading and the Binarium platform interface.",
 	"tour-slide-0-content-3": "The main menu is on the left. For example, you can refill your account in the <span class=\"bold\">Bank</span> section. And you can order trades using the best traders on the platform in the <span class=\"bold\">Trading room</span> section!",
-	"tour-slide-0-content-3-port": "В верхнем правом углу находится основное меню. Например, пополнить счет можно в пункте <span class=\"bold\">«Касса»</span>. А в <span class=\"bold\">«Торговой комнате»</span> можно торговать с помощью лучших трейдеров платформы!",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Read through all of the cards to learn how to trade more effectively on the platform.",
 	"tour-slide-1-caption": "How do you earn money on the platform?",
 	"tour-slide-1-content": "<span class=\"bold\">The trading platform allows you to place trades</span> by making short-term investments in financial assets: forex currency pairs, cryptocurrencies, commodities, and other financial instruments.",
@@ -789,5 +789,5 @@
 	"tr-empty@open-btn": "more info • log in",
 	"tr-empty@deposit-btn": "go to payment • log in",
 	"tr-empty@vip-signals": "+ valuable signals",
-	"hb@menu-btn": "Меню"
+	"hb@menu-btn": "Menu"
 }

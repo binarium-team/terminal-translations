@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "bonificación",
 	"cashbox-input": "Depósito",
 	"cashbox-output": "Retiro",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Términos de bonificación del usuario",
 	"enter-cashbox-input-value": "Ingrese la cantidad a depositar",
 	"enter-cashbox-output-value": "Ingrese la cantidad a retirar",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "Lea todo para aprender a operar más eficazmente en la plataforma.",
 	"tour-slide-0-content-2": "Esta breve demostración le presentará los principios básicos del trading y la interfaz de la plataforma Binarium.",
 	"tour-slide-0-content-3": "El menú principal está a la izquierda. Por ejemplo, puede ir a la sección <span class=\"bold\">Banco</span> para cargar más dinero en su cuenta. Y en la sección <span class=\"bold\">Salón de trading</span> podrá solicitar operaciones usando a los mejores traders de la plataforma.",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Lea todo para aprender a operar más eficazmente en la plataforma.",
 	"tour-slide-1-caption": "¿Cómo se hace dinero en la plataforma?",
 	"tour-slide-1-content": "<span class=\"bold\">La plataforma de trading le permite realizar operaciones </span> a partir inversiones a corto plazo en activos financieros: pares de divisas, criptomonedas, materias primas y otros instrumentos financieros.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "Nuestros clientes VIP obtienen todos los privilegios del salón de trading, incluyendo señales personales y cooperación individual con un trader de la empresa que contestará todas sus preguntas, le explicará las últimas tendencias del mercado y le sugerirá las áreas que tienen el mayor potencial. Esta es la mejor forma de maximizar sus ganancias.",
 	"tr-empty@open-btn": "más información • iniciar sesión",
 	"tr-empty@deposit-btn": "ir a pagos • iniciar sesión",
-	"tr-empty@vip-signals": "+ señales valiosas"
+	"tr-empty@vip-signals": "+ señales valiosas",
+	"hb@menu-btn": "Menu"
 }

@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "보너스",
 	"cashbox-input": "예금",
 	"cashbox-output": "인출",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "보너스 이용 약관",
 	"enter-cashbox-input-value": "예금액 입력",
 	"enter-cashbox-output-value": "인출 금액 입력",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오.",
 	"tour-slide-0-content-2": "이 간단한 데모에서는 거래의 기본 원칙과 Binarium 플랫폼 인터페이스를 소개합니다.",
 	"tour-slide-0-content-3": "메인 메뉴는 왼쪽에 있습니다. 예를 들어 <span class=\"bold\">은행</span> 섹션에서는 계좌의 자금을 충전할 수 있습니다. <span class=\"bold\">거래방</span> 섹션에서는 플랫폼 내 최우수 거래자를 통해 거래를 주문할 수 있습니다.",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오.",
 	"tour-slide-1-caption": "플랫폼에서 수익을 얻는 방법",
 	"tour-slide-1-content": "<span class=\"bold\">거래 플랫폼에서 거래</span>는 외환 통화 쌍, 암호 화폐, 상품 및 기타 금융 상품과 같은 금융 자산에 단기 투자하여 진행할 수 있습니다.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
 	"tr-empty@open-btn": "more info • log in",
 	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@vip-signals": "+ valuable signals",
+	"hb@menu-btn": "Menu"
 }

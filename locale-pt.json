@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "bónus",
 	"cashbox-input": "Depósito",
 	"cashbox-output": "Levantamento",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Termos de uso dos bónus",
 	"enter-cashbox-input-value": "Introduzir montante de depósito",
 	"enter-cashbox-output-value": "Introduzir montante de levantamento",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "Leia todos os cartões para aprender como negociar mais eficazmente na plataforma.",
 	"tour-slide-0-content-2": "Esta breve demonstração irá apresentar-lhe os princípios básicos da negociação e o interface da plataforma Binarium.",
 	"tour-slide-0-content-3": "O menu principal fica à esquerda. Por exemplo, poderá recarregar a sua conta na secção <span class=\"bold\">Banca</span> e solicitar negociações na secção <span class=\"bold\">Sala de negociação</span>!",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Leia todos os cartões para aprender como negociar mais eficazmente na plataforma.",
 	"tour-slide-1-caption": "Como ganha dinheiro na plataforma?",
 	"tour-slide-1-content": "<span class=\"bold\">A plataforma de negociação permite-lhe realizar negociações</span> ao fazer investimentos de curto prazo em ativos financeiros: pares de moeda forex, cripto moedas, mercadorias e outros instrumentos financeiros.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
 	"tr-empty@open-btn": "more info • log in",
 	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@vip-signals": "+ valuable signals",
+	"hb@menu-btn": "Menu"
 }

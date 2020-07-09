@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Depozito",
 	"cashbox-output": "Para Çekme",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Kullanıcı bonus şartları",
 	"enter-cashbox-input-value": "Depozito miktarı girin",
 	"enter-cashbox-output-value": "Para çekme miktarı girin",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "Platformda nasıl daha etkili şekilde yatırım yapabileceğinizi öğrenmek için tüm kartları okuyun.",
 	"tour-slide-0-content-2": "Bu kısa gösterim, size yatırımın ve Binarium platformunun temel prensiplerini açıklar.",
 	"tour-slide-0-content-3": "Ana menü soldadır. Örneğin, <span class=\"bold\">Banka</span> bölümünden hesabınızı yeniden doldurabilirsiniz. <span class=\"bold\">Ticaret odası</span> bölümünden de platformdaki en iyi tüccarları kullanarak ticaret siparişi verebilirsiniz!",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Platformda nasıl daha etkili şekilde yatırım yapabileceğinizi öğrenmek için tüm kartları okuyun.",
 	"tour-slide-1-caption": "Platformda nasıl para kazanılır?",
 	"tour-slide-1-content": "<span class=\"bold\">Yatırım platformu yatırım yapabilmenizi sağlar</span>. Bunları finansal varlıklara kısa süreli yatırımlar yaparak yapabilirsiniz: forex para birimi çiftleri, kripto para birimleri, emtia ve diğer finansal araçlar.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "VIP müşterilerimiz kişisel sinyaller ve tüm sorularınıza yanıt verecek, mevcut piyasa trendlerini açıklayacak ve en yüksek potansiyele sahip alanları tavsiye edecek bir şirket tüccarıyla bireysel işbirliğini de içeren tüm ticaret odası ayrıcalıklarını elde eder. Bu, ticaret yaparak en fazlasını kazanmanın en iyi yoludur.",
 	"tr-empty@open-btn": "daha fazla bilgi • giriş yapın",
 	"tr-empty@deposit-btn": "ödemelere gidin • giriş yapın",
-	"tr-empty@vip-signals": "+ değerli sinyaller"
+	"tr-empty@vip-signals": "+ değerli sinyaller",
+	"hb@menu-btn": "Menu"
 }

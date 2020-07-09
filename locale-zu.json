@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "crwdns27877:0crwdne27877:0",
 	"cashbox-input": "crwdns21770:0crwdne21770:0",
 	"cashbox-output": "crwdns21771:0crwdne21771:0",
+	"cashbox-total": "crwdns29314:0crwdne29314:0",
 	"bonus-terms-of-use": "crwdns21772:0crwdne21772:0",
 	"enter-cashbox-input-value": "crwdns21773:0crwdne21773:0",
 	"enter-cashbox-output-value": "crwdns21774:0crwdne21774:0",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "crwdns26790:0crwdne26790:0",
 	"tour-slide-0-content-2": "crwdns26792:0crwdne26792:0",
 	"tour-slide-0-content-3": "crwdns27605:0crwdne27605:0",
+	"tour-slide-0-content-3-port": "crwdns29316:0crwdne29316:0",
 	"tour-slide-0-extra-info": "crwdns23215:0crwdne23215:0",
 	"tour-slide-1-caption": "crwdns23216:0crwdne23216:0",
 	"tour-slide-1-content": "crwdns23217:0crwdne23217:0",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "crwdns28790:0crwdne28790:0",
 	"tr-empty@open-btn": "crwdns28792:0crwdne28792:0",
 	"tr-empty@deposit-btn": "crwdns28794:0crwdne28794:0",
-	"tr-empty@vip-signals": "crwdns28798:0crwdne28798:0"
+	"tr-empty@vip-signals": "crwdns28798:0crwdne28798:0",
+	"hb@menu-btn": "crwdns29318:0crwdne29318:0"
 }

@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Deposito",
 	"cashbox-output": "Prelievo",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Termini di utilizzo del bonus",
 	"enter-cashbox-input-value": "Immettere l'importo del deposito",
 	"enter-cashbox-output-value": "Immettere l'importo del prelievo",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "Leggi tutte le schede per scoprire come fare trading in modo più efficace sulla piattaforma.",
 	"tour-slide-0-content-2": "Questa breve dimostrazione ti introdurrà ai principi base del trading e all'interfaccia della piattaforma Binarium.",
 	"tour-slide-0-content-3": "Il menu principale si trova a sinistra. Ad esempio, puoi ricaricare il tuo conto nella sezione <span class=\"bold\">Banca</span>. Puoi anche ordinare delle operazioni di trading copiando i migliori trader della piattaforma nella sezione <span class=\"bold\">Sala trading</span>!",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Leggi tutte le schede per scoprire come fare trading in modo più efficace sulla piattaforma.",
 	"tour-slide-1-caption": "Come guadagni sulla piattaforma?",
 	"tour-slide-1-content": "<span class=\"bold\">La piattaforma di trading permette di effettuare scambi</span> facendo investimenti a breve termine in asset finanziarie: coppie di valute forex, cryptovalute, materie prime e altri strumenti finanziari.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "I nostri clienti VIP ottengono tutti i privilegi della sala trading, compresi i segnali personali e la collaborazione individuale con un trader aziendale che risponderà a tutte le tue domande, spiegherà gli attuali trend di mercato e suggerirà le aree con il massimo potenziale. Questo è il modo migliore per guadagnare di più facendo trading.",
 	"tr-empty@open-btn": "maggiori informazioni • accedi",
 	"tr-empty@deposit-btn": "vai al pagamento - accedi",
-	"tr-empty@vip-signals": "+ segnali importanti"
+	"tr-empty@vip-signals": "+ segnali importanti",
+	"hb@menu-btn": "Menu"
 }

@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "奖励金",
 	"cashbox-input": "入金",
 	"cashbox-output": "出金",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "奖励金使用条款",
 	"enter-cashbox-input-value": "输入入金金额",
 	"enter-cashbox-output-value": "输入出金金额",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "通读所有卡片，了解如何在平台上更有效地交易。",
 	"tour-slide-0-content-2": "这个简短的演示将向您介绍交易的基本原则和 Binarium 平台界面。",
 	"tour-slide-0-content-3": "主菜单位于左侧。例如，您可以在<span class=\"bold\">银行</span>部分为您的账户充值。您还可以在<span class=\"bold\">交易室</span>部分使用平台的最佳交易者来订购交易！",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "通读所有卡片，了解如何在平台上更有效地交易。",
 	"tour-slide-1-caption": "如何在平台上赚钱？",
 	"tour-slide-1-content": "<span class=\"bold\">交易平台允许您通过对金融资产进行短期投资下达交易</span>：外汇货币对、加密货币、商品和其他金融工具。",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
 	"tr-empty@open-btn": "more info • log in",
 	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@vip-signals": "+ valuable signals",
+	"hb@menu-btn": "Menu"
 }

@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "ボーナス",
 	"cashbox-input": "入金",
 	"cashbox-output": "出金",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "ユーザーのボーナス規約",
 	"enter-cashbox-input-value": "入金額を入力",
 	"enter-cashbox-output-value": "出金額を入力",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
 	"tour-slide-0-content-2": "この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。",
 	"tour-slide-0-content-3": "メインメニューは左側にあります。例えば、<span class=\"bold\">銀行</span> セクションではアカウントを補充できます。また、<span class=\"bold\">取引室</span> セクションではプラットフォームで最高のトレーダーを使用して取引を注文できます。",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
 	"tour-slide-1-caption": "プラットフォームでどのように収入を得ることができますか？",
 	"tour-slide-1-content": "<span class=\"bold\">取引プラットフォームでは</span> 、外国為替通貨ペア、暗号通貨、商品、その他の金融商品などの金融資産に短期投資で取引を行うことができます。",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "当社のVIPクライアントは、個人的シグナルを受け取ることや、質問にすべて回答し、現在の市場動向を説明し、可能性が最も高い分野を示唆してくれる企業トレーダーから個人的な協力を得ることを含む、 取引ルームのあらゆる特典が得られます。これは、取引から最大限に利益を得るための最良の方法です。",
 	"tr-empty@open-btn": "詳細情報・ログイン",
 	"tr-empty@deposit-btn": "支払いに移動・ログイン",
-	"tr-empty@vip-signals": "+ 貴重なシグナル"
+	"tr-empty@vip-signals": "+ 貴重なシグナル",
+	"hb@menu-btn": "Menu"
 }

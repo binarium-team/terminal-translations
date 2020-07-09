@@ -208,6 +208,7 @@
 	"cashbox-plus-bonus": "bonus",
 	"cashbox-input": "Dépôt",
 	"cashbox-output": "Retrait",
+	"cashbox-total": "Bonuses, promos, total",
 	"bonus-terms-of-use": "Conditions d'utilisation des bonus",
 	"enter-cashbox-input-value": "Saisissez le montant du dépôt",
 	"enter-cashbox-output-value": "Saisissez le montant du retrait",
@@ -550,6 +551,7 @@
 	"tour-slide-0-content-1": "Lisez toutes les cartes pour apprendre à négocier plus efficacement sur la plateforme.",
 	"tour-slide-0-content-2": "Cette brève démonstration vous présentera les principes de base du trading et l'interface de la plateforme Binarium.",
 	"tour-slide-0-content-3": "Le menu principal se trouve à gauche. Par exemple, vous pouvez recharger votre compte dans la section <span class=\"bold\">Banque</span>. Et vous pouvez passer des ordres en utilisant les meilleurs traders sur la plateforme dans la section <span class=\"bold\">Salle de négotiation</span> !",
+	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
 	"tour-slide-0-extra-info": "Lisez toutes les cartes pour apprendre à négocier plus efficacement sur la plateforme.",
 	"tour-slide-1-caption": "Comment gagner de l'argent sur la plateforme ?",
 	"tour-slide-1-content": "<span class=\"bold\">La plateforme de trading vous permet de placer des transactions </span> en investissant à court terme dans des actifs financiers : paires de devises forex, cryptomonnaies, matières premières et autres instruments financiers.",
@@ -786,5 +788,6 @@
 	"tr-empty@vip": "Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading.",
 	"tr-empty@open-btn": "more info • log in",
 	"tr-empty@deposit-btn": "go to payment • log in",
-	"tr-empty@vip-signals": "+ valuable signals"
+	"tr-empty@vip-signals": "+ valuable signals",
+	"hb@menu-btn": "Menu"
 }

@@ -551,7 +551,7 @@
 	"tour-slide-0-content-1": "อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น",
 	"tour-slide-0-content-2": "การสาธิตโดยสังเขปนี้ จะแนะนำคุณเรื่อง หลักการพื้นฐานของการซื้อขาย และแพลตฟอร์ม Binarium",
 	"tour-slide-0-content-3": "เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินบัญชีของคุณได้ในส่วน <span class=\"bold\">ธนาคาร</span> และคุณสามารถสั่งการซื้อขาย โดยใช้เทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ในส่วน <span class=\"bold\">ห้องซื้อขาย</span>!",
-	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
+	"tour-slide-0-content-3-port": "เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินได้ ในส่วน <span class=\"bold\">ธนาคาร</span> และคุณสามารถซื้อขาย ด้วยความช่วยเหลือจากเทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ ในส่วน <span class=\"bold\">ห้องซื้อขาย</span>!",
 	"tour-slide-0-extra-info": "อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น",
 	"tour-slide-1-caption": "คุณจะทำเงินบนแพลตฟอร์มได้อย่างไร?",
 	"tour-slide-1-content": "<span class=\"bold\">แพลตฟอร์มการซื้อขายจะให้คุณวางคำสั่งซื้อขายได้</span> โดยการลงทุนระยะสั้น ในสินทรัพย์ทางการเงิน: คู่สกุลเงินแลกเปลี่ยน, สกุลเงินดิจิทัล, สินค้าโภคภัณฑ์, และตราสารทางการเงินอื่น ๆ",
@@ -789,5 +789,5 @@
 	"tr-empty@open-btn": "ข้อมูลเพิ่มเติม • เข้าสู่ระบบ",
 	"tr-empty@deposit-btn": "ไปที่การชำระเงิน • เข้าสู่ระบบ",
 	"tr-empty@vip-signals": "+ สัญญาณที่มีค่า",
-	"hb@menu-btn": "Menu"
+	"hb@menu-btn": "เมนู"
 }

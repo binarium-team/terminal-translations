@@ -208,7 +208,7 @@
 	"cashbox-plus-bonus": "ボーナス",
 	"cashbox-input": "入金",
 	"cashbox-output": "出金",
-	"cashbox-total": "Bonuses, promos, total",
+	"cashbox-total": "ボーナス、プロモーション、合計",
 	"bonus-terms-of-use": "ユーザーのボーナス規約",
 	"enter-cashbox-input-value": "入金額を入力",
 	"enter-cashbox-output-value": "出金額を入力",
@@ -551,7 +551,7 @@
 	"tour-slide-0-content-1": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
 	"tour-slide-0-content-2": "この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。",
 	"tour-slide-0-content-3": "メインメニューは左側にあります。例えば、<span class=\"bold\">銀行</span> セクションではアカウントを補充できます。また、<span class=\"bold\">取引室</span> セクションではプラットフォームで最高のトレーダーを使用して取引を注文できます。",
-	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
+	"tour-slide-0-content-3-port": "メインメニューは左にあります。例えば、<span class=\"bold\">銀行</span>のセクションに入金できます。 そして、プラットフォームの最も優れたトレーダーからの手助けで<span class=\"bold\">取引ルーム</span>のセクションで取引することができます。",
 	"tour-slide-0-extra-info": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
 	"tour-slide-1-caption": "プラットフォームでどのように収入を得ることができますか？",
 	"tour-slide-1-content": "<span class=\"bold\">取引プラットフォームでは</span> 、外国為替通貨ペア、暗号通貨、商品、その他の金融商品などの金融資産に短期投資で取引を行うことができます。",
@@ -789,5 +789,5 @@
 	"tr-empty@open-btn": "詳細情報・ログイン",
 	"tr-empty@deposit-btn": "支払いに移動・ログイン",
 	"tr-empty@vip-signals": "+ 貴重なシグナル",
-	"hb@menu-btn": "Menu"
+	"hb@menu-btn": "メニュー"
 }

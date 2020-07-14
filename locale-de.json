@@ -208,7 +208,7 @@
 	"cashbox-plus-bonus": "Bonus",
 	"cashbox-input": "Einzahlung",
 	"cashbox-output": "Auszahlung",
-	"cashbox-total": "Bonuses, promos, total",
+	"cashbox-total": "Boni, Aktionen, Gesamt",
 	"bonus-terms-of-use": "Bonusbedingungen des Benutzers",
 	"enter-cashbox-input-value": "Einzahlungsbetrag eingeben",
 	"enter-cashbox-output-value": "Auszahlungsbetrag eingeben",
@@ -551,7 +551,7 @@
 	"tour-slide-0-content-1": "Lesen Sie sich alle Karten durch, um zu erfahren, wie Sie auf der Plattform erfolgreicher handeln können.",
 	"tour-slide-0-content-2": "Diese kurze Demonstration führt Sie in die Grundprinzipien des Handels und die Benutzeroberfläche der Binarium-Plattform ein.",
 	"tour-slide-0-content-3": "Das Hauptmenü befindet sich auf der linken Seite. Im Abschnitt <span class=\"bold\">Bank</span> können Sie beispielsweise Ihr Konto aufladen. Und im Abschnitt <span class=\"bold\">Handelsraum</span> können Sie mit den besten Händlern der Plattform Handelsvorgänge abschließen!",
-	"tour-slide-0-content-3-port": "The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!",
+	"tour-slide-0-content-3-port": "Das Hauptmenü befindet sich oben auf der linken Seite. Im Abschnitt <span class=\"bold\">Bank</span> können Sie beispielsweise Einzahlungen auf Ihr Konto tätigen. Und im Abschnitt <span class=\"bold\">Handelsraum</span> können Sie mit der Hilfe der besten Händler der Plattform Handelsvorgänge abschließen!",
 	"tour-slide-0-extra-info": "Lesen Sie sich alle Karten durch, um zu erfahren, wie Sie auf der Plattform erfolgreicher handeln können.",
 	"tour-slide-1-caption": "Wie verdienen Sie auf der Plattform Geld?",
 	"tour-slide-1-content": "<span class=\"bold\">Die Handelsplattform ermöglicht das Platieren eines Handels</span> durch kurzfrisitge Investitionen in Finanzanlagen: Forex-Währungspaare, Kryptowährungen, Rohstoffe und andere Finanzinstrumente.",
@@ -789,5 +789,5 @@
 	"tr-empty@open-btn": "weitere Informationen • anmelden",
 	"tr-empty@deposit-btn": "zur Zahlung • anmelden",
 	"tr-empty@vip-signals": "+ wertvolle Signale",
-	"hb@menu-btn": "Menu"
+	"hb@menu-btn": "Menü"
 }

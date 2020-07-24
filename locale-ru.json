@@ -799,5 +799,20 @@
 	"tr-empty@open-btn": "подробнее • вход",
 	"tr-empty@deposit-btn": "перейти к оплате • вход",
 	"tr-empty@vip-signals": "+ прибыльные сигналы",
-	"hb@menu-btn": "Меню"
+	"hb@menu-btn": "Меню",
+	"ac-types@title": "Тип счета",
+	"ac-types@label_depositSum": "Сумма депозита",
+	"ac-types@label_tradeback": "Трейдбек",
+	"ac-types@label_tradebackEnrolment": "Зачисление трейдбека",
+	"ac-types@label_assets": "Торговые активы",
+	"ac-types@label_withdrawalCountLimit": "Заявок на вывод средств, в день",
+	"ac-types@label_withdrawalAmountLimit": "Лимит на вывод средств, в месяц",
+	"ac-types@label_tradingRoom": "Торговая комната",
+	"ac-types@label_openDealsSum": "Сумма открытых сделок (за раз)",
+	"ac-types@value_real": "реальные средства",
+	"ac-types@value_bonus": "бонус",
+	"ac-types@value_nolimit": "без лимита",
+	"ac-types@btn": "повысить",
+	"ac-types@self": "Ваш счет",
+	"ac-types@tradeback-hint": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00"
 }

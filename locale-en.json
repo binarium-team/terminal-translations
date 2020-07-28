@@ -469,7 +469,7 @@
 	"deposit-info-3": "The bonus does not limit the amount of funds that you can withdraw: you can withdraw your profits at any time as well as the amount of your deposit. Please note that when withdrawing funds, all bonus funds that were not used in trades with a x40 turnover will be assigned inactive status and will be debited from your account.",
 	"withdrawal-heading": "Your request will be processed within 24 hours from the time when you submit it.",
 	"withdrawal-content": "If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day.",
-	"withdrawal-restricted-content": "Превышен лимит на вывод средств для вашего <span>типа счета</span>",
+	"withdrawal-restricted-content": "Превышен лимит на вывод средств для вашего <span class=\"open-act-button\">типа счета</span>",
 	"withdrawal-amount-caption": "Amount of payment",
 	"withdrawal-type-caption": "Funds withdrawal method",
 	"withdrawal-button-caption": "Withdraw funds",

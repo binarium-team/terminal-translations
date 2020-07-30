@@ -811,9 +811,9 @@
 	"ac-types@value_real": "real funds",
 	"ac-types@value_bonus": "bonus",
 	"ac-types@value_nolimit": "no limit",
-	"ac-types@btn": "повысить",
-	"ac-types@self": "Ваш счет",
+	"ac-types@btn": "increase",
+	"ac-types@self": "Your account",
 	"ac-types@tradeback-hint": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
-	"video-tutorial@title": "Как начать торговать на Бинариум за 1,5 минуты",
-	"video-tutorial@checkbox": "Больше не показывать это видео"
+	"video-tutorial@title": "How to start trading on Binarium in 90 seconds",
+	"video-tutorial@checkbox": "Don't show this video anymore"
 }

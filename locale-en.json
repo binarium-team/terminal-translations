@@ -802,7 +802,7 @@
 	"ac-types@title": "Account type",
 	"ac-types@label_depositSum": "Deposit amount",
 	"ac-types@label_tradeback": "Tradeback",
-	"ac-types@label_tradebackEnrolment": "Crediting tradeback",
+	"ac-types@label_tradebackEnrolment": "Tradeback points",
 	"ac-types@label_assets": "Trading assets",
 	"ac-types@label_withdrawalCountLimit": "Withdrawal requests, per day",
 	"ac-types@label_withdrawalAmountLimit": "Withdrawal limit, per month",

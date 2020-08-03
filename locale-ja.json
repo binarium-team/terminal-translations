@@ -156,7 +156,7 @@
 	"error-too-big-bet": "このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最大ベットは{{@maxbet}} です。",
 	"error-wrong-expiration": "{{@time}} 有効期限に誤りがあります",
 	"not-enough-money": "残高が足りません",
-	"option-closed-head": "Trade completed",
+	"option-closed-head": "取引完了",
 	"transaction-result": "{{@assetName}} 結果",
 	"internet-connection-trouble": "接続問題",
 	"lang-name-locale-en": "英語",

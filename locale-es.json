@@ -156,7 +156,7 @@
 	"error-too-big-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta máxima para la moneda {{@currency}} es {{@maxbet}}",
 	"error-wrong-expiration": "Hora de caducidad incorrecta {{@time}}",
 	"not-enough-money": "No tiene fondos suficientes en su cuenta.",
-	"option-closed-head": "Trade completed",
+	"option-closed-head": "Operación completada",
 	"transaction-result": "Resultado para {{@assetName}}",
 	"internet-connection-trouble": "Problema de conexión",
 	"lang-name-locale-en": "Inglés",

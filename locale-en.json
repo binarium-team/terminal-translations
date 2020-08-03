@@ -156,7 +156,7 @@
 	"error-too-big-bet": "It is impossible to make a bet equal to {{@sum}}, the maximum bet for the currency {{@currency}} is {{@maxbet}}",
 	"error-wrong-expiration": "Wrong expiration time {{@time}}",
 	"not-enough-money": "You have insufficient funds in your account.",
-	"option-closed-head": "Transaction completed",
+	"option-closed-head": "Trade completed",
 	"transaction-result": "Result for {{@assetName}}",
 	"internet-connection-trouble": "Connection problem",
 	"lang-name-locale-en": "English",

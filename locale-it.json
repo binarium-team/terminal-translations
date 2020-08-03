@@ -469,7 +469,7 @@
 	"deposit-info-3": "Il bonus non limita la quantità di fondi che puoi prelevare: puoi prelevare i tuoi profitti in qualsiasi momento, unitamente all'importo del tuo deposito. Tieni presente che al momento del prelievo di fondi, tutti i fondi bonus che non sono stati utilizzati per negoziazioni con un volume di transazioni x40 saranno contrassegnati come inattivi e saranno detratti dal tuo conto.",
 	"withdrawal-heading": "La tua richiesta verrà elaborata entro 24 ore dall'invio.",
 	"withdrawal-content": "Se la richiesta è stata rilasciata al di fuori dell'orario di lavoro del dipartimento finanziario della società, verrà elaborata entro il giorno lavorativo successivo.",
-	"withdrawal-restricted-content": "The withdrawal limit for your <span class=\"open-act-button\">account type</span> has been exceeded",
+	"withdrawal-restricted-content": "Il limite di prelievo per il tuo <span class=\"open-act-button\">tipo di conto</span> è stato superato",
 	"withdrawal-amount-caption": "Importo di pagamento",
 	"withdrawal-type-caption": "Metodo di prelievo fondi",
 	"withdrawal-button-caption": "Preleva fondi",

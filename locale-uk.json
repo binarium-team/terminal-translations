@@ -815,5 +815,6 @@
 	"ac-types@self": "Ваш рахунок",
 	"ac-types@tradeback-hint": "Трейдбек - відшкодування частини збиткових угод трейдера. Нараховується щовівторка о 12:00 за UTC-00",
 	"video-tutorial@title": "Як почати торгувати на Binarium за півтори хвилини",
-	"video-tutorial@checkbox": "Більше не показувати це відео"
+	"video-tutorial@checkbox": "Більше не показувати це відео",
+	"user-menu@account-types": "Типы счетов"
 }

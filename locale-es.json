@@ -815,5 +815,6 @@
 	"ac-types@self": "Su cuenta",
 	"ac-types@tradeback-hint": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)",
 	"video-tutorial@title": "Cómo comenzar a operar en Binarium en 90 segundos",
-	"video-tutorial@checkbox": "No volver a mostrar este video"
+	"video-tutorial@checkbox": "No volver a mostrar este video",
+	"user-menu@account-types": "Account types"
 }

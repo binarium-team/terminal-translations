@@ -815,5 +815,6 @@
 	"ac-types@self": "crwdns30192:0crwdne30192:0",
 	"ac-types@tradeback-hint": "crwdns30104:0crwdne30104:0",
 	"video-tutorial@title": "crwdns30194:0crwdne30194:0",
-	"video-tutorial@checkbox": "crwdns30196:0crwdne30196:0"
+	"video-tutorial@checkbox": "crwdns30196:0crwdne30196:0",
+	"user-menu@account-types": "crwdns30328:0crwdne30328:0"
 }

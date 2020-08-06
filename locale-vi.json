@@ -815,5 +815,6 @@
 	"ac-types@self": "Tài khoản của bạn",
 	"ac-types@tradeback-hint": "Hoàn tiền giao dịch—hoàn một phần tiền cho các giao dịch thua lỗ của nhà giao dịch. Ghi có mỗi thứ 3 lúc 12:00 (0:00 UTC)",
 	"video-tutorial@title": "Cách để bắt đầu giao dịch trên Binarium trong 90 giây",
-	"video-tutorial@checkbox": "Không hiển thị lại video này"
+	"video-tutorial@checkbox": "Không hiển thị lại video này",
+	"user-menu@account-types": "Loại tài khoản"
 }

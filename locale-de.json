@@ -815,5 +815,6 @@
 	"ac-types@self": "Ihr Konto",
 	"ac-types@tradeback-hint": "Tradeback – teilweise Rückerstattung der Verlustgeschäfte eines Händlers. Wird jeden Dienstag um 12:00 (0:00 UTC) gutgeschrieben",
 	"video-tutorial@title": "So beginnt man mit dem Handeln bei Binarium (in 90 Sekunden)",
-	"video-tutorial@checkbox": "Dieses Video nicht mehr anzeigen"
+	"video-tutorial@checkbox": "Dieses Video nicht mehr anzeigen",
+	"user-menu@account-types": "Kontoarten"
 }

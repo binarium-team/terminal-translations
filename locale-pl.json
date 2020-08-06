@@ -815,5 +815,6 @@
 	"ac-types@self": "Twoje konto",
 	"ac-types@tradeback-hint": "Tradeback — częściowa refundacja stratnych transakcji tradera. Przyznawana w każdy wtorek o 12:00 (0:00 UTC)",
 	"video-tutorial@title": "Jak rozpocząć trading na Binarium w 90 sekund",
-	"video-tutorial@checkbox": "Nie pokazuj już tego filmu"
+	"video-tutorial@checkbox": "Nie pokazuj już tego filmu",
+	"user-menu@account-types": "Typy kont"
 }

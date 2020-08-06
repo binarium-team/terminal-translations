@@ -815,5 +815,6 @@
 	"ac-types@self": "Your account",
 	"ac-types@tradeback-hint": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
 	"video-tutorial@title": "How to start trading on Binarium in 90 seconds",
-	"video-tutorial@checkbox": "Don't show this video anymore"
+	"video-tutorial@checkbox": "Don't show this video anymore",
+	"user-menu@account-types": "Account types"
 }

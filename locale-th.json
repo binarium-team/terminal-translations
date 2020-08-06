@@ -815,5 +815,6 @@
 	"ac-types@self": "บัญชีของคุณ",
 	"ac-types@tradeback-hint": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)",
 	"video-tutorial@title": "วิธีเริ่มซื้อขายกับ Binarium ใน 90 วินาที",
-	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป"
+	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป",
+	"user-menu@account-types": "Account types"
 }

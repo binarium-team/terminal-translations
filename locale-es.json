@@ -817,5 +817,5 @@
 	"video-tutorial@title": "Cómo comenzar a operar en Binarium en 90 segundos",
 	"video-tutorial@checkbox": "No volver a mostrar este video",
 	"user-menu@account-types": "Tipos de cuenta",
-	"withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+	"withdrawal-error@amount-limit": "Se ha superado el límite permitido para retiros"
 }

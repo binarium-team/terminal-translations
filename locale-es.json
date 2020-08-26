@@ -816,5 +816,6 @@
 	"ac-types@tradeback-hint": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)",
 	"video-tutorial@title": "Cómo comenzar a operar en Binarium en 90 segundos",
 	"video-tutorial@checkbox": "No volver a mostrar este video",
-	"user-menu@account-types": "Tipos de cuenta"
+	"user-menu@account-types": "Tipos de cuenta",
+	"withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
 }

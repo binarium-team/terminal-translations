@@ -817,5 +817,5 @@
 	"video-tutorial@title": "วิธีเริ่มซื้อขายกับ Binarium ใน 90 วินาที",
 	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป",
 	"user-menu@account-types": "ประเภทบัญชี",
-	"withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+	"withdrawal-error@amount-limit": "เกินขีดจำกัดการถอนเงินแล้ว"
 }

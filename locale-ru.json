@@ -816,5 +816,6 @@
 	"ac-types@tradeback-hint": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00",
 	"video-tutorial@title": "Как начать торговать на Бинариум за 1,5 минуты",
 	"video-tutorial@checkbox": "Больше не показывать это видео",
-	"user-menu@account-types": "Типы счетов"
+	"user-menu@account-types": "Типы счетов",
+	"withdrawal-error@amount-limit": "Превышен лимит суммы вывода"
 }

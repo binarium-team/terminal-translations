@@ -817,5 +817,5 @@
 	"video-tutorial@title": "90 saniyede Binarium'da nasıl ticaret yapmaya başlanır",
 	"video-tutorial@checkbox": "Bu videoyu kimseye göstermeyin",
 	"user-menu@account-types": "Hesap türleri",
-	"withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+	"withdrawal-error@amount-limit": "Çekme limiti aşıldı"
 }

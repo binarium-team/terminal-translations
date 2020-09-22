@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Binariumで90秒以内に取引を始める方法",
 	"video-tutorial@checkbox": "今後、このビデオを表示しない",
 	"user-menu@account-types": "アカウントの種類",
-	"withdrawal-error@amount-limit": "お引き出しの限度額を超えました"
+	"withdrawal-error@amount-limit": "お引き出しの限度額を超えました",
+	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
 }

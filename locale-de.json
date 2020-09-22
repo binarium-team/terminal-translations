@@ -818,5 +818,5 @@
 	"video-tutorial@checkbox": "Dieses Video nicht mehr anzeigen",
 	"user-menu@account-types": "Kontoarten",
 	"withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten",
-	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Das Limit zur Auszahlung von Geldmitteln wurde überschritten.<br>Mit Ihrer <span class=\"open-act-button\">Kontoart</span> können Sie {{@limitCount}} Anfragen zu insgesamt {{@limitAmount}} stellen.<br>In {{@limitTime}} können Sie eine weitere Anfrage stellen."
 }

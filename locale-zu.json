@@ -817,5 +817,6 @@
 	"video-tutorial@title": "crwdns30194:0crwdne30194:0",
 	"video-tutorial@checkbox": "crwdns30196:0crwdne30196:0",
 	"user-menu@account-types": "crwdns30328:0crwdne30328:0",
-	"withdrawal-error@amount-limit": "crwdns30336:0crwdne30336:0"
+	"withdrawal-error@amount-limit": "crwdns30336:0crwdne30336:0",
+	"withdrawal@limit-with-counter": "crwdns30344:0crwdne30344:0"
 }

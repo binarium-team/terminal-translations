@@ -817,5 +817,6 @@
 	"video-tutorial@title": "So beginnt man mit dem Handeln bei Binarium (in 90 Sekunden)",
 	"video-tutorial@checkbox": "Dieses Video nicht mehr anzeigen",
 	"user-menu@account-types": "Kontoarten",
-	"withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten"
+	"withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten",
+	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
 }

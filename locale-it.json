@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Come iniziare a fare trading su Binarium in 90 secondi",
 	"video-tutorial@checkbox": "Non mostrare più questo video",
 	"user-menu@account-types": "Tipi di conto",
-	"withdrawal-error@amount-limit": "Il limite di prelievo è stato superato"
+	"withdrawal-error@amount-limit": "Il limite di prelievo è stato superato",
+	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
 }

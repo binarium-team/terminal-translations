@@ -818,5 +818,5 @@
 	"video-tutorial@checkbox": "今後、このビデオを表示しない",
 	"user-menu@account-types": "アカウントの種類",
 	"withdrawal-error@amount-limit": "お引き出しの限度額を超えました",
-	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
+	"withdrawal@limit-with-counter": "引出し限度額を超えました。<br>あなたの <span class=\"open-act-button\">アカウントタイプ</span>では、{{@limitCount}} 合計 {{@limitAmount}}をリクエストできます。<br>別件のリクエストを {{@limitTime}}ですることができます。"
 }

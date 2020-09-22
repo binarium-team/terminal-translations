@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Как начать торговать на Бинариум за 1,5 минуты",
 	"video-tutorial@checkbox": "Больше не показывать это видео",
 	"user-menu@account-types": "Типы счетов",
-	"withdrawal-error@amount-limit": "Превышен лимит суммы вывода"
+	"withdrawal-error@amount-limit": "Превышен лимит суммы вывода",
+	"withdrawal@limit-with-counter": "Превышен лимит на вывод средств.<br>Для вашего <span class=\"open-act-button\">типа счета</span> доступно заявок: {{@limitCount}}, на сумму: {{@limitAmount}}.<br>Следующая заявка будет доступна: {{@limitTime}}"
 }

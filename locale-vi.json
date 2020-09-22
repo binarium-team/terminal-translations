@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Cách để bắt đầu giao dịch trên Binarium trong 90 giây",
 	"video-tutorial@checkbox": "Không hiển thị lại video này",
 	"user-menu@account-types": "Loại tài khoản",
-	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền"
+	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
+	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
 }

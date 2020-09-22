@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Як почати торгувати на Binarium за півтори хвилини",
 	"video-tutorial@checkbox": "Більше не показувати це відео",
 	"user-menu@account-types": "Типи рахунків",
-	"withdrawal-error@amount-limit": "Перевищено ліміт суми виведення"
+	"withdrawal-error@amount-limit": "Перевищено ліміт суми виведення",
+	"withdrawal@limit-with-counter": "Превышен лимит на вывод средств.<br>Для вашего <span class=\"open-act-button\">типа счета</span> доступно заявок: {{@limitCount}}, на сумму: {{@limitAmount}}.<br>Следующая заявка будет доступна: {{@limitTime}}"
 }

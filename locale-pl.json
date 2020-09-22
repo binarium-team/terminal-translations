@@ -817,5 +817,6 @@
 	"video-tutorial@title": "Jak rozpocząć trading na Binarium w 90 sekund",
 	"video-tutorial@checkbox": "Nie pokazuj już tego filmu",
 	"user-menu@account-types": "Typy kont",
-	"withdrawal-error@amount-limit": "Limit wypłat został przekroczony"
+	"withdrawal-error@amount-limit": "Limit wypłat został przekroczony",
+	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
 }

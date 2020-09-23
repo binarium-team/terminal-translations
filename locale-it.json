@@ -818,5 +818,5 @@
 	"video-tutorial@checkbox": "Non mostrare più questo video",
 	"user-menu@account-types": "Tipi di conto",
 	"withdrawal-error@amount-limit": "Il limite di prelievo è stato superato",
-	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{@limitCount}} richieste per un totale di {{@limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{@limitTime}}."
 }

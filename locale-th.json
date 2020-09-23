@@ -818,5 +818,5 @@
 	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป",
 	"user-menu@account-types": "ประเภทบัญชี",
 	"withdrawal-error@amount-limit": "เกินขีดจำกัดการถอนเงินแล้ว",
-	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
+	"withdrawal@limit-with-counter": "เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}"
 }

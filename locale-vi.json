@@ -818,5 +818,5 @@
 	"video-tutorial@checkbox": "Không hiển thị lại video này",
 	"user-menu@account-types": "Loại tài khoản",
 	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
-	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}."
 }

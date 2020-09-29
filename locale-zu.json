@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "crwdns30196:0crwdne30196:0",
 	"user-menu@account-types": "crwdns30328:0crwdne30328:0",
 	"withdrawal-error@amount-limit": "crwdns30336:0crwdne30336:0",
-	"withdrawal@limit-with-counter": "crwdns30344:0crwdne30344:0"
+	"withdrawal@limit-with-counter": "crwdns30344:0crwdne30344:0",
+	"promo-gift@bonus": "crwdns30356:0crwdne30356:0",
+	"promo-gift@freeSpins": "crwdns30358:0crwdne30358:0",
+	"promo-gift@tradeRoom": "crwdns30360:0crwdne30360:0",
+	"promo-gift@tickets": "crwdns30362:0crwdne30362:0"
 }

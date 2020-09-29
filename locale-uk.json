@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "Більше не показувати це відео",
 	"user-menu@account-types": "Типи рахунків",
 	"withdrawal-error@amount-limit": "Перевищено ліміт суми виведення",
-	"withdrawal@limit-with-counter": "Перевищено ліміт на виведення коштів.<br>Для вашого <span class=\"open-act-button\">типу рахунка</span> доступно заявок: {{@limitCount}}, на суму: {{@limitAmount}}.<br>Наступна заявка стане доступна: {{@limitTime}}"
+	"withdrawal@limit-with-counter": "Перевищено ліміт на виведення коштів.<br>Для вашого <span class=\"open-act-button\">типу рахунка</span> доступно заявок: {{@limitCount}}, на суму: {{@limitAmount}}.<br>Наступна заявка стане доступна: {{@limitTime}}",
+	"promo-gift@bonus": "бонус",
+	"promo-gift@freeSpins": "Застраховані угоди",
+	"promo-gift@tradeRoom": "Торгова кімната VIP",
+	"promo-gift@tickets": "квитки"
 }

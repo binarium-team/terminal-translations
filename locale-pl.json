@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "Nie pokazuj już tego filmu",
 	"user-menu@account-types": "Typy kont",
 	"withdrawal-error@amount-limit": "Limit wypłat został przekroczony",
-	"withdrawal@limit-with-counter": "Przekroczono limit wypłaty środków.<br><span class=\"open-act-button\">Typ Twojego konta</span> umożliwia złożenie {{@limitCount}} wniosków na sumę {{@limitAmount}}.<br>Następny wniosek możesz złożyć za {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Przekroczono limit wypłaty środków.<br><span class=\"open-act-button\">Typ Twojego konta</span> umożliwia złożenie {{@limitCount}} wniosków na sumę {{@limitAmount}}.<br>Następny wniosek możesz złożyć za {{@limitTime}}.",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

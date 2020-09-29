@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "Bu videoyu kimseye göstermeyin",
 	"user-menu@account-types": "Hesap türleri",
 	"withdrawal-error@amount-limit": "Çekme limiti aşıldı",
-	"withdrawal@limit-with-counter": "Fon çekme limiti aşıldı.<br><span class=\"open-act-button\">Hesap türünüz</span> toplamda {{@limitAmount}} olacak şekilde {{@limitCount}} talebe izin veriyor.<br>{{@limitTime}} içinde başka bir talep daha gönderebilirsiniz."
+	"withdrawal@limit-with-counter": "Fon çekme limiti aşıldı.<br><span class=\"open-act-button\">Hesap türünüz</span> toplamda {{@limitAmount}} olacak şekilde {{@limitCount}} talebe izin veriyor.<br>{{@limitTime}} içinde başka bir talep daha gönderebilirsiniz.",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

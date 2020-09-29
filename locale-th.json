@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป",
 	"user-menu@account-types": "ประเภทบัญชี",
 	"withdrawal-error@amount-limit": "เกินขีดจำกัดการถอนเงินแล้ว",
-	"withdrawal@limit-with-counter": "เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}"
+	"withdrawal@limit-with-counter": "เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

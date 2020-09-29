@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "No volver a mostrar este video",
 	"user-menu@account-types": "Tipos de cuenta",
 	"withdrawal-error@amount-limit": "Se ha superado el límite permitido para retiros",
-	"withdrawal@limit-with-counter": "Ha excedido el límite retiro de fondos.<br>Su <span class=\"open-act-button\">tipo de cuenta</span> permite {{@limitCount}} solicitudes, por un total de {{@limitAmount}}.<br>Puede realizar otra solicitud en {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Ha excedido el límite retiro de fondos.<br>Su <span class=\"open-act-button\">tipo de cuenta</span> permite {{@limitCount}} solicitudes, por un total de {{@limitAmount}}.<br>Puede realizar otra solicitud en {{@limitTime}}.",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

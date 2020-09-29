@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "Không hiển thị lại video này",
 	"user-menu@account-types": "Loại tài khoản",
 	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
-	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}.",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

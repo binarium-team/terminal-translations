@@ -818,5 +818,9 @@
 	"video-tutorial@checkbox": "Non mostrare più questo video",
 	"user-menu@account-types": "Tipi di conto",
 	"withdrawal-error@amount-limit": "Il limite di prelievo è stato superato",
-	"withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{@limitCount}} richieste per un totale di {{@limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{@limitTime}}."
+	"withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{@limitCount}} richieste per un totale di {{@limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{@limitTime}}.",
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

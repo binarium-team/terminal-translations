@@ -819,8 +819,8 @@
 	"user-menu@account-types": "Account types",
 	"withdrawal-error@amount-limit": "The withdrawal limit has been exceeded",
 	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}.",
-	"promo-gift@bonus": "бонус",
-	"promo-gift@freeSpins": "страховые сделки",
-	"promo-gift@tradeRoom": "Торговая комната VIP",
-	"promo-gift@tickets": "билеты розыгрыша"
+	"promo-gift@bonus": "bonus",
+	"promo-gift@freeSpins": "Risk free trades",
+	"promo-gift@tradeRoom": "VIP Trading room ",
+	"promo-gift@tickets": "tickets"
 }

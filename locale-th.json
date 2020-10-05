@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "สินทรัพย์ที่ซื้อขาย",
 	"ac-types@label_withdrawalCountLimit": "คำร้องขอถอนเงิน ต่อวัน",
 	"ac-types@label_withdrawalAmountLimit": "ขีดจำกัดการถอนเงิน ต่อเดือน",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "ห้องซื้อขาย",
 	"ac-types@label_openDealsSum": "จำนวนสูงสุดของการซื้อขายที่เปิด (ในหนึ่งครั้ง)",
 	"ac-types@value_real": "เงินจริง",

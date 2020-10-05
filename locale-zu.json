@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "crwdns30178:0crwdne30178:0",
 	"ac-types@label_withdrawalCountLimit": "crwdns30180:0crwdne30180:0",
 	"ac-types@label_withdrawalAmountLimit": "crwdns30182:0crwdne30182:0",
+	"ac-types@label_withdrawalDayAmountLimit": "crwdns30368:0crwdne30368:0",
 	"ac-types@label_tradingRoom": "crwdns30090:0crwdne30090:0",
 	"ac-types@label_openDealsSum": "crwdns30184:0crwdne30184:0",
 	"ac-types@value_real": "crwdns30186:0crwdne30186:0",

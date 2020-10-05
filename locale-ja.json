@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "取引資産",
 	"ac-types@label_withdrawalCountLimit": "引き出しリクエスト、1日毎",
 	"ac-types@label_withdrawalAmountLimit": "引き出し制限、月毎",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "取引室",
 	"ac-types@label_openDealsSum": "最大オープン取引数（1回につき）",
 	"ac-types@value_real": "実際のファンド",

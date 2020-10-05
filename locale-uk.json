@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Торгові активи",
 	"ac-types@label_withdrawalCountLimit": "Заявок на виведення коштів, в день",
 	"ac-types@label_withdrawalAmountLimit": "Ліміт на виведення коштів, в місяць",
-	"ac-types@label_withdrawalDayAmountLimit": "Лимит на вывод средств, в день",
+	"ac-types@label_withdrawalDayAmountLimit": "Ліміт на виведення коштів, в день",
 	"ac-types@label_tradingRoom": "Торгова кімната",
 	"ac-types@label_openDealsSum": "Сума відкритих угод (за раз)",
 	"ac-types@value_real": "реальні кошти",

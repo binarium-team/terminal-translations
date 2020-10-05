@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "Aktywa handlowe",
 	"ac-types@label_withdrawalCountLimit": "Liczba wniosków o wypłatę, dziennie",
 	"ac-types@label_withdrawalAmountLimit": "Limit wypłat, miesięczny",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "Trading room",
 	"ac-types@label_openDealsSum": "Maksymalna liczba otwartych (jednocześnie) transakcji",
 	"ac-types@value_real": "faktyczne środki",

@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "Handelsanlagen",
 	"ac-types@label_withdrawalCountLimit": "Auszahlungsanfragen pro Tag",
 	"ac-types@label_withdrawalAmountLimit": "Auszahlungslimit pro Monat",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "Handelsraum",
 	"ac-types@label_openDealsSum": "Maximale Anzahl von offenen Handeln (gleichzeitig)",
 	"ac-types@value_real": "echte Geldmittel",

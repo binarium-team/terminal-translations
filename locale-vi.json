@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "Tài sản giao dịch",
 	"ac-types@label_withdrawalCountLimit": "Yêu cầu rút tiền mỗi ngày",
 	"ac-types@label_withdrawalAmountLimit": "Giới hạn rút tiền mỗi tháng",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "Phòng giao dịch",
 	"ac-types@label_openDealsSum": "Số giao dịch mở tối đa (cùng một lúc)",
 	"ac-types@value_real": "tiền thật",

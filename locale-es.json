@@ -806,6 +806,7 @@
 	"ac-types@label_assets": "Activos de trading",
 	"ac-types@label_withdrawalCountLimit": "Solicitudes de retiro diarias",
 	"ac-types@label_withdrawalAmountLimit": "Límite de retiros mensuales",
+	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
 	"ac-types@label_tradingRoom": "Salón de trading",
 	"ac-types@label_openDealsSum": "Cantidad máxima de operaciones abiertas a la vez",
 	"ac-types@value_real": "fondos reales",

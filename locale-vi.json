@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Tài sản giao dịch",
 	"ac-types@label_withdrawalCountLimit": "Yêu cầu rút tiền mỗi ngày",
 	"ac-types@label_withdrawalAmountLimit": "Giới hạn rút tiền mỗi tháng",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "Giới hạn rút tiền mỗi ngày",
 	"ac-types@label_tradingRoom": "Phòng giao dịch",
 	"ac-types@label_openDealsSum": "Số giao dịch mở tối đa (cùng một lúc)",
 	"ac-types@value_real": "tiền thật",
@@ -820,8 +820,8 @@
 	"user-menu@account-types": "Loại tài khoản",
 	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
 	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}.",
-	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@bonus": "thưởng",
+	"promo-gift@freeSpins": "Giao dịch không rủi ro",
+	"promo-gift@tradeRoom": "Phòng giao dịch VIP ",
+	"promo-gift@tickets": "vé"
 }

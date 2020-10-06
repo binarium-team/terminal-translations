@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Aktywa handlowe",
 	"ac-types@label_withdrawalCountLimit": "Liczba wniosków o wypłatę, dziennie",
 	"ac-types@label_withdrawalAmountLimit": "Limit wypłat, miesięczny",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "Limit wypłat, dzienny",
 	"ac-types@label_tradingRoom": "Trading room",
 	"ac-types@label_openDealsSum": "Maksymalna liczba otwartych (jednocześnie) transakcji",
 	"ac-types@value_real": "faktyczne środki",
@@ -820,8 +820,8 @@
 	"user-menu@account-types": "Typy kont",
 	"withdrawal-error@amount-limit": "Limit wypłat został przekroczony",
 	"withdrawal@limit-with-counter": "Przekroczono limit wypłaty środków.<br><span class=\"open-act-button\">Typ Twojego konta</span> umożliwia złożenie {{@limitCount}} wniosków na sumę {{@limitAmount}}.<br>Następny wniosek możesz złożyć za {{@limitTime}}.",
-	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@bonus": "premia",
+	"promo-gift@freeSpins": "Transakcje bez ryzyka",
+	"promo-gift@tradeRoom": "Trading room dla VIP-ów ",
+	"promo-gift@tickets": "bilety"
 }

@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Trading di asset",
 	"ac-types@label_withdrawalCountLimit": "Richieste di prelievo, al giorno",
 	"ac-types@label_withdrawalAmountLimit": "Limite di prelievo, al mese",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "Limite di prelievo, al giorno",
 	"ac-types@label_tradingRoom": "Sala trading",
 	"ac-types@label_openDealsSum": "Numero massimo di negoziazioni aperte (in una sola volta)",
 	"ac-types@value_real": "fondi reali",
@@ -821,7 +821,7 @@
 	"withdrawal-error@amount-limit": "Il limite di prelievo è stato superato",
 	"withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{@limitCount}} richieste per un totale di {{@limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{@limitTime}}.",
 	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@freeSpins": "Scambi senza rischi",
+	"promo-gift@tradeRoom": "Sala trading VIP ",
+	"promo-gift@tickets": "biglietti"
 }

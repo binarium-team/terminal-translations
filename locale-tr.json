@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Ticari varlıklar",
 	"ac-types@label_withdrawalCountLimit": "Çekme talebi, günlük",
 	"ac-types@label_withdrawalAmountLimit": "Çekme limiti, aylık",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "Çekme limiti, günlük",
 	"ac-types@label_tradingRoom": "Ticaret odası",
 	"ac-types@label_openDealsSum": "Maksimum açık ticaret sayısı (tek seferde)",
 	"ac-types@value_real": "gerçek fon",
@@ -821,7 +821,7 @@
 	"withdrawal-error@amount-limit": "Çekme limiti aşıldı",
 	"withdrawal@limit-with-counter": "Fon çekme limiti aşıldı.<br><span class=\"open-act-button\">Hesap türünüz</span> toplamda {{@limitAmount}} olacak şekilde {{@limitCount}} talebe izin veriyor.<br>{{@limitTime}} içinde başka bir talep daha gönderebilirsiniz.",
 	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@freeSpins": "Risksiz ticaret",
+	"promo-gift@tradeRoom": "VIP Ticaret odası ",
+	"promo-gift@tickets": "biletler"
 }

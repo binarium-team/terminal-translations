@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{@limitCount}} richieste per un totale di {{@limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{@limitTime}}.",
 	"promo-gift@bonus": "bonus",
 	"promo-gift@freeSpins": "Scambi senza rischi",
-	"promo-gift@tradeRoom": "Sala trading VIP ",
+	"promo-gift@tradeRoom": "Sala trading",
 	"promo-gift@tickets": "biglietti"
 }

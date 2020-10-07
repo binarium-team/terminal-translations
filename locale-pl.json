@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Przekroczono limit wypłaty środków.<br><span class=\"open-act-button\">Typ Twojego konta</span> umożliwia złożenie {{@limitCount}} wniosków na sumę {{@limitAmount}}.<br>Następny wniosek możesz złożyć za {{@limitTime}}.",
 	"promo-gift@bonus": "premia",
 	"promo-gift@freeSpins": "Transakcje bez ryzyka",
-	"promo-gift@tradeRoom": "Trading room dla VIP-ów ",
+	"promo-gift@tradeRoom": "Trading room",
 	"promo-gift@tickets": "bilety"
 }

@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "Handelsanlagen",
 	"ac-types@label_withdrawalCountLimit": "Auszahlungsanfragen pro Tag",
 	"ac-types@label_withdrawalAmountLimit": "Auszahlungslimit pro Monat",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "Auszahlungslimit pro Tag",
 	"ac-types@label_tradingRoom": "Handelsraum",
 	"ac-types@label_openDealsSum": "Maximale Anzahl von offenen Handeln (gleichzeitig)",
 	"ac-types@value_real": "echte Geldmittel",
@@ -820,8 +820,8 @@
 	"user-menu@account-types": "Kontoarten",
 	"withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten",
 	"withdrawal@limit-with-counter": "Das Limit zur Auszahlung von Geldmitteln wurde überschritten.<br>Mit Ihrer <span class=\"open-act-button\">Kontoart</span> können Sie {{@limitCount}} Anfragen zu insgesamt {{@limitAmount}} stellen.<br>In {{@limitTime}} können Sie eine weitere Anfrage stellen.",
-	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@bonus": "Bonus",
+	"promo-gift@freeSpins": "Risikofreie Handelstätigkeiten",
+	"promo-gift@tradeRoom": "VIP-Handelsraum ",
+	"promo-gift@tickets": "Tickets"
 }

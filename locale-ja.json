@@ -806,7 +806,7 @@
 	"ac-types@label_assets": "取引資産",
 	"ac-types@label_withdrawalCountLimit": "引き出しリクエスト、1日毎",
 	"ac-types@label_withdrawalAmountLimit": "引き出し制限、月毎",
-	"ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+	"ac-types@label_withdrawalDayAmountLimit": "引き出し制限、日毎",
 	"ac-types@label_tradingRoom": "取引室",
 	"ac-types@label_openDealsSum": "最大オープン取引数（1回につき）",
 	"ac-types@value_real": "実際のファンド",
@@ -820,8 +820,8 @@
 	"user-menu@account-types": "アカウントの種類",
 	"withdrawal-error@amount-limit": "お引き出しの限度額を超えました",
 	"withdrawal@limit-with-counter": "引出し限度額を超えました。<br>あなたの <span class=\"open-act-button\">アカウントタイプ</span>では、{{@limitCount}} 合計 {{@limitAmount}}をリクエストできます。<br>別件のリクエストを {{@limitTime}}ですることができます。",
-	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "VIP Trading room ",
-	"promo-gift@tickets": "tickets"
+	"promo-gift@bonus": "ボーナス",
+	"promo-gift@freeSpins": "リスクなしの取引",
+	"promo-gift@tradeRoom": "VIPトレーディングルーム ",
+	"promo-gift@tickets": "チケット"
 }

@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Ha excedido el límite retiro de fondos.<br>Su <span class=\"open-act-button\">tipo de cuenta</span> permite {{@limitCount}} solicitudes, por un total de {{@limitAmount}}.<br>Puede realizar otra solicitud en {{@limitTime}}.",
 	"promo-gift@bonus": "bonificación",
 	"promo-gift@freeSpins": "Operaciones sin riesgo",
-	"promo-gift@tradeRoom": "Salón de trading",
+	"promo-gift@tradeRoom": "trading room",
 	"promo-gift@tickets": "boletos"
 }

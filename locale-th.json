@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}",
 	"promo-gift@bonus": "โบนัส",
 	"promo-gift@freeSpins": "การซื้อขายที่ปลอดความเสี่ยง",
-	"promo-gift@tradeRoom": "trading room",
+	"promo-gift@tradeRoom": "ห้องซื้อขาย",
 	"promo-gift@tickets": "ตั๋ว"
 }

@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}.",
 	"promo-gift@bonus": "bonus",
 	"promo-gift@freeSpins": "Risk free trades",
-	"promo-gift@tradeRoom": "торговая комната",
+	"promo-gift@tradeRoom": "trading room",
 	"promo-gift@tickets": "tickets"
 }

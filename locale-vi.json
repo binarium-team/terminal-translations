@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}.",
 	"promo-gift@bonus": "thưởng",
 	"promo-gift@freeSpins": "Giao dịch không rủi ro",
-	"promo-gift@tradeRoom": "Trading room",
+	"promo-gift@tradeRoom": "Phòng giao dịch",
 	"promo-gift@tickets": "vé"
 }

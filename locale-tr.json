@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Fon çekme limiti aşıldı.<br><span class=\"open-act-button\">Hesap türünüz</span> toplamda {{@limitAmount}} olacak şekilde {{@limitCount}} talebe izin veriyor.<br>{{@limitTime}} içinde başka bir talep daha gönderebilirsiniz.",
 	"promo-gift@bonus": "bonus",
 	"promo-gift@freeSpins": "Risksiz ticaret",
-	"promo-gift@tradeRoom": "Ticaret odası",
+	"promo-gift@tradeRoom": "ticaret odası",
 	"promo-gift@tickets": "biletler"
 }

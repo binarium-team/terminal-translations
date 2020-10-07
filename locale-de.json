@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Das Limit zur Auszahlung von Geldmitteln wurde überschritten.<br>Mit Ihrer <span class=\"open-act-button\">Kontoart</span> können Sie {{@limitCount}} Anfragen zu insgesamt {{@limitAmount}} stellen.<br>In {{@limitTime}} können Sie eine weitere Anfrage stellen.",
 	"promo-gift@bonus": "Bonus",
 	"promo-gift@freeSpins": "Risikofreie Handelstätigkeiten",
-	"promo-gift@tradeRoom": "Handelsraum",
+	"promo-gift@tradeRoom": "handelsraum",
 	"promo-gift@tickets": "Tickets"
 }

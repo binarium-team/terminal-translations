@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Перевищено ліміт на виведення коштів.<br>Для вашого <span class=\"open-act-button\">типу рахунка</span> доступно заявок: {{@limitCount}}, на суму: {{@limitAmount}}.<br>Наступна заявка стане доступна: {{@limitTime}}",
 	"promo-gift@bonus": "бонус",
 	"promo-gift@freeSpins": "Застраховані угоди",
-	"promo-gift@tradeRoom": "Торгова кімната",
+	"promo-gift@tradeRoom": "торгова кімната",
 	"promo-gift@tickets": "квитки"
 }

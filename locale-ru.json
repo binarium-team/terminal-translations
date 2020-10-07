@@ -822,6 +822,6 @@
 	"withdrawal@limit-with-counter": "Превышен лимит на вывод средств.<br>Для вашего <span class=\"open-act-button\">типа счета</span> доступно заявок: {{@limitCount}}, на сумму: {{@limitAmount}}.<br>Следующая заявка будет доступна: {{@limitTime}}",
 	"promo-gift@bonus": "бонус",
 	"promo-gift@freeSpins": "страховые сделки",
-	"promo-gift@tradeRoom": "Торговая комната VIP",
+	"promo-gift@tradeRoom": "Торговая комната",
 	"promo-gift@tickets": "билеты розыгрыша"
 }

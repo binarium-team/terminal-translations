@@ -445,7 +445,7 @@
 	"cashbox-withdrawal-info-0-header": "Bagaimana cara menarik dana dari akun saya?",
 	"cashbox-withdrawal-info-0-content": "Opsi yang tersedia adalah: kartu bank, dompet-el Qiwi/Yandex Money/WebMoney. Pemilik akun mikro dapat memiliki satu permohonan penarikan dana yang aktif.",
 	"cashbox-withdrawal-info-1-header": "Berapakah jumlah minimum uang yang dapat ditarik dari akun?",
-	"cashbox-withdrawal-info-1-content": "Minimum withdrawal amount — ₽300 or $5 or €5 or A$5 or ₴150. Maximum withdrawal amount for a single transaction — ₽15,000 or $200 or €200 or A$200 or ₴6,000.",
+	"cashbox-withdrawal-info-1-content": "Jumlah penarikan minimum — ₽300 atau $5 atau €5 atau A$5 atau ₴150. Jumlah penarikan maksimum dalam satu transaksi — ₽15.000 atau $200 atau €200 atau A$200 atau ₴6.000.",
 	"cashbox-withdrawal-info-2-header": "Bagaimana cara menarik uang yang lebih besar dari ₽15.000 atau $200 atau €200 atau A$200, atau ₴6.000?",
 	"cashbox-withdrawal-info-2-content": "Pembatasan ini ditetapkan untuk mencegah penarikan akun secara cepat. Jumlah yang melebihi batas yang ditetapkan hanya dapat ditarik dalam jangka waktu yang lebih lama. Jika Anda perlu menarik dalam jumlah besar, Anda dapat membagi penarikan dana menjadi $200 atau €200 atau A$200, atau tambahan ₽15.000 atau ₴6.000. Jumlah permintaan penarikan yang dapat dilakukan tidak dibatasi. Jika Anda ingin melakukan penarikan yang lebih besar dalam satu pembayaran, hubungi tim dukungan platform. Jika akun Anda tidak diverifikasi, mungkin diperlukan waktu hingga tiga hari kerja untuk memproses permintaan penarikan dana. Anda tidak dapat mengajukan lebih dari satu permintaan penarikan dana per hari.",
 	"cashbox-withdrawal-info-3-header": "Seberapa cepat proses penarikan dana?",

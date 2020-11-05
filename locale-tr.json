@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Orta çizgi kalınlığı",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Ofset",
 	"bottom-line-thickness": "Alt çizgi kalınlığı",
 	"bottom-line-period": "Alt çizgi nokta",

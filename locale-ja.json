@@ -53,6 +53,8 @@
 	"line-offset": "ラインの移動",
 	"top-line-thickness": "トップラインの太さ",
 	"mid-line-thickness": "中間ラインの太さ",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "オフセット",
 	"bottom-line-thickness": "ボトムラインの太さ",
 	"bottom-line-period": "ボトムライン期間",

@@ -53,6 +53,8 @@
 	"line-offset": "Cambio de la línea",
 	"top-line-thickness": "Grosor de la línea superior",
 	"mid-line-thickness": "Grosor de la línea del medio",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "Desplazamiento",
 	"bottom-line-thickness": "Grosor de la línea inferior",
 	"bottom-line-period": "Período de la línea inferior",

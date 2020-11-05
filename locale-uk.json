@@ -53,6 +53,8 @@
 	"line-offset": "Зсув лінії",
 	"top-line-thickness": "Товщина верхньої лінії",
 	"mid-line-thickness": "Товщина середньої лінії",
+	"slow_period": "Медленный период",
+	"fast_period": "Быстрый период",
 	"offset": "Зсув",
 	"bottom-line-thickness": "Товщина нижньої лінії",
 	"bottom-line-period": "Період нижньої лінії",

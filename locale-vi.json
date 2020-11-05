@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Độ dày đường kẻ giữa",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Bù",
 	"bottom-line-thickness": "Độ dày đường kẻ dưới cùng",
 	"bottom-line-period": "Thời hạn đường kẻ dưới cùng",

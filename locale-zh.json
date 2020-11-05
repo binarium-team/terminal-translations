@@ -53,6 +53,8 @@
 	"line-offset": "线条平移",
 	"top-line-thickness": "顶部线条粗细",
 	"mid-line-thickness": "中间线条粗细",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "偏移",
 	"bottom-line-thickness": "底部线条粗细",
 	"bottom-line-period": "底部线条周期",

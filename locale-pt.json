@@ -53,6 +53,8 @@
 	"line-offset": "Deslocamento da linha",
 	"top-line-thickness": "Espessura da linha superior",
 	"mid-line-thickness": "Espessura da linha central",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "Deslocamento",
 	"bottom-line-thickness": "Espessura da linha inferior",
 	"bottom-line-period": "Período da linha inferior",

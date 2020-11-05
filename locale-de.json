@@ -53,6 +53,8 @@
 	"line-offset": "Linienversatz",
 	"top-line-thickness": "Obere Liniendicke",
 	"mid-line-thickness": "Mittlere Liniendicke",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "Ausgleich",
 	"bottom-line-thickness": "Untere Liniendicke",
 	"bottom-line-period": "Bottom-Line Zeitraum",

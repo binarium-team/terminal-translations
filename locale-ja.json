@@ -53,6 +53,8 @@
 	"line-offset": "ラインの移動",
 	"top-line-thickness": "トップラインの太さ",
 	"mid-line-thickness": "中間ラインの太さ",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "オフセット",
 	"bottom-line-thickness": "ボトムラインの太さ",
 	"bottom-line-period": "ボトムライン期間",
@@ -822,6 +824,6 @@
 	"withdrawal@limit-with-counter": "引出し限度額を超えました。<br>あなたの <span class=\"open-act-button\">アカウントタイプ</span>では、{{@limitCount}} 合計 {{@limitAmount}}をリクエストできます。<br>別件のリクエストを {{@limitTime}}ですることができます。",
 	"promo-gift@bonus": "ボーナス",
 	"promo-gift@freeSpins": "リスクなしの取引",
-	"promo-gift@tradeRoom": "trading room",
+	"promo-gift@tradeRoom": "取引室",
 	"promo-gift@tickets": "チケット"
 }

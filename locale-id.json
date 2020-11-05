@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Ketebalan garis tengah",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Offset",
 	"bottom-line-thickness": "Ketebalan garis bawah",
 	"bottom-line-period": "Periode garis bawah",

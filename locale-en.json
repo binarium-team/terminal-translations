@@ -53,6 +53,8 @@
 	"line-offset": "Line shift",
 	"top-line-thickness": "Top line thickness",
 	"mid-line-thickness": "Middle line thickness",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "Offset",
 	"bottom-line-thickness": "Bottom line thickness",
 	"bottom-line-period": "Bottom-line period",

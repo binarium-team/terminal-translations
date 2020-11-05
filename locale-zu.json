@@ -55,6 +55,8 @@
 	"mid-line-thickness": "crwdns21642:0crwdne21642:0",
 	"slow_period": "crwdns30580:0crwdne30580:0",
 	"fast_period": "crwdns30582:0crwdne30582:0",
+	"short_period": "crwdns30590:0crwdne30590:0",
+	"long_period": "crwdns30592:0crwdne30592:0",
 	"offset": "crwdns21643:0crwdne21643:0",
 	"bottom-line-thickness": "crwdns21644:0crwdne21644:0",
 	"bottom-line-period": "crwdns26534:0crwdne26534:0",

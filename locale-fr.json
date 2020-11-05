@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Épaisseur de la ligne centrale",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Décalage",
 	"bottom-line-thickness": "Épaisseur de la ligne inférieure",
 	"bottom-line-period": "Période de la ligne inférieure",

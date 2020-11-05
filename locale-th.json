@@ -53,6 +53,8 @@
 	"line-offset": "เลื่อนบรรทัด",
 	"top-line-thickness": "ความหนาของเส้นบนสุด",
 	"mid-line-thickness": "ความหนาของเส้นกลาง",
+	"slow_period": "Slow period",
+	"fast_period": "Fast period",
 	"offset": "ส่วนชดเชย",
 	"bottom-line-thickness": "ความหนาของเส้นล่าง",
 	"bottom-line-period": "ระยะเวลาเส้นด้านล่าง",

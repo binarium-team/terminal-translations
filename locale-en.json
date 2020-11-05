@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Middle line thickness",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Offset",
 	"bottom-line-thickness": "Bottom line thickness",
 	"bottom-line-period": "Bottom-line period",

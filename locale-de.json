@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Mittlere Liniendicke",
 	"slow_period": "Slow period",
 	"fast_period": "Fast period",
+	"short_period": "Short period",
+	"long_period": "Long period",
 	"offset": "Ausgleich",
 	"bottom-line-thickness": "Untere Liniendicke",
 	"bottom-line-period": "Bottom-Line Zeitraum",

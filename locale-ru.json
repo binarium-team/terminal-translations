@@ -55,6 +55,8 @@
 	"mid-line-thickness": "Толщина средней линии",
 	"slow_period": "Медленный период",
 	"fast_period": "Быстрый период",
+	"short_period": "Короткий период",
+	"long_period": "Длинный период",
 	"offset": "Сдвиг",
 	"bottom-line-thickness": "Толщина нижней линии",
 	"bottom-line-period": "Период нижней линии",

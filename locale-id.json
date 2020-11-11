@@ -435,7 +435,7 @@
 	"deposit-using-agreements-header": "Item bonus",
 	"deposit-using-agreements-p1": "Bonus adalah dana tambahan yang disediakan oleh perusahaan untuk meningkatkan potensi trading para trader.",
 	"deposit-using-agreements-p2": "Saat melakukan deposit, jumlah uang bonus tertentu dapat dikreditkan ke akun Anda, besaran bonus tergantung pada besaran deposit Anda.",
-	"deposit-using-agreements-p3": "Bonus tidak membatasi jumlah dana yang Anda bisa tarik: Anda bisa menarik profit serta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus yang tidak dihasilkan akan diubah ke status tidak aktif dan akan didebet dari akun Anda.",
+	"deposit-using-agreements-p3": "Bonus tidak membatasi jumlah dana yang bisa Anda tarik: Anda bisa menarik profit beserta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus diterima di muka akan diubah ke statusnya menjadi tidak aktif dan akan didebit dari akun Anda.",
 	"choose-payment-method": "Pilih metode deposit",
 	"choose-payment-sum": "Pilih jumlah deposit",
 	"plus-value-bonus": "+ bonus {{@value}}",

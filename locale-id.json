@@ -200,7 +200,7 @@
 	"min-deal-size": "Jumlah perdagangan minimum",
 	"max-deal-size": "Jumlah perdagangan maksimum",
 	"max-simultaneously-open-deals": "Batas trading terbuka",
-	"max-amount-of-open-deals": "Batas investasi",
+	"max-amount-of-open-deals": "Batasan investasi",
 	"available-options-types": "Opsi tersedia",
 	"tournament-option-type-turbo": "Turbo",
 	"tournament-option-type-binary": "Binary",

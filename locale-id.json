@@ -41,7 +41,7 @@
 	"count-purchases": "{{@count}} #{trades@trade?count}",
 	"total-payout": "Total penarikan",
 	"cancel": "Batal",
-	"apply": "Terapkan",
+	"apply": "Jalankan",
 	"period": "Periode",
 	"fast-stochastic-period": "Periode garis cepat",
 	"slow-stochastic-period": "Periode garis lambat",

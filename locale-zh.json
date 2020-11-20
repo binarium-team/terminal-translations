@@ -53,7 +53,7 @@
 	"signal-macd-period": "Signal period",
 	"fast-macd-line-thickness": "Fast line thickness",
 	"signal_line_color": "Signal line color",
-	"macd_color": "",
+	"macd_color": "Цвет",
 	"line-thickness": "线条粗细",
 	"line-color": "线条颜色",
 	"line-offset": "线条平移",

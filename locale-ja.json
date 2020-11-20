@@ -53,7 +53,7 @@
 	"signal-macd-period": "Signal period",
 	"fast-macd-line-thickness": "Fast line thickness",
 	"signal_line_color": "Signal line color",
-	"macd_color": "",
+	"macd_color": "Цвет",
 	"line-thickness": "線の太さ",
 	"line-color": "線の色",
 	"line-offset": "ラインの移動",

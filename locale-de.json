@@ -53,7 +53,7 @@
 	"signal-macd-period": "Signal period",
 	"fast-macd-line-thickness": "Fast line thickness",
 	"signal_line_color": "Signal line color",
-	"macd_color": "",
+	"macd_color": "Цвет",
 	"line-thickness": "Liniendicke",
 	"line-color": "Linienfarbe",
 	"line-offset": "Linienversatz",

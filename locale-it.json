@@ -53,6 +53,7 @@
 	"signal-macd-period": "Periodo del segnale",
 	"fast-macd-line-thickness": "Spessore della linea rapida",
 	"signal_line_color": "Colore della linea del segnale",
+	"oversold": "Ipervenduto",
 	"macd_color": "Colore",
 	"line-thickness": "Spessore della linea",
 	"line-color": "Colore della linea",

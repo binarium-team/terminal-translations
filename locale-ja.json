@@ -53,6 +53,7 @@
 	"signal-macd-period": "シグナル期間",
 	"fast-macd-line-thickness": "ファスト線の太さ",
 	"signal_line_color": "シグナル線の色",
+	"oversold": "Oversold",
 	"macd_color": "色",
 	"line-thickness": "線の太さ",
 	"line-color": "線の色",

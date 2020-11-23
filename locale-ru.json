@@ -53,6 +53,7 @@
 	"signal-macd-period": "Период сигнала",
 	"fast-macd-line-thickness": "Толщина быстрой линии",
 	"signal_line_color": "Цвет линии сигнала",
+	"oversold": "Перепроданность",
 	"macd_color": "Цвет",
 	"line-thickness": "Толщина линии",
 	"line-color": "Цвет линии",

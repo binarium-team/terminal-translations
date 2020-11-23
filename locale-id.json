@@ -1,6 +1,6 @@
 {
 	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Kepada Pengguna!",
+	"dearUser": "Yth. Pengguna!",
 	"error": "Eror",
 	"settings": "Pengaturan",
 	"settings-2": "Pengaturan terminal",

@@ -844,7 +844,7 @@
 	"promo-gift@tickets": "билеты розыгрыша",
 	"settings@quality-title": "Качество графики",
 	"settings@quality-hint": "Подсказка как работать с качеством графики",
-	"settings@quaility-option-base": "Базовое",
-	"settings@quaility-option-average": "Среднее",
-	"settings@quaility-option-best": "Высокое"
+	"settings@quality-option-base": "Базовое",
+	"settings@quality-option-average": "Среднее",
+	"settings@quality-option-best": "Высокое"
 }

@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Risk free trades",
 	"promo-gift@tradeRoom": "trading room",
 	"promo-gift@tickets": "tickets",
-	"settings@quality-title": "Качество графики",
+	"settings@quality-title": "Chart quality",
 	"settings@quality-hint": "Управляйте нагрузкой на устройство с помощью настройки качества графики. Базовое качество помогает экономить ресурсы, загружать терминал быстрее, но с незначительными потерями в графике.",
-	"settings@quality-option-base": "Базовое",
-	"settings@quality-option-average": "Среднее",
-	"settings@quality-option-best": "Высокое"
+	"settings@quality-option-base": "Base",
+	"settings@quality-option-average": "Average",
+	"settings@quality-option-best": "High"
 }

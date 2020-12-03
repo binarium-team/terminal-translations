@@ -843,7 +843,7 @@
 	"promo-gift@tradeRoom": "trading room",
 	"promo-gift@tickets": "tickets",
 	"settings@quality-title": "Качество графики",
-	"settings@quality-hint": "Подсказка как работать с качеством графики",
+	"settings@quality-hint": "Управляйте нагрузкой на устройство с помощью настройки качества графики. Базовое качество помогает экономить ресурсы, загружать терминал быстрее, но с незначительными потерями в графике.",
 	"settings@quality-option-base": "Базовое",
 	"settings@quality-option-average": "Среднее",
 	"settings@quality-option-best": "Высокое"

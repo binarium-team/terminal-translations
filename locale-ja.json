@@ -843,8 +843,8 @@
 	"promo-gift@tradeRoom": "取引室",
 	"promo-gift@tickets": "チケット",
 	"settings@quality-title": "チャートの品質",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-hint": "グラフィックの品質設定を変更して、デバイスの負荷を管理します。グラフィックの品質はわずかに低下しますが、標準品質はリソースを節約し、プラットフォームをより高速にロードするのに役立ちます。",
+	"settings@quality-option-base": "ベース",
+	"settings@quality-option-average": "平均",
+	"settings@quality-option-best": "高い"
 }

@@ -841,5 +841,10 @@
 	"promo-gift@bonus": "premia",
 	"promo-gift@freeSpins": "Transakcje bez ryzyka",
 	"promo-gift@tradeRoom": "trading room",
-	"promo-gift@tickets": "bilety"
+	"promo-gift@tickets": "bilety",
+	"settings@quality-title": "Chart quality",
+	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
+	"settings@quality-option-base": "Base",
+	"settings@quality-option-average": "Average",
+	"settings@quality-option-best": "High"
 }

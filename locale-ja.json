@@ -139,7 +139,7 @@
 	"ray": "光線",
 	"hori-line": "水平ライン",
 	"vline": "縦線",
-	"free-hand": "Free hand",
+	"free-hand": "フリーハンド",
 	"crossroad": "交差",
 	"frame": "フレーム",
 	"range": "範囲",
@@ -841,5 +841,10 @@
 	"promo-gift@bonus": "ボーナス",
 	"promo-gift@freeSpins": "リスクなしの取引",
 	"promo-gift@tradeRoom": "取引室",
-	"promo-gift@tickets": "チケット"
+	"promo-gift@tickets": "チケット",
+	"settings@quality-title": "チャートの品質",
+	"settings@quality-hint": "グラフィックの品質設定を変更して、デバイスの負荷を管理します。グラフィックの品質はわずかに低下しますが、標準品質はリソースを節約し、プラットフォームをより高速にロードするのに役立ちます。",
+	"settings@quality-option-base": "ベース",
+	"settings@quality-option-average": "平均",
+	"settings@quality-option-best": "高い"
 }

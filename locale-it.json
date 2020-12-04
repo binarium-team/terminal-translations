@@ -139,7 +139,7 @@
 	"ray": "Raggio",
 	"hori-line": "Linea orizzontale",
 	"vline": "Linea verticale",
-	"free-hand": "Free hand",
+	"free-hand": "Mano libera",
 	"crossroad": "Incroci",
 	"frame": "Cornice",
 	"range": "Gamma",
@@ -841,5 +841,10 @@
 	"promo-gift@bonus": "bonus",
 	"promo-gift@freeSpins": "Scambi senza rischi",
 	"promo-gift@tradeRoom": "sala trading",
-	"promo-gift@tickets": "biglietti"
+	"promo-gift@tickets": "biglietti",
+	"settings@quality-title": "Qualità dei grafici",
+	"settings@quality-hint": "Gestisci il carico sul tuo dispositivo modificando le impostazioni di qualità grafica. La qualità standard aiuta a risparmiare risorse e a caricare la piattaforma più velocemente, nonostante riduca leggermente la qualità grafica.",
+	"settings@quality-option-base": "Base",
+	"settings@quality-option-average": "Media",
+	"settings@quality-option-best": "Elevata"
 }

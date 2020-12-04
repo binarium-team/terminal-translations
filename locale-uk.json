@@ -139,7 +139,7 @@
 	"ray": "Промінь",
 	"hori-line": "Горизонтальна лінія",
 	"vline": "Вертикальна лінія",
-	"free-hand": "Кривые",
+	"free-hand": "Криві",
 	"crossroad": "Перетин",
 	"frame": "Рамка",
 	"range": "Канал",
@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Застраховані угоди",
 	"promo-gift@tradeRoom": "торгова кімната",
 	"promo-gift@tickets": "квитки",
-	"settings@quality-title": "Качество графики",
-	"settings@quality-hint": "Управляйте нагрузкой на устройство с помощью настройки качества графики. Базовое качество помогает экономить ресурсы, загружать терминал быстрее, но с незначительными потерями в графике.",
-	"settings@quality-option-base": "Базовое",
-	"settings@quality-option-average": "Среднее",
-	"settings@quality-option-best": "Высокое"
+	"settings@quality-title": "Якість графіки",
+	"settings@quality-hint": "Керуйте навантаженням на пристрій за допомогою налаштування якості графіки. Базова якість допомогає економити ресурси, завантажувати термінал швидше, але з незначними втратами в якості графіки.",
+	"settings@quality-option-base": "Базова",
+	"settings@quality-option-average": "Середня",
+	"settings@quality-option-best": "Висока"
 }

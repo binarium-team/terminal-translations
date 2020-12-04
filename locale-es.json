@@ -845,6 +845,6 @@
 	"settings@quality-title": "Calidad de gráfica",
 	"settings@quality-hint": "Cambie los ajustes de calidad gráfica para administrar la carga de su dispositivo. La calidad estándar ayuda a ahorrar recursos y cargar la plataforma más rápido, si bien notará una leve pérdida de calidad gráfica.",
 	"settings@quality-option-base": "Básica",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-option-average": "Media",
+	"settings@quality-option-best": "Alta"
 }

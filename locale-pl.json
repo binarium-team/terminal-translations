@@ -139,7 +139,7 @@
 	"ray": "Promień",
 	"hori-line": "Linia pozioma",
 	"vline": "Linia pionowa",
-	"free-hand": "Free hand",
+	"free-hand": "Rysunek odręczny",
 	"crossroad": "Skrzyżowanie",
 	"frame": "Ramka",
 	"range": "Zakres",
@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Transakcje bez ryzyka",
 	"promo-gift@tradeRoom": "trading room",
 	"promo-gift@tickets": "bilety",
-	"settings@quality-title": "Chart quality",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-title": "Jakość wykresu",
+	"settings@quality-hint": "Zarządzaj obciążeniem urządzenia poprzez zmianę ustawień jakości grafiki. Standardowa jakość pozwala oszczędzać zasoby i szybciej ładować platformę kosztem niewielkiego obniżenia jakości grafiki.",
+	"settings@quality-option-base": "Podstawowa",
+	"settings@quality-option-average": "Średnia",
+	"settings@quality-option-best": "Wysoka"
 }

@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Risksiz ticaret",
 	"promo-gift@tradeRoom": "ticaret odası",
 	"promo-gift@tickets": "biletler",
-	"settings@quality-title": "Chart quality",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-title": "Çizelge kalitesi",
+	"settings@quality-hint": "Grafik kalite ayarlarını değiştirerek cihazınızdaki yükü yönetin. Standart kalite, kaynaklardan tasarruf etmenize ve platformun daha hızlı yüklenmesine yardımcı olur ancak grafik kalitesinde küçük bir azalma olur.",
+	"settings@quality-option-base": "Temel",
+	"settings@quality-option-average": "Ortalama",
+	"settings@quality-option-best": "Yüksek"
 }

@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Risikofreie Handelstätigkeiten",
 	"promo-gift@tradeRoom": "Handelsraum",
 	"promo-gift@tickets": "Tickets",
-	"settings@quality-title": "Chart quality",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-title": "Diagrammqualität",
+	"settings@quality-hint": "Verwalten Sie die Auslastung Ihres Geräts, indem Sie die Einstellungen für die Grafikqualität ändern. Mit der Standardqualität können Ressourcen gespart und die Plattform schneller geladen werden, doch die Grafikqualität nimmt geringfügig ab.",
+	"settings@quality-option-base": "Grundlegend",
+	"settings@quality-option-average": "Durchschnittlich",
+	"settings@quality-option-best": "Hoch"
 }

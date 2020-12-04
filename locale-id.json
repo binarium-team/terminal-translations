@@ -139,7 +139,7 @@
 	"ray": "Ray",
 	"hori-line": "Garis horizontal",
 	"vline": "Garis vertikal",
-	"free-hand": "Free hand",
+	"free-hand": "Menggambar bebas",
 	"crossroad": "Garis silang",
 	"frame": "Kerangka",
 	"range": "Rentang",
@@ -843,8 +843,8 @@
 	"promo-gift@tradeRoom": "ruang trading",
 	"promo-gift@tickets": "tiket",
 	"settings@quality-title": "Mutu bagan",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-hint": "Kelola beban perangkat Anda dengan mengubah pengaturan mutu grafis. Mutu standar membantu menghemat sumber daya dan memuat platform lebih cepat, walaupun ada sedikit penurunan mutu grafis.",
+	"settings@quality-option-base": "Dasar",
+	"settings@quality-option-average": "Biasa",
+	"settings@quality-option-best": "Tinggi"
 }

@@ -139,7 +139,7 @@
 	"ray": "Tia",
 	"hori-line": "Đường kẻ ngang",
 	"vline": "Đường dọc",
-	"free-hand": "Free hand",
+	"free-hand": "Vẽ tự do",
 	"crossroad": "Điểm giao",
 	"frame": "Khung",
 	"range": "Phạm vi",
@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Giao dịch không rủi ro",
 	"promo-gift@tradeRoom": "phòng giao dịch",
 	"promo-gift@tickets": "vé",
-	"settings@quality-title": "Chart quality",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
-	"settings@quality-option-average": "Average",
-	"settings@quality-option-best": "High"
+	"settings@quality-title": "Chất lượng biểu đồ",
+	"settings@quality-hint": "Quản lý tải trên thiết bị của bạn bằng cách thay đổi cài đặt chất lượng đồ họa. Chất lượng tiêu chuẩn sẽ giúp tiết kiệm tài nguyên và tải nền tảng nhanh hơn, tuy nhiên chất lượng đồ họa sẽ bị suy giảm đôi chút.",
+	"settings@quality-option-base": "Cơ sở",
+	"settings@quality-option-average": "Trung bình",
+	"settings@quality-option-best": "Cao"
 }

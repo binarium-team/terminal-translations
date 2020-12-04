@@ -139,7 +139,7 @@
 	"ray": "Rayo",
 	"hori-line": "Línea horizontal",
 	"vline": "Línea vertical",
-	"free-hand": "Free hand",
+	"free-hand": "Trazo libre",
 	"crossroad": "Intersección",
 	"frame": "Marco",
 	"range": "Rango",
@@ -842,9 +842,9 @@
 	"promo-gift@freeSpins": "Operaciones sin riesgo",
 	"promo-gift@tradeRoom": "salón de trading",
 	"promo-gift@tickets": "boletos",
-	"settings@quality-title": "Chart quality",
-	"settings@quality-hint": "Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality.",
-	"settings@quality-option-base": "Base",
+	"settings@quality-title": "Calidad de gráfica",
+	"settings@quality-hint": "Cambie los ajustes de calidad gráfica para administrar la carga de su dispositivo. La calidad estándar ayuda a ahorrar recursos y cargar la plataforma más rápido, si bien notará una leve pérdida de calidad gráfica.",
+	"settings@quality-option-base": "Básica",
 	"settings@quality-option-average": "Average",
 	"settings@quality-option-best": "High"
 }

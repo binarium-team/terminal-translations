@@ -356,7 +356,7 @@
 	"personal-data-safety": "تضمین می‌شود که داده‌های شخص‌تان محفوظ باقی بمانند",
 	"bonus": "پاداش",
 	"new-bonus": "به حساب",
-	"received-bonus": "Together with the selected deposit you will receive",
+	"received-bonus": "شما به همراه واریزی که انتخاب کرده‌اید، این مقدار را دریافت خواهید کرد:",
 	"received-bonus-value": "a bonus in the amount of: {{@bonus}}",
 	"mobile-received-bonus-value": "+ bonus {{@bonus}}",
 	"expires-in": "Expires in",

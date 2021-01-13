@@ -1,6 +1,6 @@
 {
 	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "کاربر عزیز!",
+	"dearUser": "کاربرگرامی!",
 	"error": "خطا",
 	"settings": "تنظیمات",
 	"settings-2": "تنظیمات ترمینال",

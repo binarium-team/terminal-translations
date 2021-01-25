@@ -653,6 +653,7 @@
 	"modal-nickname_title": "Select a nickname",
 	"modal-nickname_text": "To participate in the contest, enter the nickname that will represent you in the list of contest participants. You can change it at any time in your profile settings.",
 	"modal-nickname_button": "Save and continue",
+	"modal-nickname_placeholder": "Введите ваш никнейм",
 	"modal-profile_title": "Additional information",
 	"modal-profile_text": "Please provide additional information to continue working on the platform.",
 	"modal-profile_name": "First name",

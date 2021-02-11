@@ -927,6 +927,8 @@
 	"tournament@prize-places": "Призовые места",
 	"tournament@tab$restrictions": "Условия",
 	"tournament@tab$rating": "Рейтинг участников",
+	"tournament@tab$current": "Сейчас",
+	"tournament@tab$soon": "Скоро",
 	"tournament@timer$start": "До начала турнира",
 	"tournament@timer$end": "До окончания турнира",
 	"section@title$bet": "Торговля",

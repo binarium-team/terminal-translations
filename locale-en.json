@@ -944,5 +944,6 @@
 	"disabled-timer@title": "Откроется через",
 	"open-option$total$deals": "сдел.",
 	"open-option$total$invest": "Общ. инвест.",
-	"open-option$total$payout": "Общ. выплата"
+	"open-option$total$payout": "Общ. выплата",
+	"chat-button@text": "помощь<br>онлайн"
 }

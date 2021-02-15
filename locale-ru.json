@@ -34,6 +34,7 @@
 	"history": "История",
 	"cashbox": "Касса",
 	"education": "Обучение",
+	"education@category$videos": "Обучающие <span>видео</span>",
 	"promos": "Акции",
 	"trading-history": "История торговли",
 	"section-under-construction": "Раздел находится в разработке",
@@ -118,7 +119,7 @@
 	"chart-type-curve-area": "Зонный",
 	"chart-type-candlesticks": "Свечной",
 	"chart-type-bars": "Бары",
-	"bet-sum": "Сумма сделки",
+	"bet-sum": "Сумма",
 	"chart-controls-income-caption": "Доходность",
 	"expiration-time": "Время экспирации",
 	"wallet-refilling": "Пополнение счёта",
@@ -954,5 +955,6 @@
 	"open-option$total$deals": "сдел.",
 	"open-option$total$invest": "Общ. инвест.",
 	"open-option$total$payout": "Общ. выплата",
-	"chat-button@text": "помощь<br>онлайн"
+	"chat-button@text": "помощь<br>онлайн",
+	"accounts@popular": "Популярный выбор"
 }

@@ -34,6 +34,7 @@
 	"history": "History",
 	"cashbox": "Banking",
 	"education": "Education",
+	"education@category$videos": "Обучающие <span>видео</span>",
 	"promos": "Bonuses",
 	"trading-history": "Trading history",
 	"section-under-construction": "This section is under construction",
@@ -118,7 +119,7 @@
 	"chart-type-curve-area": "Curve area",
 	"chart-type-candlesticks": "Candlesticks",
 	"chart-type-bars": "Bars",
-	"bet-sum": "Сумма сделки",
+	"bet-sum": "Сумма",
 	"chart-controls-income-caption": "Profitability",
 	"expiration-time": "Expiration time",
 	"wallet-refilling": "Deposit",
@@ -954,5 +955,6 @@
 	"open-option$total$deals": "сдел.",
 	"open-option$total$invest": "Общ. инвест.",
 	"open-option$total$payout": "Общ. выплата",
-	"chat-button@text": "помощь<br>онлайн"
+	"chat-button@text": "помощь<br>онлайн",
+	"accounts@popular": "Популярный выбор"
 }

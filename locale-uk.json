@@ -34,6 +34,7 @@
 	"history": "Історія",
 	"cashbox": "Каса",
 	"education": "Навчання",
+	"education@category$videos": "Обучающие <span>видео</span>",
 	"promos": "Акції",
 	"trading-history": "Історія торгівлі",
 	"section-under-construction": "Роздiл знаходиться в розробцi",
@@ -118,7 +119,7 @@
 	"chart-type-curve-area": "Зонний",
 	"chart-type-candlesticks": "Свічний",
 	"chart-type-bars": "Бари",
-	"bet-sum": "Сумма сделки",
+	"bet-sum": "Сумма",
 	"chart-controls-income-caption": "Прибутковість",
 	"expiration-time": "Час експірації",
 	"wallet-refilling": "Поповнення рахунку",
@@ -954,5 +955,6 @@
 	"open-option$total$deals": "сдел.",
 	"open-option$total$invest": "Общ. инвест.",
 	"open-option$total$payout": "Общ. выплата",
-	"chat-button@text": "помощь<br>онлайн"
+	"chat-button@text": "помощь<br>онлайн",
+	"accounts@popular": "Популярный выбор"
 }

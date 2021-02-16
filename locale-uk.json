@@ -22,7 +22,7 @@
 	"add": "Нова вкладка",
 	"add-new-chart": "Додати новий графік",
 	"charts-arrangement": "Розташування графіків",
-	"turbo-cap": "1—5 мин.",
+	"turbo-cap": "1—5 хв.",
 	"count-chart": "{{@count}} графік",
 	"count-charts": "{{@count}} графіків",
 	"one-chart": "1 графік",

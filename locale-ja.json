@@ -22,7 +22,7 @@
 	"add": "新しいタブ",
 	"add-new-chart": "新しいチャートを追加",
 	"charts-arrangement": "チャートグリッド",
-	"turbo-cap": "1—5 min",
+	"turbo-cap": "1 - 5分",
 	"count-chart": "{{@count}} チャート",
 	"count-charts": "{{@count}} チャート",
 	"one-chart": "1 チャート",

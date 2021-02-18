@@ -629,7 +629,7 @@
 	"account_level": "口座レベル",
 	"modal-confirm_title": "メールアドレスの認証を行ってください",
 	"modal-confirm_text-1": "確認リンクが記載されたメールを送信します。",
-	"modal-confirm_text-2": "Didn't receive an e-mail with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again.",
+	"modal-confirm_text-2": "確認リンクを含むメールを受け取りませんでしたか？「スパム」フォルダを確認してください。そこにメッセージが届くことがあります。またはメッセージを再度リクエストしてください。",
 	"modal-confirm_button": "メッセージを再送信",
 	"modal-confirm_error-1-1": "{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。",
 	"modal-confirm_error-1-2": "カスタマーサポートにご連絡ください",

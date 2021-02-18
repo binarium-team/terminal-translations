@@ -496,7 +496,7 @@
 	"deposit-info-3": "보너스는 인출 금액을 제한하지 않습니다. 언제든지 예금과 함께 수익을 인출할 수 있습니다. 자금 인출 시 40배 회전율로 거래에서 사용되지 않은 모든 보너스 자금은 비활성 상태로 지정되며 계좌에서 인출됩니다.",
 	"withdrawal-heading": "요청은 제출 후 24시간 이내에 처리됩니다.",
 	"withdrawal-content": "요청서가 Binarium 재무 부서의 근무 시간 외에 제출된 경우 다음 업무일 이내에 처리됩니다.",
-	"withdrawal-restricted-content": "귀하의 <span class=\"open-act-button\">계좌 유형</span>에 해당하는 인출 한도가 초과되었습니다",
+	"withdrawal-restricted-content": "귀하의 <span class=\"open-act-button\">계좌 유형</span>에 적용된 인출 한도가 초과되었습니다",
 	"withdrawal-amount-caption": "결제 금액",
 	"withdrawal-type-caption": "자금 인출 수단",
 	"withdrawal-button-caption": "자금 인출",
@@ -561,7 +561,7 @@
 	"demo-stats-banner-you-earned-on-demo": "데모 계좌에서 수익을 얻으셨습니다.",
 	"demo-stats-banner-total-deals-amount": "총 거래 수",
 	"demo-stats-banner-successfull-deals-percentage": "성공적 거래 비율",
-	"demo-stats-banner-real-account-opening-request": "실제 계좌를 열어 수익을 인출",
+	"demo-stats-banner-real-account-opening-request": "실제 계좌를 열어 수익 인출",
 	"demo-stats-banner-open-real-account-button-caption": "실제 계좌 열기",
 	"demo-stats-banner-keep-trading-on-demo": "데모 계좌 유지",
 	"demo-stats-banner-you-have-done": "완료했습니다.",
@@ -955,7 +955,7 @@
 	"disabled-timer@title": "시작까지 남은 시간",
 	"open-option$total$deals": "투자",
 	"open-option$total$invest": "총 투자금",
-	"open-option$total$payout": "Total payout",
-	"chat-button@text": "online<br>help",
-	"accounts@popular": "Popular choice"
+	"open-option$total$payout": "총 지불금",
+	"chat-button@text": "온라인<br>도움말",
+	"accounts@popular": "인기 선택항목"
 }

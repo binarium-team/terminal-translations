@@ -34,7 +34,7 @@
 	"history": "Historique",
 	"cashbox": "Banque",
 	"education": "Formation",
-	"education@category$videos": "<span>Vidéo</span> éducative",
+	"education@category$videos": "Educational <span>video</span>",
 	"promos": "Bonus",
 	"trading-history": "Historique des opérations",
 	"section-under-construction": "Cette section est en cours de construction",

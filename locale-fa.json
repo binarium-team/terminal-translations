@@ -400,7 +400,7 @@
 	"fill-profile-wrong-surname": "نام خانوادگی نامعتبر",
 	"fill-user-wrong-promocode": "کد تخفیف نامعتبر",
 	"wrong-promocode-max-sum": "Maximum amount to activate promo code {{@sum}}",
-	"wrong-promocode-min-sum": "Minimum amount to activate promo code {{@sum}}",
+	"wrong-promocode-min-sum": "حداقل مبلغ فعال سازی کد تبلیغاتی (پرومو کُد) {{@sum}}",
 	"wrong-withdrawal-min-sum": "حداقل مجموع {{@sum}}",
 	"wrong-withdrawal-max-sum": "حداکثر مقدار برداشت {{@sum}}",
 	"wrong-promocode-expired": "منقضی شده است",

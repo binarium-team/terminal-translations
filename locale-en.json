@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Total invest.",
 	"open-option$total$payout": "Total payout",
 	"chat-button@text": "online<br>help",
-	"accounts@popular": "Popular choice"
+	"accounts@popular": "Popular choice",
+	"settings@animation": "Animation",
+	"settings@animation-disabled": "Disabled",
+	"settings@animation-enabled": "Enabled"
 }

@@ -957,5 +957,8 @@
 	"open-option$total$invest": "مبلغ کل سرمایه‌گذاری.",
 	"open-option$total$payout": "کل پرداختی",
 	"chat-button@text": "کمک<br>آنلاین",
-	"accounts@popular": "انتخاب محبوب"
+	"accounts@popular": "انتخاب محبوب",
+	"settings@animation": "انیمیشن",
+	"settings@animation-disabled": "غیر فعال",
+	"settings@animation-enabled": "فعال"
 }

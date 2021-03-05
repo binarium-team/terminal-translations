@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Tổng đầu tư.",
 	"open-option$total$payout": "Tổng thanh toán",
 	"chat-button@text": "trợ giúp<br>trực tuyến",
-	"accounts@popular": "Lựa chọn phổ biến"
+	"accounts@popular": "Lựa chọn phổ biến",
+	"settings@animation": "Animation",
+	"settings@animation-disabled": "Disabled",
+	"settings@animation-enabled": "Enabled"
 }

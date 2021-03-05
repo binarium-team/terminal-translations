@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Toplam yatırım",
 	"open-option$total$payout": "Toplam ödeme",
 	"chat-button@text": "çevrimiçi<br>yardım",
-	"accounts@popular": "Popüler seçim"
+	"accounts@popular": "Popüler seçim",
+	"settings@animation": "Animation",
+	"settings@animation-disabled": "Disabled",
+	"settings@animation-enabled": "Enabled"
 }

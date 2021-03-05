@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Общ. инвест.",
 	"open-option$total$payout": "Общ. выплата",
 	"chat-button@text": "помощь<br>онлайн",
-	"accounts@popular": "Популярный выбор"
+	"accounts@popular": "Популярный выбор",
+	"settings@animation": "Анимация",
+	"settings@animation-disabled": "Выключена",
+	"settings@animation-enabled": "Включена"
 }

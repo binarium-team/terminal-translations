@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Invers. total",
 	"open-option$total$payout": "Pago total",
 	"chat-button@text": "ayuda<br>en línea",
-	"accounts@popular": "Opción popular"
+	"accounts@popular": "Opción popular",
+	"settings@animation": "Animation",
+	"settings@animation-disabled": "Disabled",
+	"settings@animation-enabled": "Enabled"
 }

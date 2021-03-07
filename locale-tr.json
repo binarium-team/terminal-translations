@@ -958,7 +958,7 @@
 	"open-option$total$payout": "Toplam ödeme",
 	"chat-button@text": "çevrimiçi<br>yardım",
 	"accounts@popular": "Popüler seçim",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation": "Puan animasyonu",
+	"settings@animation-disabled": "Devre dışı",
+	"settings@animation-enabled": "Etkin"
 }

@@ -959,6 +959,6 @@
 	"chat-button@text": "ออนไลน์<br>ช่วยเหลือ",
 	"accounts@popular": "ตัวเลือกยอดนิยม",
 	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation-disabled": "ปิดการใช้งาน",
+	"settings@animation-enabled": "เปิดการใช้งาน"
 }

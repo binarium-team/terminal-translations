@@ -959,6 +959,6 @@
 	"chat-button@text": "assistenza<br>online",
 	"accounts@popular": "Scelta popolare",
 	"settings@animation": "Animazione punti",
-	"settings@animation-disabled": "Disabilitata",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation-disabled": "Disabilitato",
+	"settings@animation-enabled": "Abilitato"
 }

@@ -958,7 +958,7 @@
 	"open-option$total$payout": "Tổng thanh toán",
 	"chat-button@text": "trợ giúp<br>trực tuyến",
 	"accounts@popular": "Lựa chọn phổ biến",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation": "Hoạt họa điểm",
+	"settings@animation-disabled": "Tắt",
+	"settings@animation-enabled": "Bật"
 }

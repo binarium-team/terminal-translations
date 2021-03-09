@@ -958,7 +958,7 @@
 	"open-option$total$payout": "Pagamento totale",
 	"chat-button@text": "assistenza<br>online",
 	"accounts@popular": "Scelta popolare",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation": "Animazione punti",
+	"settings@animation-disabled": "Disabilitato",
+	"settings@animation-enabled": "Abilitato"
 }

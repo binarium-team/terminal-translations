@@ -925,6 +925,7 @@
 	"st@readmore": "Read more",
 	"history@group$active": "Active trades",
 	"history@group$finished": "Completed trades",
+	"st@level$all": "Все",
 	"st@level$easy": "Simple",
 	"st@level$base": "Basic",
 	"st@level$advanced": "Advanced",

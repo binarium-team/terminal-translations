@@ -957,5 +957,8 @@
 	"open-option$total$invest": "Total investasi",
 	"open-option$total$payout": "Total pembayaran",
 	"chat-button@text": "bantuan<br>online",
-	"accounts@popular": "Pilihan populer"
+	"accounts@popular": "Pilihan populer",
+	"settings@animation": "Animasi poin",
+	"settings@animation-disabled": "Nonaktif",
+	"settings@animation-enabled": "Aktif"
 }

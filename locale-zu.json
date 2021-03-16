@@ -957,5 +957,8 @@
 	"open-option$total$invest": "crwdns31628:0crwdne31628:0",
 	"open-option$total$payout": "crwdns31630:0crwdne31630:0",
 	"chat-button@text": "crwdns31632:0crwdne31632:0",
-	"accounts@popular": "crwdns31634:0crwdne31634:0"
+	"accounts@popular": "crwdns31634:0crwdne31634:0",
+	"settings@animation": "crwdns31700:0crwdne31700:0",
+	"settings@animation-disabled": "crwdns31694:0crwdne31694:0",
+	"settings@animation-enabled": "crwdns31696:0crwdne31696:0"
 }

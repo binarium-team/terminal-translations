@@ -957,5 +957,8 @@
 	"open-option$total$invest": "投資合計。",
 	"open-option$total$payout": "出金合計",
 	"chat-button@text": "オンライン<br>ヘルプ",
-	"accounts@popular": "人気のある選択肢"
+	"accounts@popular": "人気のある選択肢",
+	"settings@animation": "ポイントアニメーション",
+	"settings@animation-disabled": "無効",
+	"settings@animation-enabled": "有効"
 }

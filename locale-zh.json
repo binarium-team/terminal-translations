@@ -957,5 +957,8 @@
 	"open-option$total$invest": "投资总计",
 	"open-option$total$payout": "支出总计",
 	"chat-button@text": "在线<br>帮助",
-	"accounts@popular": "热门选择"
+	"accounts@popular": "热门选择",
+	"settings@animation": "Points animation",
+	"settings@animation-disabled": "Disabled",
+	"settings@animation-enabled": "Enabled"
 }

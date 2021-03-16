@@ -925,6 +925,7 @@
 	"st@readmore": "Читать полностью",
 	"history@group$active": "Активные сделки",
 	"history@group$finished": "Завершенные сделки",
+	"st@level$all": "Все",
 	"st@level$easy": "Простые",
 	"st@level$base": "Базовые",
 	"st@level$advanced": "Продвинутые",

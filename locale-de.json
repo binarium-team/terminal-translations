@@ -925,6 +925,7 @@
 	"st@readmore": "Weitere Informationen",
 	"history@group$active": "Aktive Handel",
 	"history@group$finished": "Abgeschlossene Handel",
+	"st@level$all": "Alle",
 	"st@level$easy": "Einfach",
 	"st@level$base": "Grundlegend",
 	"st@level$advanced": "Fortgeschritten",

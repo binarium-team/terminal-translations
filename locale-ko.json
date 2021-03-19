@@ -925,6 +925,7 @@
 	"st@readmore": "더보기",
 	"history@group$active": "진행 중인 거래",
 	"history@group$finished": "완료된 거래",
+	"st@level$all": "모두",
 	"st@level$easy": "단순",
 	"st@level$base": "기본",
 	"st@level$advanced": "고급",

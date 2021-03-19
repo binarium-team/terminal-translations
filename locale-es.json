@@ -925,6 +925,7 @@
 	"st@readmore": "Leer más",
 	"history@group$active": "Operaciones activas",
 	"history@group$finished": "Operaciones completadas",
+	"st@level$all": "Todos",
 	"st@level$easy": "Simple",
 	"st@level$base": "Básica",
 	"st@level$advanced": "Avanzada",

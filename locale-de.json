@@ -962,7 +962,7 @@
 	"open-option$total$payout": "Gesamtauszahlung",
 	"chat-button@text": "Online-<br>hilfe",
 	"accounts@popular": "Beliebte Auswahl",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation": "Punkteanimation",
+	"settings@animation-disabled": "Deaktiviert",
+	"settings@animation-enabled": "Aktiviert"
 }

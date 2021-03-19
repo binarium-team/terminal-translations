@@ -925,6 +925,7 @@
 	"st@readmore": "阅读更多",
 	"history@group$active": "进行中的交易",
 	"history@group$finished": "已完成的交易",
+	"st@level$all": "All",
 	"st@level$easy": "简单",
 	"st@level$base": "基本",
 	"st@level$advanced": "高级",

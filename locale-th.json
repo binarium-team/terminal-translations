@@ -925,6 +925,7 @@
 	"st@readmore": "อ่านเพิ่มเติม",
 	"history@group$active": "การซื้อ-ขาย กำลังเคลื่อนไหว",
 	"history@group$finished": "การซื้อขายสำเสร็จ",
+	"st@level$all": "All",
 	"st@level$easy": "เรียบง่าย",
 	"st@level$base": "พื้นฐาน",
 	"st@level$advanced": "ขั้นสูง",

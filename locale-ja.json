@@ -925,6 +925,7 @@
 	"st@readmore": "さらに読む",
 	"history@group$active": "アクティブな取引",
 	"history@group$finished": "完了済み取引",
+	"st@level$all": "All",
 	"st@level$easy": "シンプル",
 	"st@level$base": "ベーシック",
 	"st@level$advanced": "アドバンスト",

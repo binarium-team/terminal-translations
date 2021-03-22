@@ -44,6 +44,9 @@
 	"cancel": "Abbrechen",
 	"apply": "Anwenden",
 	"period": "Zeitraum",
+	"stochastic-smoothing": "Glättend",
+	"stochastic-overbought": "Überkauft",
+	"stochastic-oversold": "Überverkauft",
 	"fast-stochastic-period": "Zeitraum der schnellen Linie",
 	"slow-stochastic-period": "Zeitraum der langsamen Linie",
 	"fast-stochastic-line-color": "Farbe der schnellen Linie",
@@ -959,7 +962,7 @@
 	"open-option$total$payout": "Gesamtauszahlung",
 	"chat-button@text": "Online-<br>hilfe",
 	"accounts@popular": "Beliebte Auswahl",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
+	"settings@animation": "Punkteanimation",
+	"settings@animation-disabled": "Deaktiviert",
+	"settings@animation-enabled": "Aktiviert"
 }

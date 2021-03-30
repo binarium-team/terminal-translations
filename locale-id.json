@@ -438,7 +438,7 @@
 	"support": "Dukungan",
 	"search-asset": "Cari aset",
 	"error-sending-email-confirmation": "Terjadi kesalahan saat mengirimkan email. Coba lagi nanti.",
-	"error-sending-email-confirmation-with-time": "Email baru dapat dikirimkan kepada Anda dalam waktu {@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami.",
+	"error-sending-email-confirmation-with-time": "Email baru dapat dikirimkan kepada Anda dalam waktu {{@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami.",
 	"risk-free-trades": "Perdagangan bebas risiko",
 	"count-trades-for-bet": "{{@count}} perdagangan untuk {{@sum}}",
 	"count-x-bet": "{{@count}}×{{@bet}}",

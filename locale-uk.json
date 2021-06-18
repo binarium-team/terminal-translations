@@ -1,806 +1,807 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Шановний користувач!",
-	"error": "Помилка",
-	"settings": "Налаштування",
-	"settings-2": "Налаштування терміналу",
-	"regionalSettings": "Налаштування регіону",
-	"timezone": "Часовий пояс",
-	"timezone-2": "Часовий пояс",
-	"language": "Мова інтерфейсу",
-	"skin-theme": "Тема оформлення",
-	"ui-zoom": "Масштаб інтерфейсу",
-	"ui-zoom-2": "Масштаб",
-	"investment": "Інвестиція",
-	"payout": "Виплата",
-	"options": "Опцiонів",
-	"quote": "Котирування",
-	"time": "Час",
-	"past": "Завершилися",
-	"active": "Активні",
-	"value": "Значення",
-	"add": "Нова вкладка",
-	"add-new-chart": "Додати новий графік",
-	"charts-arrangement": "Розташування графіків",
-	"turbo-cap": "1—5 хв.",
-	"count-chart": "{{@count}} графік",
-	"count-charts": "{{@count}} графіків",
-	"one-chart": "1 графік",
-	"two-charts": "2 графіка",
-	"three-charts": "3 графіки",
-	"four-charts": "4 графіки",
-	"refill": "Поповнити",
-	"wallets-types": "Типи рахунків",
-	"history": "Історія",
-	"cashbox": "Каса",
-	"education": "Навчання",
-	"education@category$videos": "Навчальні <span>відео</span>",
-	"promos": "Акції",
-	"trading-history": "Історія торгівлі",
-	"section-under-construction": "Роздiл знаходиться в розробцi",
-	"count-purchase": "{{@count}} угод",
-	"count-purchases": "{{@count}} #{угода@угоди@угод?count}",
-	"total-payout": "Загальна виплата",
-	"cancel": "Скасувати",
-	"apply": "Застосувати",
-	"period": "Період",
-	"stochastic-smoothing": "Уповільнення",
-	"stochastic-overbought": "Зона перекупленості",
-	"stochastic-oversold": "Зона перепроданості",
-	"fast-stochastic-period": "Період швидкої лінії",
-	"slow-stochastic-period": "Період повільної лінії",
-	"fast-stochastic-line-color": "Колір швидкої лінії",
-	"slow-stochastic-line-color": "Колір повільної лінії",
-	"fast-stochastic-line-thickness": "Товщина швидкої лінії",
-	"fast-macd-period": "Період швидкої лінії",
-	"slow-macd-period": "Період повільної лінії",
-	"signal-macd-period": "Період сигналу",
-	"fast-macd-line-thickness": "Товщина швидкої лінії",
-	"signal_line_color": "Колір лінії сигналу",
-	"oversold": "Перепроданність",
-	"macd_color": "Колір",
-	"line-thickness": "Товщина лінії",
-	"line-color": "Колір лінії",
-	"line-offset": "Зсув лінії",
-	"top-line-thickness": "Товщина верхньої лінії",
-	"mid-line-thickness": "Товщина середньої лінії",
-	"slow_period": "Повільний період",
-	"fast_period": "Швидкий період",
-	"short_period": "Короткий період",
-	"long_period": "Довгий період",
-	"offset": "Зсув",
-	"bottom-line-thickness": "Товщина нижньої лінії",
-	"bottom-line-period": "Період нижньої лінії",
-	"top-line-color": "Колір-верхньої-лінії",
-	"top-line-period": "Період верхньої лінії",
-	"mid-line-color": "Колір середньої лінії",
-	"mid-line-period": "Період середньої лінії",
-	"bottom-line-color": "Колір нижньої лінії",
-	"teeth-line-color": "Зуби — Колір лінії",
-	"jaws-line-color": "Щелепи — колір лінії",
-	"lips-line-color": "Губи — Колір лінії",
-	"jaws-period": "Щелепи — період",
-	"jaws-offset": "Щелепи — зсув",
-	"teeth-period": "Зуби — період",
-	"teeth-offset": "Зуби — зсув",
-	"lips-period": "Губи — період",
-	"lips-offset": "Губи — зсув",
-	"indice-lines-position": "Положення індикаторних ліній",
-	"major-line-thickness": "Ширина основної лінії",
-	"top-signal-line-thickness": "Ширина верхньої сигнальної",
-	"bottom-signal-line-thickness": "Товщина нижньої сигнальної",
-	"top-signal-line-color": "Колір верхньої сигнальної",
-	"bottom-signal-line-color": "Ширина нижньої сигнальної",
-	"fast-stoch-color": "Швидкий — колір лінії",
-	"low-stoch-color": "Повільний — колір лінії",
-	"low-stoch-period": "Повільний — період",
-	"fast-stoch-line-thickness": "Швидкий — період",
-	"low-stoch-line-thickness": "Повільний — Товщина лінії",
-	"small-period": "Малий період",
-	"big-period": "Великий період",
-	"small-period-width": "Ширина малого періоду",
-	"big-period-width": "Ширина великого періоду",
-	"signal-period-width": "Ширина сигнального періоду",
-	"bars-color": "Колір барів",
-	"bars-color-maofmacd": "Колір барів MA of MACD",
-	"smoothing-period": "Період згладжування",
-	"adx-minus-di-color": "Колір лінії -DI",
-	"adx-plus-di-color": "Колір лінії +DI",
-	"adx-line-color": "Колір лінії ADX",
-	"sar-default-acceleration": "Стандартне прискорення",
-	"acceleration-step": "Шаг прискорення",
-	"max-acceleration": "Максимальне прискорення",
-	"chikou-line-thickness": "Товщина Chikou",
-	"chikou_period": "Період Chikou",
-	"tenkan_period": "Період Tenkan",
-	"kijun_period": "Період Kijun",
-	"senkou_a_period": "Період Senkou A",
-	"senkou_b_period": "Період Senkou B",
-	"color": "Колір",
-	"chart-type": "Тип графіку",
-	"chart-type-curve": "Лінійний",
-	"chart-type-curve-area": "Зонний",
-	"chart-type-candlesticks": "Свічний",
-	"chart-type-bars": "Бари",
-	"bet-sum": "Сума",
-	"chart-controls-income-caption": "Прибутковість",
-	"expiration-time": "Час експірації",
-	"wallet-refilling": "Поповнення рахунку",
-	"real-wallet": "Реальний",
-	"demo-wallet": "Деморахунок",
-	"can-deduce-profit": "Виводьте торговий прибуток",
-	"all-assets-available": "Доступні всі активи",
-	"all-features-available": "Використовуйте всі можливості платформи",
-	"get-bonuses-from-the-platform": "Отримуйте бонуси від системи",
-	"participate-tournaments": "Беріть участь в турнірах",
-	"can-switch-wallet-any-time": "Переключатися між рахунками можна в будь-який час",
-	"cannot-deduce-profit": "Торговий прибуток не виводиться",
-	"refill-wallet": "Поповнити рахунок",
-	"choose-wallet-type": "Вибір типу рахунку",
-	"demo-wallet+wallet": "Навчальний рахунок",
-	"real-wallet+wallet": "Реальний рахунок",
-	"choose-bet": "Інвестиція",
-	"added-items": "Додані",
-	"bollinger-lines": "Смуги Боллінджера",
-	"ichi-cloud": "Хмара Ішимоку",
-	"alli-gator": "Аллі Гатор",
-	"graphics-analysys-tools": "Індикатори тех. аналізу",
-	"new-items": "Нові",
-	"line-segment": "Відрізок",
-	"ray": "Промінь",
-	"hori-line": "Горизонтальна лінія",
-	"vline": "Вертикальна лінія",
-	"free-hand": "Криві",
-	"crossroad": "Перетин",
-	"frame": "Рамка",
-	"range": "Канал",
-	"ellipse": "Еліпс",
-	"fibonacci-lines": "Лінії Фібоначчі",
-	"andrews-fork": "Вила Ендрюса",
-	"graphic-tools": "Графічні інструменти",
-	"time-period": "Часовий період",
-	"count-second": "{{@count}} секунда",
-	"count-seconds": "{{@count}} секунд",
-	"count-minute": "{{@count}} хвилина",
-	"count-minutes": "{{@count}} хвилин",
-	"count-hour": "{{@count}} година",
-	"count-hours": "{{@count}} годин",
-	"lock-time": "Час блокування",
-	"user-profile": "Персональні дані",
-	"user-profile-heading": "Профіль",
-	"withdrawal": "Виведення коштів",
-	"support-service": "Служба підтримки",
-	"payment-history": "Історія операцій",
-	"exit": "Вихід",
-	"count-second-short": "{{@count}} c",
-	"count-seconds-short": "{{@count}} c",
-	"count-minute-short": "{{@count}} хв",
-	"count-minutes-short": "{{@count}} хв",
-	"count-hour-short": "{{@count}} г",
-	"count-hours-short": "{{@count}} г",
-	"count-day-short": "{{@count}} д",
-	"binary-cap": "5+ хв.",
-	"error-too-small-bet": "Мінімальна доступна інвестиція {{@minbet}}",
-	"error-too-big-bet": "Максимальна доступна інвестиція {{@maxbet}}",
-	"error-wrong-expiration": "Неможливо купити опціон з експірацією {{@time}}",
-	"not-enough-money": "На рахунку недостатньо коштів",
-	"option-closed-head": "Угода завершилася",
-	"transaction-result": "Результат угоди {{@assetName}}",
-	"internet-connection-trouble": "Виникла проблема інтернет з'єднання",
-	"lang-name-locale-en": "Англійська",
-	"lang-name-locale-ru": "Російська",
-	"lang-name-locale-de": "Німецька",
-	"lang-name-locale-tr": "Турецька",
-	"lang-name-locale-vi": "В'єтнамська",
-	"lang-name-locale-uk": "Українська",
-	"lang-name-locale-th": "Тайська",
-	"lang-name-locale-it": "Італійська",
-	"lang-name-locale-pl": "Польська",
-	"lang-name-chinese": "Китайська (спрощена)",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "Використовується реальний рахунок",
-	"you-started-using-tment-wallet": "Використовується турнірний рахунок",
-	"tournaments": "Турніри",
-	"currents": "Поточні",
-	"futures": "Майбутні",
-	"archive": "Архів",
-	"days": "Днів",
-	"hours": "Годин",
-	"minutes": "Хвилин",
-	"prize-fond": "Призовий фонд",
-	"participate-price": "Участь",
-	"prize-places": "Призових місць",
-	"tournament-participants-count": "Учасники",
-	"no-tournament-description": "Опис відсутній",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "Початок",
-	"deductions": "Відрахування",
-	"reg-in-tournament-for": "Прийняти участь у турнірі {{@price}}",
-	"reg-in-tournament-for-free": "Брати участь в турнірі безкоштовно",
-	"choose-tournament-to-see-info": "Виберіть турнір, щоб побачити тут докладну інформацію про нього",
-	"has-reged-in-tournament": "Ви вже у турнірі",
-	"wait-for-reg-in-tournament": "Заявку на реєстрацію відправлено",
-	"prize-places-low": "{{@count}} призових місць",
-	"starting-balance": "Стартовий баланс",
-	"min-deal-size": "Мінімальна угода",
-	"max-deal-size": "Максимальна угода",
-	"max-simultaneously-open-deals": "Ліміт відкритих угод",
-	"max-amount-of-open-deals": "Ліміт інвестицій",
-	"available-options-types": "Доступні опціони",
-	"tournament-option-type-turbo": "Турбо",
-	"tournament-option-type-binary": "Бінарний",
-	"tournament-option-type-both": "Обидва",
-	"tournament-winning-rules": "Перемегає трейдер з найбільшим балансом на момент завершення турніру.",
-	"available-assets": "Доступні активи",
-	"available-options": "Доступні типи угод",
-	"greeting": "Ласкаво просимо",
-	"cashbox-plus-bonus": "бонус",
-	"cashbox-input": "Поповнення",
-	"cashbox-output": "Виведення коштів",
-	"cashbox-total": "Бонуси, промо, разом",
-	"bonus-terms-of-use": "Умови використання бонусу",
-	"enter-cashbox-input-value": "Введіть суму",
-	"enter-cashbox-output-value": "Введіть суму",
-	"do-withdrawal": "Вивести",
-	"amount-due": "Сума до оплати",
-	"will-recieve-to-account": "Отримайте на рахунок",
-	"i-wanna-get-bonus": "Я хочу отримати бонус",
-	"enter-cashbox-card-type": "Платіжна система",
-	"finish-time": "Завершення",
-	"top-users": "Топ учасників",
-	"member": "Учасник",
-	"balance": "Баланс",
-	"prize": "Приз",
-	"hint-split-view-button": "Розташування графіків",
-	"hint-user-profile-button": "Меню користувача",
-	"hint-asset-stat": "Вибір трейдерів",
-	"hint-sound-button": "Звук",
-	"hint-platform-time": "Час платформи",
-	"hint-profitability": "Прибутковість",
-	"hint-payout": "Виплата",
-	"hint-real-acc": "Баланс реального рахунку",
-	"hint-demo-acc": "Баланс демо-рахунку",
-	"hint-tournament-acc": "Баланс турнірного рахунку",
-	"hint-settings": "Налаштування",
-	"hint-support": "Задати питання",
-	"hint-graph-type": "Тип графіку",
-	"hint-candle-interval": "Розмір свічки",
-	"hint-user-lines": "Графічні інструменти",
-	"hint-secondary-lines": "Індикатори технічного аналізу",
-	"hint-centerize": "До початку",
-	"hint-zoom-level": "Період часу графіка",
-	"tournament": "Турнір",
-	"loading": "Завантаження",
-	"you-are-in-tournament": "Ви в турнірі!",
-	"repeat-tournament": "Докупити {{@price}}",
-	"unsupported-browser": "Продукт знаходиться на стадії тестування. Ми гарантуємо стабільну роботу у веб-браузерах Google Chrome, Opera і Yandex Browser. Дякуємо за розуміння!",
-	"account-is-for-educ": "Рахунок призначено для навчання",
-	"participate-in-demo-tments": "Беріть участь в навчальних турнірах",
-	"use-real-money": "Працюйте з реальними коштами",
-	"participate-tments-with-real-money": "Беріть участь в турнірах з реальним призовим фондом",
-	"native-deal-closed-body": "Угода для {{@assetName}} завершилася в {{@closeTime}}. Дохід {{@incomeValue}}",
-	"tournaments-rules": "Правила проведення турнірів",
-	"tournaments-rules-2": "Правила участі в турнірі",
-	"get-trade-exp": "Отримуйте цінний торговий досвід",
-	"tment-begins-in": "До початку турніру",
-	"tment-ends-in": "До закінчення турніру",
-	"tment-has-ended": "Турнір завершено",
-	"tment-just-ended": "Турнір \"{{@name}}\" щойно завершився",
-	"tment-just-started": "Турнір \"{{@name}}\" щойно розпочався",
-	"tment-just-created": "Турнір \"{{@name}}\" щойно було створено",
-	"read-more": "Детальніше",
-	"history-is-empty": "У вас немає завершених угод",
-	"tournaments-current-is-empty": "Активних турнірів наразі немає. Будь ласка, слідкуйте за новинами та поштовими розсилками.",
-	"tournaments-future-is-empty": "Майбутніх турнірів немає. Будь ласка, слідкуйте за новинами та поштовими розсилками.",
-	"tournaments@current-empty": "Активних турнірів в даний момент немає, але скоро вони обов'язково з'являться.<br><br>Перевірте вкладку «Скоро» в меню вище і стежте за новинами платформи та поштовими розсилками.",
-	"tournaments-ended-is-empty": "Немає завершених турнірів",
-	"upper-indicator-line": "Верхня індикаторна лінія",
-	"lower-indicator-line": "Нижня індикаторна лінія",
-	"stoch-overbuy-value": "Перекупленність",
-	"stoch-overbuy-line-width": "Перекупленність — товщина",
-	"stoch-overbuy-line-color": "Перекупленність — колір",
-	"stoch-oversell-value": "Перепроданність",
-	"stoch-oversell-line-width": "Перепроданність — товщина",
-	"stoch-oversell-line-color": "Перепроданність — колір",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "Задане значення не коректне",
-	"889954f14a3839c141bd8d5102094fbb": "Це значення вже використовується",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "Вказана адреса пошти невалідна",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "Вказана адреса пошти невалідна",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "Вказана адреса пошти невалідна",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "Поле обов'язкове для заповнення",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "Значення має містити {{@limit}} або більше символів.",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "Значення має містити {{@limit}} або менше символів.",
-	"478618a7-95ba-473d-9101-cabd45e49115": "Доступні до вибору варіанти: {{@compared_value}.",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "Логін або пароль введено невірно",
-	"3e5af93fb888b4aa77301a7603e113d5": "Поточний пароль введено невірно",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "Значення має бути менше або дорівнювати {{@limit}}",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "Значення має бути більше або дорівнювати {{@limit}}",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "Значення не може бути нульовим",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "Обране вами значення недоступне",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "Використовується некоректний формат {{@name}}",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "Поля {{@name}} є обов'язковими для заповнення",
-	"661d3bc6c153e42a3658855010678cbd": "Поля {{@names}} не передбачені для даної форми",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "Ви не можете скасувати заявку, яка вже опрацьована",
-	"2d2ba82dd886ba3b69da804675842ff5": "Обрана платіжна система недоступна",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "Неправильний час закінчення опціону",
-	"f029308ab5f1672de0b7615c4fa33386": "Актив закритий для торгівлі",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "Актив закритий для торгівлі",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "Перевищено ліміт суми інвестицій",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "Недостатньо коштів на балансі",
-	"f3a5b44d01097d966072b90187a16ec6": "Користувач не існує",
-	"296ea5496bee3177c83ac27a1dc5bb10": "Докупка можлива, тільки якщо баланс турнірного рахунку менше початкового.",
-	"fc53df7c4944ebb53e8b3713126ae226": "Максимальна кількість одночасно відкритих угод: {{@limit}}",
-	"0f8e85ca21aa2e33752728cf5e843e35": "Перевищено ліміт суми інвестицій",
-	"cbce1334c90e82f44381abe99b98fe5c": "Загальну кількість відкритих опцінов перевищено",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Нікнейм зайнятий. Будь ласка, виберіть інший.",
-	"promo-ends-in": "Завершення акції через",
-	"your-promocode": "Ваш промокод",
-	"from-value-to-value": "Від {{@fromValue}} — до {{@toValue}}",
-	"deposit-sum": "Сума поповнення",
-	"bonus-sum": "Розмір бонусу",
-	"promos-rules": "Правила проведення акцій",
-	"promos-rules-2": "Правила проведення акції",
-	"participate-promo": "Взяти участь в акції",
-	"promo-has-ended": "Акцію завершено",
-	"no-promos-description": "Немає опису акції",
-	"promos-is-empty": "В даний момент акцій не проводиться. Будь ласка, слідкуйте за новинами та поштовими розсилками.",
-	"first-launch-disclaimer-content": "Зверніть увагу! Відкриття угод на платформі відбувається в Один Клік – без підтвердження!",
-	"accept": "Прийняти",
-	"trading-session-closed": "Торгова сесія закрита",
-	"special-offer": "Спеціальна пропозиція",
-	"continue": "Продовжити",
-	"seconds": "Ceкунд",
-	"trading-sess-starts-in": "До початку торгової сесії",
-	"trading-session-closed-info-0": "Зверніть увагу!",
-	"trading-session-closed-info-1": "У вихідні дні фондові біржі не працюють.",
-	"trading-session-closed-info-2": "У зв'язку з цим торгівля на нашій платформі доступна з понеділка 03:00 по п'ятницю 00:00.",
-	"trading-session-closed-info-3": "Офіційний постачальник котирувань - компанія Thompson Reuters.",
-	"asset": "Актив",
-	"additional-info": "Додаткова інформація",
-	"fill-profile-to-continue": "Щоб продовжити роботу на платформі, заповніть відсутню інформацію",
-	"fill-username-heading": "Шановний трейдер!",
-	"fill-username-text": "Для участі в турнірі вкажіть нікнейм, під яким ви будете відображатися у списку учасників турніру. Змінити його ви зможете в будь-який момент в налаштуваннях профілю.",
-	"fill-username-placeholder": "Введіть ваш нікнейм",
-	"save-and-continue": "Зберегти та продовжити",
-	"profile-name": "Ім'я",
-	"profile-surname": "Прізвище",
-	"profile-telephone": "Номер телефону",
-	"start-trading": "Почати торгівлю",
-	"personal-data-safety": "Збереження особистих даних гарантовано",
-	"bonus": "Бонус",
-	"new-bonus": "на рахунок",
-	"received-bonus": "Разом з обраним депозитом ви отримаєте",
-	"received-bonus-value": "бонус у розмірі: {{@bonus}}",
-	"mobile-received-bonus-value": "+ бонус {{@bonus}}",
-	"expires-in": "Завершується через",
-	"cannot-buy-option-try-later": "Неможливо відкрити угоду, спробуйте ще раз пізніше.",
-	"notifications$demo-option-limit": "Хочете укласти більше 5 угод одночасно? Відкрийте реальний рахунок. Щоб продовжити на демо-рахунку – дочекайтеся завершення угод",
-	"max-total-bet-limit-exceeded": "Перевищено ліміт допустимої інвестиції.\n Максимальний допустимий розмір інвестиції {{@maxBet}}",
-	"chart-opens-in": "Актив буде доступний через:",
-	"hint-activate-tment-wallet": "Для участі в турнірі натисніть тут і виберіть турнірний рахунок",
-	"largest-profit-banner-on-the-asset": "На активі",
-	"largest-profit-banner-button-trade-caption": "Торгувати",
-	"largest-profit-banner-button-trade-caption-2": "Торгувати активом зараз",
-	"largest-profit-banner-text": "Найкращий час для торгівлі активом",
-	"largest-profit-banner-text-2": "Вдалий час для торгівлі",
-	"largest-profit-height-profit": "Збільшена дохідність",
-	"largest-profit-height-profit-2": "Висока прибутковість",
-	"offer-expires-in": "Пропозиція закінчується через",
-	"offer-expires-in-2": "До закінчення торгів:",
-	"warning": "Увага",
-	"banner-tech-works-info-caption": "Технічні роботи на платформі",
-	"banner-tech-works-info-content": "Ми постійно працюємо над вдосконаленням торгової платформи.\nВ даний момент ми проводимо чергові оновлення. Перепрошуємо за можливі незручності.",
-	"confirm-email-content": "Для продовження роботи, будь ласка, підтвердіть e-mail адресу вказану при реєстрації. Для отримання листа з посиланням підтвердження тисніть на кнопку.",
-	"confirm-email-caption": "Реактивація акаунту",
-	"reload": "Перезавантажити",
-	"resend-confirmation": "Надіслати",
-	"resend-confirmation-again": "Надіслати знову",
-	"confirmation-mail-sent": "Лист відправлено",
-	"banner-not-enough-funds-for-tment": "На вашому балансі недостатньо коштів. Для участі в турнірі, будь ласка, поповніть рахунок.",
-	"tment-reenter-not-allowed": "Ви не можете зробити докупку поки є відкриті угоди.",
-	"fill-profile-wrong-phone": "Невірний формат номера телефону",
-	"fill-profile-wrong-name": "Неприпустиме ім'я",
-	"fill-profile-wrong-surname": "Некоректне прізвище",
-	"fill-user-wrong-promocode": "Неприпустимий промо-код",
-	"wrong-promocode-max-sum": "Максимальна сума для активації промокоду {{@sum}}",
-	"wrong-promocode-min-sum": "Мінімальна сума для активації промокоду {{@sum}}",
-	"wrong-withdrawal-min-sum": "Мінімальна сума {{@sum}}",
-	"wrong-withdrawal-max-sum": "Максимальна сума виведення {{@sum}}",
-	"wrong-promocode-expired": "Термін дії промокода закінчився",
-	"wrong-promocode-only-for-second-deposit": "Доступний тільки для другого і наступних депозитів",
-	"wrong-promocode-only-for-first-deposit": "Доступний тільки для першого депозиту",
-	"wrong-promocode-used": "Промокод вже використано",
-	"fill-user-wrong-phone": "Невірний номер телефону",
-	"fill-user-wrong-card": "Некоректний номер карти",
-	"fill-user-wrong-customer_purse": "Некоректний номер гаманця",
-	"fill-user-wrong-name": "Некоректне ім'я",
-	"fill-user-wrong-surname": "Некоректне прізвище",
-	"please-rotate-device": "Переверніть пристрій для зручного використання терміналу.",
-	"swipe-up-to-enter-fs": "Для входу в режим повного екрану, потягніть пальцем вгору",
-	"click-to-enter-fs": "Натисніть пальцем будь-де на екрані, щоб перейти в повноекранний режим",
-	"reconnect": "Перепідключити",
-	"reconnected": "Перепідключено!",
-	"free-reg": "Безкоштовна реєстрація",
-	"investments": "угод",
-	"investments_short": "угод",
-	"investment_short": "iнвест.",
-	"buy-time": "Час покупки",
-	"total-investment": "Загальна інвестиція",
-	"total-income": "Загальна виплата",
-	"result": "Результат",
-	"ur-income-would-be": "Ваш дохід склав би",
-	"create-account-for-free": "Відкрити рахунок безкоштовно",
-	"resume-use-demo": "Продовжити демо",
-	"reg-request-message": "Відкривши цю угоду на реальному рахунку нашої платформи, ви б заробили {{@income}}. Зареєструйтеся та торгуйте на реальному рахунку прямо зараз.",
-	"trade-without-restrictions": "Торгуйте без обмежень",
-	"trade-without-restrictions-message": "Хочете укласти більше 5 угод одночасно? Відкрийте реальний рахунок. Щоб продовжити на демо-рахунку – дочекайтеся завершення угод.",
-	"use-real-wallet": "Реальний рахунок",
-	"support": "Допомога",
-	"search-asset": "Пошук актива",
-	"error-sending-email-confirmation": "Сталася помилка! Спробуйте надіслати лист ще раз.",
-	"error-sending-email-confirmation-with-time": "Новий лист може бути відправлений вам через {{@time}} хвилин. Щоб активувати обліковий запис, будь ласка, перевірте свою пошту або зверніться в службу підтримки.",
-	"risk-free-trades": "Застраховані угоди",
-	"count-trades-for-bet": "{{@count}} угод по {{@sum}}",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "Білий",
-	"Red": "Червоний",
-	"Pink": "Рожевий",
-	"Purple": "Пурпуровий",
-	"Deep Purple": "Фіолетовий",
-	"Indigo": "Індиго",
-	"Blue": "Синій",
-	"Cyan": "Голубий",
-	"Green": "Зелений",
-	"Light Green": "Світлозелений",
-	"Lime": "Лайм",
-	"Yellow": "Жовтий",
-	"Amber": "Бурштиновий",
-	"Orange": "Помаранчевий",
-	"tournament-accounts": "Турнірні рахунки",
-	"activate-tournament-wallet": "Турнірний рахунок",
-	"deposit-using-agreements-header": "Умови використання бонусу",
-	"deposit-using-agreements-p1": "Бонус — це додаткові кошти, які надаються компанією для збільшення торгового потенціалу трейдерів.",
-	"deposit-using-agreements-p2": "При поповненні балансу, на ваш рахунок може бути зараховано бонус. Розмір бонусу залежить від розміру вашого депозиту. Більше депозит — більше бонус.",
-	"deposit-using-agreements-p3": "Бонус не обмежує виведення коштів — ви в будь-який момент можете виводити прибуток, а також суму вашого депозиту. Будь ласка, майте на увазі, що при виведенні коштів всі невідпрацьовані бонусні кошти, отримують статус неактивних і списуються з рахунку.",
-	"choose-payment-method": "Оберіть спосіб оплати",
-	"choose-payment-sum": "Суму поповнення",
-	"plus-value-bonus": "+ {{@value}} бонус",
-	"deposit-user-sum-value-caption": "Хочете вибрати суму самі? Введіть значення в поле",
-	"i-have-promocode": "У мене є промокод",
-	"requisiste-name-phone": "Номер телефону",
-	"no-bonus": "немає бонуса",
-	"refresh": "Оновити",
-	"browser": "Оглядач",
-	"make-a-deposit": "Внести депозит",
-	"cashbox-withdrawal-info-0-header": "Як можна вивести кошти з рахунку?",
-	"cashbox-withdrawal-info-0-content": "Доступні варіанти виведення: на банківську карту, на гаманці Ківі, ЯндексДеньги, WebMoney. Власники мікро рахунків можуть мати лише одну активну заявку на виведення коштів.",
-	"cashbox-withdrawal-info-1-header": "Яка мінімальна і максимальна сума виведення коштів?",
-	"cashbox-withdrawal-info-1-content": "Мінімальна сума для виведення — ₴150 або 5 $ / 5 € / 5 A$ / 300 ₽. Максимальна сума однієї транзакції для виведення — 6000₴ або 200 $ / 200 € / 200 A$ / 15000 ₽.",
-	"cashbox-withdrawal-info-2-header": "Як вивести суму більше 6000₴ або 200 $, 200 €, 200 A$, 15 000 ₽?",
-	"cashbox-withdrawal-info-2-content": "Таке обмеження встановлено для проведення швидких виплат. Суми більше встановленого ліміту неможливо вивести так швидко. Якщо необхідно вивести суму більше, ви можете розбити виведення коштів на платежі по 6000₴ або 200 $, 200 €, 200 A$, 15 000 ₽. Кількість запитів на виведення коштів не обмежено. Для виведення більшої суми одним платежем, будь ласка, зверніться в службу підтримки платформи. Якщо ваш аккаунт не верифіковано, то заявка на виведення коштів обробляється до 3-х робочих днів. При цьому, в день можливо оформити не більше однієї заявки на виведення коштів.",
-	"cashbox-withdrawal-info-3-header": "Як швидко відбувається виведення коштів?",
-	"cashbox-withdrawal-info-3-content-a": "Одна година — стільки часу потрібно на обробку заявки. За умови, що заявка подана в робочий час фінансового відділу платформи, а ваш акаунт верифіковано згідно вимогам платформи.",
-	"cashbox-withdrawal-info-3-content-b": "Режим роботи фінансового відділу: 10:00-22:00 (GMT +2) з понеділка по п'ятницю. Якщо заявка на виведення коштів подана в неробочий час фінансового відділу або вихідні дні, то заявка буде оброблена на початку наступного робочого дня. Якщо ваш акаунт не верифіковано, то заявка на виведення коштів обробляється до 3-х робочих днів. При цьому, в день можливо оформити не більше однієї заявки на виведення коштів.",
-	"cashbox-withdrawal-info-4-header": "Політика виведення коштів",
-	"cashbox-withdrawal-info-4-content-a": "Для подачі і подальшої обробки заявки компанією, клієнт зобов'язаний вказати всі запитувані дані в розділі «Налаштування профілю». У разі, якщо інформація вказана некоректно або не повністю, виведення коштів може бути відхилено чи зроблено з затримкою.",
-	"cashbox-withdrawal-info-4-content-b": "Виведення коштів проводиться на ті ж реквізити (тієї ж платіжної системи), з яких був поповнений рахунок. Якщо виконати таку транзакцію неможливо, слід звернутися в службу підтримки — онлайн чат або запит на support@binarium.com.",
-	"cashbox-withdrawal-info-5-header": "Чи потрібно надавати документи при виведенні коштів? Якщо потрібно, то які саме?",
-	"cashbox-withdrawal-info-5-content-a": "Для швидких виводів коштів, будь ласка, заповніть всі особисті дані в розділі «Налаштування профілю». Якщо ви користуєтеся декількома картами або платіжні реквізити не збігаються з тими, які ви вказали при реєстрації, то потрібно пройти повну верифікацію і довести, що карти дійсно належать вам. Виведення коштів на користь третіх осіб заборонено.",
-	"cashbox-withdrawal-info-5-content-b": "Для верифікації необхідно відправити скан паспорта і банківської карти з лицьового боку (щоб було видно ім'я і прізвище власника) на support@binarium.com. Якщо картка не іменна, то до копії паспорта необхідно докласти і відправити скан виписки з банку, на якій повинна бути вказана транзакція з цієї карти на ваш рахунок в Binarium. Binarium залишає за собою право вимагати додаткові підтверджуючі документи, якщо дані власника карти і торгового рахунку не збігаються.",
-	"cashbox-withdrawal-info-6-header": "На яких умовах можливе виведення бонусних коштів?",
-	"cashbox-withdrawal-info-6-content-a": "Бонус відразу після його нарахування вивести не можна. Ці гроші компанія дає як доповнення до вашого депозиту, щоб підвищити ваші можливості. Гроші, зароблені за допомогою бонусних коштів, також є бонусом і доступні для виведення тільки після того, як буде досягнуто необхідний торговий оборот. Для того, щоб вивести бонус потрібно зробити оборот на рахунку в 40-кратному розмірі від величини нарахованого бонусу. Якщо вам надано бездепозитний бонус, то плече підвищується до 50, тобто оборот за рахунком має дорівнювати бонус х50, а максимальна сума виводу не може перевищувати суму зарахованого бездепозитного бонусу. Грошові призи з безкоштовних турнірів компанії є бонусними, які доступні для виведення після здійснення 40-кратного обороту.",
-	"cashbox-withdrawal-info-6-content-b": "Приклад. При поповненні рахунку вам нарахували 150 $ в якості бонусу. Згідно з правилами Binarium потрібно, щоб сумарна вартість куплених угод становила 30 х 150 (4500 $). Після цього бонусні кошти можна вивести. При цьому враховуються як прибуткові, так і збиткові угоди. Закриті достроково угоди в оборот не входять. Обмежень щодо виведення прибутку немає.",
-	"cashbox-withdrawal-info-6-content-c": "Якщо ви збираєтеся вивести частину депозиту, то і бонус автоматично списується з вашого рахунку.",
-	"cashbox-withdrawal-info-6-content-d": "При виникненні питань, будь ласка, звертайтеся в службу підтримки Binarium.",
-	"cashbox-withdrawal-info-7-header": "Не можу створити заявку на виведення коштів з рахунку. У чому справа?",
-	"cashbox-withdrawal-info-7-content": "Спочатку переконайтеся, що ваша особиста інформація вірно вказана на сторінці профілю в розділі «Налаштування профілю». Ще раз перевірте чи вірно ви ввели всі дані при оформленні заявки, неприпустимі спеціальні символи «+», «-», «/» і т. д. Якщо вся інформація вірна, але проблема зберігається, звертайтеся в службу підтримки через онлайн чат або на пошту support@binarium.com.",
-	"deposit-info-1": "Бонус — це додаткові кошти, які надаються компанією для збільшення торгового потенціалу трейдерів",
-	"deposit-info-2": "При поповненні балансу, на ваш рахунок може бути зарахована певна сума бонусу, яка залежить від величини вашого депозиту.",
-	"deposit-info-3": "Бонус не обмежує виведення коштів — ви в будь-який момент можете виводити прибуток, а також суму вашого депозиту. Будь ласка, майте на увазі, що при виведенні коштів всі бонусні кошти, які не були використані в торгівлі з оборотом ×40, отримують статус неактивних і списуються з рахунку.",
-	"withdrawal-heading": "Ваша заявка буде розглянута протягом 24 годин з моменту відправки.",
-	"withdrawal-content": "У разі, якщо заявка була оформлена поза робочим часом фінансового відділу компанії, вона буде оброблена протягом наступного робочого дня.",
-	"withdrawal-restricted-content": "Перевищено ліміт на виведення коштів для вашого <span class=\"open-act-button\">типу рахунку</span>",
-	"withdrawal-amount-caption": "Сума виплати",
-	"withdrawal-type-caption": "Метод виведення коштів",
-	"withdrawal-button-caption": "Вивести кошти",
-	"requisite-name-card": "Номер картки",
-	"requisite-name-phone": "Телефон",
-	"requisite-name-customer_purse": "Гаманець",
-	"withdrawal-request-sent": "Заявку поставлено у чергу",
-	"withdrawal-request-sent-extra-info": "Статус заявки можна перевірити в розділі «Історія транзакцій»",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "Visa/Mastercard",
-	"videohub": "Навчання",
-	"asset-type-all": "Всі",
-	"asset-type-currency": "Валюта",
-	"asset-type-crypto": "Крипто",
-	"asset-type-goods": "Товари",
-	"asset-type-countries": "Країни",
-	"asset-type-leaders": "Лідери",
-	"cashbox-withdrawal-info": "На обробку заявки буде потрібно якийсь час. Зазвичай, розгляд заявки займає до 24 годин в робочий час фінансового відділу. З радістю повідомляємо — ми не заморожуємо баланс до повного розрахунку, щоб ви могли продовжити торгівлю",
-	"expiration-caption-16": "Через 24 години",
-	"trends": "Тренди",
-	"show-chart": "Показати графік",
-	"hide-chart": "Приховати графік",
-	"trend-active": "Активні",
-	"trend-non-active": "Всі",
-	"trends-is-empty": "Йде оновлення трендів",
-	"what-are-trends": "Що таке тренди?",
-	"what-are-trends-advice-content": "Тренди — це спеціальний торговий інструмент, що дозволяє швидко знайти актив з прибутковим потенціалом (з вираженим напрямком ціни) і відкрити угоду в напрямку тренда.",
-	"not-enough-money-for-trends-detailed": "Унікальний торговий інструмент від Binarium доступний для клієнтів з реальним балансом від {{@balance}}. Перспективні можливості:",
-	"get-access-to-trends": "Отримати доступ до трендів",
-	"trends-features-one": "Відстежувати всі активні тренди на ринку",
-	"trends-features-two": "Моментально відкривати угоди в напрямку тренда при його формуванні",
-	"month-0": "січень",
-	"month-1": "лютий",
-	"month-2": "березень",
-	"month-3": "квітень",
-	"month-4": "травень",
-	"month-5": "червень",
-	"month-6": "липень",
-	"month-7": "серпень",
-	"month-8": "вересень",
-	"month-9": "жовтень",
-	"month-10": "листопад",
-	"month-11": "грудень",
-	"day-0": "Нд",
-	"day-1": "Пн",
-	"day-2": "Вт",
-	"day-3": "Ср",
-	"day-4": "Чт",
-	"day-5": "Пт",
-	"day-6": "Сб",
-	"trading-room": "Торгова кімната",
-	"trading-room-entering-time": "Час входу",
-	"trading-room-expiration": "Експірація",
-	"trading-room-strength": "Сила",
-	"trading-room-strike-price": "Страйк ціна",
-	"trading-room-is-empty": "Доступних сигналів немає. Будь ласка, перевірте «Торгову кімнату» трохи пізніше.",
-	"demo-stats-banner-header-caption": "Відмінно!",
-	"demo-stats-banner-header-caption-2": "Вітаємо!",
-	"demo-stats-banner-you-earned-on-demo": "Ви заробили на демо-рахунку",
-	"demo-stats-banner-total-deals-amount": "Усього угод",
-	"demo-stats-banner-successfull-deals-percentage": "Відсоток успішних угод",
-	"demo-stats-banner-real-account-opening-request": "Відкрийте реальний рахунок і ваш дохід можна буде виводити",
-	"demo-stats-banner-open-real-account-button-caption": "Відкритий реальний рахунок",
-	"demo-stats-banner-keep-trading-on-demo": "Залишитися на демо-рахунку",
-	"demo-stats-banner-you-have-done": "Ви здійснили",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "угод поспіль",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "прибуткових угод поспіль",
-	"demo-stats-banner-earning-on-demo-account": "заробіток на деморахунку",
-	"demo-stats-banner-closed-in-a-row-2": "прибуткові угоди",
-	"tour-next-button-caption": "Далі",
-	"tour-reading-duration-caption": "Читання 4 хв.",
-	"tour-slides-steps-count": "Крок {{@currentSlide}} з {{@totalSlidesCount}}",
-	"tour-slide-0-caption": "Ласкаво просимо на торговельну платформу Binarium",
-	"tour-slide-0-content": "Ця коротка демонстрація познайомить вас з принципами торгівлі та інтерфейсом платформи Binarium.",
-	"tour-slide-0-content-1": "Прочитайте всі картки для більш ефективної торгівлі на платформі.<br/>Це займе 4-5 хвилин.",
-	"tour-slide-0-content-2": "Ця коротка демонстрація познайомить вас з принципами торгівлі та інтерфейсом платформи Binarium.",
-	"tour-slide-0-content-3": "Зліва знаходиться основне меню. Наприклад, поповнити рахунок можна у пункті <span class=\"bold\">«Каса»</span>. А у <span class=\"bold\">«Торговій кімнаті»</span> можна торгувати за допомогою кращих трейдерів платформи!",
-	"tour-slide-0-content-3-port": "В верхньому правому кутку знаходиться основне меню. Наприклад, поповнити рахунок можна у пункті <span class=\"bold\">«Каса»</span>. А у <span class=\"bold\">«Торговій кімнаті»</span> можна торгувати за допомогою кращих трейдерів платформи!",
-	"tour-slide-0-extra-info": "Прочитайте всі картки для більш ефективної торгівлі на платформі.",
-	"tour-slide-1-caption": "Як можна заробляти за допомогою платформи?",
-	"tour-slide-1-content": "<span class=\"bold\">Торгова платформа дозволяє укладати угоди</span> у вигляді короткострокових інвестицій в фінансові активи: валютні пари, криптовалюта, товари та інші фінансові інструменти.",
-	"tour-slide-2-caption": "Який основний принцип угоди?",
-	"tour-slide-2-content-a": "<span class=\"bold\">Угода — це прогноз зміни ціни финансового активу</span> у заданий часовий період на <span class=\"green\">підвищення</span> або <span class=\"red\">зниження.</span>",
-	"tour-slide-2-content-b": " Якщо прогноз виявився вірним, ви отримуєте винагороду, в іншому випадку ви втрачаєте всі інвестовані вами кошти.",
-	"tour-slide-3-caption": "Як укладати угоди на платформі Binarium?",
-	"tour-slide-3-content": "<span class=\"bold\">Оберіть актив</span>, рух курсу якого ви хочете спрогнозувати.",
-	"tour-slide-4-caption": "Як укладати угоди на платформі Binarium?",
-	"tour-slide-4-content": "<span class=\"bold\">Задайте розмір інвестиції.</span>",
-	"tour-slide-5-caption": "Як укладати угоди на платформі Binarium?",
-	"tour-slide-5-content": "<span class=\"bold\">Відкрийте угоду</span>, зробивши прогноз, куди буде рухатися ціна — <span class=\"green\">вгору</span> або<span class=\"red\">вниз</span>. Дочекайтеся закриття угоди.",
-	"tour-slide-6-caption": "Вдалої торгівлі на платформі Binarium",
-	"tour-slide-6-additional-caption": "У разі успішного прогнозу прибуток буде автоматично зараховано на ваш торговий рахунок.",
-	"tour-slide-6-a-trading-rules": "Торгові умови",
-	"tour-slide-6-a-card-0-caption": "Розмір винагороди за успішний прогноз:",
-	"tour-slide-6-a-card-0-content-1": "до {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "від суми інвестиції — розмір винагороди за успішний прогноз.",
-	"tour-slide-6-a-card-1-caption": "розмір депозиту для торгівлі.",
-	"tour-slide-6-a-card-1-content": "від {{@minWithdrawal}}",
-	"tour-slide-6-a-card-2-caption": "середній час виведення коштів:",
-	"tour-slide-6-a-card-2-content": "30 хвилин",
-	"tour-slide-6-a-card-3-caption": "Для початку торгівлі внесіть депозит на реальний рахунок:",
-	"tour-slide-6-a-card-3-button-caption": "Внести депозит і торгувати",
-	"tour-slide-6-a-dont-show-again": "Більше не показувати тур по платформі",
-	"tour-slide-6-b-trading-rules": "Торгові умови",
-	"tour-slide-6-b-card-0-caption": "Розмір винагороди за успішний прогноз:",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">До 90%</span> від суми інвестиції.",
-	"tour-slide-6-b-card-1-caption": "розмір депозиту для торгівлі.",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">від {{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "середній час виведення коштів.",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30 хвилин</span>",
-	"tour-slide-6-b-card-3-caption": "Навчайтеся торгувати без ризику за допомогою демо-рахунку",
-	"tour-slide-6-b-card-3-button-caption": "Спробувати торгувати на демо-рахунку",
-	"tour-slide-6-b-dont-show-again": "Більше не показувати тур по платформі",
-	"user-terms-caption": "Торгівля в один клік",
-	"what-is-trading-room": "Що таке торгова кімната?",
-	"what-is-trading-room-advice-content": "Торгова кімната — це зручний інструмент, що дозволяє в один клік копіювати угоди кращих трейдерів платформи. Використовуючи цей інструмент, ви підвищите ефективність вашої торгівлі та заощадите час.",
-	"not-enough-money-for-trading-room-detailed": "Торгуйте і заробляйте разом з кращими трейдерами платформи Binarium, використовуючи «Торгову кімнату». Поповніть ваш реальний баланс до {{@minBalance}} і отримаєте переваги:",
-	"get-access-to-trading-room": "Доступ до торгової кімнати",
-	"have-access-to-trading-room": "Щоб отримати доступ до «Торгової кімнати» зверніться до свого менеджера або в службу підтримки.",
-	"trading-room-features-one": "Слідкуйте за угодами найуспішнішого трейдера платформи",
-	"trading-room-features-two": "Копіюйте угоди і отримуйте прибуток",
-	"trading-room_1-title": "Торгуйте разом",
-	"trading-room_1-text": "Слідкуйте за угодами найуспішнішого трейдера платформи.",
-	"trading-room_2-title": "Використовуйте успішний досвід",
-	"trading-room_2-text": "Копіюйте поведінку та угоди і отримуйте прибуток!",
-	"trading-room_refill": "Для доступу в «Торгову кімнату» поповніть ваш баланс до",
-	"account_level": "Рівень рахунку",
-	"modal-confirm_title": "Підтвердіть вашу пошту",
-	"modal-confirm_text-1": "Ми відправили вам лист з посиланням для підтвердження.",
-	"modal-confirm_text-2": "Вам не прийшов лист із посиланням підтвердження? Перевірте, будь ласка, папку «Спам», іноді листи потрапляють туди. Або замовте лист ще раз.",
-	"modal-confirm_button": "Надіслати лист ще раз",
-	"modal-confirm_error-1-1": "Новий лист може бути відправлено вам через {{@time}} хвилин. Щоб активувати обліковий запис, будь ласка, перевірте свою пошту або",
-	"modal-confirm_error-1-2": "зверніться в службу підтримки.",
-	"modal-confirm_support": "Написати в підтримку",
-	"timer_days": "дні",
-	"timer_hours": "години",
-	"timer_minutes": "хвилини",
-	"timer_seconds": "секунди",
-	"tournament_button": "Брати участь в турнірі",
-	"modal-oneclick_title": "Торгівля в «один клік»",
-	"modal-oneclick_text": "Зверніть увагу, що відкриття угод на платформі відбувається в «один клік» — без додаткового підтвердження.",
-	"modal-oneclick_button": "Прийняти і продовжити",
-	"modal-tbalance_title": "Поповніть ваш рахунок",
-	"modal-tbalance_text": "У вас на рахунку недостатньо коштів. Будь ласка, поповніть рахунок, щоб брати участь в турнірі.",
-	"modal-tbalance_button": "Внести депозит",
-	"modal-tech_title": "Ми скоро повернемося!",
-	"modal-tech_text-1": "Ми постійно покращуємо торгову платформу і зовсім скоро закінчимо оновлення. Приносимо вибачення за незручності",
-	"modal-tech_text-2": "До закінчення робіт:",
-	"modal-tech_button": "Продовжити",
-	"modal-session_title": "Зверніть увагу",
-	"modal-session_text-1": "Фондові ринки закриті у вихідні дні.",
-	"modal-session_text-2": "Торгова платформа доступна",
-	"modal-session_text-3": "з 03:00 понеділка до 00:00 п'ятниці.",
-	"modal-session_text-4": "Торгова сесія почнеться через:",
-	"modal-session_button": "Продовжити",
-	"modal-tn_title": "Ласкаво просимо в",
-	"modal-tn_text-1": "Перемегає трейдер з найбільшим балансом на момент завершення турніру.",
-	"modal-tn_text-2": "Доступні активи:",
-	"modal-tn_text-3": "Доступні типи угод:",
-	"modal-tn_button": "Почати",
-	"modal-nickname_title": "Оберіть нікнейм",
-	"modal-nickname_text": "Для участі в турнірі вкажіть нікнейм, під яким ви будете відображатися у списку учасників турніру. Змінити його ви зможете в будь-який момент в налаштуваннях вашого профілю.",
-	"modal-nickname_button": "Зберегти та продовжити",
-	"modal-nickname_placeholder": "Введіть ваш нікнейм",
-	"modal-profile_title": "Додаткова інформація",
-	"modal-profile_text": "Щоб продовжити роботу на платформі, будь ласка, заповніть відсутню інформацію",
-	"modal-profile_name": "Ім'я",
-	"modal-profile_surname": "Прізвище",
-	"modal-profile_phone": "Телефон (з кодом країни)",
-	"modal-profile_button": "Почати торгувати",
-	"modal-profile_aside": "Збереження особистих даних гарантовано",
-	"form-error_required": "Поле не може бути порожнім",
-	"form-error_name-short": "Ім'я занадто коротке",
-	"form-error_name-format": "Дозволено лише літери",
-	"form-error_surname-short": "Прізвище занадто коротке",
-	"form-error_surname-format": "Дозволено лише літери",
-	"form-error_phone-format": "Номер повинен бути в міжнародному форматі",
-	"srv-err_asset-is-disabled": "Актив недоступний",
-	"srv-err_asset-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"srv-err_binary-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Актив недоступний в даному турнірі",
-	"tournament@btn.paid-participate": "Участь",
-	"tournament@info.paid": "Платний турнір",
-	"faq@title": "Питання та відповіді",
-	"menu@faq": "FAQ",
-	"menu@education": "Навчання",
-	"menu@qa": "Питання та відповіді",
-	"menu@strategies": "Стратегії",
-	"menu@btn$back": "Назад",
-	"cashbox@no-bonus": "Не отримувати бонус",
-	"wallet-menu@real-title": "Реальні кошти",
-	"wallet-menu@bonus-title": "Бонусні кошти",
-	"wallet-menu@wager-title": "Оборот для виведення бонусу",
-	"wallet-menu@wager-link": "Детальніше про бонуси",
-	"modal-bonus@title": "Ви використовуєте бонусні кошти",
-	"modal-bonus@text": "Розмір угоди перевищує доступні реальні кошти. Тому при відкритті угоди будуть використані ваші бонусні кошти:",
-	"modal-bonus@deal-size": "Розмір угоди",
-	"modal-bonus@real-size": "Реальні кошти",
-	"modal-bonus@bonus-size": "Бонусні кошти",
-	"modal-bonus@info": "Всі кошти, отримані в результаті угоди, будуть зараховані на ваш бонусний рахунок.",
-	"modal-bonus@faq": "Правила роботи з бонусними коштами",
-	"modal-bonus@btn-cancel": "Скасувати",
-	"modal-bonus@btn-continue": "Прийняти і продовжити",
-	"modal-bonus@disable": "Більше не показувати це повідомлення",
-	"trends@restrict-title": "На рахунку недостатньо коштів",
-	"trends@restrict-text": "Для доступу до розділу «Тренди» баланс вашого рахунку необхідно поповнити до",
-	"asset-menu@title": "Активи",
-	"asset-menu@available": "Доступні для торгівлі активи",
-	"asset-menu@profitable": "Активи з підвищеною прибутковістю",
-	"asset-menu@interval": "хв.",
-	"confirm-trade@header": "Підтвердження угоди",
-	"confirm-trade@timer": "Закриється автоматично через: {{@data}}с",
-	"confirm-trade@heading": "Відмінно! Тепер потрібно підтвердити угоду.",
-	"confirm-trade@asset": "Актив",
-	"confirm-trade@direction": "Напрям",
-	"confirm-trade@investment": "Інвестиція",
-	"confirm-trade@price": "Поточна ціна",
-	"confirm-trade@profitability": "Прибутковість",
-	"confirm-trade@payout": "Потенційна виплата",
-	"confirm-trade@btn-cancel": "Скасувати",
-	"confirm-trade@btn-confirm": "Підтвердити",
-	"plot@loading": "Завантаження",
-	"plot@lock-time": "Час початку покупки",
-	"plot@expiration-time": "Час експірації",
-	"tr-empty@text": "Пориньте в тонкощі торгівлі разом з професіоналами. Копіюйте угоди успішних трейдерів платформи і заробляйте.",
-	"tr-empty@business": "Торгова кімната доступна для власників рахунків, починаючи від Business. 2 торгові сесії по 4 години в робочі дні. Близько 30 сигналів від професійних трейдерів кожен день. Не витрачайте час на навчання - кращі трейдери платформи Binarium вже зробили це за вас.",
-	"tr-empty@vip": "Повний набір привілеїв торгової кімнати доступний нашим VIP клієнтам. Персональні сигнали та індивідуальна робота з трейдером компанії, який відповість на ваші питання, зорієнтує в трендах ринку і підкаже найбільш перспективні напрямки. Найкомфортніші умови для успішної торгівлі.",
-	"tr-empty@open-btn": "докладніше • вхід",
-	"tr-empty@deposit-btn": "перейти до оплати • вхід",
-	"tr-empty@vip-signals": "+ прибуткові сигнали",
-	"hb@menu-btn": "Меню",
-	"ac-types@title": "Тип рахунку",
-	"ac-types@label_depositSum": "Сума депозиту",
-	"ac-types@label_tradeback": "Трейдбек",
-	"ac-types@label_tradebackEnrolment": "Зарахування трейдбеку",
-	"ac-types@label_assets": "Торгові активи",
-	"ac-types@label_withdrawalCountLimit": "Заявок на виведення коштів, в день",
-	"ac-types@label_withdrawalAmountLimit": "Ліміт на виведення коштів, в місяць",
-	"ac-types@label_withdrawalDayAmountLimit": "Ліміт на виведення коштів, в день",
-	"ac-types@label_tradingRoom": "Торгова кімната",
-	"ac-types@label_openDealsSum": "Сума відкритих угод (за раз)",
-	"ac-types@value_real": "Реальні кошти",
-	"ac-types@value_bonus": "Бонус",
-	"ac-types@value_nolimit": "Без ліміту",
-	"ac-types@btn": "підвищити",
-	"ac-types@self": "Ваш рахунок",
-	"ac-types@tradeback-hint": "Трейдбек - відшкодування частини збиткових угод трейдера. Нараховується щовівторка о 12:00 за UTC-00",
-	"video-tutorial@title": "Як почати торгувати на Binarium за півтори хвилини",
-	"video-tutorial@checkbox": "Більше не показувати це відео",
-	"user-menu@account-types": "Типи рахунків",
-	"withdrawal-error@amount-limit": "Перевищено ліміт суми виведення",
-	"withdrawal@limit-with-counter": "Перевищено ліміт на виведення коштів.<br>Для вашого <span class=\"open-act-button\">типу рахунка</span> доступно заявок: {{@limitCount}}, на суму: {{@limitAmount}}.<br>Наступна заявка стане доступна: {{@limitTime}}",
-	"promo-gift@bonus": "бонус",
-	"promo-gift@freeSpins": "Застраховані угоди",
-	"promo-gift@tradeRoom": "торгова кімната",
-	"promo-gift@tickets": "квитки",
-	"settings@quality-title": "Якість графіки",
-	"settings@quality-hint": "Керуйте навантаженням на пристрій за допомогою налаштування якості графіки. Базова якість допомогає економити ресурси, завантажувати термінал швидше, але з незначними втратами в якості графіки.",
-	"settings@quality-option-base": "Базова",
-	"settings@quality-option-average": "Середня",
-	"settings@quality-option-best": "Висока",
-	"history@group$active": "Активні угоди",
-	"history@group$finished": "Завершені угоди",
-	"st@level$all": "Всі",
-	"st@level$easy": "Прості",
-	"st@level$base": "Базові",
-	"st@level$advanced": "Просунуті",
-	"promo@btn$details": "Детальніше",
-	"promo@timer$name": "До закінчення акції",
-	"promo@until": "до",
-	"wallet@btn$refill": "Поповнити навчальний рахунок",
-	"tournament@prize-fund": "Призовий фонд",
-	"tournament@prize-places": "Призові місця",
-	"tournament@tab$restrictions": "Умови",
-	"tournament@tab$rating": "Рейтинг учасників",
-	"tournament@tab$current": "Зараз",
-	"tournament@tab$soon": "Скоро",
-	"tournament@timer$start": "До початку турніру",
-	"tournament@timer$end": "До закінчення турніру",
-	"section@title$bet": "Торгівля",
-	"bet@tab$deposit": "Депозит",
-	"forecast@deal": "Угода",
-	"forecast@deals": "Угоди",
-	"promo@days-short": "д.",
-	"settings@group$region": "Налаштування регіону",
-	"settings@group$design": "Дизайн",
-	"menu@account-type": "Тип рахунку",
-	"menu@profile": "Профіль",
-	"leaderboard@tournament": "Турнір",
-	"leaderboard$toggle@open": "Увесь рейтинг",
-	"leaderboard$toggle@close": "Згорнути",
-	"disabled-timer@title": "Відкриється через",
-	"open-option$total$deals": "угод",
-	"open-option$total$invest": "Заг. інвест.",
-	"open-option$total$payout": "Заг. виплата",
-	"chat-button@text": "допомога<br>онлайн",
-	"accounts@popular": "Популярний вибір",
-	"settings@animation": "Анімація поінтів",
-	"settings@animation-disabled": "Вимкнена",
-	"settings@animation-enabled": "Включена"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","Шановний користувач!"
+"error","Помилка"
+"settings","Налаштування"
+"settings-2","Налаштування терміналу"
+"regionalSettings","Налаштування регіону"
+"timezone","Часовий пояс"
+"timezone-2","Часовий пояс"
+"language","Мова інтерфейсу"
+"skin-theme","Тема оформлення"
+"ui-zoom","Масштаб інтерфейсу"
+"ui-zoom-2","Масштаб"
+"investment","Інвестиція"
+"payout","Виплата"
+"options","Опцiонів"
+"quote","Котирування"
+"time","Час"
+"past","Завершилися"
+"active","Активні"
+"value","Значення"
+"add","Нова вкладка"
+"add-new-chart","Додати новий графік"
+"charts-arrangement","Розташування графіків"
+"turbo-cap","1—5 хв."
+"count-chart","{{@count}} графік"
+"count-charts","{{@count}} графіків"
+"one-chart","1 графік"
+"two-charts","2 графіка"
+"three-charts","3 графіки"
+"four-charts","4 графіки"
+"refill","Поповнити"
+"wallets-types","Типи рахунків"
+"history","Історія"
+"cashbox","Каса"
+"education","Навчання"
+"education@category$videos","Навчальні <span>відео</span>"
+"promos","Акції"
+"trading-history","Історія торгівлі"
+"section-under-construction","Роздiл знаходиться в розробцi"
+"count-purchase","{{@count}} угод"
+"count-purchases","{{@count}} #{угода@угоди@угод?count}"
+"total-payout","Загальна виплата"
+"cancel","Скасувати"
+"apply","Застосувати"
+"period","Період"
+"stochastic-smoothing","Уповільнення"
+"stochastic-overbought","Зона перекупленості"
+"stochastic-oversold","Зона перепроданості"
+"fast-stochastic-period","Період швидкої лінії"
+"slow-stochastic-period","Період повільної лінії"
+"fast-stochastic-line-color","Колір швидкої лінії"
+"slow-stochastic-line-color","Колір повільної лінії"
+"fast-stochastic-line-thickness","Товщина швидкої лінії"
+"fast-macd-period","Період швидкої лінії"
+"slow-macd-period","Період повільної лінії"
+"signal-macd-period","Період сигналу"
+"fast-macd-line-thickness","Товщина швидкої лінії"
+"signal_line_color","Колір лінії сигналу"
+"oversold","Перепроданність"
+"macd_color","Колір"
+"line-thickness","Товщина лінії"
+"line-color","Колір лінії"
+"line-offset","Зсув лінії"
+"top-line-thickness","Товщина верхньої лінії"
+"mid-line-thickness","Товщина середньої лінії"
+"slow_period","Повільний період"
+"fast_period","Швидкий період"
+"short_period","Короткий період"
+"long_period","Довгий період"
+"offset","Зсув"
+"bottom-line-thickness","Товщина нижньої лінії"
+"bottom-line-period","Період нижньої лінії"
+"top-line-color","Колір-верхньої-лінії"
+"top-line-period","Період верхньої лінії"
+"mid-line-color","Колір середньої лінії"
+"mid-line-period","Період середньої лінії"
+"bottom-line-color","Колір нижньої лінії"
+"teeth-line-color","Зуби — Колір лінії"
+"jaws-line-color","Щелепи — колір лінії"
+"lips-line-color","Губи — Колір лінії"
+"jaws-period","Щелепи — період"
+"jaws-offset","Щелепи — зсув"
+"teeth-period","Зуби — період"
+"teeth-offset","Зуби — зсув"
+"lips-period","Губи — період"
+"lips-offset","Губи — зсув"
+"indice-lines-position","Положення індикаторних ліній"
+"major-line-thickness","Ширина основної лінії"
+"top-signal-line-thickness","Ширина верхньої сигнальної"
+"bottom-signal-line-thickness","Товщина нижньої сигнальної"
+"top-signal-line-color","Колір верхньої сигнальної"
+"bottom-signal-line-color","Ширина нижньої сигнальної"
+"fast-stoch-color","Швидкий — колір лінії"
+"low-stoch-color","Повільний — колір лінії"
+"low-stoch-period","Повільний — період"
+"fast-stoch-line-thickness","Швидкий — період"
+"low-stoch-line-thickness","Повільний — Товщина лінії"
+"small-period","Малий період"
+"big-period","Великий період"
+"small-period-width","Ширина малого періоду"
+"big-period-width","Ширина великого періоду"
+"signal-period-width","Ширина сигнального періоду"
+"bars-color","Колір барів"
+"bars-color-maofmacd","Колір барів MA of MACD"
+"smoothing-period","Період згладжування"
+"adx-minus-di-color","Колір лінії -DI"
+"adx-plus-di-color","Колір лінії +DI"
+"adx-line-color","Колір лінії ADX"
+"sar-default-acceleration","Стандартне прискорення"
+"acceleration-step","Шаг прискорення"
+"max-acceleration","Максимальне прискорення"
+"chikou-line-thickness","Товщина Chikou"
+"chikou_period","Період Chikou"
+"tenkan_period","Період Tenkan"
+"kijun_period","Період Kijun"
+"senkou_a_period","Період Senkou A"
+"senkou_b_period","Період Senkou B"
+"color","Колір"
+"chart-type","Тип графіку"
+"chart-type-curve","Лінійний"
+"chart-type-curve-area","Зонний"
+"chart-type-candlesticks","Свічний"
+"chart-type-bars","Бари"
+"bet-sum","Сума"
+"chart-controls-income-caption","Прибутковість"
+"expiration-time","Час експірації"
+"wallet-refilling","Поповнення рахунку"
+"real-wallet","Реальний"
+"demo-wallet","Деморахунок"
+"can-deduce-profit","Виводьте торговий прибуток"
+"all-assets-available","Доступні всі активи"
+"all-features-available","Використовуйте всі можливості платформи"
+"get-bonuses-from-the-platform","Отримуйте бонуси від системи"
+"participate-tournaments","Беріть участь в турнірах"
+"can-switch-wallet-any-time","Переключатися між рахунками можна в будь-який час"
+"cannot-deduce-profit","Торговий прибуток не виводиться"
+"refill-wallet","Поповнити рахунок"
+"choose-wallet-type","Вибір типу рахунку"
+"demo-wallet+wallet","Навчальний рахунок"
+"real-wallet+wallet","Реальний рахунок"
+"choose-bet","Інвестиція"
+"added-items","Додані"
+"bollinger-lines","Смуги Боллінджера"
+"ichi-cloud","Хмара Ішимоку"
+"alli-gator","Аллі Гатор"
+"graphics-analysys-tools","Індикатори тех. аналізу"
+"new-items","Нові"
+"line-segment","Відрізок"
+"ray","Промінь"
+"hori-line","Горизонтальна лінія"
+"vline","Вертикальна лінія"
+"free-hand","Криві"
+"crossroad","Перетин"
+"frame","Рамка"
+"range","Канал"
+"ellipse","Еліпс"
+"fibonacci-lines","Лінії Фібоначчі"
+"andrews-fork","Вила Ендрюса"
+"graphic-tools","Графічні інструменти"
+"time-period","Часовий період"
+"count-second","{{@count}} секунда"
+"count-seconds","{{@count}} секунд"
+"count-minute","{{@count}} хвилина"
+"count-minutes","{{@count}} хвилин"
+"count-hour","{{@count}} година"
+"count-hours","{{@count}} годин"
+"lock-time","Час блокування"
+"user-profile","Персональні дані"
+"user-profile-heading","Профіль"
+"withdrawal","Виведення коштів"
+"support-service","Служба підтримки"
+"payment-history","Історія операцій"
+"exit","Вихід"
+"count-second-short","{{@count}} c"
+"count-seconds-short","{{@count}} c"
+"count-minute-short","{{@count}} хв"
+"count-minutes-short","{{@count}} хв"
+"count-hour-short","{{@count}} г"
+"count-hours-short","{{@count}} г"
+"count-day-short","{{@count}} д"
+"binary-cap","5+ хв."
+"error-too-small-bet","Мінімальна доступна інвестиція {{@minbet}}"
+"error-too-big-bet","Максимальна доступна інвестиція {{@maxbet}}"
+"error-wrong-expiration","Неможливо купити опціон з експірацією {{@time}}"
+"not-enough-money","На рахунку недостатньо коштів"
+"option-closed-head","Угода завершилася"
+"transaction-result","Результат угоди {{@assetName}}"
+"internet-connection-trouble","Виникла проблема інтернет з'єднання"
+"lang-name-locale-en","Англійська"
+"lang-name-locale-ru","Російська"
+"lang-name-locale-de","Німецька"
+"lang-name-locale-tr","Турецька"
+"lang-name-locale-vi","В'єтнамська"
+"lang-name-locale-uk","Українська"
+"lang-name-locale-th","Тайська"
+"lang-name-locale-it","Італійська"
+"lang-name-locale-pl","Польська"
+"lang-name-chinese","Китайська (спрощена)"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","Використовується реальний рахунок"
+"you-started-using-tment-wallet","Використовується турнірний рахунок"
+"tournaments","Турніри"
+"currents","Поточні"
+"futures","Майбутні"
+"archive","Архів"
+"days","Днів"
+"hours","Годин"
+"minutes","Хвилин"
+"prize-fond","Призовий фонд"
+"participate-price","Участь"
+"prize-places","Призових місць"
+"tournament-participants-count","Учасники"
+"no-tournament-description","Опис відсутній"
+"utc-info","(UTC{{@offset}})"
+"begin-time","Початок"
+"deductions","Відрахування"
+"reg-in-tournament-for","Прийняти участь у турнірі {{@price}}"
+"reg-in-tournament-for-free","Брати участь в турнірі безкоштовно"
+"choose-tournament-to-see-info","Виберіть турнір, щоб побачити тут докладну інформацію про нього"
+"has-reged-in-tournament","Ви вже у турнірі"
+"wait-for-reg-in-tournament","Заявку на реєстрацію відправлено"
+"prize-places-low","{{@count}} призових місць"
+"starting-balance","Стартовий баланс"
+"min-deal-size","Мінімальна угода"
+"max-deal-size","Максимальна угода"
+"max-simultaneously-open-deals","Ліміт відкритих угод"
+"max-amount-of-open-deals","Ліміт інвестицій"
+"available-options-types","Доступні опціони"
+"tournament-option-type-turbo","Турбо"
+"tournament-option-type-binary","Бінарний"
+"tournament-option-type-both","Обидва"
+"tournament-winning-rules","Перемегає трейдер з найбільшим балансом на момент завершення турніру."
+"available-assets","Доступні активи"
+"available-options","Доступні типи угод"
+"greeting","Ласкаво просимо"
+"cashbox-plus-bonus","бонус"
+"cashbox-input","Поповнення"
+"cashbox-output","Виведення коштів"
+"cashbox-total","Бонуси, промо, разом"
+"bonus-terms-of-use","Умови використання бонусу"
+"enter-cashbox-input-value","Введіть суму"
+"enter-cashbox-output-value","Введіть суму"
+"do-withdrawal","Вивести"
+"amount-due","Сума до оплати"
+"will-recieve-to-account","Отримайте на рахунок"
+"i-wanna-get-bonus","Я хочу отримати бонус"
+"enter-cashbox-card-type","Платіжна система"
+"finish-time","Завершення"
+"top-users","Топ учасників"
+"member","Учасник"
+"balance","Баланс"
+"prize","Приз"
+"hint-split-view-button","Розташування графіків"
+"hint-user-profile-button","Меню користувача"
+"hint-asset-stat","Вибір трейдерів"
+"hint-sound-button","Звук"
+"hint-platform-time","Час платформи"
+"hint-profitability","Прибутковість"
+"hint-payout","Виплата"
+"hint-real-acc","Баланс реального рахунку"
+"hint-demo-acc","Баланс демо-рахунку"
+"hint-tournament-acc","Баланс турнірного рахунку"
+"hint-settings","Налаштування"
+"hint-support","Задати питання"
+"hint-graph-type","Тип графіку"
+"hint-candle-interval","Розмір свічки"
+"hint-user-lines","Графічні інструменти"
+"hint-secondary-lines","Індикатори технічного аналізу"
+"hint-centerize","До початку"
+"hint-zoom-level","Період часу графіка"
+"tournament","Турнір"
+"loading","Завантаження"
+"you-are-in-tournament","Ви в турнірі!"
+"repeat-tournament","Докупити {{@price}}"
+"unsupported-browser","Продукт знаходиться на стадії тестування. Ми гарантуємо стабільну роботу у веб-браузерах Google Chrome, Opera і Yandex Browser. Дякуємо за розуміння!"
+"account-is-for-educ","Рахунок призначено для навчання"
+"participate-in-demo-tments","Беріть участь в навчальних турнірах"
+"use-real-money","Працюйте з реальними коштами"
+"participate-tments-with-real-money","Беріть участь в турнірах з реальним призовим фондом"
+"native-deal-closed-body","Угода для {{@assetName}} завершилася в {{@closeTime}}. Дохід {{@incomeValue}}"
+"tournaments-rules","Правила проведення турнірів"
+"tournaments-rules-2","Правила участі в турнірі"
+"get-trade-exp","Отримуйте цінний торговий досвід"
+"tment-begins-in","До початку турніру"
+"tment-ends-in","До закінчення турніру"
+"tment-has-ended","Турнір завершено"
+"tment-just-ended","Турнір ""{{@name}}"" щойно завершився"
+"tment-just-started","Турнір ""{{@name}}"" щойно розпочався"
+"tment-just-created","Турнір ""{{@name}}"" щойно було створено"
+"read-more","Детальніше"
+"history-is-empty","У вас немає завершених угод"
+"tournaments-current-is-empty","Активних турнірів наразі немає. Будь ласка, слідкуйте за новинами та поштовими розсилками."
+"tournaments-future-is-empty","Майбутніх турнірів немає. Будь ласка, слідкуйте за новинами та поштовими розсилками."
+"tournaments@current-empty","Активних турнірів в даний момент немає, але скоро вони обов'язково з'являться.<br><br>Перевірте вкладку «Скоро» в меню вище і стежте за новинами платформи та поштовими розсилками."
+"tournaments-ended-is-empty","Немає завершених турнірів"
+"upper-indicator-line","Верхня індикаторна лінія"
+"lower-indicator-line","Нижня індикаторна лінія"
+"stoch-overbuy-value","Перекупленність"
+"stoch-overbuy-line-width","Перекупленність — товщина"
+"stoch-overbuy-line-color","Перекупленність — колір"
+"stoch-oversell-value","Перепроданність"
+"stoch-oversell-line-width","Перепроданність — товщина"
+"stoch-oversell-line-color","Перепроданність — колір"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","Задане значення не коректне"
+"889954f14a3839c141bd8d5102094fbb","Це значення вже використовується"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","Вказана адреса пошти невалідна"
+"bf447c1c-0266-4e10-9c6c-573df282e413","Вказана адреса пошти невалідна"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","Вказана адреса пошти невалідна"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","Поле обов'язкове для заповнення"
+"9ff3fdc4-b214-49db-8718-39c315e33d45","Значення має містити {{@limit}} або більше символів."
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","Значення має містити {{@limit}} або менше символів."
+"478618a7-95ba-473d-9101-cabd45e49115","Доступні до вибору варіанти: {{@compared_value}."
+"4dba5f9c79ae34be5884e1a3c8c45e92","Логін або пароль введено невірно"
+"3e5af93fb888b4aa77301a7603e113d5","Поточний пароль введено невірно"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","Значення має бути менше або дорівнювати {{@limit}}"
+"76454e69-502c-46c5-9643-f447d837c4d5","Значення має бути більше або дорівнювати {{@limit}}"
+"ad32d13f-c3d4-423b-909a-857b961eb720","Значення не може бути нульовим"
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","Обране вами значення недоступне"
+"853ff54c1a66d1a2379e0c46f8eb9ed4","Використовується некоректний формат {{@name}}"
+"3ac1d32eb3c54e11ef9ea474da816ad6","Поля {{@name}} є обов'язковими для заповнення"
+"661d3bc6c153e42a3658855010678cbd","Поля {{@names}} не передбачені для даної форми"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","Ви не можете скасувати заявку, яка вже опрацьована"
+"2d2ba82dd886ba3b69da804675842ff5","Обрана платіжна система недоступна"
+"3c55616c0a7de9c064e6c2d86fa72bc2","Неправильний час закінчення опціону"
+"f029308ab5f1672de0b7615c4fa33386","Актив закритий для торгівлі"
+"10cf6f3e2d6a3532b77d924868cbfa62","Актив закритий для торгівлі"
+"64fc8bbac184ae9dab80c8f592d1a6f7","Перевищено ліміт суми інвестицій"
+"5561ccf1e94e6b9d88080bdbbcba1821","Недостатньо коштів на балансі"
+"f3a5b44d01097d966072b90187a16ec6","Користувач не існує"
+"296ea5496bee3177c83ac27a1dc5bb10","Докупка можлива, тільки якщо баланс турнірного рахунку менше початкового."
+"fc53df7c4944ebb53e8b3713126ae226","Максимальна кількість одночасно відкритих угод: {{@limit}}"
+"0f8e85ca21aa2e33752728cf5e843e35","Перевищено ліміт суми інвестицій"
+"cbce1334c90e82f44381abe99b98fe5c","Загальну кількість відкритих опцінов перевищено"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","Нікнейм зайнятий. Будь ласка, виберіть інший."
+"promo-ends-in","Завершення акції через"
+"your-promocode","Ваш промокод"
+"from-value-to-value","Від {{@fromValue}} — до {{@toValue}}"
+"deposit-sum","Сума поповнення"
+"bonus-sum","Розмір бонусу"
+"promos-rules","Правила проведення акцій"
+"promos-rules-2","Правила проведення акції"
+"participate-promo","Взяти участь в акції"
+"promo-has-ended","Акцію завершено"
+"no-promos-description","Немає опису акції"
+"promos-is-empty","В даний момент акцій не проводиться. Будь ласка, слідкуйте за новинами та поштовими розсилками."
+"first-launch-disclaimer-content","Зверніть увагу! Відкриття угод на платформі відбувається в Один Клік – без підтвердження!"
+"accept","Прийняти"
+"trading-session-closed","Торгова сесія закрита"
+"special-offer","Спеціальна пропозиція"
+"continue","Продовжити"
+"seconds","Ceкунд"
+"trading-sess-starts-in","До початку торгової сесії"
+"trading-session-closed-info-0","Зверніть увагу!"
+"trading-session-closed-info-1","У вихідні дні фондові біржі не працюють."
+"trading-session-closed-info-2","У зв'язку з цим торгівля на нашій платформі доступна з понеділка 03:00 по п'ятницю 00:00."
+"trading-session-closed-info-3","Офіційний постачальник котирувань - компанія Thompson Reuters."
+"asset","Актив"
+"additional-info","Додаткова інформація"
+"fill-profile-to-continue","Щоб продовжити роботу на платформі, заповніть відсутню інформацію"
+"fill-username-heading","Шановний трейдер!"
+"fill-username-text","Для участі в турнірі вкажіть нікнейм, під яким ви будете відображатися у списку учасників турніру. Змінити його ви зможете в будь-який момент в налаштуваннях профілю."
+"fill-username-placeholder","Введіть ваш нікнейм"
+"save-and-continue","Зберегти та продовжити"
+"profile-name","Ім'я"
+"profile-surname","Прізвище"
+"profile-telephone","Номер телефону"
+"start-trading","Почати торгівлю"
+"personal-data-safety","Збереження особистих даних гарантовано"
+"bonus","Бонус"
+"new-bonus","на рахунок"
+"received-bonus","Разом з обраним депозитом ви отримаєте"
+"received-bonus-value","бонус у розмірі: {{@bonus}}"
+"mobile-received-bonus-value","+ бонус {{@bonus}}"
+"expires-in","Завершується через"
+"cannot-buy-option-try-later","Неможливо відкрити угоду, спробуйте ще раз пізніше."
+"notifications$demo-option-limit","Хочете укласти більше 5 угод одночасно? Відкрийте реальний рахунок. Щоб продовжити на демо-рахунку – дочекайтеся завершення угод"
+"max-total-bet-limit-exceeded","Перевищено ліміт допустимої інвестиції.
+ Максимальний допустимий розмір інвестиції {{@maxBet}}"
+"chart-opens-in","Актив буде доступний через:"
+"hint-activate-tment-wallet","Для участі в турнірі натисніть тут і виберіть турнірний рахунок"
+"largest-profit-banner-on-the-asset","На активі"
+"largest-profit-banner-button-trade-caption","Торгувати"
+"largest-profit-banner-button-trade-caption-2","Торгувати активом зараз"
+"largest-profit-banner-text","Найкращий час для торгівлі активом"
+"largest-profit-banner-text-2","Вдалий час для торгівлі"
+"largest-profit-height-profit","Збільшена дохідність"
+"largest-profit-height-profit-2","Висока прибутковість"
+"offer-expires-in","Пропозиція закінчується через"
+"offer-expires-in-2","До закінчення торгів:"
+"warning","Увага"
+"banner-tech-works-info-caption","Технічні роботи на платформі"
+"banner-tech-works-info-content","Ми постійно працюємо над вдосконаленням торгової платформи.
+В даний момент ми проводимо чергові оновлення. Перепрошуємо за можливі незручності."
+"confirm-email-content","Для продовження роботи, будь ласка, підтвердіть e-mail адресу вказану при реєстрації. Для отримання листа з посиланням підтвердження тисніть на кнопку."
+"confirm-email-caption","Реактивація акаунту"
+"reload","Перезавантажити"
+"resend-confirmation","Надіслати"
+"resend-confirmation-again","Надіслати знову"
+"confirmation-mail-sent","Лист відправлено"
+"banner-not-enough-funds-for-tment","На вашому балансі недостатньо коштів. Для участі в турнірі, будь ласка, поповніть рахунок."
+"tment-reenter-not-allowed","Ви не можете зробити докупку поки є відкриті угоди."
+"fill-profile-wrong-phone","Невірний формат номера телефону"
+"fill-profile-wrong-name","Неприпустиме ім'я"
+"fill-profile-wrong-surname","Некоректне прізвище"
+"fill-user-wrong-promocode","Неприпустимий промо-код"
+"wrong-promocode-max-sum","Максимальна сума для активації промокоду {{@sum}}"
+"wrong-promocode-min-sum","Мінімальна сума для активації промокоду {{@sum}}"
+"wrong-withdrawal-min-sum","Мінімальна сума {{@sum}}"
+"wrong-withdrawal-max-sum","Максимальна сума виведення {{@sum}}"
+"wrong-promocode-expired","Термін дії промокода закінчився"
+"wrong-promocode-only-for-second-deposit","Доступний тільки для другого і наступних депозитів"
+"wrong-promocode-only-for-first-deposit","Доступний тільки для першого депозиту"
+"wrong-promocode-used","Промокод вже використано"
+"fill-user-wrong-phone","Невірний номер телефону"
+"fill-user-wrong-card","Некоректний номер карти"
+"fill-user-wrong-customer_purse","Некоректний номер гаманця"
+"fill-user-wrong-name","Некоректне ім'я"
+"fill-user-wrong-surname","Некоректне прізвище"
+"please-rotate-device","Переверніть пристрій для зручного використання терміналу."
+"swipe-up-to-enter-fs","Для входу в режим повного екрану, потягніть пальцем вгору"
+"click-to-enter-fs","Натисніть пальцем будь-де на екрані, щоб перейти в повноекранний режим"
+"reconnect","Перепідключити"
+"reconnected","Перепідключено!"
+"free-reg","Безкоштовна реєстрація"
+"investments","угод"
+"investments_short","угод"
+"investment_short","iнвест."
+"buy-time","Час покупки"
+"total-investment","Загальна інвестиція"
+"total-income","Загальна виплата"
+"result","Результат"
+"ur-income-would-be","Ваш дохід склав би"
+"create-account-for-free","Відкрити рахунок безкоштовно"
+"resume-use-demo","Продовжити демо"
+"reg-request-message","Відкривши цю угоду на реальному рахунку нашої платформи, ви б заробили {{@income}}. Зареєструйтеся та торгуйте на реальному рахунку прямо зараз."
+"trade-without-restrictions","Торгуйте без обмежень"
+"trade-without-restrictions-message","Хочете укласти більше 5 угод одночасно? Відкрийте реальний рахунок. Щоб продовжити на демо-рахунку – дочекайтеся завершення угод."
+"use-real-wallet","Реальний рахунок"
+"support","Допомога"
+"search-asset","Пошук актива"
+"error-sending-email-confirmation","Сталася помилка! Спробуйте надіслати лист ще раз."
+"error-sending-email-confirmation-with-time","Новий лист може бути відправлений вам через {{@time}} хвилин. Щоб активувати обліковий запис, будь ласка, перевірте свою пошту або зверніться в службу підтримки."
+"risk-free-trades","Застраховані угоди"
+"count-trades-for-bet","{{@count}} угод по {{@sum}}"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","Білий"
+"Red","Червоний"
+"Pink","Рожевий"
+"Purple","Пурпуровий"
+"Deep Purple","Фіолетовий"
+"Indigo","Індиго"
+"Blue","Синій"
+"Cyan","Голубий"
+"Green","Зелений"
+"Light Green","Світлозелений"
+"Lime","Лайм"
+"Yellow","Жовтий"
+"Amber","Бурштиновий"
+"Orange","Помаранчевий"
+"tournament-accounts","Турнірні рахунки"
+"activate-tournament-wallet","Турнірний рахунок"
+"deposit-using-agreements-header","Умови використання бонусу"
+"deposit-using-agreements-p1","Бонус — це додаткові кошти, які надаються компанією для збільшення торгового потенціалу трейдерів."
+"deposit-using-agreements-p2","При поповненні балансу, на ваш рахунок може бути зараховано бонус. Розмір бонусу залежить від розміру вашого депозиту. Більше депозит — більше бонус."
+"deposit-using-agreements-p3","Бонус не обмежує виведення коштів — ви в будь-який момент можете виводити прибуток, а також суму вашого депозиту. Будь ласка, майте на увазі, що при виведенні коштів всі невідпрацьовані бонусні кошти, отримують статус неактивних і списуються з рахунку."
+"choose-payment-method","Оберіть спосіб оплати"
+"choose-payment-sum","Суму поповнення"
+"plus-value-bonus","+ {{@value}} бонус"
+"deposit-user-sum-value-caption","Хочете вибрати суму самі? Введіть значення в поле"
+"i-have-promocode","У мене є промокод"
+"requisiste-name-phone","Номер телефону"
+"no-bonus","немає бонуса"
+"refresh","Оновити"
+"browser","Оглядач"
+"make-a-deposit","Внести депозит"
+"cashbox-withdrawal-info-0-header","Як можна вивести кошти з рахунку?"
+"cashbox-withdrawal-info-0-content","Доступні варіанти виведення: на банківську карту, на гаманці Ківі, ЯндексДеньги, WebMoney. Власники мікро рахунків можуть мати лише одну активну заявку на виведення коштів."
+"cashbox-withdrawal-info-1-header","Яка мінімальна і максимальна сума виведення коштів?"
+"cashbox-withdrawal-info-1-content","Мінімальна сума для виведення — ₴150 або 5 $ / 5 € / 5 A$ / 300 ₽. Максимальна сума однієї транзакції для виведення — 6000₴ або 200 $ / 200 € / 200 A$ / 15000 ₽."
+"cashbox-withdrawal-info-2-header","Як вивести суму більше 6000₴ або 200 $, 200 €, 200 A$, 15 000 ₽?"
+"cashbox-withdrawal-info-2-content","Таке обмеження встановлено для проведення швидких виплат. Суми більше встановленого ліміту неможливо вивести так швидко. Якщо необхідно вивести суму більше, ви можете розбити виведення коштів на платежі по 6000₴ або 200 $, 200 €, 200 A$, 15 000 ₽. Кількість запитів на виведення коштів не обмежено. Для виведення більшої суми одним платежем, будь ласка, зверніться в службу підтримки платформи. Якщо ваш аккаунт не верифіковано, то заявка на виведення коштів обробляється до 3-х робочих днів. При цьому, в день можливо оформити не більше однієї заявки на виведення коштів."
+"cashbox-withdrawal-info-3-header","Як швидко відбувається виведення коштів?"
+"cashbox-withdrawal-info-3-content-a","Одна година — стільки часу потрібно на обробку заявки. За умови, що заявка подана в робочий час фінансового відділу платформи, а ваш акаунт верифіковано згідно вимогам платформи."
+"cashbox-withdrawal-info-3-content-b","Режим роботи фінансового відділу: 10:00-22:00 (GMT +2) з понеділка по п'ятницю. Якщо заявка на виведення коштів подана в неробочий час фінансового відділу або вихідні дні, то заявка буде оброблена на початку наступного робочого дня. Якщо ваш акаунт не верифіковано, то заявка на виведення коштів обробляється до 3-х робочих днів. При цьому, в день можливо оформити не більше однієї заявки на виведення коштів."
+"cashbox-withdrawal-info-4-header","Політика виведення коштів"
+"cashbox-withdrawal-info-4-content-a","Для подачі і подальшої обробки заявки компанією, клієнт зобов'язаний вказати всі запитувані дані в розділі «Налаштування профілю». У разі, якщо інформація вказана некоректно або не повністю, виведення коштів може бути відхилено чи зроблено з затримкою."
+"cashbox-withdrawal-info-4-content-b","Виведення коштів проводиться на ті ж реквізити (тієї ж платіжної системи), з яких був поповнений рахунок. Якщо виконати таку транзакцію неможливо, слід звернутися в службу підтримки — онлайн чат або запит на support@binarium.com."
+"cashbox-withdrawal-info-5-header","Чи потрібно надавати документи при виведенні коштів? Якщо потрібно, то які саме?"
+"cashbox-withdrawal-info-5-content-a","Для швидких виводів коштів, будь ласка, заповніть всі особисті дані в розділі «Налаштування профілю». Якщо ви користуєтеся декількома картами або платіжні реквізити не збігаються з тими, які ви вказали при реєстрації, то потрібно пройти повну верифікацію і довести, що карти дійсно належать вам. Виведення коштів на користь третіх осіб заборонено."
+"cashbox-withdrawal-info-5-content-b","Для верифікації необхідно відправити скан паспорта і банківської карти з лицьового боку (щоб було видно ім'я і прізвище власника) на support@binarium.com. Якщо картка не іменна, то до копії паспорта необхідно докласти і відправити скан виписки з банку, на якій повинна бути вказана транзакція з цієї карти на ваш рахунок в Binarium. Binarium залишає за собою право вимагати додаткові підтверджуючі документи, якщо дані власника карти і торгового рахунку не збігаються."
+"cashbox-withdrawal-info-6-header","На яких умовах можливе виведення бонусних коштів?"
+"cashbox-withdrawal-info-6-content-a","Бонус відразу після його нарахування вивести не можна. Ці гроші компанія дає як доповнення до вашого депозиту, щоб підвищити ваші можливості. Гроші, зароблені за допомогою бонусних коштів, також є бонусом і доступні для виведення тільки після того, як буде досягнуто необхідний торговий оборот. Для того, щоб вивести бонус потрібно зробити оборот на рахунку в 40-кратному розмірі від величини нарахованого бонусу. Якщо вам надано бездепозитний бонус, то плече підвищується до 50, тобто оборот за рахунком має дорівнювати бонус х50, а максимальна сума виводу не може перевищувати суму зарахованого бездепозитного бонусу. Грошові призи з безкоштовних турнірів компанії є бонусними, які доступні для виведення після здійснення 40-кратного обороту."
+"cashbox-withdrawal-info-6-content-b","Приклад. При поповненні рахунку вам нарахували 150 $ в якості бонусу. Згідно з правилами Binarium потрібно, щоб сумарна вартість куплених угод становила 30 х 150 (4500 $). Після цього бонусні кошти можна вивести. При цьому враховуються як прибуткові, так і збиткові угоди. Закриті достроково угоди в оборот не входять. Обмежень щодо виведення прибутку немає."
+"cashbox-withdrawal-info-6-content-c","Якщо ви збираєтеся вивести частину депозиту, то і бонус автоматично списується з вашого рахунку."
+"cashbox-withdrawal-info-6-content-d","При виникненні питань, будь ласка, звертайтеся в службу підтримки Binarium."
+"cashbox-withdrawal-info-7-header","Не можу створити заявку на виведення коштів з рахунку. У чому справа?"
+"cashbox-withdrawal-info-7-content","Спочатку переконайтеся, що ваша особиста інформація вірно вказана на сторінці профілю в розділі «Налаштування профілю». Ще раз перевірте чи вірно ви ввели всі дані при оформленні заявки, неприпустимі спеціальні символи «+», «-», «/» і т. д. Якщо вся інформація вірна, але проблема зберігається, звертайтеся в службу підтримки через онлайн чат або на пошту support@binarium.com."
+"deposit-info-1","Бонус — це додаткові кошти, які надаються компанією для збільшення торгового потенціалу трейдерів"
+"deposit-info-2","При поповненні балансу, на ваш рахунок може бути зарахована певна сума бонусу, яка залежить від величини вашого депозиту."
+"deposit-info-3","Бонус не обмежує виведення коштів — ви в будь-який момент можете виводити прибуток, а також суму вашого депозиту. Будь ласка, майте на увазі, що при виведенні коштів всі бонусні кошти, які не були використані в торгівлі з оборотом ×40, отримують статус неактивних і списуються з рахунку."
+"withdrawal-heading","Ваша заявка буде розглянута протягом 24 годин з моменту відправки."
+"withdrawal-content","У разі, якщо заявка була оформлена поза робочим часом фінансового відділу компанії, вона буде оброблена протягом наступного робочого дня."
+"withdrawal-restricted-content","Перевищено ліміт на виведення коштів для вашого <span class=""open-act-button"">типу рахунку</span>"
+"withdrawal-amount-caption","Сума виплати"
+"withdrawal-type-caption","Метод виведення коштів"
+"withdrawal-button-caption","Вивести кошти"
+"requisite-name-card","Номер картки"
+"requisite-name-phone","Телефон"
+"requisite-name-customer_purse","Гаманець"
+"withdrawal-request-sent","Заявку поставлено у чергу"
+"withdrawal-request-sent-extra-info","Статус заявки можна перевірити в розділі «Історія транзакцій»"
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","Visa/Mastercard"
+"videohub","Навчання"
+"asset-type-all","Всі"
+"asset-type-currency","Валюта"
+"asset-type-crypto","Крипто"
+"asset-type-goods","Товари"
+"asset-type-countries","Країни"
+"asset-type-leaders","Лідери"
+"cashbox-withdrawal-info","На обробку заявки буде потрібно якийсь час. Зазвичай, розгляд заявки займає до 24 годин в робочий час фінансового відділу. З радістю повідомляємо — ми не заморожуємо баланс до повного розрахунку, щоб ви могли продовжити торгівлю"
+"expiration-caption-16","Через 24 години"
+"trends","Тренди"
+"show-chart","Показати графік"
+"hide-chart","Приховати графік"
+"trend-active","Активні"
+"trend-non-active","Всі"
+"trends-is-empty","Йде оновлення трендів"
+"what-are-trends","Що таке тренди?"
+"what-are-trends-advice-content","Тренди — це спеціальний торговий інструмент, що дозволяє швидко знайти актив з прибутковим потенціалом (з вираженим напрямком ціни) і відкрити угоду в напрямку тренда."
+"not-enough-money-for-trends-detailed","Унікальний торговий інструмент від Binarium доступний для клієнтів з реальним балансом від {{@balance}}. Перспективні можливості:"
+"get-access-to-trends","Отримати доступ до трендів"
+"trends-features-one","Відстежувати всі активні тренди на ринку"
+"trends-features-two","Моментально відкривати угоди в напрямку тренда при його формуванні"
+"month-0","січень"
+"month-1","лютий"
+"month-2","березень"
+"month-3","квітень"
+"month-4","травень"
+"month-5","червень"
+"month-6","липень"
+"month-7","серпень"
+"month-8","вересень"
+"month-9","жовтень"
+"month-10","листопад"
+"month-11","грудень"
+"day-0","Нд"
+"day-1","Пн"
+"day-2","Вт"
+"day-3","Ср"
+"day-4","Чт"
+"day-5","Пт"
+"day-6","Сб"
+"trading-room","Торгова кімната"
+"trading-room-entering-time","Час входу"
+"trading-room-expiration","Експірація"
+"trading-room-strength","Сила"
+"trading-room-strike-price","Страйк ціна"
+"trading-room-is-empty","Доступних сигналів немає. Будь ласка, перевірте «Торгову кімнату» трохи пізніше."
+"demo-stats-banner-header-caption","Відмінно!"
+"demo-stats-banner-header-caption-2","Вітаємо!"
+"demo-stats-banner-you-earned-on-demo","Ви заробили на демо-рахунку"
+"demo-stats-banner-total-deals-amount","Усього угод"
+"demo-stats-banner-successfull-deals-percentage","Відсоток успішних угод"
+"demo-stats-banner-real-account-opening-request","Відкрийте реальний рахунок і ваш дохід можна буде виводити"
+"demo-stats-banner-open-real-account-button-caption","Відкритий реальний рахунок"
+"demo-stats-banner-keep-trading-on-demo","Залишитися на демо-рахунку"
+"demo-stats-banner-you-have-done","Ви здійснили"
+"demo-stats-banner-you-have-trades-closed-in-a-row","угод поспіль"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","прибуткових угод поспіль"
+"demo-stats-banner-earning-on-demo-account","заробіток на деморахунку"
+"demo-stats-banner-closed-in-a-row-2","прибуткові угоди"
+"tour-next-button-caption","Далі"
+"tour-reading-duration-caption","Читання 4 хв."
+"tour-slides-steps-count","Крок {{@currentSlide}} з {{@totalSlidesCount}}"
+"tour-slide-0-caption","Ласкаво просимо на торговельну платформу Binarium"
+"tour-slide-0-content","Ця коротка демонстрація познайомить вас з принципами торгівлі та інтерфейсом платформи Binarium."
+"tour-slide-0-content-1","Прочитайте всі картки для більш ефективної торгівлі на платформі.<br/>Це займе 4-5 хвилин."
+"tour-slide-0-content-2","Ця коротка демонстрація познайомить вас з принципами торгівлі та інтерфейсом платформи Binarium."
+"tour-slide-0-content-3","Зліва знаходиться основне меню. Наприклад, поповнити рахунок можна у пункті <span class=""bold"">«Каса»</span>. А у <span class=""bold"">«Торговій кімнаті»</span> можна торгувати за допомогою кращих трейдерів платформи!"
+"tour-slide-0-content-3-port","В верхньому правому кутку знаходиться основне меню. Наприклад, поповнити рахунок можна у пункті <span class=""bold"">«Каса»</span>. А у <span class=""bold"">«Торговій кімнаті»</span> можна торгувати за допомогою кращих трейдерів платформи!"
+"tour-slide-0-extra-info","Прочитайте всі картки для більш ефективної торгівлі на платформі."
+"tour-slide-1-caption","Як можна заробляти за допомогою платформи?"
+"tour-slide-1-content","<span class=""bold"">Торгова платформа дозволяє укладати угоди</span> у вигляді короткострокових інвестицій в фінансові активи: валютні пари, криптовалюта, товари та інші фінансові інструменти."
+"tour-slide-2-caption","Який основний принцип угоди?"
+"tour-slide-2-content-a","<span class=""bold"">Угода — це прогноз зміни ціни финансового активу</span> у заданий часовий період на <span class=""green"">підвищення</span> або <span class=""red"">зниження.</span>"
+"tour-slide-2-content-b"," Якщо прогноз виявився вірним, ви отримуєте винагороду, в іншому випадку ви втрачаєте всі інвестовані вами кошти."
+"tour-slide-3-caption","Як укладати угоди на платформі Binarium?"
+"tour-slide-3-content","<span class=""bold"">Оберіть актив</span>, рух курсу якого ви хочете спрогнозувати."
+"tour-slide-4-caption","Як укладати угоди на платформі Binarium?"
+"tour-slide-4-content","<span class=""bold"">Задайте розмір інвестиції.</span>"
+"tour-slide-5-caption","Як укладати угоди на платформі Binarium?"
+"tour-slide-5-content","<span class=""bold"">Відкрийте угоду</span>, зробивши прогноз, куди буде рухатися ціна — <span class=""green"">вгору</span> або<span class=""red"">вниз</span>. Дочекайтеся закриття угоди."
+"tour-slide-6-caption","Вдалої торгівлі на платформі Binarium"
+"tour-slide-6-additional-caption","У разі успішного прогнозу прибуток буде автоматично зараховано на ваш торговий рахунок."
+"tour-slide-6-a-trading-rules","Торгові умови"
+"tour-slide-6-a-card-0-caption","Розмір винагороди за успішний прогноз:"
+"tour-slide-6-a-card-0-content-1","до {{@maxProfit}}"
+"tour-slide-6-a-card-0-content-2","від суми інвестиції — розмір винагороди за успішний прогноз."
+"tour-slide-6-a-card-1-caption","розмір депозиту для торгівлі."
+"tour-slide-6-a-card-1-content","від {{@minWithdrawal}}"
+"tour-slide-6-a-card-2-caption","середній час виведення коштів:"
+"tour-slide-6-a-card-2-content","30 хвилин"
+"tour-slide-6-a-card-3-caption","Для початку торгівлі внесіть депозит на реальний рахунок:"
+"tour-slide-6-a-card-3-button-caption","Внести депозит і торгувати"
+"tour-slide-6-a-dont-show-again","Більше не показувати тур по платформі"
+"tour-slide-6-b-trading-rules","Торгові умови"
+"tour-slide-6-b-card-0-caption","Розмір винагороди за успішний прогноз:"
+"tour-slide-6-b-card-0-content","<span class=""big"">До 90%</span> від суми інвестиції."
+"tour-slide-6-b-card-1-caption","розмір депозиту для торгівлі."
+"tour-slide-6-b-card-1-content","<span class=""big"">від {{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","середній час виведення коштів."
+"tour-slide-6-b-card-2-content","<span class=""big"">30 хвилин</span>"
+"tour-slide-6-b-card-3-caption","Навчайтеся торгувати без ризику за допомогою демо-рахунку"
+"tour-slide-6-b-card-3-button-caption","Спробувати торгувати на демо-рахунку"
+"tour-slide-6-b-dont-show-again","Більше не показувати тур по платформі"
+"user-terms-caption","Торгівля в один клік"
+"what-is-trading-room","Що таке торгова кімната?"
+"what-is-trading-room-advice-content","Торгова кімната — це зручний інструмент, що дозволяє в один клік копіювати угоди кращих трейдерів платформи. Використовуючи цей інструмент, ви підвищите ефективність вашої торгівлі та заощадите час."
+"not-enough-money-for-trading-room-detailed","Торгуйте і заробляйте разом з кращими трейдерами платформи Binarium, використовуючи «Торгову кімнату». Поповніть ваш реальний баланс до {{@minBalance}} і отримаєте переваги:"
+"get-access-to-trading-room","Доступ до торгової кімнати"
+"have-access-to-trading-room","Щоб отримати доступ до «Торгової кімнати» зверніться до свого менеджера або в службу підтримки."
+"trading-room-features-one","Слідкуйте за угодами найуспішнішого трейдера платформи"
+"trading-room-features-two","Копіюйте угоди і отримуйте прибуток"
+"trading-room_1-title","Торгуйте разом"
+"trading-room_1-text","Слідкуйте за угодами найуспішнішого трейдера платформи."
+"trading-room_2-title","Використовуйте успішний досвід"
+"trading-room_2-text","Копіюйте поведінку та угоди і отримуйте прибуток!"
+"trading-room_refill","Для доступу в «Торгову кімнату» поповніть ваш баланс до"
+"account_level","Рівень рахунку"
+"modal-confirm_title","Підтвердіть вашу пошту"
+"modal-confirm_text-1","Ми відправили вам лист з посиланням для підтвердження."
+"modal-confirm_text-2","Вам не прийшов лист із посиланням підтвердження? Перевірте, будь ласка, папку «Спам», іноді листи потрапляють туди. Або замовте лист ще раз."
+"modal-confirm_button","Надіслати лист ще раз"
+"modal-confirm_error-1-1","Новий лист може бути відправлено вам через {{@time}} хвилин. Щоб активувати обліковий запис, будь ласка, перевірте свою пошту або"
+"modal-confirm_error-1-2","зверніться в службу підтримки."
+"modal-confirm_support","Написати в підтримку"
+"timer_days","дні"
+"timer_hours","години"
+"timer_minutes","хвилини"
+"timer_seconds","секунди"
+"tournament_button","Брати участь в турнірі"
+"modal-oneclick_title","Торгівля в «один клік»"
+"modal-oneclick_text","Зверніть увагу, що відкриття угод на платформі відбувається в «один клік» — без додаткового підтвердження."
+"modal-oneclick_button","Прийняти і продовжити"
+"modal-tbalance_title","Поповніть ваш рахунок"
+"modal-tbalance_text","У вас на рахунку недостатньо коштів. Будь ласка, поповніть рахунок, щоб брати участь в турнірі."
+"modal-tbalance_button","Внести депозит"
+"modal-tech_title","Ми скоро повернемося!"
+"modal-tech_text-1","Ми постійно покращуємо торгову платформу і зовсім скоро закінчимо оновлення. Приносимо вибачення за незручності"
+"modal-tech_text-2","До закінчення робіт:"
+"modal-tech_button","Продовжити"
+"modal-session_title","Зверніть увагу"
+"modal-session_text-1","Фондові ринки закриті у вихідні дні."
+"modal-session_text-2","Торгова платформа доступна"
+"modal-session_text-3","з 03:00 понеділка до 00:00 п'ятниці."
+"modal-session_text-4","Торгова сесія почнеться через:"
+"modal-session_button","Продовжити"
+"modal-tn_title","Ласкаво просимо в"
+"modal-tn_text-1","Перемегає трейдер з найбільшим балансом на момент завершення турніру."
+"modal-tn_text-2","Доступні активи:"
+"modal-tn_text-3","Доступні типи угод:"
+"modal-tn_button","Почати"
+"modal-nickname_title","Оберіть нікнейм"
+"modal-nickname_text","Для участі в турнірі вкажіть нікнейм, під яким ви будете відображатися у списку учасників турніру. Змінити його ви зможете в будь-який момент в налаштуваннях вашого профілю."
+"modal-nickname_button","Зберегти та продовжити"
+"modal-nickname_placeholder","Введіть ваш нікнейм"
+"modal-profile_title","Додаткова інформація"
+"modal-profile_text","Щоб продовжити роботу на платформі, будь ласка, заповніть відсутню інформацію"
+"modal-profile_name","Ім'я"
+"modal-profile_surname","Прізвище"
+"modal-profile_phone","Телефон (з кодом країни)"
+"modal-profile_button","Почати торгувати"
+"modal-profile_aside","Збереження особистих даних гарантовано"
+"form-error_required","Поле не може бути порожнім"
+"form-error_name-short","Ім'я занадто коротке"
+"form-error_name-format","Дозволено лише літери"
+"form-error_surname-short","Прізвище занадто коротке"
+"form-error_surname-format","Дозволено лише літери"
+"form-error_phone-format","Номер повинен бути в міжнародному форматі"
+"srv-err_asset-is-disabled","Актив недоступний"
+"srv-err_asset-is-disabled-for-this-tournament","Актив недоступний в даному турнірі"
+"srv-err_binary-is-disabled-for-this-tournament","Актив недоступний в даному турнірі"
+"srv-err_turbo-is-disabled-for-this-tournament","Актив недоступний в даному турнірі"
+"tournament@btn.paid-participate","Участь"
+"tournament@info.paid","Платний турнір"
+"faq@title","Питання та відповіді"
+"menu@faq","FAQ"
+"menu@education","Навчання"
+"menu@qa","Питання та відповіді"
+"menu@strategies","Стратегії"
+"menu@btn$back","Назад"
+"cashbox@no-bonus","Не отримувати бонус"
+"wallet-menu@real-title","Реальні кошти"
+"wallet-menu@bonus-title","Бонусні кошти"
+"wallet-menu@wager-title","Оборот для виведення бонусу"
+"wallet-menu@wager-link","Детальніше про бонуси"
+"modal-bonus@title","Ви використовуєте бонусні кошти"
+"modal-bonus@text","Розмір угоди перевищує доступні реальні кошти. Тому при відкритті угоди будуть використані ваші бонусні кошти:"
+"modal-bonus@deal-size","Розмір угоди"
+"modal-bonus@real-size","Реальні кошти"
+"modal-bonus@bonus-size","Бонусні кошти"
+"modal-bonus@info","Всі кошти, отримані в результаті угоди, будуть зараховані на ваш бонусний рахунок."
+"modal-bonus@faq","Правила роботи з бонусними коштами"
+"modal-bonus@btn-cancel","Скасувати"
+"modal-bonus@btn-continue","Прийняти і продовжити"
+"modal-bonus@disable","Більше не показувати це повідомлення"
+"trends@restrict-title","На рахунку недостатньо коштів"
+"trends@restrict-text","Для доступу до розділу «Тренди» баланс вашого рахунку необхідно поповнити до"
+"asset-menu@title","Активи"
+"asset-menu@available","Доступні для торгівлі активи"
+"asset-menu@profitable","Активи з підвищеною прибутковістю"
+"asset-menu@interval","хв."
+"confirm-trade@header","Підтвердження угоди"
+"confirm-trade@timer","Закриється автоматично через: {{@data}}с"
+"confirm-trade@heading","Відмінно! Тепер потрібно підтвердити угоду."
+"confirm-trade@asset","Актив"
+"confirm-trade@direction","Напрям"
+"confirm-trade@investment","Інвестиція"
+"confirm-trade@price","Поточна ціна"
+"confirm-trade@profitability","Прибутковість"
+"confirm-trade@payout","Потенційна виплата"
+"confirm-trade@btn-cancel","Скасувати"
+"confirm-trade@btn-confirm","Підтвердити"
+"plot@loading","Завантаження"
+"plot@lock-time","Час початку покупки"
+"plot@expiration-time","Час експірації"
+"tr-empty@text","Пориньте в тонкощі торгівлі разом з професіоналами. Копіюйте угоди успішних трейдерів платформи і заробляйте."
+"tr-empty@business","Торгова кімната доступна для власників рахунків, починаючи від Business. 2 торгові сесії по 4 години в робочі дні. Близько 30 сигналів від професійних трейдерів кожен день. Не витрачайте час на навчання - кращі трейдери платформи Binarium вже зробили це за вас."
+"tr-empty@vip","Повний набір привілеїв торгової кімнати доступний нашим VIP клієнтам. Персональні сигнали та індивідуальна робота з трейдером компанії, який відповість на ваші питання, зорієнтує в трендах ринку і підкаже найбільш перспективні напрямки. Найкомфортніші умови для успішної торгівлі."
+"tr-empty@open-btn","докладніше • вхід"
+"tr-empty@deposit-btn","перейти до оплати • вхід"
+"tr-empty@vip-signals","+ прибуткові сигнали"
+"hb@menu-btn","Меню"
+"ac-types@title","Тип рахунку"
+"ac-types@label_depositSum","Сума депозиту"
+"ac-types@label_tradeback","Трейдбек"
+"ac-types@label_tradebackEnrolment","Зарахування трейдбеку"
+"ac-types@label_assets","Торгові активи"
+"ac-types@label_withdrawalCountLimit","Заявок на виведення коштів, в день"
+"ac-types@label_withdrawalAmountLimit","Ліміт на виведення коштів, в місяць"
+"ac-types@label_withdrawalDayAmountLimit","Ліміт на виведення коштів, в день"
+"ac-types@label_tradingRoom","Торгова кімната"
+"ac-types@label_openDealsSum","Сума відкритих угод (за раз)"
+"ac-types@value_real","Реальні кошти"
+"ac-types@value_bonus","Бонус"
+"ac-types@value_nolimit","Без ліміту"
+"ac-types@btn","підвищити"
+"ac-types@self","Ваш рахунок"
+"ac-types@tradeback-hint","Трейдбек - відшкодування частини збиткових угод трейдера. Нараховується щовівторка о 12:00 за UTC-00"
+"video-tutorial@title","Як почати торгувати на Binarium за півтори хвилини"
+"video-tutorial@checkbox","Більше не показувати це відео"
+"user-menu@account-types","Типи рахунків"
+"withdrawal-error@amount-limit","Перевищено ліміт суми виведення"
+"withdrawal@limit-with-counter","Перевищено ліміт на виведення коштів.<br>Для вашого <span class=""open-act-button"">типу рахунка</span> доступно заявок: {{@limitCount}}, на суму: {{@limitAmount}}.<br>Наступна заявка стане доступна: {{@limitTime}}"
+"promo-gift@bonus","бонус"
+"promo-gift@freeSpins","Застраховані угоди"
+"promo-gift@tradeRoom","торгова кімната"
+"promo-gift@tickets","квитки"
+"settings@quality-title","Якість графіки"
+"settings@quality-hint","Керуйте навантаженням на пристрій за допомогою налаштування якості графіки. Базова якість допомогає економити ресурси, завантажувати термінал швидше, але з незначними втратами в якості графіки."
+"settings@quality-option-base","Базова"
+"settings@quality-option-average","Середня"
+"settings@quality-option-best","Висока"
+"history@group$active","Активні угоди"
+"history@group$finished","Завершені угоди"
+"st@level$all","Всі"
+"st@level$easy","Прості"
+"st@level$base","Базові"
+"st@level$advanced","Просунуті"
+"promo@btn$details","Детальніше"
+"promo@timer$name","До закінчення акції"
+"promo@until","до"
+"wallet@btn$refill","Поповнити навчальний рахунок"
+"tournament@prize-fund","Призовий фонд"
+"tournament@prize-places","Призові місця"
+"tournament@tab$restrictions","Умови"
+"tournament@tab$rating","Рейтинг учасників"
+"tournament@tab$current","Зараз"
+"tournament@tab$soon","Скоро"
+"tournament@timer$start","До початку турніру"
+"tournament@timer$end","До закінчення турніру"
+"section@title$bet","Торгівля"
+"bet@tab$deposit","Депозит"
+"forecast@deal","Угода"
+"forecast@deals","Угоди"
+"promo@days-short","д."
+"settings@group$region","Налаштування регіону"
+"settings@group$design","Дизайн"
+"menu@account-type","Тип рахунку"
+"menu@profile","Профіль"
+"leaderboard@tournament","Турнір"
+"leaderboard$toggle@open","Увесь рейтинг"
+"leaderboard$toggle@close","Згорнути"
+"disabled-timer@title","Відкриється через"
+"open-option$total$deals","угод"
+"open-option$total$invest","Заг. інвест."
+"open-option$total$payout","Заг. виплата"
+"chat-button@text","допомога<br>онлайн"
+"accounts@popular","Популярний вибір"
+"settings@animation","Анімація поінтів"
+"settings@animation-disabled","Вимкнена"
+"settings@animation-enabled","Включена"

@@ -1,806 +1,808 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Người dùng Thân mến!",
-	"error": "Lỗi",
-	"settings": "Cài đặt",
-	"settings-2": "Cài đặt bảng điều khiển",
-	"regionalSettings": "Cài đặt vùng",
-	"timezone": "Múi giờ",
-	"timezone-2": "Múi giờ",
-	"language": "Ngôn ngữ",
-	"skin-theme": "Chủ đề",
-	"ui-zoom": "Thu phóng",
-	"ui-zoom-2": "Quy mô",
-	"investment": "Giao dịch",
-	"payout": "Thanh toán",
-	"options": "Tùy chọn",
-	"quote": "Báo giá",
-	"time": "Thời gian",
-	"past": "Đã đóng",
-	"active": "Đã mở",
-	"value": "Giá trị",
-	"add": "Thẻ mới",
-	"add-new-chart": "Bổ sung biểu đồ mới",
-	"charts-arrangement": "Lưới biểu đồ",
-	"turbo-cap": "1—5 phút",
-	"count-chart": "{{@count}} biểu đồ",
-	"count-charts": "{{@count}} biểu đồ",
-	"one-chart": "1 biểu đồ",
-	"two-charts": "2 biểu đồ",
-	"three-charts": "3 biểu đồ",
-	"four-charts": "4 biểu đồ",
-	"refill": "Nộp tiền",
-	"wallets-types": "Loại tài khoản",
-	"history": "Lịch sử",
-	"cashbox": "Ngân hàng",
-	"education": "Giáo dục",
-	"education@category$videos": "Educational <span>video</span>",
-	"promos": "Tiền thưởng",
-	"trading-history": "Lịch sử giao dịch",
-	"section-under-construction": "Phần này đang được xây dựng",
-	"count-purchase": "{{@count}} giao dịch",
-	"count-purchases": "{{@count}} #{trades@trade?count}",
-	"total-payout": "Tổng thanh toán",
-	"cancel": "Hủy bỏ",
-	"apply": "Áp dụng",
-	"period": "Thời gian",
-	"stochastic-smoothing": "Làm mượt",
-	"stochastic-overbought": "Quá mua",
-	"stochastic-oversold": "Quá bán",
-	"fast-stochastic-period": "Thời hạn đường nhanh",
-	"slow-stochastic-period": "Thời hạn đường chậm",
-	"fast-stochastic-line-color": "Màu đường nhanh",
-	"slow-stochastic-line-color": "Màu đường chậm",
-	"fast-stochastic-line-thickness": "Độ dày đường nhanh",
-	"fast-macd-period": "Thời gian đường nhanh",
-	"slow-macd-period": "Thời gian đường chậm",
-	"signal-macd-period": "Thời gian tín hiệu",
-	"fast-macd-line-thickness": "Độ dày đường nhanh",
-	"signal_line_color": "Màu đường tín hiệu",
-	"oversold": "Bán vượt mức",
-	"macd_color": "Màu",
-	"line-thickness": "Độ dày đường kẻ",
-	"line-color": "Màu đường kẻ",
-	"line-offset": "Dịch chuyển đường kẻ",
-	"top-line-thickness": "Độ dày đường kẻ trên cùng",
-	"mid-line-thickness": "Độ dày đường kẻ giữa",
-	"slow_period": "Thời gian chậm",
-	"fast_period": "Thời gian nhanh",
-	"short_period": "Thời gian ngắn",
-	"long_period": "Thời gian dài",
-	"offset": "Bù",
-	"bottom-line-thickness": "Độ dày đường kẻ dưới cùng",
-	"bottom-line-period": "Thời hạn đường kẻ dưới cùng",
-	"top-line-color": "Màu đường kẻ trên cùng",
-	"top-line-period": "Thời hạn đường kẻ trên cùng",
-	"mid-line-color": "Màu đường kẻ giữa",
-	"mid-line-period": "Thời hạn đường kẻ giữa",
-	"bottom-line-color": "Màu đường kẻ dưới cùng",
-	"teeth-line-color": "Màu đường kẻ răng",
-	"jaws-line-color": "Màu đường kẻ hàm",
-	"lips-line-color": "Màu đường kẻ môi",
-	"jaws-period": "Thời gian hàm",
-	"jaws-offset": "Bù hàm",
-	"teeth-period": "Thời gian răng",
-	"teeth-offset": "Bù răng",
-	"lips-period": "Thời gian môi",
-	"lips-offset": "Bù môi",
-	"indice-lines-position": "Vị thế đường chỉ báo",
-	"major-line-thickness": "Độ dày đường kẻ lớn",
-	"top-signal-line-thickness": "Độ dày đường kẻ tín hiệu trên cùng",
-	"bottom-signal-line-thickness": "Độ dày đường kẻ tín hiệu dưới cùng",
-	"top-signal-line-color": "Màu đường kẻ tín hiệu trên cùng",
-	"bottom-signal-line-color": "Màu đường kẻ tín hiệu dưới cùng",
-	"fast-stoch-color": "Màu ngẫu nhiên nhanh",
-	"low-stoch-color": "Màu ngẫu nhiên chậm",
-	"low-stoch-period": "Thời gian ngẫu nhiên chậm",
-	"fast-stoch-line-thickness": "Độ dày đường kẻ ngẫu nhiên nhanh",
-	"low-stoch-line-thickness": "Độ dày đường kẻ ngẫu nhiên chậm",
-	"small-period": "Dấu chấm nhỏ",
-	"big-period": "Dấu chấm lớn",
-	"small-period-width": "Độ dày của dấu chấm nhỏ",
-	"big-period-width": "Độ dày của dấu chấm lớn",
-	"signal-period-width": "Độ dày của dấu chấm tín hiệu",
-	"bars-color": "Màu thanh",
-	"bars-color-maofmacd": "Màu thanh MA của MACD",
-	"smoothing-period": "Làm mượt dấu chấm",
-	"adx-minus-di-color": "Màu -DI",
-	"adx-plus-di-color": "Màu +DI",
-	"adx-line-color": "Màu đường kẻ ADX",
-	"sar-default-acceleration": "Gia tốc mặc định",
-	"acceleration-step": "Bước gia tốc",
-	"max-acceleration": "Gia tốc tối đa",
-	"chikou-line-thickness": "Độ dày Chikou",
-	"chikou_period": "Đường Chikou",
-	"tenkan_period": "Đường Tenkan",
-	"kijun_period": "Đường Kijun",
-	"senkou_a_period": "Đường Senkou A",
-	"senkou_b_period": "Đường Senkou B",
-	"color": "Màu",
-	"chart-type": "Loại biểu đồ",
-	"chart-type-curve": "Đường cong",
-	"chart-type-curve-area": "Khu vực đường cong",
-	"chart-type-candlesticks": "Nến",
-	"chart-type-bars": "Thanh",
-	"bet-sum": "Tổng",
-	"chart-controls-income-caption": "Lợi nhuận",
-	"expiration-time": "Thời gian hết hạn",
-	"wallet-refilling": "Nộp tiền",
-	"real-wallet": "Thật",
-	"demo-wallet": "Tài khoản Demo",
-	"can-deduce-profit": "Bạn có thể rút lợi nhuận",
-	"all-assets-available": "Mọi loại tài sản đều sẵn có",
-	"all-features-available": "Sử dụng tất cả các tính năng của nền tảng",
-	"get-bonuses-from-the-platform": "Nhận thưởng từ công ty",
-	"participate-tournaments": "Tham gia cuộc thi",
-	"can-switch-wallet-any-time": "Bạn có thể chuyển đổi giữa các tài khoản bất cứ lúc nào.",
-	"cannot-deduce-profit": "Bạn không thể rút lợi nhuận",
-	"refill-wallet": "Nộp tiền",
-	"choose-wallet-type": "Loại tài khoản",
-	"demo-wallet+wallet": "Tài khoản demo",
-	"real-wallet+wallet": "Tài khoản thật",
-	"choose-bet": "Giao dịch",
-	"added-items": "Đã bổ sung",
-	"bollinger-lines": "Bollinger Bands",
-	"ichi-cloud": "Đám mây Ichimoku",
-	"alli-gator": "Cá Sấu",
-	"graphics-analysys-tools": "Công cụ Phân tích",
-	"new-items": "Mới",
-	"line-segment": "Đoạn đường kẻ",
-	"ray": "Tia",
-	"hori-line": "Đường kẻ ngang",
-	"vline": "Đường dọc",
-	"free-hand": "Vẽ tự do",
-	"crossroad": "Điểm giao",
-	"frame": "Khung",
-	"range": "Phạm vi",
-	"ellipse": "E-líp",
-	"fibonacci-lines": "Đường Fibonacci",
-	"andrews-fork": "Cây đinh ba của Andrew",
-	"graphic-tools": "Công cụ đồ họa",
-	"time-period": "Khoảng thời gian",
-	"count-second": "{{@count}} giây",
-	"count-seconds": "{{@count}} giây",
-	"count-minute": "{{@count}} phút",
-	"count-minutes": "{{@count}} phút",
-	"count-hour": "{{@count}} giờ",
-	"count-hours": "{{@count}} giờ",
-	"lock-time": "Thời gian khóa",
-	"user-profile": "Hồ sơ người dùng",
-	"user-profile-heading": "Hồ sơ người dùng",
-	"withdrawal": "Rút tiền",
-	"support-service": "Hỗ trợ",
-	"payment-history": "Lịch sử thanh toán",
-	"exit": "Đăng xuất",
-	"count-second-short": "{{@count}} giây",
-	"count-seconds-short": "{{@count}} giây",
-	"count-minute-short": "{{@count}} phút",
-	"count-minutes-short": "{{@count}} phút",
-	"count-hour-short": "{{@count}} giờ",
-	"count-hours-short": "{{@count}} giờ",
-	"count-day-short": "{{@count}} ngày",
-	"binary-cap": "5+ phút",
-	"error-too-small-bet": "Không thể đặt cược {{@sum}}, khoản cược tối thiểu cho đồng tiền {{@currency}} là {{@minbet}}",
-	"error-too-big-bet": "Không thể đặt cược {{@sum}}, khoản cược tối đa cho đồng tiền {{@currency}} là {{@maxbet}}",
-	"error-wrong-expiration": "Ngày hết hạn sai {{@time}}",
-	"not-enough-money": "Bạn không có đủ tiền trong tài khoản của mình.",
-	"option-closed-head": "Tùy chọn bị đóng",
-	"transaction-result": "Kết quả cho {{@assetName}}",
-	"internet-connection-trouble": "Lỗi kết nối",
-	"lang-name-locale-en": "Tiếng Anh",
-	"lang-name-locale-ru": "Tiếng Nga",
-	"lang-name-locale-de": "Tiếng Đức",
-	"lang-name-locale-tr": "Tiếng Thổ Nhĩ Kỳ",
-	"lang-name-locale-vi": "Tiếng Việt",
-	"lang-name-locale-uk": "Tiếng Ukraina",
-	"lang-name-locale-th": "Tiếng Thái",
-	"lang-name-locale-it": "Tiếng Ý",
-	"lang-name-locale-pl": "Tiếng Ba Lan",
-	"lang-name-chinese": "Tiếng Trung Quốc (giản thể)",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "Bạn đang sử dụng một tài khoản tiền thật.",
-	"you-started-using-tment-wallet": "Bạn đang sử dụng một tài khoản cuộc thi.",
-	"tournaments": "Cuộc thi",
-	"currents": "Hiện tại",
-	"futures": "Sắp tới",
-	"archive": "Lưu kho",
-	"days": "Ngày",
-	"hours": "Giờ",
-	"minutes": "Phút",
-	"prize-fond": "Giải thưởng",
-	"participate-price": "Phí tham gia",
-	"prize-places": "Hàng đầu",
-	"tournament-participants-count": "Người tham gia",
-	"no-tournament-description": "Không có mô tả cuộc thi",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "Bắt đầu",
-	"deductions": "Khấu trừ",
-	"reg-in-tournament-for": "Tham gia Cuộc thi {{@price}}",
-	"reg-in-tournament-for-free": "Tham gia giải đấu miễn phí",
-	"choose-tournament-to-see-info": "Vui lòng chọn một cuộc thi",
-	"has-reged-in-tournament": "Bạn đã đăng ký",
-	"wait-for-reg-in-tournament": "Yêu cầu đăng ký được gửi đi",
-	"prize-places-low": "{{@count}} Hạng đầu",
-	"starting-balance": "Số dư bắt đầu",
-	"min-deal-size": "Số tiền giao dịch tối thiểu",
-	"max-deal-size": "Số tiền giao dịch tối đa",
-	"max-simultaneously-open-deals": "Giới hạn giao dịch mở",
-	"max-amount-of-open-deals": "Giới hạn đầu tư",
-	"available-options-types": "Tùy chọn sẵn có",
-	"tournament-option-type-turbo": "Turbo",
-	"tournament-option-type-binary": "Nhị phân",
-	"tournament-option-type-both": "Cả hai",
-	"tournament-winning-rules": "Nhà giao dịch có số dư cao nhất vào cuối cuộc thi sẽ là người chiến thắng.",
-	"available-assets": "Tài sản có sẵn",
-	"available-options": "Các loại giao dịch có sẵn",
-	"greeting": "Chào mừng",
-	"cashbox-plus-bonus": "thưởng",
-	"cashbox-input": "Nộp tiền",
-	"cashbox-output": "Rút tiền",
-	"cashbox-total": "Thưởng, khuyến mãi, tổng",
-	"bonus-terms-of-use": "Điều khoản bổ sung của người dùng",
-	"enter-cashbox-input-value": "Nhập số tiền nộp",
-	"enter-cashbox-output-value": "Nhập số tiền rút",
-	"do-withdrawal": "Rút tiền",
-	"amount-due": "Số tiền",
-	"will-recieve-to-account": "Bạn nhận được",
-	"i-wanna-get-bonus": "Nhận thưởng",
-	"enter-cashbox-card-type": "Phương thức thanh toán",
-	"finish-time": "Hoàn thành",
-	"top-users": "Bảng xếp hạng",
-	"member": "Thành viên",
-	"balance": "Số dư",
-	"prize": "Giải thưởng",
-	"hint-split-view-button": "Bố cục",
-	"hint-user-profile-button": "Menu người dùng",
-	"hint-asset-stat": "Lựa chọn của thương gia",
-	"hint-sound-button": "Âm thanh",
-	"hint-platform-time": "Thời gian trên nền tảng",
-	"hint-profitability": "Lợi nhuận",
-	"hint-payout": "Thanh toán",
-	"hint-real-acc": "Tài khoản thật",
-	"hint-demo-acc": "Tài khoản demo",
-	"hint-tournament-acc": "Tài khoản cuộc thi",
-	"hint-settings": "Cài đặt",
-	"hint-support": "Hỗ trợ",
-	"hint-graph-type": "Loại biểu đồ",
-	"hint-candle-interval": "Chu kỳ nến",
-	"hint-user-lines": "Công cụ đồ họa",
-	"hint-secondary-lines": "Chỉ báo",
-	"hint-centerize": "Giá hiện tại",
-	"hint-zoom-level": "Khung thời gian",
-	"tournament": "Cuộc thi",
-	"loading": "Đang tải",
-	"you-are-in-tournament": "Bạn đã tham gia!",
-	"repeat-tournament": "Mua lại {{@price}}",
-	"unsupported-browser": "Sản phẩm đang ở giai đoạn thử nghiệm, tại thời điểm hiện tại, chúng tôi chỉ bảo đảm hoạt động ổn định trong các trình duyệt sau: Google Chrome, Opera và Yandex Browser. Cảm ơn sự thông cảm của bạn!",
-	"account-is-for-educ": "Đây chỉ là tài khoản demo",
-	"participate-in-demo-tments": "Tham gia cuộc thi demo",
-	"use-real-money": "Giao dịch với tiền thật",
-	"participate-tments-with-real-money": "Tham gia vào các cuộc thi và nhận giải thưởng",
-	"native-deal-closed-body": "Tùy chọn cho {{@assetName}} đã đóng lúc {{@closeTime}}. Lợi nhuận là {{@incomeValue}}",
-	"tournaments-rules": "Quy định cuộc thi",
-	"tournaments-rules-2": "Quy định tham gia cuộc thi.",
-	"get-trade-exp": "Nhận những kinh nghiệm giao dịch quý báu",
-	"tment-begins-in": "Cuộc thi bắt đầu trong",
-	"tment-ends-in": "Cuộc thi kết thúc trong",
-	"tment-has-ended": "Cuộc thi đã kết thúc",
-	"tment-just-ended": "\"{{@name}}\" vừa kết thúc",
-	"tment-just-started": "\"{{@name}}\" vừa bắt đầu",
-	"tment-just-created": "\"{{@name}}\" vừa tạo",
-	"read-more": "Đọc thêm",
-	"history-is-empty": "Bạn không có ưu đãi hết hạn nào",
-	"tournaments-current-is-empty": "Hiện tại không có cuộc thi nào đang diễn ra. Hãy theo dõi bảng tin của chúng tôi và chờ nhận bản tin email.",
-	"tournaments-future-is-empty": "Không có cuộc thi nào được lên lịch trong tương lai. Hãy theo dõi bảng tin của chúng tôi.",
-	"tournaments@current-empty": "Hiện tại không có giải đấu nào đang diễn ra. Nhưng chúng sẽ sớm được ra mắt. <br><br>Hãy xem thẻ \"Sắp có\" trong menu bên trên và chú ý đến các tin tức và email của nền tảng chúng tôi.",
-	"tournaments-ended-is-empty": "Không có cuộc thi đã kết thúc nào",
-	"upper-indicator-line": "Đường kẻ chỉ báo trên",
-	"lower-indicator-line": "Đường kẻ chỉ báo dưới",
-	"stoch-overbuy-value": "Mua vượt mức",
-	"stoch-overbuy-line-width": "Chiều rộng mua vượt mức",
-	"stoch-overbuy-line-color": "Màu mua vượt mức",
-	"stoch-oversell-value": "Bán vượt mức",
-	"stoch-oversell-line-width": "Chiều rộng bán vượt mức",
-	"stoch-oversell-line-color": "Màu bán vượt mức",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "Giá trị này không hợp lệ",
-	"889954f14a3839c141bd8d5102094fbb": "Giá trị này đã được sử dụng",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "Giá trị này không phải là một địa chỉ email hợp lệ",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "Giá trị này không phải là một địa chỉ email hợp lệ",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "Giá trị này không phải là một địa chỉ email hợp lệ",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "Trường này là bắt buộc.",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "Giá trị này quá ngắn. Nó nên chứa {{@min}} ký tự hoặc nhiều hơn.",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "Giá trị này quá dài. Nó nên chứa {{@limit}} ký tự hoặc ít hơn.",
-	"478618a7-95ba-473d-9101-cabd45e49115": "Giá trị này nên bằng {{@compared_value}}.",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "Tên người dùng hoặc mật khẩu không chính xác",
-	"3e5af93fb888b4aa77301a7603e113d5": "Mật khẩu không chính xác",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "Giá trị này nên là {{@limit}} hoặc nhỏ hơn",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "Giá trị này nên là {{@limit}} hoặc cao hơn",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "Giá trị này không được trống.",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "Giá trị bạn chọn không phải là một lựa chọn hợp lệ.",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "Yếu tố cần thiết không hợp lệ {{@name}}",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "Yếu tố cần thiết {{@name}} cần được đặt",
-	"661d3bc6c153e42a3658855010678cbd": "Không rõ yếu tố cần thiết {{@names}}",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "Bạn không được phép thay đổi trạng thái của yêu cầu đã xử lý",
-	"2d2ba82dd886ba3b69da804675842ff5": "Phương thức thanh toán xấu",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "Thời gian hết hạn không hợp lệ",
-	"f029308ab5f1672de0b7615c4fa33386": "Tài sản hiện đang bị đóng",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "Tài sản hiện đang bị đóng",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "Bạn đã vượt quá giới hạn tiền giao dịch sẵn có",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "Không đủ tiền",
-	"f3a5b44d01097d966072b90187a16ec6": "Người dùng không tồn tại",
-	"296ea5496bee3177c83ac27a1dc5bb10": "Số dư cuộc thi phải nhỏ hơn số dư bắt đầu",
-	"fc53df7c4944ebb53e8b3713126ae226": "Số giao dịch mở tối đa là {{@limit}}",
-	"0f8e85ca21aa2e33752728cf5e843e35": "Bạn đã vượt quá giới hạn tiền giao dịch sẵn có",
-	"cbce1334c90e82f44381abe99b98fe5c": "Đã vượt quá tổng số tùy chọn giới hạn mở",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Biệt danh này đã có người sử dụng. Vui lòng chọn một biệt danh khác.",
-	"promo-ends-in": "Thưởng sẽ kết thúc trong",
-	"your-promocode": "Mã quảng bá của bạn",
-	"from-value-to-value": "Từ {{@fromValue}} — đến {{@toValue}}",
-	"deposit-sum": "Nộp tiền",
-	"bonus-sum": "Thưởng",
-	"promos-rules": "Quy tắc thưởng",
-	"promos-rules-2": "Quy tắc thưởng",
-	"participate-promo": "Tham gia trong chương trình thưởng",
-	"promo-has-ended": "Thưởng đã kết thúc",
-	"no-promos-description": "Không có mô tả thưởng",
-	"promos-is-empty": "Hiện tại không có chương trình quảng bá nào. Hãy theo dõi các tin tức mới nhất của chúng tôi và chờ đón các email trong tương lai.",
-	"first-launch-disclaimer-content": "Hãy chú ý! Chỉ cần Một Nhấp Chuột để mở một giao dịch. Không cần xác nhận.",
-	"accept": "Chấp nhận",
-	"trading-session-closed": "Phiên giao dịch đã đóng",
-	"special-offer": "Ưu đãi đặc biệt",
-	"continue": "Tiếp tục",
-	"seconds": "Giây",
-	"trading-sess-starts-in": "Phiên giao dịch bắt đầu trong",
-	"trading-session-closed-info-0": "Chú ý!",
-	"trading-session-closed-info-1": "Thị trường chứng khoán đóng cửa vào cuối tuần.",
-	"trading-session-closed-info-2": "Bạn có thể giao dịch trên nền tảng của chúng tôi từ 03:00 Thứ Hai đến 00:00 Thứ Sáu.",
-	"trading-session-closed-info-3": "Dữ liệu thị trường được cung cấp bởi Thompson Reuters.",
-	"asset": "Tài sản",
-	"additional-info": "Thông tin Bổ sung",
-	"fill-profile-to-continue": "Để tiếp tục làm việc trên nền tảng, hãy cung cấp thêm thông tin",
-	"fill-username-heading": "Kính gửi nhà giao dịch,",
-	"fill-username-text": "Để tham gia vào giải đấu, hãy nhập biệt danh sẽ đại diện cho bạn trong danh sách những người tham gia giải đấu. Bạn có thể thay đổi mục này bất cứ lúc nào trong cài đặt hồ sơ của mình.",
-	"fill-username-placeholder": "Vui lòng nhập biệt danh của bạn",
-	"save-and-continue": "Lưu và tiếp tục",
-	"profile-name": "Tên",
-	"profile-surname": "Họ",
-	"profile-telephone": "Điện thoại",
-	"start-trading": "Bắt đầu giao dịch",
-	"personal-data-safety": "Sự an toàn của dữ liệu cá nhân được đảm bảo",
-	"bonus": "Thưởng",
-	"new-bonus": "vào tài khoản",
-	"received-bonus": "Cùng với khoản tiền nộp đã chọn, bạn sẽ nhận được",
-	"received-bonus-value": "tiền thưởng là: {{@bonus}}",
-	"mobile-received-bonus-value": "+ {{@bonus}} thưởng",
-	"expires-in": "Hết hạn trong",
-	"cannot-buy-option-try-later": "Không thể mở giao dịch này, vui lòng thử lại sau.",
-	"notifications$demo-option-limit": "Bạn muốn mở nhiều hơn 5 giao dịch cùng lúc? Hãy mở một tài khoản thật. Để tiếp tục sử dụng tài khoản demo của bạn, hãy chờ đến khi giao dịch hoàn tất",
-	"max-total-bet-limit-exceeded": "Bạn đã vượt quá số tiền giao dịch được cho phép.\n Số tiền giao dịch được cho phép là {{@maxBet}}",
-	"chart-opens-in": "Tài sản sẽ khả dụng trong:",
-	"hint-activate-tment-wallet": "Nhấn vào đây để bắt đầu sử dụng tài khoản cuộc thi",
-	"largest-profit-banner-on-the-asset": "trên tài sản",
-	"largest-profit-banner-button-trade-caption": "Giao dịch",
-	"largest-profit-banner-button-trade-caption-2": "Giao dịch ngay",
-	"largest-profit-banner-text": "Thời điểm tốt nhất để giao dịch một tài sản",
-	"largest-profit-banner-text-2": "Bây giờ là một thời điểm tuyệt vời để giao dịch",
-	"largest-profit-height-profit": "Tăng lợi nhuận",
-	"largest-profit-height-profit-2": "Lợi nhuận cao, lên đến",
-	"offer-expires-in": "Ưu đãi hết hạn trong:",
-	"offer-expires-in-2": "Ưu đãi hết hạn trong:",
-	"warning": "Cảnh báo",
-	"banner-tech-works-info-caption": "Cập nhật kỹ thuật",
-	"banner-tech-works-info-content": "Chúng tôi luôn làm việc để cải thiện nền tảng giao dịch của mình.\n Tại thời điểm hiện tại, nền tảng đang được cập nhật.\n Chúng tôi xin lỗi vì mọi sự bất tiện.",
-	"confirm-email-content": "Vui lòng xác nhận địa chỉ email của bạn. Nhấn nút dưới đây để gửi lại một email với liên kết xác nhận.",
-	"confirm-email-caption": "Kích hoạt lại tài khoản",
-	"reload": "Tải lại",
-	"resend-confirmation": "Gửi lại",
-	"resend-confirmation-again": "Thử lại",
-	"confirmation-mail-sent": "Gửi đi",
-	"banner-not-enough-funds-for-tment": "Bạn không có đủ tiền trong tài khoản của mình. Hãy nộp tiền vào tài khoản để tham gia vào cuộc thi.",
-	"tment-reenter-not-allowed": "Bạn không thể mua thêm khi còn có các giao dịch mở.",
-	"fill-profile-wrong-phone": "Số điện thoại không hợp lệ",
-	"fill-profile-wrong-name": "Tên không hợp lệ",
-	"fill-profile-wrong-surname": "Họ không hợp lệ",
-	"fill-user-wrong-promocode": "Mã quảng bá không hợp lệ",
-	"wrong-promocode-max-sum": "Số tiền tối đa để kích hoạt mã quảng bá {{@sum}}",
-	"wrong-promocode-min-sum": "Số tiền tối thiểu để kích hoạt mã quảng bá {{@sum}}",
-	"wrong-withdrawal-min-sum": "Số tiền tối thiểu {{@sum}}",
-	"wrong-withdrawal-max-sum": "Số tiền rút tối đa {{@sum}}",
-	"wrong-promocode-expired": "Đã hết hạn",
-	"wrong-promocode-only-for-second-deposit": "Chỉ dành cho các lần nộp tiền thứ hai và sau đó",
-	"wrong-promocode-only-for-first-deposit": "Chỉ dành cho lần nộp tiền đầu tiên",
-	"wrong-promocode-used": "Mã quảng bá này đã được quy đổi",
-	"fill-user-wrong-phone": "Số điện thoại không hợp lệ",
-	"fill-user-wrong-card": "Số thẻ không hợp lệ",
-	"fill-user-wrong-customer_purse": "Số tài khoản không hợp lệ",
-	"fill-user-wrong-name": "Tên không hợp lệ",
-	"fill-user-wrong-surname": "Họ không hợp lệ",
-	"please-rotate-device": "Lật thiết bị ngược lại để bạn có thể dễ dàng sử dụng bảng điều khiển.",
-	"swipe-up-to-enter-fs": "Vuốt lên để vào chế độ toàn màn hình",
-	"click-to-enter-fs": "Chạm vào bất cứ đâu trên màn hình để chuyển sang chế độ toàn màn hình",
-	"reconnect": "Kết nối lại",
-	"reconnected": "Đã kết nối lại!",
-	"free-reg": "Đăng ký miễn phí",
-	"investments": "giao dịch",
-	"investments_short": "đầu tư.",
-	"investment_short": "đầu tư.",
-	"buy-time": "Thời gian mua",
-	"total-investment": "Tổng đầu tư",
-	"total-income": "Tổng thanh toán",
-	"result": "Kết quả",
-	"ur-income-would-be": "Lợi nhuận của bạn",
-	"create-account-for-free": "Tạo tài khoản miễn phí",
-	"resume-use-demo": "Tiếp tục chế độ demo",
-	"reg-request-message": "Nếu bạn giao dịch trên website chúng tôi, bạn có thể đã kiếm được {{@income}} đến thời điểm hiện tại. Đừng mất thời gian nữa, hãy bắt đầu giao dịch!",
-	"trade-without-restrictions": "Giao dịch không hạn chế",
-	"trade-without-restrictions-message": "Nếu bạn muốn mở nhiều hơn 5 giao dịch cùng lúc, hãy mở một tài khoản giao dịch thực và giao dịch không giới hạn. Để tiếp tục sử dụng tài khoản demo, hãy chờ các giao dịch hiện tại của bạn hết hạn.",
-	"use-real-wallet": "Tài khoản thật",
-	"support": "Hỗ trợ",
-	"search-asset": "Tìm kiếm tài sản",
-	"error-sending-email-confirmation": "Có lỗi xảy ra khi gửi email. Vui lòng thử lại sau.",
-	"error-sending-email-confirmation-with-time": "Một e-mail mới có thể được gửi đến bạn trong {{@time}} phút. Để kích hoạt tài khoản của bạn, hãy kiểm tra email hoặc liên hệ với dịch vụ hỗ trợ của chúng tôi.",
-	"risk-free-trades": "Giao dịch không rủi ro",
-	"count-trades-for-bet": "{{@count}} giao dịch cho {{@sum}}",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "Trắng",
-	"Red": "Đỏ",
-	"Pink": "Hồng",
-	"Purple": "Tím",
-	"Deep Purple": "Tím sẫm",
-	"Indigo": "Chàm",
-	"Blue": "Xanh dương",
-	"Cyan": "Lục lam",
-	"Green": "Xanh lục",
-	"Light Green": "Xanh lá cây",
-	"Lime": "Chanh",
-	"Yellow": "Vàng",
-	"Amber": "Hổ phách",
-	"Orange": "Cam",
-	"tournament-accounts": "Tài khoản cuộc thi",
-	"activate-tournament-wallet": "Kích hoạt ví cuộc thi",
-	"deposit-using-agreements-header": "Mục thưởng",
-	"deposit-using-agreements-p1": "Thưởng là khoản tiền bổ sung được công ty cung cấp để tăng tiềm năng giao dịch của nhà giao dịch.",
-	"deposit-using-agreements-p2": "Khi nộp tiền, một khoản tiền thưởng nhất định có thể được ghi có vào tài khoản của bạn, độ lớn khoản thưởng này tùy thuộc vào độ lớn khoản tiền nộp của bạn.",
-	"deposit-using-agreements-p3": "Thưởng không giới hạn số tiền mà bạn có thể rút: bạn có thể rút lợi nhuận cùng với số tiền nộp của mình bất cứ lúc nào. Xin lưu ý rằng khi rút tiền, mọi khoản tiền thưởng chưa nhận sẽ được gán trạng thái không hoạt động và bị trừ khỏi tài khoản của bạn.",
-	"choose-payment-method": "Chọn một phương thức nộp tiền",
-	"choose-payment-sum": "Chọn số tiền nộp",
-	"plus-value-bonus": "+ {{@value}} thưởng",
-	"deposit-user-sum-value-caption": "Bạn muốn chọn số tiền cụ thể? Hãy dùng trường nhập liệu",
-	"i-have-promocode": "Tôi có một mã quảng bá",
-	"requisiste-name-phone": "Điện thoại",
-	"no-bonus": "không có thưởng",
-	"refresh": "Làm mới",
-	"browser": "Trình duyệt",
-	"make-a-deposit": "Nộp tiền",
-	"cashbox-withdrawal-info-0-header": "Làm thế nào để rút tiền khỏi tài khoản của tôi?",
-	"cashbox-withdrawal-info-0-content": "Các tùy chọn sẵn có là: thẻ ngân hàng, ví điện tử Qiwi/Yandex Money/WebMoney. Chủ sở hữu của các tài khoản micro chỉ có thể có một đơn rút tiền đang hoạt động.",
-	"cashbox-withdrawal-info-1-header": "Số tiền tối thiểu có thể được rút ra từ tài khoản?",
-	"cashbox-withdrawal-info-1-content": "Số tiền rút tối thiểu — ₽300 hoặc $5 hoặc €5 hoặc A$5 hoặc ₴150. Số tiền rút tối đa cho một giao dịch — ₽15.000 hoặc $200 hoặc €200 hoặc A$200 hoặc ₴6.000.",
-	"cashbox-withdrawal-info-2-header": "Làm thế nào tôi có thể rút một số tiền lớn hơn ₽15.000 hoặc $200 hoặc €200 hoặc A$200, hoặc ₴6.000?",
-	"cashbox-withdrawal-info-2-content": "Hạn chế này đã được thiết lập để ngăn chặn việc rút tiền nhanh. Số tiền vượt quá giới hạn đã quy định chỉ có thể được rút trong một khoảng thời gian lâu hơn. Nếu bạn cần rút số tiền lớn hơn, bạn có thể chia tiền của mình thành các khoản $200 hoặc €200 hoặc A$200, hoặc ₽15.000 hoặc ₴6.000. Bạn không bị giới hạn nào về số yêu cầu rút tiền có thể thực hiện. Nếu bạn muốn rút nhiều tiền hơn trong một lần thanh toán, hãy liên hệ với nhóm hỗ trợ nền tảng. Nếu tài khoản của bạn không được xác minh, có thể sẽ cần đến 3 ngày làm việc để xử lý yêu cầu rút tiền của bạn. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày.",
-	"cashbox-withdrawal-info-3-header": "Quy trình rút tiền nhanh như thế nào?",
-	"cashbox-withdrawal-info-3-content-a": "Cần một giờ để xử lý một yêu cầu, giả sử rằng yêu cầu này được gửi đi trong giờ làm việc của bộ phận tài chính của nền tảng và tài khoản của bạn đã được xác minh theo các yêu cầu của nền tảng. ",
-	"cashbox-withdrawal-info-3-content-b": "Giờ làm việc của bộ phận tài chính là Thứ 2 đến Thứ 6, 10:00 sáng đến 10:00 tối (GMT +2). Nếu bạn gửi đi một yêu cầu rút tiền ngoài giờ làm việc của bộ phận tài chính hoặc vào ngày lễ, yêu cầu của bạn sẽ được xử lý vào đầu ngày làm việc tiếp theo. Nếu tài khoản của bạn chưa được xác minh, yêu cầu rút tiền của bạn sẽ được xử lý trong vòng 3 ngày làm việc. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày.",
-	"cashbox-withdrawal-info-4-header": "Chính sách rút tiền",
-	"cashbox-withdrawal-info-4-content-a": "Khác hàng phải ghi đủ dữ liệu được yêu cầu trong phần \"Cài đặt Hồ sơ\" để đảm bảo yêu cầu của họ được xử lý kịp thời. Nếu chúng tôi xác nhận rằng dữ liệu không chính xác hoặc không đầy đủ đã được nhập, yêu cầu rút tiền của bạn có thể bị từ chối hoặc chậm xử lý.",
-	"cashbox-withdrawal-info-4-content-b": "Tiền được rút đến tài khoản ngân hàng (hoặc cùng hệ thống thanh toán) đã được sử dụng để nộp tiền vào tài khoản của bạn. Nếu không thể hoàn tất giao dịch, bạn nên liên hệ với dịch vụ hỗ trợ bằng cách bắt đầu một cuộc trò chuyện trực tiếp hoặc gửi một yêu cầu hỗ trợ đến support@binarium.com.",
-	"cashbox-withdrawal-info-5-header": "Tôi có cần cung cấp tài liệu khi rút tiền? Nếu có thì là gì?",
-	"cashbox-withdrawal-info-5-content-a": "Vui lòng cung cấp tất cả dữ liệu cá nhân của bạn trong phần \"Cài đặt Hồ sơ\" để đảm bảo rút tiền nhanh chóng. Nếu bạn sử dụng nhiều thẻ ngân hàng hoặc chi tiết thanh toán không khớp với chi tiết bạn đã cung cấp trong quá trình đăng ký, bạn sẽ cần trải qua quy trình xác thực đầy đủ và chứng minh rằng thẻ này thật sự thuộc về bạn. Tiền không thể được rút đến các tài khoản của bên thứ 3. ",
-	"cashbox-withdrawal-info-5-content-b": "Để hoàn tất quy trình xác minh, hãy gửi một bản scan hộ chiếu và mặt trước của thẻ ngân hàng đến support@binarium.com, hiển thị rõ họ và tên của chủ sở hữu. Nếu bạn không sở hữu một thẻ có dập nổi, bạn phải gửi một bản scan sao kê ngân hàng, có hiển thị giao dịch từ thẻ này đến tài khoản Binarium của bạn ngoài bản sao hộ chiếu. Công ty bảo lưu quyền yêu cầu tài liệu bổ sung nếu chủ thẻ và dữ liệu tài khoản giao dịch không khớp với nhau.",
-	"cashbox-withdrawal-info-6-header": "Điều kiện để rút tiền thưởng là gì?",
-	"cashbox-withdrawal-info-6-content-a": "Tiền thưởng không thể được rút ngay sau khi được tích lũy. Nhà môi giới ghi có khoản tiền này vào tài khoản của bạn dưới dạng tiền thưởng để tăng cơ hội giao dịch của bạn. Tiền lãi mà bạn kiếm được trên số tiền thưởng cũng là tiền thưởng, và chỉ có thể được rút sau khi mức doanh thu giao dịch cần thiết đã đạt được. Để rút tiền thưởng, bạn cần đạt doanh thu x40 số tiền thưởng cho tài khoản. Nếu bạn được thưởng mà không cần tiền nộp, thì đòn bẩy sẽ được tăng lên 50, có nghĩa là mức doanh thu trên tài khoản phải bằng tiền thưởng x50 và số tiền rút tối đa không thể vượt quá số tiền thưởng không cần tiền nộp này. Giải thưởng tiền mặt từ các cuộc thi miễn phí của công ty là tiền thưởng và chỉ có thể rút sau khi đạt doanh thu x40.",
-	"cashbox-withdrawal-info-6-content-b": "Ví dụ. Khi bạn nộp tiền, bạn đã tích lũy $150 tiền thưởng. Theo quy định, bạn cần đạt tổng giá trị của tùy chọn đã mua là 30 x 150 = $4500. Sau khi đạt được giá trị này, bạn có thể rút tiền thưởng. Trong trường hợp này, cả các giao dịch có lợi nhuận và không có lợi nhuận đều được tính đến. Các giao dịch bị chấm dứt sớm không được bao gồm trong doanh thu. Không có giới hạn nào về việc rút lợi nhuận.",
-	"cashbox-withdrawal-info-6-content-c": "Nếu bạn rút một phần của tiền nộp, thì khoản thưởng sẽ tự động bị khấu trừ từ tài khoản của bạn.",
-	"cashbox-withdrawal-info-6-content-d": "Nếu bạn có bất kỳ thắc mắc nào, hãy liên hệ với bộ phận hỗ trợ của Binarium.",
-	"cashbox-withdrawal-info-7-header": "Tôi không thể tạo một yêu cầu rút tiền cho tài khoản của mình. Có vấn đề gì vậy?",
-	"cashbox-withdrawal-info-7-content": "Đầu tiên, hãy kiểm tra liệu tất cả thông tin cá nhân của bạn đã được liệt kê trên trang hồ sơ trong phần \"Hồ sơ\" hay không. Một lần nữa, hãy đảm bảo bạn đã nhập đúng tất cả thông tin khi gửi yêu cầu. Các ký tự đặc biệt như +, -, /, v.v. đều không hợp lệ. Nếu tất cả thông tin được điền là đúng, nhưng vấn đề vẫn tiếp diễn, hãy liên hệ với bộ phận hỗ trợ khách hàng qua trò chuyện trực tuyến hoặc theo địa chỉ email support@binarium.com.",
-	"deposit-info-1": "Thưởng là khoản tiền bổ sung được công ty cung cấp để tăng tiềm năng giao dịch của nhà giao dịch",
-	"deposit-info-2": "Khi nộp tiền, một khoản tiền thưởng nhất định có thể được ghi có vào tài khoản của bạn, độ lớn khoản thưởng này tùy thuộc vào độ lớn khoản tiền nộp của bạn.",
-	"deposit-info-3": "Thưởng không giới hạn số tiền mà bạn có thể rút: bạn có thể rút lợi nhuận cũng như số tiền nộp của mình bất cứ lúc nào. Xin lưu ý rằng khi rút tiền, mọi khoản tiền thưởng chưa được sử dụng trong các giao dịch với doanh thu x40 đều sẽ bị gán trạng thái không hoạt động và bị trừ khỏi tài khoản của bạn.",
-	"withdrawal-heading": "Yêu cầu của bạn sẽ được xử lý trong vòng 24 giờ kể từ khi bạn gửi nó đi.",
-	"withdrawal-content": "Nếu đơn đăng ký được gửi đi ngoài giờ làm việc của bộ phận tài chính của công ty, nó sẽ được xử lý vào ngày làm việc tiếp theo.",
-	"withdrawal-restricted-content": "Đã vượt quá giới hạn rút tiền cho <span class=\"open-act-button\">loại tài khoản</span> của bạn",
-	"withdrawal-amount-caption": "Số tiền thanh toán",
-	"withdrawal-type-caption": "Phương thức rút tiền",
-	"withdrawal-button-caption": "Rút tiền",
-	"requisite-name-card": "Số thẻ",
-	"requisite-name-phone": "Điện thoại",
-	"requisite-name-customer_purse": "Ví khách hàng",
-	"withdrawal-request-sent": "Yêu cầu đã được đặt trong hàng đợi",
-	"withdrawal-request-sent-extra-info": "Bạn có thể theo dõi trạng thái yêu cầu trong phần “Lịch sử Giao dịch”.",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "Visa/Mastercard",
-	"videohub": "Giáo dục",
-	"asset-type-all": "Tất cả",
-	"asset-type-currency": "Tiền tệ",
-	"asset-type-crypto": "Tiền điện tử",
-	"asset-type-goods": "Hàng hóa",
-	"asset-type-countries": "Quốc gia",
-	"asset-type-leaders": "Người dẫn đầu",
-	"cashbox-withdrawal-info": "Sẽ cần một chút thời gian để xử lý yêu cầu. Thông thường có thể cần đến 24 giờ để bộ phận tài chính xem xét các yêu cầu trong giờ làm việc. Chúng tôi xin thông báo rằng chúng tôi không đóng băng số dư của bạn trong khi bạn chờ yêu cầu rút tiền được phê duyệt. Bằng cách này, bạn có thể tiếp tục giao dịch.",
-	"expiration-caption-16": "Trong 24 giờ",
-	"trends": "Xu hướng",
-	"show-chart": "Hiển thị biểu đồ",
-	"hide-chart": "Ẩn biểu đồ",
-	"trend-active": "Hoạt động",
-	"trend-non-active": "Tất cả",
-	"trends-is-empty": "Xu hướng đang được cập nhật",
-	"what-are-trends": "Xu hướng là gì?",
-	"what-are-trends-advice-content": "Xu hướng là một công cụ giao dịch đặc biệt cho phép bạn nhanh chóng tìm được một tài sản có tiềm năng thu lợi (với hướng giá nổi bật) để mở một giao dịch theo chiều xu hướng.",
-	"not-enough-money-for-trends-detailed": "Một công cụ giao dịch độc đáo từ Binarium có thể được sử dụng bởi các khách hàng có số dư thực lớn hơn {{@balance}}. Các cơ hội đáng chú ý:",
-	"get-access-to-trends": "Truy cập các xu hướng",
-	"trends-features-one": "Theo dõi tất cả xu hướng tài sản trên thị trường",
-	"trends-features-two": "Mở nhanh các giao dịch theo xu hướng khi nó xuất hiện",
-	"month-0": "T1",
-	"month-1": "T2",
-	"month-2": "T3",
-	"month-3": "T4",
-	"month-4": "T5",
-	"month-5": "T6",
-	"month-6": "T7",
-	"month-7": "T8",
-	"month-8": "T9",
-	"month-9": "T10",
-	"month-10": "T11",
-	"month-11": "T12",
-	"day-0": "Thứ 2",
-	"day-1": "Thứ 3",
-	"day-2": "Thứ 4",
-	"day-3": "Thứ 5",
-	"day-4": "Thứ 6",
-	"day-5": "Thứ 7",
-	"day-6": "CN",
-	"trading-room": "Phòng giao dịch",
-	"trading-room-entering-time": "Thời gian vào",
-	"trading-room-expiration": "Hết hạn",
-	"trading-room-strength": "Độ bảo mật",
-	"trading-room-strike-price": "Giá đánh",
-	"trading-room-is-empty": "Không có tín hiệu. Vui lòng kiểm tra Phòng Giao dịch một lần nữa.",
-	"demo-stats-banner-header-caption": "Tuyệt vời!",
-	"demo-stats-banner-header-caption-2": "Chúc mừng!",
-	"demo-stats-banner-you-earned-on-demo": "Bạn đã lãi trên tài khoản demo.",
-	"demo-stats-banner-total-deals-amount": "Tổng giao dịch",
-	"demo-stats-banner-successfull-deals-percentage": "Phần trăm giao dịch thành công",
-	"demo-stats-banner-real-account-opening-request": "Mở một tài khoản tiền thật để rút lợi nhuận của bạn",
-	"demo-stats-banner-open-real-account-button-caption": "Mở một tài khoản thật",
-	"demo-stats-banner-keep-trading-on-demo": "Ở lại tài khoản demo",
-	"demo-stats-banner-you-have-done": "Bạn đã đặt",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "giao dịch liên tiếp",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "giao dịch sinh lời liên tiếp",
-	"demo-stats-banner-earning-on-demo-account": "lợi nhuận trong tài khoản demo của bạn",
-	"demo-stats-banner-closed-in-a-row-2": "các giao dịch sinh lời",
-	"tour-next-button-caption": "Tiếp tục",
-	"tour-reading-duration-caption": "Đọc 4 phút.",
-	"tour-slides-steps-count": "Bước {{@currentSlide}} / {{@totalSlidesCount}}",
-	"tour-slide-0-caption": "Chào mừng bạn đến với nền tảng giao dịch Binarium",
-	"tour-slide-0-content": "Bài thuyết trình ngắn này sẽ giới thiệu bạn với những nguyên tắc giao dịch cơ bản và giao diện của nền tảng Binarium.",
-	"tour-slide-0-content-1": "Đọc tất cả các trang để biết cách giao dịch hiệu quả hơn trên nền tảng này.",
-	"tour-slide-0-content-2": "Bài thuyết trình ngắn này sẽ giới thiệu bạn với những nguyên tắc giao dịch cơ bản và giao diện của nền tảng Binarium.",
-	"tour-slide-0-content-3": "Menu chính là ở bên trái. Ví dụ, bạn có thể nạp tiền vào tài khoản trong phần <span class=\"bold\">Ngân hàng</span>. Và bạn có thể mở giao dịch thông qua các nhà giao dịch giỏi nhất trên nền tảng trong phần <span class=\"bold\">Phòng giao dịch</span>!",
-	"tour-slide-0-content-3-port": "Menu chính là ở phía trên bên trái. Ví dụ, bạn có thể nạp tiền trong phần <span class=\"bold\">Ngân hàng</span>. Và bạn có thể thực hiện giao dịch với sự trợ giúp từ các nhà giao dịch giỏi nhất trên nền tảng trong phần <span class=\"bold\">Phòng giao dịch</span>!",
-	"tour-slide-0-extra-info": "Đọc tất cả các trang để biết cách giao dịch hiệu quả hơn trên nền tảng này.",
-	"tour-slide-1-caption": "Làm thế nào để kiếm tiền trên nền tảng?",
-	"tour-slide-1-content": "<span class=\"bold\">Nền tảng giao dịch này cho phép bạn đặt giao dịch</span> bằng cách thực hiện các khoản đầu tư ngắn hạn vào tài sản tài chính: cặp tiền tệ forex, tiền điện tử, hàng hóa và các công cụ tài chính khác.",
-	"tour-slide-2-caption": "Nguyên tắc cơ bản đằng sau việc thực hiện giao dịch?",
-	"tour-slide-2-content-a": "<span class=\"bold\">Giao dịch là một dự đoán về sự thay đổi giá của một tài sản tài chính</span> trong một khoảng thời gian cụ thể. Các nhà đầu tư có thể thực hiện giao dịch <span class=\"green\">mua khống</span> hoặc <span class=\"red\">bán không</span>.",
-	"tour-slide-2-content-b": "Nếu dự đoán của bạn là đúng, bạn sẽ nhận được tiền thu nhập. Nếu bạn sai, bạn sẽ mất toàn bộ tiền vốn đầu tư.",
-	"tour-slide-3-caption": "Làm thế nào để đặt giao dịch trên nền tảng Binarium?",
-	"tour-slide-3-content": "<span class=\"bold\">Chọn một tài sản</span> mà bạn muốn dự đoán xu hướng giá.",
-	"tour-slide-4-caption": "Làm thế nào để đặt giao dịch trên nền tảng Binarium?",
-	"tour-slide-4-content": "<span class=\"bold\">Chọn độ lớn của khoản đầu tư của bạn.</span>",
-	"tour-slide-5-caption": "Làm thế nào để đặt giao dịch trên nền tảng Binarium?",
-	"tour-slide-5-content": "<span class=\"bold\">Mở một giao dịch</span> sau khi bạn dự đoán rằng giá sẽ <span class=\"green\">tăng</span> hoặc <span class=\"red\">giảm</span>. Chờ đến khi giao dịch đóng.",
-	"tour-slide-6-caption": "Chúc may mắn trên nền tảng Binarium",
-	"tour-slide-6-additional-caption": "Nếu dự đoán của bạn là đúng, lợi nhuận sẽ tự động được ghi có vào tài khoản giao dịch của bạn.",
-	"tour-slide-6-a-trading-rules": "Điều kiện giao dịch",
-	"tour-slide-6-a-card-0-caption": "Lượng thu nhập bạn nhận được từ một dự đoán đúng:",
-	"tour-slide-6-a-card-0-content-1": "tối đa {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "lượng đầu tư bạn sẽ nhận được từ một dự đoán thành công.",
-	"tour-slide-6-a-card-1-caption": "số tiền nộp tối thiểu để giao dịch.",
-	"tour-slide-6-a-card-1-content": "từ {{@minWithdrawal}}",
-	"tour-slide-6-a-card-2-caption": "thời gian trung bình cần thiết để rút tiền:",
-	"tour-slide-6-a-card-2-content": "30 phút",
-	"tour-slide-6-a-card-3-caption": "Nộp tiền vào một tài khoản thật để bắt đầu giao dịch:",
-	"tour-slide-6-a-card-3-button-caption": "Nộp tiền và bắt đầu giao dịch",
-	"tour-slide-6-a-dont-show-again": "Bỏ qua video hướng dẫn về nền tảng",
-	"tour-slide-6-b-trading-rules": "Điều kiện giao dịch",
-	"tour-slide-6-b-card-0-caption": "Lượng thu nhập bạn nhận được từ một dự đoán đúng:",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">Lên đến 90%</span> khoản đầu tư của bạn.",
-	"tour-slide-6-b-card-1-caption": "số tiền nộp tối thiểu để giao dịch.",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "thời gian trung bình cần thiết để rút tiền.",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> phút",
-	"tour-slide-6-b-card-3-caption": "Học cách giao dịch an toàn với một tài khoản demo",
-	"tour-slide-6-b-card-3-button-caption": "Giao dịch với một tài khoản demo",
-	"tour-slide-6-b-dont-show-again": "Bỏ qua video hướng dẫn về nền tảng",
-	"user-terms-caption": "Giao dịch trong một nhấp chuột",
-	"what-is-trading-room": "Phòng giao dịch là gì?",
-	"what-is-trading-room-advice-content": "Phòng giao dịch là một công cụ tiện lợi cho phép bạn sao chép giao dịch của những nhà giao dịch giỏi nhất trên nền tảng chỉ trong một nhấp chuột. Bạn sẽ có thể tăng hiệu quả giao dịch của mình và tiết kiệm thời gian với công cụ này.",
-	"not-enough-money-for-trading-room-detailed": "Giao dịch và kiếm tiền với những nhà giao dịch giỏi nhất trên nền tảng Binarium sử dụng phòng giao dịch. Nạp số dư thật của bạn lên {{@minBalance}} để nhận những lợi ích sau:",
-	"get-access-to-trading-room": "Truy cập phòng giao dịch",
-	"have-access-to-trading-room": "Để vào “Phòng Giao dịch”, hãy liên hệ với người quản lý của bạn hoặc dịch vụ hỗ trợ.",
-	"trading-room-features-one": "Theo dõi các giao dịch của nhà giao dịch thành công nhất trên nền tảng",
-	"trading-room-features-two": "Sao chép các giao dịch và thu lợi nhuận",
-	"trading-room_1-title": "Giao dịch cùng nhau",
-	"trading-room_1-text": "Theo dõi các giao dịch của nhà giao dịch thành công nhất trên nền tảng.",
-	"trading-room_2-title": "Tận dụng kinh nghiệm thành công của những người khác",
-	"trading-room_2-text": "Sao chép hành vi của các nhà giao dịch khác và thu lợi nhuận!",
-	"trading-room_refill": "Để truy cập \"Phòng giao dịch\", hãy nạp số dư của bạn lên",
-	"account_level": "Cấp độ tài khoản",
-	"modal-confirm_title": "Xác nhận địa chỉ e-mail của bạn",
-	"modal-confirm_text-1": "Chúng tôi đã gửi cho bạn một email với liên kết xác nhận.",
-	"modal-confirm_text-2": "Bạn chưa nhận được email với liên kết xác nhận? Hãy kiểm tra mục \"Thư rác\" của bạn. Đôi khi các email bị rơi vào đó. Hoặc yêu cầu một email khác.",
-	"modal-confirm_button": "Gửi lại thư",
-	"modal-confirm_error-1-1": "Một e-mail mới có thể được gửi đến bạn trong {{@time}} phút. Để kích hoạt tài khoản của bạn, hãy kiểm tra email hoặc liên hệ với bộ phận hỗ trợ của chúng tôi hoặc",
-	"modal-confirm_error-1-2": "liên hệ với bộ phận hỗ trợ.",
-	"modal-confirm_support": "Liên hệ với hỗ trợ",
-	"timer_days": "ngày",
-	"timer_hours": "giờ",
-	"timer_minutes": "phút",
-	"timer_seconds": "giây",
-	"tournament_button": "Tham gia cuộc thi",
-	"modal-oneclick_title": "Giao dịch trong một nhấp chuột",
-	"modal-oneclick_text": "Xin lưu ý rằng bạn có thể mở giao dịch trên nền tảng chỉ với một nhấp chuột. Không cần xác nhận thêm.",
-	"modal-oneclick_button": "Chấp nhận và tiếp tục",
-	"modal-tbalance_title": "Nạp tiền vào tài khoản của bạn",
-	"modal-tbalance_text": "Bạn không có đủ tiền trong tài khoản. Vui lòng nạp tiền vào tài khoản của bạn để tham gia cuộc thi.",
-	"modal-tbalance_button": "Nộp tiền",
-	"modal-tech_title": "Chúng tôi sẽ sớm liên hệ với bạn!",
-	"modal-tech_text-1": "Chúng tôi đang liên tục cải thiện nền tảng giao dịch và sẽ sớm hoàn thành việc cập nhật. Chúng tôi xin lỗi vì mọi sự bất tiện.",
-	"modal-tech_text-2": "Thời gian còn lại cho đến khi hoàn thành công việc:",
-	"modal-tech_button": "Tiếp tục",
-	"modal-session_title": "Chú ý",
-	"modal-session_text-1": "Thị trường chứng khoán đóng cửa vào cuối tuần.",
-	"modal-session_text-2": "Nền tảng giao dịch có thể được truy cập",
-	"modal-session_text-3": "từ 3:00 sáng Thứ 2 đến 12:00 đêm Thứ 6.",
-	"modal-session_text-4": "Phiên giao dịch của bạn sẽ bắt đầu trong:",
-	"modal-session_button": "Tiếp tục",
-	"modal-tn_title": "Chào mừng bạn đến với",
-	"modal-tn_text-1": "Nhà giao dịch có số dư cao nhất vào cuối cuộc thi sẽ là người chiến thắng.",
-	"modal-tn_text-2": "Tài sản có sẵn:",
-	"modal-tn_text-3": "Các loại giao dịch có sẵn:",
-	"modal-tn_button": "Bắt đầu",
-	"modal-nickname_title": "Chọn một biệt danh",
-	"modal-nickname_text": "Để tham gia vào cuộc thi, hãy nhập biệt danh sẽ đại diện cho bạn trong danh sách những người tham gia cuộc thi. Bạn có thể thay đổi biệt danh này bất cứ lúc nào trong cài đặt hồ sơ của mình.",
-	"modal-nickname_button": "Lưu và tiếp tục",
-	"modal-nickname_placeholder": "Vui lòng nhập biệt danh của bạn",
-	"modal-profile_title": "Thông tin bổ sung",
-	"modal-profile_text": "Vui lòng cung cấp thêm thông tin để tiếp tục làm việc trên nền tảng.",
-	"modal-profile_name": "Tên",
-	"modal-profile_surname": "Họ",
-	"modal-profile_phone": "Số điện thoại (với mã quốc gia)",
-	"modal-profile_button": "Bắt đầu giao dịch",
-	"modal-profile_aside": "Dữ liệu cá nhân của bạn được đảm bảo an toàn.",
-	"form-error_required": "Trường này không thể được để trống",
-	"form-error_name-short": "Tên này quá ngắn.",
-	"form-error_name-format": "Chỉ được phép sử dụng chữ cái",
-	"form-error_surname-short": "Họ này quá ngắn.",
-	"form-error_surname-format": "Chỉ được phép sử dụng chữ cái",
-	"form-error_phone-format": "Số phải có định dạng quốc tế",
-	"srv-err_asset-is-disabled": "Tài sản bị vô hiệu",
-	"srv-err_asset-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
-	"srv-err_binary-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Tài sản bị vô hiệu cho cuộc thi này",
-	"tournament@btn.paid-participate": "Phí tham gia",
-	"tournament@info.paid": "Cuộc thi có tiền thưởng",
-	"faq@title": "Câu hỏi và trả lời",
-	"menu@faq": "FAQ",
-	"menu@education": "Giáo dục",
-	"menu@qa": "Câu hỏi và trả lời",
-	"menu@strategies": "Chiến lược",
-	"menu@btn$back": "Quay lại",
-	"cashbox@no-bonus": "Không nhận thưởng",
-	"wallet-menu@real-title": "Tiền thật",
-	"wallet-menu@bonus-title": "Tiền thưởng",
-	"wallet-menu@wager-title": "Doanh thu để rút tiền thưởng",
-	"wallet-menu@wager-link": "Đọc thêm về tiền thưởng",
-	"modal-bonus@title": "Bạn đang sử dụng tiền thưởng",
-	"modal-bonus@text": "Kích cỡ giao dịch vượt quá số tiền thật của bạn. Để mở giao dịch này, tiền thưởng của bạn sẽ được sử dụng:",
-	"modal-bonus@deal-size": "Kích cỡ giao dịch",
-	"modal-bonus@real-size": "Tiền thật",
-	"modal-bonus@bonus-size": "Tiền thưởng",
-	"modal-bonus@info": "Mọi khoản tiền được nhận vào giao dịch sẽ được ghi có vào tài khoản thưởng của bạn.",
-	"modal-bonus@faq": "Quy tắc sử dụng tiền thưởng",
-	"modal-bonus@btn-cancel": "Hủy",
-	"modal-bonus@btn-continue": "Chấp nhận và tiếp tục",
-	"modal-bonus@disable": "Không hiển thị lại thông báo này",
-	"trends@restrict-title": "Không có đủ tiền trong tài khoản của bạn",
-	"trends@restrict-text": "Để mở khóa phần Xu hướng, số dư tối thiểu cho tài khoản của bạn phải là",
-	"asset-menu@title": "Tài sản",
-	"asset-menu@available": "Tài sản có thể giao dịch",
-	"asset-menu@profitable": "Tài sản có lợi nhuận lớn hơn",
-	"asset-menu@interval": "phút",
-	"confirm-trade@header": "Xác nhận giao dịch",
-	"confirm-trade@timer": "Cửa sổ sẽ tự động đóng trong {{@data}} s",
-	"confirm-trade@heading": "Tuyệt vời! Bạn sắp xác nhận giao dịch. Hãy kiểm tra chi tiết dưới đây:",
-	"confirm-trade@asset": "Tài sản",
-	"confirm-trade@direction": "Hướng",
-	"confirm-trade@investment": "Đầu tư",
-	"confirm-trade@price": "Giá hiện tại",
-	"confirm-trade@profitability": "Lợi nhuận",
-	"confirm-trade@payout": "Thanh toán tiềm năng",
-	"confirm-trade@btn-cancel": "Hủy bỏ",
-	"confirm-trade@btn-confirm": "Xác nhận",
-	"plot@loading": "Đang tải",
-	"plot@lock-time": "Thời gian khóa",
-	"plot@expiration-time": "Thời gian hết hạn",
-	"tr-empty@text": "Bước vào thế giới giao dịch cùng các chuyên gia. Sao chép giao dịch của những nhà giao dịch thành công nhất trên nền tảng để kiếm được nhiều hơn nữa.",
-	"tr-empty@business": "Phòng giao dịch được mở cửa cho các nhà giao dịch có tài khoản Business hoặc cao hơn. 2 phiên giao dịch, mỗi phiên dài 4 tiếng vào các ngày thường. Khoảng 30 tín hiệu từ các nhà giao dịch chuyên nghiệp mỗi ngày. Đừng lãng phí thời gian tự học — các nhà giao dịch tài giỏi nhất của Binarium đã làm hết việc cho bạn rồi.",
-	"tr-empty@vip": "Các khách hàng VIP của chúng tôi có đặc quyền sử dụng phòng giao dịch, bao gồm các tín hiệu cá nhân và hợp tác với một nhà giao dịch chuyên nghiệp có thể trả lời mọi thắc mắc của bạn, giải thích các xu hướng thị trường hiện tại và đề xuất các lĩnh vực có tiềm năng cao nhất. Đây là cách tốt nhất để kiếm tiền qua giao dịch.",
-	"tr-empty@open-btn": "xem thêm thông tin • đăng nhập",
-	"tr-empty@deposit-btn": "vào thanh toán • đăng nhập",
-	"tr-empty@vip-signals": "+ tín hiệu đáng giá",
-	"hb@menu-btn": "Menu",
-	"ac-types@title": "Loại tài khoản",
-	"ac-types@label_depositSum": "Số tiền nộp",
-	"ac-types@label_tradeback": "Hoàn tiền giao dịch",
-	"ac-types@label_tradebackEnrolment": "Điểm hoàn tiền giao dịch",
-	"ac-types@label_assets": "Tài sản giao dịch",
-	"ac-types@label_withdrawalCountLimit": "Yêu cầu rút tiền mỗi ngày",
-	"ac-types@label_withdrawalAmountLimit": "Giới hạn rút tiền mỗi tháng",
-	"ac-types@label_withdrawalDayAmountLimit": "Giới hạn rút tiền mỗi ngày",
-	"ac-types@label_tradingRoom": "Phòng giao dịch",
-	"ac-types@label_openDealsSum": "Số giao dịch mở tối đa (cùng một lúc)",
-	"ac-types@value_real": "Tiền thật",
-	"ac-types@value_bonus": "Thưởng",
-	"ac-types@value_nolimit": "Không giới hạn",
-	"ac-types@btn": "tăng",
-	"ac-types@self": "Tài khoản của bạn",
-	"ac-types@tradeback-hint": "Hoàn tiền giao dịch—hoàn một phần tiền cho các giao dịch thua lỗ của nhà giao dịch. Ghi có mỗi thứ 3 lúc 12:00 (0:00 UTC)",
-	"video-tutorial@title": "Cách để bắt đầu giao dịch trên Binarium trong 90 giây",
-	"video-tutorial@checkbox": "Không hiển thị lại video này",
-	"user-menu@account-types": "Loại tài khoản",
-	"withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
-	"withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}.",
-	"promo-gift@bonus": "thưởng",
-	"promo-gift@freeSpins": "Giao dịch không rủi ro",
-	"promo-gift@tradeRoom": "phòng giao dịch",
-	"promo-gift@tickets": "vé",
-	"settings@quality-title": "Chất lượng đồ họa",
-	"settings@quality-hint": "Quản lý tải trên thiết bị của bạn bằng cách thay đổi cài đặt chất lượng đồ họa. Chất lượng tiêu chuẩn sẽ giúp tiết kiệm tài nguyên và tải nền tảng nhanh hơn, tuy nhiên chất lượng đồ họa sẽ bị suy giảm đôi chút.",
-	"settings@quality-option-base": "Cơ sở",
-	"settings@quality-option-average": "Trung bình",
-	"settings@quality-option-best": "Cao",
-	"history@group$active": "Các giao dịch đang diễn ra",
-	"history@group$finished": "Các giao dịch đã hoàn tất",
-	"st@level$all": "Tất cả",
-	"st@level$easy": "Đơn giản",
-	"st@level$base": "Cơ bản",
-	"st@level$advanced": "Cao cấp",
-	"promo@btn$details": "Đọc thêm",
-	"promo@timer$name": "Chương trình quảng bá kết thúc trong",
-	"promo@until": "đến",
-	"wallet@btn$refill": "Nạp tài khoản demo",
-	"tournament@prize-fund": "Quỹ giải thưởng",
-	"tournament@prize-places": "Hàng đầu",
-	"tournament@tab$restrictions": "Điều khoản và Điều kiện",
-	"tournament@tab$rating": "Xếp hạng người tham gia",
-	"tournament@tab$current": "Hiện tại",
-	"tournament@tab$soon": "Sắp có",
-	"tournament@timer$start": "Cuộc thi bắt đầu trong",
-	"tournament@timer$end": "Cuộc thi kết thúc trong",
-	"section@title$bet": "Giao dịch",
-	"bet@tab$deposit": "Nộp tiền",
-	"forecast@deal": "Giao dịch",
-	"forecast@deals": "Giao dịch",
-	"promo@days-short": "ng",
-	"settings@group$region": "Cài đặt vùng",
-	"settings@group$design": "Thiết kế",
-	"menu@account-type": "Loại tài khoản",
-	"menu@profile": "Hồ sơ người dùng",
-	"leaderboard@tournament": "Cuộc thi",
-	"leaderboard$toggle@open": "Tất cả xếp hạng",
-	"leaderboard$toggle@close": "Đóng",
-	"disabled-timer@title": "Mở cửa trong",
-	"open-option$total$deals": "đầu tư",
-	"open-option$total$invest": "Tổng đầu tư.",
-	"open-option$total$payout": "Tổng thanh toán",
-	"chat-button@text": "trợ giúp<br>trực tuyến",
-	"accounts@popular": "Lựa chọn phổ biến",
-	"settings@animation": "Hoạt họa điểm",
-	"settings@animation-disabled": "Tắt",
-	"settings@animation-enabled": "Bật"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","Người dùng Thân mến!"
+"error","Lỗi"
+"settings","Cài đặt"
+"settings-2","Cài đặt bảng điều khiển"
+"regionalSettings","Cài đặt vùng"
+"timezone","Múi giờ"
+"timezone-2","Múi giờ"
+"language","Ngôn ngữ"
+"skin-theme","Chủ đề"
+"ui-zoom","Thu phóng"
+"ui-zoom-2","Quy mô"
+"investment","Giao dịch"
+"payout","Thanh toán"
+"options","Tùy chọn"
+"quote","Báo giá"
+"time","Thời gian"
+"past","Đã đóng"
+"active","Đã mở"
+"value","Giá trị"
+"add","Thẻ mới"
+"add-new-chart","Bổ sung biểu đồ mới"
+"charts-arrangement","Lưới biểu đồ"
+"turbo-cap","1—5 phút"
+"count-chart","{{@count}} biểu đồ"
+"count-charts","{{@count}} biểu đồ"
+"one-chart","1 biểu đồ"
+"two-charts","2 biểu đồ"
+"three-charts","3 biểu đồ"
+"four-charts","4 biểu đồ"
+"refill","Nộp tiền"
+"wallets-types","Loại tài khoản"
+"history","Lịch sử"
+"cashbox","Ngân hàng"
+"education","Giáo dục"
+"education@category$videos","Educational <span>video</span>"
+"promos","Tiền thưởng"
+"trading-history","Lịch sử giao dịch"
+"section-under-construction","Phần này đang được xây dựng"
+"count-purchase","{{@count}} giao dịch"
+"count-purchases","{{@count}} #{trades@trade?count}"
+"total-payout","Tổng thanh toán"
+"cancel","Hủy bỏ"
+"apply","Áp dụng"
+"period","Thời gian"
+"stochastic-smoothing","Làm mượt"
+"stochastic-overbought","Quá mua"
+"stochastic-oversold","Quá bán"
+"fast-stochastic-period","Thời hạn đường nhanh"
+"slow-stochastic-period","Thời hạn đường chậm"
+"fast-stochastic-line-color","Màu đường nhanh"
+"slow-stochastic-line-color","Màu đường chậm"
+"fast-stochastic-line-thickness","Độ dày đường nhanh"
+"fast-macd-period","Thời gian đường nhanh"
+"slow-macd-period","Thời gian đường chậm"
+"signal-macd-period","Thời gian tín hiệu"
+"fast-macd-line-thickness","Độ dày đường nhanh"
+"signal_line_color","Màu đường tín hiệu"
+"oversold","Bán vượt mức"
+"macd_color","Màu"
+"line-thickness","Độ dày đường kẻ"
+"line-color","Màu đường kẻ"
+"line-offset","Dịch chuyển đường kẻ"
+"top-line-thickness","Độ dày đường kẻ trên cùng"
+"mid-line-thickness","Độ dày đường kẻ giữa"
+"slow_period","Thời gian chậm"
+"fast_period","Thời gian nhanh"
+"short_period","Thời gian ngắn"
+"long_period","Thời gian dài"
+"offset","Bù"
+"bottom-line-thickness","Độ dày đường kẻ dưới cùng"
+"bottom-line-period","Thời hạn đường kẻ dưới cùng"
+"top-line-color","Màu đường kẻ trên cùng"
+"top-line-period","Thời hạn đường kẻ trên cùng"
+"mid-line-color","Màu đường kẻ giữa"
+"mid-line-period","Thời hạn đường kẻ giữa"
+"bottom-line-color","Màu đường kẻ dưới cùng"
+"teeth-line-color","Màu đường kẻ răng"
+"jaws-line-color","Màu đường kẻ hàm"
+"lips-line-color","Màu đường kẻ môi"
+"jaws-period","Thời gian hàm"
+"jaws-offset","Bù hàm"
+"teeth-period","Thời gian răng"
+"teeth-offset","Bù răng"
+"lips-period","Thời gian môi"
+"lips-offset","Bù môi"
+"indice-lines-position","Vị thế đường chỉ báo"
+"major-line-thickness","Độ dày đường kẻ lớn"
+"top-signal-line-thickness","Độ dày đường kẻ tín hiệu trên cùng"
+"bottom-signal-line-thickness","Độ dày đường kẻ tín hiệu dưới cùng"
+"top-signal-line-color","Màu đường kẻ tín hiệu trên cùng"
+"bottom-signal-line-color","Màu đường kẻ tín hiệu dưới cùng"
+"fast-stoch-color","Màu ngẫu nhiên nhanh"
+"low-stoch-color","Màu ngẫu nhiên chậm"
+"low-stoch-period","Thời gian ngẫu nhiên chậm"
+"fast-stoch-line-thickness","Độ dày đường kẻ ngẫu nhiên nhanh"
+"low-stoch-line-thickness","Độ dày đường kẻ ngẫu nhiên chậm"
+"small-period","Dấu chấm nhỏ"
+"big-period","Dấu chấm lớn"
+"small-period-width","Độ dày của dấu chấm nhỏ"
+"big-period-width","Độ dày của dấu chấm lớn"
+"signal-period-width","Độ dày của dấu chấm tín hiệu"
+"bars-color","Màu thanh"
+"bars-color-maofmacd","Màu thanh MA của MACD"
+"smoothing-period","Làm mượt dấu chấm"
+"adx-minus-di-color","Màu -DI"
+"adx-plus-di-color","Màu +DI"
+"adx-line-color","Màu đường kẻ ADX"
+"sar-default-acceleration","Gia tốc mặc định"
+"acceleration-step","Bước gia tốc"
+"max-acceleration","Gia tốc tối đa"
+"chikou-line-thickness","Độ dày Chikou"
+"chikou_period","Đường Chikou"
+"tenkan_period","Đường Tenkan"
+"kijun_period","Đường Kijun"
+"senkou_a_period","Đường Senkou A"
+"senkou_b_period","Đường Senkou B"
+"color","Màu"
+"chart-type","Loại biểu đồ"
+"chart-type-curve","Đường cong"
+"chart-type-curve-area","Khu vực đường cong"
+"chart-type-candlesticks","Nến"
+"chart-type-bars","Thanh"
+"bet-sum","Tổng"
+"chart-controls-income-caption","Lợi nhuận"
+"expiration-time","Thời gian hết hạn"
+"wallet-refilling","Nộp tiền"
+"real-wallet","Thật"
+"demo-wallet","Tài khoản Demo"
+"can-deduce-profit","Bạn có thể rút lợi nhuận"
+"all-assets-available","Mọi loại tài sản đều sẵn có"
+"all-features-available","Sử dụng tất cả các tính năng của nền tảng"
+"get-bonuses-from-the-platform","Nhận thưởng từ công ty"
+"participate-tournaments","Tham gia cuộc thi"
+"can-switch-wallet-any-time","Bạn có thể chuyển đổi giữa các tài khoản bất cứ lúc nào."
+"cannot-deduce-profit","Bạn không thể rút lợi nhuận"
+"refill-wallet","Nộp tiền"
+"choose-wallet-type","Loại tài khoản"
+"demo-wallet+wallet","Tài khoản demo"
+"real-wallet+wallet","Tài khoản thật"
+"choose-bet","Giao dịch"
+"added-items","Đã bổ sung"
+"bollinger-lines","Bollinger Bands"
+"ichi-cloud","Đám mây Ichimoku"
+"alli-gator","Cá Sấu"
+"graphics-analysys-tools","Công cụ Phân tích"
+"new-items","Mới"
+"line-segment","Đoạn đường kẻ"
+"ray","Tia"
+"hori-line","Đường kẻ ngang"
+"vline","Đường dọc"
+"free-hand","Vẽ tự do"
+"crossroad","Điểm giao"
+"frame","Khung"
+"range","Phạm vi"
+"ellipse","E-líp"
+"fibonacci-lines","Đường Fibonacci"
+"andrews-fork","Cây đinh ba của Andrew"
+"graphic-tools","Công cụ đồ họa"
+"time-period","Khoảng thời gian"
+"count-second","{{@count}} giây"
+"count-seconds","{{@count}} giây"
+"count-minute","{{@count}} phút"
+"count-minutes","{{@count}} phút"
+"count-hour","{{@count}} giờ"
+"count-hours","{{@count}} giờ"
+"lock-time","Thời gian khóa"
+"user-profile","Hồ sơ người dùng"
+"user-profile-heading","Hồ sơ người dùng"
+"withdrawal","Rút tiền"
+"support-service","Hỗ trợ"
+"payment-history","Lịch sử thanh toán"
+"exit","Đăng xuất"
+"count-second-short","{{@count}} giây"
+"count-seconds-short","{{@count}} giây"
+"count-minute-short","{{@count}} phút"
+"count-minutes-short","{{@count}} phút"
+"count-hour-short","{{@count}} giờ"
+"count-hours-short","{{@count}} giờ"
+"count-day-short","{{@count}} ngày"
+"binary-cap","5+ phút"
+"error-too-small-bet","Không thể đặt cược {{@sum}}, khoản cược tối thiểu cho đồng tiền {{@currency}} là {{@minbet}}"
+"error-too-big-bet","Không thể đặt cược {{@sum}}, khoản cược tối đa cho đồng tiền {{@currency}} là {{@maxbet}}"
+"error-wrong-expiration","Ngày hết hạn sai {{@time}}"
+"not-enough-money","Bạn không có đủ tiền trong tài khoản của mình."
+"option-closed-head","Tùy chọn bị đóng"
+"transaction-result","Kết quả cho {{@assetName}}"
+"internet-connection-trouble","Lỗi kết nối"
+"lang-name-locale-en","Tiếng Anh"
+"lang-name-locale-ru","Tiếng Nga"
+"lang-name-locale-de","Tiếng Đức"
+"lang-name-locale-tr","Tiếng Thổ Nhĩ Kỳ"
+"lang-name-locale-vi","Tiếng Việt"
+"lang-name-locale-uk","Tiếng Ukraina"
+"lang-name-locale-th","Tiếng Thái"
+"lang-name-locale-it","Tiếng Ý"
+"lang-name-locale-pl","Tiếng Ba Lan"
+"lang-name-chinese","Tiếng Trung Quốc (giản thể)"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","Bạn đang sử dụng một tài khoản tiền thật."
+"you-started-using-tment-wallet","Bạn đang sử dụng một tài khoản cuộc thi."
+"tournaments","Cuộc thi"
+"currents","Hiện tại"
+"futures","Sắp tới"
+"archive","Lưu kho"
+"days","Ngày"
+"hours","Giờ"
+"minutes","Phút"
+"prize-fond","Giải thưởng"
+"participate-price","Phí tham gia"
+"prize-places","Hàng đầu"
+"tournament-participants-count","Người tham gia"
+"no-tournament-description","Không có mô tả cuộc thi"
+"utc-info","(UTC{{@offset}})"
+"begin-time","Bắt đầu"
+"deductions","Khấu trừ"
+"reg-in-tournament-for","Tham gia Cuộc thi {{@price}}"
+"reg-in-tournament-for-free","Tham gia giải đấu miễn phí"
+"choose-tournament-to-see-info","Vui lòng chọn một cuộc thi"
+"has-reged-in-tournament","Bạn đã đăng ký"
+"wait-for-reg-in-tournament","Yêu cầu đăng ký được gửi đi"
+"prize-places-low","{{@count}} Hạng đầu"
+"starting-balance","Số dư bắt đầu"
+"min-deal-size","Số tiền giao dịch tối thiểu"
+"max-deal-size","Số tiền giao dịch tối đa"
+"max-simultaneously-open-deals","Giới hạn giao dịch mở"
+"max-amount-of-open-deals","Giới hạn đầu tư"
+"available-options-types","Tùy chọn sẵn có"
+"tournament-option-type-turbo","Turbo"
+"tournament-option-type-binary","Nhị phân"
+"tournament-option-type-both","Cả hai"
+"tournament-winning-rules","Nhà giao dịch có số dư cao nhất vào cuối cuộc thi sẽ là người chiến thắng."
+"available-assets","Tài sản có sẵn"
+"available-options","Các loại giao dịch có sẵn"
+"greeting","Chào mừng"
+"cashbox-plus-bonus","thưởng"
+"cashbox-input","Nộp tiền"
+"cashbox-output","Rút tiền"
+"cashbox-total","Thưởng, khuyến mãi, tổng"
+"bonus-terms-of-use","Điều khoản bổ sung của người dùng"
+"enter-cashbox-input-value","Nhập số tiền nộp"
+"enter-cashbox-output-value","Nhập số tiền rút"
+"do-withdrawal","Rút tiền"
+"amount-due","Số tiền"
+"will-recieve-to-account","Bạn nhận được"
+"i-wanna-get-bonus","Nhận thưởng"
+"enter-cashbox-card-type","Phương thức thanh toán"
+"finish-time","Hoàn thành"
+"top-users","Bảng xếp hạng"
+"member","Thành viên"
+"balance","Số dư"
+"prize","Giải thưởng"
+"hint-split-view-button","Bố cục"
+"hint-user-profile-button","Menu người dùng"
+"hint-asset-stat","Lựa chọn của thương gia"
+"hint-sound-button","Âm thanh"
+"hint-platform-time","Thời gian trên nền tảng"
+"hint-profitability","Lợi nhuận"
+"hint-payout","Thanh toán"
+"hint-real-acc","Tài khoản thật"
+"hint-demo-acc","Tài khoản demo"
+"hint-tournament-acc","Tài khoản cuộc thi"
+"hint-settings","Cài đặt"
+"hint-support","Hỗ trợ"
+"hint-graph-type","Loại biểu đồ"
+"hint-candle-interval","Chu kỳ nến"
+"hint-user-lines","Công cụ đồ họa"
+"hint-secondary-lines","Chỉ báo"
+"hint-centerize","Giá hiện tại"
+"hint-zoom-level","Khung thời gian"
+"tournament","Cuộc thi"
+"loading","Đang tải"
+"you-are-in-tournament","Bạn đã tham gia!"
+"repeat-tournament","Mua lại {{@price}}"
+"unsupported-browser","Sản phẩm đang ở giai đoạn thử nghiệm, tại thời điểm hiện tại, chúng tôi chỉ bảo đảm hoạt động ổn định trong các trình duyệt sau: Google Chrome, Opera và Yandex Browser. Cảm ơn sự thông cảm của bạn!"
+"account-is-for-educ","Đây chỉ là tài khoản demo"
+"participate-in-demo-tments","Tham gia cuộc thi demo"
+"use-real-money","Giao dịch với tiền thật"
+"participate-tments-with-real-money","Tham gia vào các cuộc thi và nhận giải thưởng"
+"native-deal-closed-body","Tùy chọn cho {{@assetName}} đã đóng lúc {{@closeTime}}. Lợi nhuận là {{@incomeValue}}"
+"tournaments-rules","Quy định cuộc thi"
+"tournaments-rules-2","Quy định tham gia cuộc thi."
+"get-trade-exp","Nhận những kinh nghiệm giao dịch quý báu"
+"tment-begins-in","Cuộc thi bắt đầu trong"
+"tment-ends-in","Cuộc thi kết thúc trong"
+"tment-has-ended","Cuộc thi đã kết thúc"
+"tment-just-ended","""{{@name}}"" vừa kết thúc"
+"tment-just-started","""{{@name}}"" vừa bắt đầu"
+"tment-just-created","""{{@name}}"" vừa tạo"
+"read-more","Đọc thêm"
+"history-is-empty","Bạn không có ưu đãi hết hạn nào"
+"tournaments-current-is-empty","Hiện tại không có cuộc thi nào đang diễn ra. Hãy theo dõi bảng tin của chúng tôi và chờ nhận bản tin email."
+"tournaments-future-is-empty","Không có cuộc thi nào được lên lịch trong tương lai. Hãy theo dõi bảng tin của chúng tôi."
+"tournaments@current-empty","Hiện tại không có giải đấu nào đang diễn ra. Nhưng chúng sẽ sớm được ra mắt. <br><br>Hãy xem thẻ ""Sắp có"" trong menu bên trên và chú ý đến các tin tức và email của nền tảng chúng tôi."
+"tournaments-ended-is-empty","Không có cuộc thi đã kết thúc nào"
+"upper-indicator-line","Đường kẻ chỉ báo trên"
+"lower-indicator-line","Đường kẻ chỉ báo dưới"
+"stoch-overbuy-value","Mua vượt mức"
+"stoch-overbuy-line-width","Chiều rộng mua vượt mức"
+"stoch-overbuy-line-color","Màu mua vượt mức"
+"stoch-oversell-value","Bán vượt mức"
+"stoch-oversell-line-width","Chiều rộng bán vượt mức"
+"stoch-oversell-line-color","Màu bán vượt mức"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","Giá trị này không hợp lệ"
+"889954f14a3839c141bd8d5102094fbb","Giá trị này đã được sử dụng"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","Giá trị này không phải là một địa chỉ email hợp lệ"
+"bf447c1c-0266-4e10-9c6c-573df282e413","Giá trị này không phải là một địa chỉ email hợp lệ"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","Giá trị này không phải là một địa chỉ email hợp lệ"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","Trường này là bắt buộc."
+"9ff3fdc4-b214-49db-8718-39c315e33d45","Giá trị này quá ngắn. Nó nên chứa {{@min}} ký tự hoặc nhiều hơn."
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","Giá trị này quá dài. Nó nên chứa {{@limit}} ký tự hoặc ít hơn."
+"478618a7-95ba-473d-9101-cabd45e49115","Giá trị này nên bằng {{@compared_value}}."
+"4dba5f9c79ae34be5884e1a3c8c45e92","Tên người dùng hoặc mật khẩu không chính xác"
+"3e5af93fb888b4aa77301a7603e113d5","Mật khẩu không chính xác"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","Giá trị này nên là {{@limit}} hoặc nhỏ hơn"
+"76454e69-502c-46c5-9643-f447d837c4d5","Giá trị này nên là {{@limit}} hoặc cao hơn"
+"ad32d13f-c3d4-423b-909a-857b961eb720","Giá trị này không được trống."
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","Giá trị bạn chọn không phải là một lựa chọn hợp lệ."
+"853ff54c1a66d1a2379e0c46f8eb9ed4","Yếu tố cần thiết không hợp lệ {{@name}}"
+"3ac1d32eb3c54e11ef9ea474da816ad6","Yếu tố cần thiết {{@name}} cần được đặt"
+"661d3bc6c153e42a3658855010678cbd","Không rõ yếu tố cần thiết {{@names}}"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","Bạn không được phép thay đổi trạng thái của yêu cầu đã xử lý"
+"2d2ba82dd886ba3b69da804675842ff5","Phương thức thanh toán xấu"
+"3c55616c0a7de9c064e6c2d86fa72bc2","Thời gian hết hạn không hợp lệ"
+"f029308ab5f1672de0b7615c4fa33386","Tài sản hiện đang bị đóng"
+"10cf6f3e2d6a3532b77d924868cbfa62","Tài sản hiện đang bị đóng"
+"64fc8bbac184ae9dab80c8f592d1a6f7","Bạn đã vượt quá giới hạn tiền giao dịch sẵn có"
+"5561ccf1e94e6b9d88080bdbbcba1821","Không đủ tiền"
+"f3a5b44d01097d966072b90187a16ec6","Người dùng không tồn tại"
+"296ea5496bee3177c83ac27a1dc5bb10","Số dư cuộc thi phải nhỏ hơn số dư bắt đầu"
+"fc53df7c4944ebb53e8b3713126ae226","Số giao dịch mở tối đa là {{@limit}}"
+"0f8e85ca21aa2e33752728cf5e843e35","Bạn đã vượt quá giới hạn tiền giao dịch sẵn có"
+"cbce1334c90e82f44381abe99b98fe5c","Đã vượt quá tổng số tùy chọn giới hạn mở"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","Biệt danh này đã có người sử dụng. Vui lòng chọn một biệt danh khác."
+"promo-ends-in","Thưởng sẽ kết thúc trong"
+"your-promocode","Mã quảng bá của bạn"
+"from-value-to-value","Từ {{@fromValue}} — đến {{@toValue}}"
+"deposit-sum","Nộp tiền"
+"bonus-sum","Thưởng"
+"promos-rules","Quy tắc thưởng"
+"promos-rules-2","Quy tắc thưởng"
+"participate-promo","Tham gia trong chương trình thưởng"
+"promo-has-ended","Thưởng đã kết thúc"
+"no-promos-description","Không có mô tả thưởng"
+"promos-is-empty","Hiện tại không có chương trình quảng bá nào. Hãy theo dõi các tin tức mới nhất của chúng tôi và chờ đón các email trong tương lai."
+"first-launch-disclaimer-content","Hãy chú ý! Chỉ cần Một Nhấp Chuột để mở một giao dịch. Không cần xác nhận."
+"accept","Chấp nhận"
+"trading-session-closed","Phiên giao dịch đã đóng"
+"special-offer","Ưu đãi đặc biệt"
+"continue","Tiếp tục"
+"seconds","Giây"
+"trading-sess-starts-in","Phiên giao dịch bắt đầu trong"
+"trading-session-closed-info-0","Chú ý!"
+"trading-session-closed-info-1","Thị trường chứng khoán đóng cửa vào cuối tuần."
+"trading-session-closed-info-2","Bạn có thể giao dịch trên nền tảng của chúng tôi từ 03:00 Thứ Hai đến 00:00 Thứ Sáu."
+"trading-session-closed-info-3","Dữ liệu thị trường được cung cấp bởi Thompson Reuters."
+"asset","Tài sản"
+"additional-info","Thông tin Bổ sung"
+"fill-profile-to-continue","Để tiếp tục làm việc trên nền tảng, hãy cung cấp thêm thông tin"
+"fill-username-heading","Kính gửi nhà giao dịch,"
+"fill-username-text","Để tham gia vào giải đấu, hãy nhập biệt danh sẽ đại diện cho bạn trong danh sách những người tham gia giải đấu. Bạn có thể thay đổi mục này bất cứ lúc nào trong cài đặt hồ sơ của mình."
+"fill-username-placeholder","Vui lòng nhập biệt danh của bạn"
+"save-and-continue","Lưu và tiếp tục"
+"profile-name","Tên"
+"profile-surname","Họ"
+"profile-telephone","Điện thoại"
+"start-trading","Bắt đầu giao dịch"
+"personal-data-safety","Sự an toàn của dữ liệu cá nhân được đảm bảo"
+"bonus","Thưởng"
+"new-bonus","vào tài khoản"
+"received-bonus","Cùng với khoản tiền nộp đã chọn, bạn sẽ nhận được"
+"received-bonus-value","tiền thưởng là: {{@bonus}}"
+"mobile-received-bonus-value","+ {{@bonus}} thưởng"
+"expires-in","Hết hạn trong"
+"cannot-buy-option-try-later","Không thể mở giao dịch này, vui lòng thử lại sau."
+"notifications$demo-option-limit","Bạn muốn mở nhiều hơn 5 giao dịch cùng lúc? Hãy mở một tài khoản thật. Để tiếp tục sử dụng tài khoản demo của bạn, hãy chờ đến khi giao dịch hoàn tất"
+"max-total-bet-limit-exceeded","Bạn đã vượt quá số tiền giao dịch được cho phép.
+ Số tiền giao dịch được cho phép là {{@maxBet}}"
+"chart-opens-in","Tài sản sẽ khả dụng trong:"
+"hint-activate-tment-wallet","Nhấn vào đây để bắt đầu sử dụng tài khoản cuộc thi"
+"largest-profit-banner-on-the-asset","trên tài sản"
+"largest-profit-banner-button-trade-caption","Giao dịch"
+"largest-profit-banner-button-trade-caption-2","Giao dịch ngay"
+"largest-profit-banner-text","Thời điểm tốt nhất để giao dịch một tài sản"
+"largest-profit-banner-text-2","Bây giờ là một thời điểm tuyệt vời để giao dịch"
+"largest-profit-height-profit","Tăng lợi nhuận"
+"largest-profit-height-profit-2","Lợi nhuận cao, lên đến"
+"offer-expires-in","Ưu đãi hết hạn trong:"
+"offer-expires-in-2","Ưu đãi hết hạn trong:"
+"warning","Cảnh báo"
+"banner-tech-works-info-caption","Cập nhật kỹ thuật"
+"banner-tech-works-info-content","Chúng tôi luôn làm việc để cải thiện nền tảng giao dịch của mình.
+ Tại thời điểm hiện tại, nền tảng đang được cập nhật.
+ Chúng tôi xin lỗi vì mọi sự bất tiện."
+"confirm-email-content","Vui lòng xác nhận địa chỉ email của bạn. Nhấn nút dưới đây để gửi lại một email với liên kết xác nhận."
+"confirm-email-caption","Kích hoạt lại tài khoản"
+"reload","Tải lại"
+"resend-confirmation","Gửi lại"
+"resend-confirmation-again","Thử lại"
+"confirmation-mail-sent","Gửi đi"
+"banner-not-enough-funds-for-tment","Bạn không có đủ tiền trong tài khoản của mình. Hãy nộp tiền vào tài khoản để tham gia vào cuộc thi."
+"tment-reenter-not-allowed","Bạn không thể mua thêm khi còn có các giao dịch mở."
+"fill-profile-wrong-phone","Số điện thoại không hợp lệ"
+"fill-profile-wrong-name","Tên không hợp lệ"
+"fill-profile-wrong-surname","Họ không hợp lệ"
+"fill-user-wrong-promocode","Mã quảng bá không hợp lệ"
+"wrong-promocode-max-sum","Số tiền tối đa để kích hoạt mã quảng bá {{@sum}}"
+"wrong-promocode-min-sum","Số tiền tối thiểu để kích hoạt mã quảng bá {{@sum}}"
+"wrong-withdrawal-min-sum","Số tiền tối thiểu {{@sum}}"
+"wrong-withdrawal-max-sum","Số tiền rút tối đa {{@sum}}"
+"wrong-promocode-expired","Đã hết hạn"
+"wrong-promocode-only-for-second-deposit","Chỉ dành cho các lần nộp tiền thứ hai và sau đó"
+"wrong-promocode-only-for-first-deposit","Chỉ dành cho lần nộp tiền đầu tiên"
+"wrong-promocode-used","Mã quảng bá này đã được quy đổi"
+"fill-user-wrong-phone","Số điện thoại không hợp lệ"
+"fill-user-wrong-card","Số thẻ không hợp lệ"
+"fill-user-wrong-customer_purse","Số tài khoản không hợp lệ"
+"fill-user-wrong-name","Tên không hợp lệ"
+"fill-user-wrong-surname","Họ không hợp lệ"
+"please-rotate-device","Lật thiết bị ngược lại để bạn có thể dễ dàng sử dụng bảng điều khiển."
+"swipe-up-to-enter-fs","Vuốt lên để vào chế độ toàn màn hình"
+"click-to-enter-fs","Chạm vào bất cứ đâu trên màn hình để chuyển sang chế độ toàn màn hình"
+"reconnect","Kết nối lại"
+"reconnected","Đã kết nối lại!"
+"free-reg","Đăng ký miễn phí"
+"investments","giao dịch"
+"investments_short","đầu tư."
+"investment_short","đầu tư."
+"buy-time","Thời gian mua"
+"total-investment","Tổng đầu tư"
+"total-income","Tổng thanh toán"
+"result","Kết quả"
+"ur-income-would-be","Lợi nhuận của bạn"
+"create-account-for-free","Tạo tài khoản miễn phí"
+"resume-use-demo","Tiếp tục chế độ demo"
+"reg-request-message","Nếu bạn giao dịch trên website chúng tôi, bạn có thể đã kiếm được {{@income}} đến thời điểm hiện tại. Đừng mất thời gian nữa, hãy bắt đầu giao dịch!"
+"trade-without-restrictions","Giao dịch không hạn chế"
+"trade-without-restrictions-message","Nếu bạn muốn mở nhiều hơn 5 giao dịch cùng lúc, hãy mở một tài khoản giao dịch thực và giao dịch không giới hạn. Để tiếp tục sử dụng tài khoản demo, hãy chờ các giao dịch hiện tại của bạn hết hạn."
+"use-real-wallet","Tài khoản thật"
+"support","Hỗ trợ"
+"search-asset","Tìm kiếm tài sản"
+"error-sending-email-confirmation","Có lỗi xảy ra khi gửi email. Vui lòng thử lại sau."
+"error-sending-email-confirmation-with-time","Một e-mail mới có thể được gửi đến bạn trong {{@time}} phút. Để kích hoạt tài khoản của bạn, hãy kiểm tra email hoặc liên hệ với dịch vụ hỗ trợ của chúng tôi."
+"risk-free-trades","Giao dịch không rủi ro"
+"count-trades-for-bet","{{@count}} giao dịch cho {{@sum}}"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","Trắng"
+"Red","Đỏ"
+"Pink","Hồng"
+"Purple","Tím"
+"Deep Purple","Tím sẫm"
+"Indigo","Chàm"
+"Blue","Xanh dương"
+"Cyan","Lục lam"
+"Green","Xanh lục"
+"Light Green","Xanh lá cây"
+"Lime","Chanh"
+"Yellow","Vàng"
+"Amber","Hổ phách"
+"Orange","Cam"
+"tournament-accounts","Tài khoản cuộc thi"
+"activate-tournament-wallet","Kích hoạt ví cuộc thi"
+"deposit-using-agreements-header","Mục thưởng"
+"deposit-using-agreements-p1","Thưởng là khoản tiền bổ sung được công ty cung cấp để tăng tiềm năng giao dịch của nhà giao dịch."
+"deposit-using-agreements-p2","Khi nộp tiền, một khoản tiền thưởng nhất định có thể được ghi có vào tài khoản của bạn, độ lớn khoản thưởng này tùy thuộc vào độ lớn khoản tiền nộp của bạn."
+"deposit-using-agreements-p3","Thưởng không giới hạn số tiền mà bạn có thể rút: bạn có thể rút lợi nhuận cùng với số tiền nộp của mình bất cứ lúc nào. Xin lưu ý rằng khi rút tiền, mọi khoản tiền thưởng chưa nhận sẽ được gán trạng thái không hoạt động và bị trừ khỏi tài khoản của bạn."
+"choose-payment-method","Chọn một phương thức nộp tiền"
+"choose-payment-sum","Chọn số tiền nộp"
+"plus-value-bonus","+ {{@value}} thưởng"
+"deposit-user-sum-value-caption","Bạn muốn chọn số tiền cụ thể? Hãy dùng trường nhập liệu"
+"i-have-promocode","Tôi có một mã quảng bá"
+"requisiste-name-phone","Điện thoại"
+"no-bonus","không có thưởng"
+"refresh","Làm mới"
+"browser","Trình duyệt"
+"make-a-deposit","Nộp tiền"
+"cashbox-withdrawal-info-0-header","Làm thế nào để rút tiền khỏi tài khoản của tôi?"
+"cashbox-withdrawal-info-0-content","Các tùy chọn sẵn có là: thẻ ngân hàng, ví điện tử Qiwi/Yandex Money/WebMoney. Chủ sở hữu của các tài khoản micro chỉ có thể có một đơn rút tiền đang hoạt động."
+"cashbox-withdrawal-info-1-header","Số tiền tối thiểu có thể được rút ra từ tài khoản?"
+"cashbox-withdrawal-info-1-content","Số tiền rút tối thiểu — ₽300 hoặc $5 hoặc €5 hoặc A$5 hoặc ₴150. Số tiền rút tối đa cho một giao dịch — ₽15.000 hoặc $200 hoặc €200 hoặc A$200 hoặc ₴6.000."
+"cashbox-withdrawal-info-2-header","Làm thế nào tôi có thể rút một số tiền lớn hơn ₽15.000 hoặc $200 hoặc €200 hoặc A$200, hoặc ₴6.000?"
+"cashbox-withdrawal-info-2-content","Hạn chế này đã được thiết lập để ngăn chặn việc rút tiền nhanh. Số tiền vượt quá giới hạn đã quy định chỉ có thể được rút trong một khoảng thời gian lâu hơn. Nếu bạn cần rút số tiền lớn hơn, bạn có thể chia tiền của mình thành các khoản $200 hoặc €200 hoặc A$200, hoặc ₽15.000 hoặc ₴6.000. Bạn không bị giới hạn nào về số yêu cầu rút tiền có thể thực hiện. Nếu bạn muốn rút nhiều tiền hơn trong một lần thanh toán, hãy liên hệ với nhóm hỗ trợ nền tảng. Nếu tài khoản của bạn không được xác minh, có thể sẽ cần đến 3 ngày làm việc để xử lý yêu cầu rút tiền của bạn. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày."
+"cashbox-withdrawal-info-3-header","Quy trình rút tiền nhanh như thế nào?"
+"cashbox-withdrawal-info-3-content-a","Cần một giờ để xử lý một yêu cầu, giả sử rằng yêu cầu này được gửi đi trong giờ làm việc của bộ phận tài chính của nền tảng và tài khoản của bạn đã được xác minh theo các yêu cầu của nền tảng. "
+"cashbox-withdrawal-info-3-content-b","Giờ làm việc của bộ phận tài chính là Thứ 2 đến Thứ 6, 10:00 sáng đến 10:00 tối (GMT +2). Nếu bạn gửi đi một yêu cầu rút tiền ngoài giờ làm việc của bộ phận tài chính hoặc vào ngày lễ, yêu cầu của bạn sẽ được xử lý vào đầu ngày làm việc tiếp theo. Nếu tài khoản của bạn chưa được xác minh, yêu cầu rút tiền của bạn sẽ được xử lý trong vòng 3 ngày làm việc. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày."
+"cashbox-withdrawal-info-4-header","Chính sách rút tiền"
+"cashbox-withdrawal-info-4-content-a","Khác hàng phải ghi đủ dữ liệu được yêu cầu trong phần ""Cài đặt Hồ sơ"" để đảm bảo yêu cầu của họ được xử lý kịp thời. Nếu chúng tôi xác nhận rằng dữ liệu không chính xác hoặc không đầy đủ đã được nhập, yêu cầu rút tiền của bạn có thể bị từ chối hoặc chậm xử lý."
+"cashbox-withdrawal-info-4-content-b","Tiền được rút đến tài khoản ngân hàng (hoặc cùng hệ thống thanh toán) đã được sử dụng để nộp tiền vào tài khoản của bạn. Nếu không thể hoàn tất giao dịch, bạn nên liên hệ với dịch vụ hỗ trợ bằng cách bắt đầu một cuộc trò chuyện trực tiếp hoặc gửi một yêu cầu hỗ trợ đến support@binarium.com."
+"cashbox-withdrawal-info-5-header","Tôi có cần cung cấp tài liệu khi rút tiền? Nếu có thì là gì?"
+"cashbox-withdrawal-info-5-content-a","Vui lòng cung cấp tất cả dữ liệu cá nhân của bạn trong phần ""Cài đặt Hồ sơ"" để đảm bảo rút tiền nhanh chóng. Nếu bạn sử dụng nhiều thẻ ngân hàng hoặc chi tiết thanh toán không khớp với chi tiết bạn đã cung cấp trong quá trình đăng ký, bạn sẽ cần trải qua quy trình xác thực đầy đủ và chứng minh rằng thẻ này thật sự thuộc về bạn. Tiền không thể được rút đến các tài khoản của bên thứ 3. "
+"cashbox-withdrawal-info-5-content-b","Để hoàn tất quy trình xác minh, hãy gửi một bản scan hộ chiếu và mặt trước của thẻ ngân hàng đến support@binarium.com, hiển thị rõ họ và tên của chủ sở hữu. Nếu bạn không sở hữu một thẻ có dập nổi, bạn phải gửi một bản scan sao kê ngân hàng, có hiển thị giao dịch từ thẻ này đến tài khoản Binarium của bạn ngoài bản sao hộ chiếu. Công ty bảo lưu quyền yêu cầu tài liệu bổ sung nếu chủ thẻ và dữ liệu tài khoản giao dịch không khớp với nhau."
+"cashbox-withdrawal-info-6-header","Điều kiện để rút tiền thưởng là gì?"
+"cashbox-withdrawal-info-6-content-a","Tiền thưởng không thể được rút ngay sau khi được tích lũy. Nhà môi giới ghi có khoản tiền này vào tài khoản của bạn dưới dạng tiền thưởng để tăng cơ hội giao dịch của bạn. Tiền lãi mà bạn kiếm được trên số tiền thưởng cũng là tiền thưởng, và chỉ có thể được rút sau khi mức doanh thu giao dịch cần thiết đã đạt được. Để rút tiền thưởng, bạn cần đạt doanh thu x40 số tiền thưởng cho tài khoản. Nếu bạn được thưởng mà không cần tiền nộp, thì đòn bẩy sẽ được tăng lên 50, có nghĩa là mức doanh thu trên tài khoản phải bằng tiền thưởng x50 và số tiền rút tối đa không thể vượt quá số tiền thưởng không cần tiền nộp này. Giải thưởng tiền mặt từ các cuộc thi miễn phí của công ty là tiền thưởng và chỉ có thể rút sau khi đạt doanh thu x40."
+"cashbox-withdrawal-info-6-content-b","Ví dụ. Khi bạn nộp tiền, bạn đã tích lũy $150 tiền thưởng. Theo quy định, bạn cần đạt tổng giá trị của tùy chọn đã mua là 30 x 150 = $4500. Sau khi đạt được giá trị này, bạn có thể rút tiền thưởng. Trong trường hợp này, cả các giao dịch có lợi nhuận và không có lợi nhuận đều được tính đến. Các giao dịch bị chấm dứt sớm không được bao gồm trong doanh thu. Không có giới hạn nào về việc rút lợi nhuận."
+"cashbox-withdrawal-info-6-content-c","Nếu bạn rút một phần của tiền nộp, thì khoản thưởng sẽ tự động bị khấu trừ từ tài khoản của bạn."
+"cashbox-withdrawal-info-6-content-d","Nếu bạn có bất kỳ thắc mắc nào, hãy liên hệ với bộ phận hỗ trợ của Binarium."
+"cashbox-withdrawal-info-7-header","Tôi không thể tạo một yêu cầu rút tiền cho tài khoản của mình. Có vấn đề gì vậy?"
+"cashbox-withdrawal-info-7-content","Đầu tiên, hãy kiểm tra liệu tất cả thông tin cá nhân của bạn đã được liệt kê trên trang hồ sơ trong phần ""Hồ sơ"" hay không. Một lần nữa, hãy đảm bảo bạn đã nhập đúng tất cả thông tin khi gửi yêu cầu. Các ký tự đặc biệt như +, -, /, v.v. đều không hợp lệ. Nếu tất cả thông tin được điền là đúng, nhưng vấn đề vẫn tiếp diễn, hãy liên hệ với bộ phận hỗ trợ khách hàng qua trò chuyện trực tuyến hoặc theo địa chỉ email support@binarium.com."
+"deposit-info-1","Thưởng là khoản tiền bổ sung được công ty cung cấp để tăng tiềm năng giao dịch của nhà giao dịch"
+"deposit-info-2","Khi nộp tiền, một khoản tiền thưởng nhất định có thể được ghi có vào tài khoản của bạn, độ lớn khoản thưởng này tùy thuộc vào độ lớn khoản tiền nộp của bạn."
+"deposit-info-3","Thưởng không giới hạn số tiền mà bạn có thể rút: bạn có thể rút lợi nhuận cũng như số tiền nộp của mình bất cứ lúc nào. Xin lưu ý rằng khi rút tiền, mọi khoản tiền thưởng chưa được sử dụng trong các giao dịch với doanh thu x40 đều sẽ bị gán trạng thái không hoạt động và bị trừ khỏi tài khoản của bạn."
+"withdrawal-heading","Yêu cầu của bạn sẽ được xử lý trong vòng 24 giờ kể từ khi bạn gửi nó đi."
+"withdrawal-content","Nếu đơn đăng ký được gửi đi ngoài giờ làm việc của bộ phận tài chính của công ty, nó sẽ được xử lý vào ngày làm việc tiếp theo."
+"withdrawal-restricted-content","Đã vượt quá giới hạn rút tiền cho <span class=""open-act-button"">loại tài khoản</span> của bạn"
+"withdrawal-amount-caption","Số tiền thanh toán"
+"withdrawal-type-caption","Phương thức rút tiền"
+"withdrawal-button-caption","Rút tiền"
+"requisite-name-card","Số thẻ"
+"requisite-name-phone","Điện thoại"
+"requisite-name-customer_purse","Ví khách hàng"
+"withdrawal-request-sent","Yêu cầu đã được đặt trong hàng đợi"
+"withdrawal-request-sent-extra-info","Bạn có thể theo dõi trạng thái yêu cầu trong phần “Lịch sử Giao dịch”."
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","Visa/Mastercard"
+"videohub","Giáo dục"
+"asset-type-all","Tất cả"
+"asset-type-currency","Tiền tệ"
+"asset-type-crypto","Tiền điện tử"
+"asset-type-goods","Hàng hóa"
+"asset-type-countries","Quốc gia"
+"asset-type-leaders","Người dẫn đầu"
+"cashbox-withdrawal-info","Sẽ cần một chút thời gian để xử lý yêu cầu. Thông thường có thể cần đến 24 giờ để bộ phận tài chính xem xét các yêu cầu trong giờ làm việc. Chúng tôi xin thông báo rằng chúng tôi không đóng băng số dư của bạn trong khi bạn chờ yêu cầu rút tiền được phê duyệt. Bằng cách này, bạn có thể tiếp tục giao dịch."
+"expiration-caption-16","Trong 24 giờ"
+"trends","Xu hướng"
+"show-chart","Hiển thị biểu đồ"
+"hide-chart","Ẩn biểu đồ"
+"trend-active","Hoạt động"
+"trend-non-active","Tất cả"
+"trends-is-empty","Xu hướng đang được cập nhật"
+"what-are-trends","Xu hướng là gì?"
+"what-are-trends-advice-content","Xu hướng là một công cụ giao dịch đặc biệt cho phép bạn nhanh chóng tìm được một tài sản có tiềm năng thu lợi (với hướng giá nổi bật) để mở một giao dịch theo chiều xu hướng."
+"not-enough-money-for-trends-detailed","Một công cụ giao dịch độc đáo từ Binarium có thể được sử dụng bởi các khách hàng có số dư thực lớn hơn {{@balance}}. Các cơ hội đáng chú ý:"
+"get-access-to-trends","Truy cập các xu hướng"
+"trends-features-one","Theo dõi tất cả xu hướng tài sản trên thị trường"
+"trends-features-two","Mở nhanh các giao dịch theo xu hướng khi nó xuất hiện"
+"month-0","T1"
+"month-1","T2"
+"month-2","T3"
+"month-3","T4"
+"month-4","T5"
+"month-5","T6"
+"month-6","T7"
+"month-7","T8"
+"month-8","T9"
+"month-9","T10"
+"month-10","T11"
+"month-11","T12"
+"day-0","Thứ 2"
+"day-1","Thứ 3"
+"day-2","Thứ 4"
+"day-3","Thứ 5"
+"day-4","Thứ 6"
+"day-5","Thứ 7"
+"day-6","CN"
+"trading-room","Phòng giao dịch"
+"trading-room-entering-time","Thời gian vào"
+"trading-room-expiration","Hết hạn"
+"trading-room-strength","Độ bảo mật"
+"trading-room-strike-price","Giá đánh"
+"trading-room-is-empty","Không có tín hiệu. Vui lòng kiểm tra Phòng Giao dịch một lần nữa."
+"demo-stats-banner-header-caption","Tuyệt vời!"
+"demo-stats-banner-header-caption-2","Chúc mừng!"
+"demo-stats-banner-you-earned-on-demo","Bạn đã lãi trên tài khoản demo."
+"demo-stats-banner-total-deals-amount","Tổng giao dịch"
+"demo-stats-banner-successfull-deals-percentage","Phần trăm giao dịch thành công"
+"demo-stats-banner-real-account-opening-request","Mở một tài khoản tiền thật để rút lợi nhuận của bạn"
+"demo-stats-banner-open-real-account-button-caption","Mở một tài khoản thật"
+"demo-stats-banner-keep-trading-on-demo","Ở lại tài khoản demo"
+"demo-stats-banner-you-have-done","Bạn đã đặt"
+"demo-stats-banner-you-have-trades-closed-in-a-row","giao dịch liên tiếp"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","giao dịch sinh lời liên tiếp"
+"demo-stats-banner-earning-on-demo-account","lợi nhuận trong tài khoản demo của bạn"
+"demo-stats-banner-closed-in-a-row-2","các giao dịch sinh lời"
+"tour-next-button-caption","Tiếp tục"
+"tour-reading-duration-caption","Đọc 4 phút."
+"tour-slides-steps-count","Bước {{@currentSlide}} / {{@totalSlidesCount}}"
+"tour-slide-0-caption","Chào mừng bạn đến với nền tảng giao dịch Binarium"
+"tour-slide-0-content","Bài thuyết trình ngắn này sẽ giới thiệu bạn với những nguyên tắc giao dịch cơ bản và giao diện của nền tảng Binarium."
+"tour-slide-0-content-1","Đọc tất cả các trang để biết cách giao dịch hiệu quả hơn trên nền tảng này."
+"tour-slide-0-content-2","Bài thuyết trình ngắn này sẽ giới thiệu bạn với những nguyên tắc giao dịch cơ bản và giao diện của nền tảng Binarium."
+"tour-slide-0-content-3","Menu chính là ở bên trái. Ví dụ, bạn có thể nạp tiền vào tài khoản trong phần <span class=""bold"">Ngân hàng</span>. Và bạn có thể mở giao dịch thông qua các nhà giao dịch giỏi nhất trên nền tảng trong phần <span class=""bold"">Phòng giao dịch</span>!"
+"tour-slide-0-content-3-port","Menu chính là ở phía trên bên trái. Ví dụ, bạn có thể nạp tiền trong phần <span class=""bold"">Ngân hàng</span>. Và bạn có thể thực hiện giao dịch với sự trợ giúp từ các nhà giao dịch giỏi nhất trên nền tảng trong phần <span class=""bold"">Phòng giao dịch</span>!"
+"tour-slide-0-extra-info","Đọc tất cả các trang để biết cách giao dịch hiệu quả hơn trên nền tảng này."
+"tour-slide-1-caption","Làm thế nào để kiếm tiền trên nền tảng?"
+"tour-slide-1-content","<span class=""bold"">Nền tảng giao dịch này cho phép bạn đặt giao dịch</span> bằng cách thực hiện các khoản đầu tư ngắn hạn vào tài sản tài chính: cặp tiền tệ forex, tiền điện tử, hàng hóa và các công cụ tài chính khác."
+"tour-slide-2-caption","Nguyên tắc cơ bản đằng sau việc thực hiện giao dịch?"
+"tour-slide-2-content-a","<span class=""bold"">Giao dịch là một dự đoán về sự thay đổi giá của một tài sản tài chính</span> trong một khoảng thời gian cụ thể. Các nhà đầu tư có thể thực hiện giao dịch <span class=""green"">mua khống</span> hoặc <span class=""red"">bán không</span>."
+"tour-slide-2-content-b","Nếu dự đoán của bạn là đúng, bạn sẽ nhận được tiền thu nhập. Nếu bạn sai, bạn sẽ mất toàn bộ tiền vốn đầu tư."
+"tour-slide-3-caption","Làm thế nào để đặt giao dịch trên nền tảng Binarium?"
+"tour-slide-3-content","<span class=""bold"">Chọn một tài sản</span> mà bạn muốn dự đoán xu hướng giá."
+"tour-slide-4-caption","Làm thế nào để đặt giao dịch trên nền tảng Binarium?"
+"tour-slide-4-content","<span class=""bold"">Chọn độ lớn của khoản đầu tư của bạn.</span>"
+"tour-slide-5-caption","Làm thế nào để đặt giao dịch trên nền tảng Binarium?"
+"tour-slide-5-content","<span class=""bold"">Mở một giao dịch</span> sau khi bạn dự đoán rằng giá sẽ <span class=""green"">tăng</span> hoặc <span class=""red"">giảm</span>. Chờ đến khi giao dịch đóng."
+"tour-slide-6-caption","Chúc may mắn trên nền tảng Binarium"
+"tour-slide-6-additional-caption","Nếu dự đoán của bạn là đúng, lợi nhuận sẽ tự động được ghi có vào tài khoản giao dịch của bạn."
+"tour-slide-6-a-trading-rules","Điều kiện giao dịch"
+"tour-slide-6-a-card-0-caption","Lượng thu nhập bạn nhận được từ một dự đoán đúng:"
+"tour-slide-6-a-card-0-content-1","tối đa {{@maxProfit}}"
+"tour-slide-6-a-card-0-content-2","lượng đầu tư bạn sẽ nhận được từ một dự đoán thành công."
+"tour-slide-6-a-card-1-caption","số tiền nộp tối thiểu để giao dịch."
+"tour-slide-6-a-card-1-content","từ {{@minWithdrawal}}"
+"tour-slide-6-a-card-2-caption","thời gian trung bình cần thiết để rút tiền:"
+"tour-slide-6-a-card-2-content","30 phút"
+"tour-slide-6-a-card-3-caption","Nộp tiền vào một tài khoản thật để bắt đầu giao dịch:"
+"tour-slide-6-a-card-3-button-caption","Nộp tiền và bắt đầu giao dịch"
+"tour-slide-6-a-dont-show-again","Bỏ qua video hướng dẫn về nền tảng"
+"tour-slide-6-b-trading-rules","Điều kiện giao dịch"
+"tour-slide-6-b-card-0-caption","Lượng thu nhập bạn nhận được từ một dự đoán đúng:"
+"tour-slide-6-b-card-0-content","<span class=""big"">Lên đến 90%</span> khoản đầu tư của bạn."
+"tour-slide-6-b-card-1-caption","số tiền nộp tối thiểu để giao dịch."
+"tour-slide-6-b-card-1-content","<span class=""big"">{{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","thời gian trung bình cần thiết để rút tiền."
+"tour-slide-6-b-card-2-content","<span class=""big"">30</span> phút"
+"tour-slide-6-b-card-3-caption","Học cách giao dịch an toàn với một tài khoản demo"
+"tour-slide-6-b-card-3-button-caption","Giao dịch với một tài khoản demo"
+"tour-slide-6-b-dont-show-again","Bỏ qua video hướng dẫn về nền tảng"
+"user-terms-caption","Giao dịch trong một nhấp chuột"
+"what-is-trading-room","Phòng giao dịch là gì?"
+"what-is-trading-room-advice-content","Phòng giao dịch là một công cụ tiện lợi cho phép bạn sao chép giao dịch của những nhà giao dịch giỏi nhất trên nền tảng chỉ trong một nhấp chuột. Bạn sẽ có thể tăng hiệu quả giao dịch của mình và tiết kiệm thời gian với công cụ này."
+"not-enough-money-for-trading-room-detailed","Giao dịch và kiếm tiền với những nhà giao dịch giỏi nhất trên nền tảng Binarium sử dụng phòng giao dịch. Nạp số dư thật của bạn lên {{@minBalance}} để nhận những lợi ích sau:"
+"get-access-to-trading-room","Truy cập phòng giao dịch"
+"have-access-to-trading-room","Để vào “Phòng Giao dịch”, hãy liên hệ với người quản lý của bạn hoặc dịch vụ hỗ trợ."
+"trading-room-features-one","Theo dõi các giao dịch của nhà giao dịch thành công nhất trên nền tảng"
+"trading-room-features-two","Sao chép các giao dịch và thu lợi nhuận"
+"trading-room_1-title","Giao dịch cùng nhau"
+"trading-room_1-text","Theo dõi các giao dịch của nhà giao dịch thành công nhất trên nền tảng."
+"trading-room_2-title","Tận dụng kinh nghiệm thành công của những người khác"
+"trading-room_2-text","Sao chép hành vi của các nhà giao dịch khác và thu lợi nhuận!"
+"trading-room_refill","Để truy cập ""Phòng giao dịch"", hãy nạp số dư của bạn lên"
+"account_level","Cấp độ tài khoản"
+"modal-confirm_title","Xác nhận địa chỉ e-mail của bạn"
+"modal-confirm_text-1","Chúng tôi đã gửi cho bạn một email với liên kết xác nhận."
+"modal-confirm_text-2","Bạn chưa nhận được email với liên kết xác nhận? Hãy kiểm tra mục ""Thư rác"" của bạn. Đôi khi các email bị rơi vào đó. Hoặc yêu cầu một email khác."
+"modal-confirm_button","Gửi lại thư"
+"modal-confirm_error-1-1","Một e-mail mới có thể được gửi đến bạn trong {{@time}} phút. Để kích hoạt tài khoản của bạn, hãy kiểm tra email hoặc liên hệ với bộ phận hỗ trợ của chúng tôi hoặc"
+"modal-confirm_error-1-2","liên hệ với bộ phận hỗ trợ."
+"modal-confirm_support","Liên hệ với hỗ trợ"
+"timer_days","ngày"
+"timer_hours","giờ"
+"timer_minutes","phút"
+"timer_seconds","giây"
+"tournament_button","Tham gia cuộc thi"
+"modal-oneclick_title","Giao dịch trong một nhấp chuột"
+"modal-oneclick_text","Xin lưu ý rằng bạn có thể mở giao dịch trên nền tảng chỉ với một nhấp chuột. Không cần xác nhận thêm."
+"modal-oneclick_button","Chấp nhận và tiếp tục"
+"modal-tbalance_title","Nạp tiền vào tài khoản của bạn"
+"modal-tbalance_text","Bạn không có đủ tiền trong tài khoản. Vui lòng nạp tiền vào tài khoản của bạn để tham gia cuộc thi."
+"modal-tbalance_button","Nộp tiền"
+"modal-tech_title","Chúng tôi sẽ sớm liên hệ với bạn!"
+"modal-tech_text-1","Chúng tôi đang liên tục cải thiện nền tảng giao dịch và sẽ sớm hoàn thành việc cập nhật. Chúng tôi xin lỗi vì mọi sự bất tiện."
+"modal-tech_text-2","Thời gian còn lại cho đến khi hoàn thành công việc:"
+"modal-tech_button","Tiếp tục"
+"modal-session_title","Chú ý"
+"modal-session_text-1","Thị trường chứng khoán đóng cửa vào cuối tuần."
+"modal-session_text-2","Nền tảng giao dịch có thể được truy cập"
+"modal-session_text-3","từ 3:00 sáng Thứ 2 đến 12:00 đêm Thứ 6."
+"modal-session_text-4","Phiên giao dịch của bạn sẽ bắt đầu trong:"
+"modal-session_button","Tiếp tục"
+"modal-tn_title","Chào mừng bạn đến với"
+"modal-tn_text-1","Nhà giao dịch có số dư cao nhất vào cuối cuộc thi sẽ là người chiến thắng."
+"modal-tn_text-2","Tài sản có sẵn:"
+"modal-tn_text-3","Các loại giao dịch có sẵn:"
+"modal-tn_button","Bắt đầu"
+"modal-nickname_title","Chọn một biệt danh"
+"modal-nickname_text","Để tham gia vào cuộc thi, hãy nhập biệt danh sẽ đại diện cho bạn trong danh sách những người tham gia cuộc thi. Bạn có thể thay đổi biệt danh này bất cứ lúc nào trong cài đặt hồ sơ của mình."
+"modal-nickname_button","Lưu và tiếp tục"
+"modal-nickname_placeholder","Vui lòng nhập biệt danh của bạn"
+"modal-profile_title","Thông tin bổ sung"
+"modal-profile_text","Vui lòng cung cấp thêm thông tin để tiếp tục làm việc trên nền tảng."
+"modal-profile_name","Tên"
+"modal-profile_surname","Họ"
+"modal-profile_phone","Số điện thoại (với mã quốc gia)"
+"modal-profile_button","Bắt đầu giao dịch"
+"modal-profile_aside","Dữ liệu cá nhân của bạn được đảm bảo an toàn."
+"form-error_required","Trường này không thể được để trống"
+"form-error_name-short","Tên này quá ngắn."
+"form-error_name-format","Chỉ được phép sử dụng chữ cái"
+"form-error_surname-short","Họ này quá ngắn."
+"form-error_surname-format","Chỉ được phép sử dụng chữ cái"
+"form-error_phone-format","Số phải có định dạng quốc tế"
+"srv-err_asset-is-disabled","Tài sản bị vô hiệu"
+"srv-err_asset-is-disabled-for-this-tournament","Tài sản bị vô hiệu cho cuộc thi này"
+"srv-err_binary-is-disabled-for-this-tournament","Tài sản bị vô hiệu cho cuộc thi này"
+"srv-err_turbo-is-disabled-for-this-tournament","Tài sản bị vô hiệu cho cuộc thi này"
+"tournament@btn.paid-participate","Phí tham gia"
+"tournament@info.paid","Cuộc thi có tiền thưởng"
+"faq@title","Câu hỏi và trả lời"
+"menu@faq","FAQ"
+"menu@education","Giáo dục"
+"menu@qa","Câu hỏi và trả lời"
+"menu@strategies","Chiến lược"
+"menu@btn$back","Quay lại"
+"cashbox@no-bonus","Không nhận thưởng"
+"wallet-menu@real-title","Tiền thật"
+"wallet-menu@bonus-title","Tiền thưởng"
+"wallet-menu@wager-title","Doanh thu để rút tiền thưởng"
+"wallet-menu@wager-link","Đọc thêm về tiền thưởng"
+"modal-bonus@title","Bạn đang sử dụng tiền thưởng"
+"modal-bonus@text","Kích cỡ giao dịch vượt quá số tiền thật của bạn. Để mở giao dịch này, tiền thưởng của bạn sẽ được sử dụng:"
+"modal-bonus@deal-size","Kích cỡ giao dịch"
+"modal-bonus@real-size","Tiền thật"
+"modal-bonus@bonus-size","Tiền thưởng"
+"modal-bonus@info","Mọi khoản tiền được nhận vào giao dịch sẽ được ghi có vào tài khoản thưởng của bạn."
+"modal-bonus@faq","Quy tắc sử dụng tiền thưởng"
+"modal-bonus@btn-cancel","Hủy"
+"modal-bonus@btn-continue","Chấp nhận và tiếp tục"
+"modal-bonus@disable","Không hiển thị lại thông báo này"
+"trends@restrict-title","Không có đủ tiền trong tài khoản của bạn"
+"trends@restrict-text","Để mở khóa phần Xu hướng, số dư tối thiểu cho tài khoản của bạn phải là"
+"asset-menu@title","Tài sản"
+"asset-menu@available","Tài sản có thể giao dịch"
+"asset-menu@profitable","Tài sản có lợi nhuận lớn hơn"
+"asset-menu@interval","phút"
+"confirm-trade@header","Xác nhận giao dịch"
+"confirm-trade@timer","Cửa sổ sẽ tự động đóng trong {{@data}} s"
+"confirm-trade@heading","Tuyệt vời! Bạn sắp xác nhận giao dịch. Hãy kiểm tra chi tiết dưới đây:"
+"confirm-trade@asset","Tài sản"
+"confirm-trade@direction","Hướng"
+"confirm-trade@investment","Đầu tư"
+"confirm-trade@price","Giá hiện tại"
+"confirm-trade@profitability","Lợi nhuận"
+"confirm-trade@payout","Thanh toán tiềm năng"
+"confirm-trade@btn-cancel","Hủy bỏ"
+"confirm-trade@btn-confirm","Xác nhận"
+"plot@loading","Đang tải"
+"plot@lock-time","Thời gian khóa"
+"plot@expiration-time","Thời gian hết hạn"
+"tr-empty@text","Bước vào thế giới giao dịch cùng các chuyên gia. Sao chép giao dịch của những nhà giao dịch thành công nhất trên nền tảng để kiếm được nhiều hơn nữa."
+"tr-empty@business","Phòng giao dịch được mở cửa cho các nhà giao dịch có tài khoản Business hoặc cao hơn. 2 phiên giao dịch, mỗi phiên dài 4 tiếng vào các ngày thường. Khoảng 30 tín hiệu từ các nhà giao dịch chuyên nghiệp mỗi ngày. Đừng lãng phí thời gian tự học — các nhà giao dịch tài giỏi nhất của Binarium đã làm hết việc cho bạn rồi."
+"tr-empty@vip","Các khách hàng VIP của chúng tôi có đặc quyền sử dụng phòng giao dịch, bao gồm các tín hiệu cá nhân và hợp tác với một nhà giao dịch chuyên nghiệp có thể trả lời mọi thắc mắc của bạn, giải thích các xu hướng thị trường hiện tại và đề xuất các lĩnh vực có tiềm năng cao nhất. Đây là cách tốt nhất để kiếm tiền qua giao dịch."
+"tr-empty@open-btn","xem thêm thông tin • đăng nhập"
+"tr-empty@deposit-btn","vào thanh toán • đăng nhập"
+"tr-empty@vip-signals","+ tín hiệu đáng giá"
+"hb@menu-btn","Menu"
+"ac-types@title","Loại tài khoản"
+"ac-types@label_depositSum","Số tiền nộp"
+"ac-types@label_tradeback","Hoàn tiền giao dịch"
+"ac-types@label_tradebackEnrolment","Điểm hoàn tiền giao dịch"
+"ac-types@label_assets","Tài sản giao dịch"
+"ac-types@label_withdrawalCountLimit","Yêu cầu rút tiền mỗi ngày"
+"ac-types@label_withdrawalAmountLimit","Giới hạn rút tiền mỗi tháng"
+"ac-types@label_withdrawalDayAmountLimit","Giới hạn rút tiền mỗi ngày"
+"ac-types@label_tradingRoom","Phòng giao dịch"
+"ac-types@label_openDealsSum","Số giao dịch mở tối đa (cùng một lúc)"
+"ac-types@value_real","Tiền thật"
+"ac-types@value_bonus","Thưởng"
+"ac-types@value_nolimit","Không giới hạn"
+"ac-types@btn","tăng"
+"ac-types@self","Tài khoản của bạn"
+"ac-types@tradeback-hint","Hoàn tiền giao dịch—hoàn một phần tiền cho các giao dịch thua lỗ của nhà giao dịch. Ghi có mỗi thứ 3 lúc 12:00 (0:00 UTC)"
+"video-tutorial@title","Cách để bắt đầu giao dịch trên Binarium trong 90 giây"
+"video-tutorial@checkbox","Không hiển thị lại video này"
+"user-menu@account-types","Loại tài khoản"
+"withdrawal-error@amount-limit","Đã vượt quá giới hạn rút tiền"
+"withdrawal@limit-with-counter","Đã quá giới hạn rút tiền.<br><span class=""open-act-button"">Loại tài khoản</span> của bạn chỉ cho phép {{@limitCount}} yêu cầu với tổng số tiền {{@limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{@limitTime}}."
+"promo-gift@bonus","thưởng"
+"promo-gift@freeSpins","Giao dịch không rủi ro"
+"promo-gift@tradeRoom","phòng giao dịch"
+"promo-gift@tickets","vé"
+"settings@quality-title","Chất lượng đồ họa"
+"settings@quality-hint","Quản lý tải trên thiết bị của bạn bằng cách thay đổi cài đặt chất lượng đồ họa. Chất lượng tiêu chuẩn sẽ giúp tiết kiệm tài nguyên và tải nền tảng nhanh hơn, tuy nhiên chất lượng đồ họa sẽ bị suy giảm đôi chút."
+"settings@quality-option-base","Cơ sở"
+"settings@quality-option-average","Trung bình"
+"settings@quality-option-best","Cao"
+"history@group$active","Các giao dịch đang diễn ra"
+"history@group$finished","Các giao dịch đã hoàn tất"
+"st@level$all","Tất cả"
+"st@level$easy","Đơn giản"
+"st@level$base","Cơ bản"
+"st@level$advanced","Cao cấp"
+"promo@btn$details","Đọc thêm"
+"promo@timer$name","Chương trình quảng bá kết thúc trong"
+"promo@until","đến"
+"wallet@btn$refill","Nạp tài khoản demo"
+"tournament@prize-fund","Quỹ giải thưởng"
+"tournament@prize-places","Hàng đầu"
+"tournament@tab$restrictions","Điều khoản và Điều kiện"
+"tournament@tab$rating","Xếp hạng người tham gia"
+"tournament@tab$current","Hiện tại"
+"tournament@tab$soon","Sắp có"
+"tournament@timer$start","Cuộc thi bắt đầu trong"
+"tournament@timer$end","Cuộc thi kết thúc trong"
+"section@title$bet","Giao dịch"
+"bet@tab$deposit","Nộp tiền"
+"forecast@deal","Giao dịch"
+"forecast@deals","Giao dịch"
+"promo@days-short","ng"
+"settings@group$region","Cài đặt vùng"
+"settings@group$design","Thiết kế"
+"menu@account-type","Loại tài khoản"
+"menu@profile","Hồ sơ người dùng"
+"leaderboard@tournament","Cuộc thi"
+"leaderboard$toggle@open","Tất cả xếp hạng"
+"leaderboard$toggle@close","Đóng"
+"disabled-timer@title","Mở cửa trong"
+"open-option$total$deals","đầu tư"
+"open-option$total$invest","Tổng đầu tư."
+"open-option$total$payout","Tổng thanh toán"
+"chat-button@text","trợ giúp<br>trực tuyến"
+"accounts@popular","Lựa chọn phổ biến"
+"settings@animation","Hoạt họa điểm"
+"settings@animation-disabled","Tắt"
+"settings@animation-enabled","Bật"

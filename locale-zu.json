@@ -1,806 +1,805 @@
-{
-	"@PLURAL": "crwdns24832:0crwdne24832:0",
-	"dearUser": "crwdns21601:0crwdne21601:0",
-	"error": "crwdns21602:0crwdne21602:0",
-	"settings": "crwdns21603:0crwdne21603:0",
-	"settings-2": "crwdns27497:0crwdne27497:0",
-	"regionalSettings": "crwdns27499:0crwdne27499:0",
-	"timezone": "crwdns21605:0crwdne21605:0",
-	"timezone-2": "crwdns27501:0crwdne27501:0",
-	"language": "crwdns21606:0crwdne21606:0",
-	"skin-theme": "crwdns21607:0crwdne21607:0",
-	"ui-zoom": "crwdns21608:0crwdne21608:0",
-	"ui-zoom-2": "crwdns27503:0crwdne27503:0",
-	"investment": "crwdns21609:0crwdne21609:0",
-	"payout": "crwdns21610:0crwdne21610:0",
-	"options": "crwdns21611:0crwdne21611:0",
-	"quote": "crwdns21612:0crwdne21612:0",
-	"time": "crwdns21613:0crwdne21613:0",
-	"past": "crwdns28602:0crwdne28602:0",
-	"active": "crwdns21615:0crwdne21615:0",
-	"value": "crwdns21616:0crwdne21616:0",
-	"add": "crwdns21617:0crwdne21617:0",
-	"add-new-chart": "crwdns21618:0crwdne21618:0",
-	"charts-arrangement": "crwdns21619:0crwdne21619:0",
-	"turbo-cap": "crwdns31364:0crwdne31364:0",
-	"count-chart": "crwdns21621:0crwdne21621:0",
-	"count-charts": "crwdns21622:0crwdne21622:0",
-	"one-chart": "crwdns21623:0crwdne21623:0",
-	"two-charts": "crwdns21624:0crwdne21624:0",
-	"three-charts": "crwdns21625:0crwdne21625:0",
-	"four-charts": "crwdns21626:0crwdne21626:0",
-	"refill": "crwdns21627:0crwdne21627:0",
-	"wallets-types": "crwdns27747:0crwdne27747:0",
-	"history": "crwdns21628:0crwdne21628:0",
-	"cashbox": "crwdns21629:0crwdne21629:0",
-	"education": "crwdns21630:0crwdne21630:0",
-	"education@category$videos": "crwdns31366:0crwdne31366:0",
-	"promos": "crwdns21631:0crwdne21631:0",
-	"trading-history": "crwdns21632:0crwdne21632:0",
-	"section-under-construction": "crwdns21633:0crwdne21633:0",
-	"count-purchase": "crwdns21634:0crwdne21634:0",
-	"count-purchases": "crwdns26426:0crwdne26426:0",
-	"total-payout": "crwdns26788:0crwdne26788:0",
-	"cancel": "crwdns21636:0crwdne21636:0",
-	"apply": "crwdns21637:0crwdne21637:0",
-	"period": "crwdns21638:0crwdne21638:0",
-	"stochastic-smoothing": "crwdns31762:0crwdne31762:0",
-	"stochastic-overbought": "crwdns31764:0crwdne31764:0",
-	"stochastic-oversold": "crwdns31766:0crwdne31766:0",
-	"fast-stochastic-period": "crwdns27833:0crwdne27833:0",
-	"slow-stochastic-period": "crwdns27835:0crwdne27835:0",
-	"fast-stochastic-line-color": "crwdns27837:0crwdne27837:0",
-	"slow-stochastic-line-color": "crwdns27839:0crwdne27839:0",
-	"fast-stochastic-line-thickness": "crwdns27841:0crwdne27841:0",
-	"fast-macd-period": "crwdns30632:0crwdne30632:0",
-	"slow-macd-period": "crwdns30634:0crwdne30634:0",
-	"signal-macd-period": "crwdns30636:0crwdne30636:0",
-	"fast-macd-line-thickness": "crwdns30638:0crwdne30638:0",
-	"signal_line_color": "crwdns30640:0crwdne30640:0",
-	"oversold": "crwdns30664:0crwdne30664:0",
-	"macd_color": "crwdns30660:0crwdne30660:0",
-	"line-thickness": "crwdns21639:0crwdne21639:0",
-	"line-color": "crwdns21640:0crwdne21640:0",
-	"line-offset": "crwdns26582:0crwdne26582:0",
-	"top-line-thickness": "crwdns21641:0crwdne21641:0",
-	"mid-line-thickness": "crwdns21642:0crwdne21642:0",
-	"slow_period": "crwdns30580:0crwdne30580:0",
-	"fast_period": "crwdns30582:0crwdne30582:0",
-	"short_period": "crwdns30590:0crwdne30590:0",
-	"long_period": "crwdns30592:0crwdne30592:0",
-	"offset": "crwdns21643:0crwdne21643:0",
-	"bottom-line-thickness": "crwdns21644:0crwdne21644:0",
-	"bottom-line-period": "crwdns26534:0crwdne26534:0",
-	"top-line-color": "crwdns21645:0crwdne21645:0",
-	"top-line-period": "crwdns26536:0crwdne26536:0",
-	"mid-line-color": "crwdns21646:0crwdne21646:0",
-	"mid-line-period": "crwdns26538:0crwdne26538:0",
-	"bottom-line-color": "crwdns21647:0crwdne21647:0",
-	"teeth-line-color": "crwdns21648:0crwdne21648:0",
-	"jaws-line-color": "crwdns21649:0crwdne21649:0",
-	"lips-line-color": "crwdns21650:0crwdne21650:0",
-	"jaws-period": "crwdns21651:0crwdne21651:0",
-	"jaws-offset": "crwdns21652:0crwdne21652:0",
-	"teeth-period": "crwdns21653:0crwdne21653:0",
-	"teeth-offset": "crwdns21654:0crwdne21654:0",
-	"lips-period": "crwdns21655:0crwdne21655:0",
-	"lips-offset": "crwdns21656:0crwdne21656:0",
-	"indice-lines-position": "crwdns21657:0crwdne21657:0",
-	"major-line-thickness": "crwdns21658:0crwdne21658:0",
-	"top-signal-line-thickness": "crwdns21659:0crwdne21659:0",
-	"bottom-signal-line-thickness": "crwdns21660:0crwdne21660:0",
-	"top-signal-line-color": "crwdns21661:0crwdne21661:0",
-	"bottom-signal-line-color": "crwdns22289:0crwdne22289:0",
-	"fast-stoch-color": "crwdns21663:0crwdne21663:0",
-	"low-stoch-color": "crwdns21664:0crwdne21664:0",
-	"low-stoch-period": "crwdns21665:0crwdne21665:0",
-	"fast-stoch-line-thickness": "crwdns21666:0crwdne21666:0",
-	"low-stoch-line-thickness": "crwdns21667:0crwdne21667:0",
-	"small-period": "crwdns21668:0crwdne21668:0",
-	"big-period": "crwdns21669:0crwdne21669:0",
-	"small-period-width": "crwdns21670:0crwdne21670:0",
-	"big-period-width": "crwdns21671:0crwdne21671:0",
-	"signal-period-width": "crwdns21672:0crwdne21672:0",
-	"bars-color": "crwdns21673:0crwdne21673:0",
-	"bars-color-maofmacd": "crwdns21674:0crwdne21674:0",
-	"smoothing-period": "crwdns21675:0crwdne21675:0",
-	"adx-minus-di-color": "crwdns21676:0crwdne21676:0",
-	"adx-plus-di-color": "crwdns21677:0crwdne21677:0",
-	"adx-line-color": "crwdns21678:0crwdne21678:0",
-	"sar-default-acceleration": "crwdns21679:0crwdne21679:0",
-	"acceleration-step": "crwdns21680:0crwdne21680:0",
-	"max-acceleration": "crwdns21681:0crwdne21681:0",
-	"chikou-line-thickness": "crwdns31368:0crwdne31368:0",
-	"chikou_period": "crwdns31370:0crwdne31370:0",
-	"tenkan_period": "crwdns31372:0crwdne31372:0",
-	"kijun_period": "crwdns31374:0crwdne31374:0",
-	"senkou_a_period": "crwdns31376:0crwdne31376:0",
-	"senkou_b_period": "crwdns31378:0crwdne31378:0",
-	"color": "crwdns21682:0crwdne21682:0",
-	"chart-type": "crwdns21683:0crwdne21683:0",
-	"chart-type-curve": "crwdns21684:0crwdne21684:0",
-	"chart-type-curve-area": "crwdns21685:0crwdne21685:0",
-	"chart-type-candlesticks": "crwdns21686:0crwdne21686:0",
-	"chart-type-bars": "crwdns21687:0crwdne21687:0",
-	"bet-sum": "crwdns21688:0crwdne21688:0",
-	"chart-controls-income-caption": "crwdns21689:0crwdne21689:0",
-	"expiration-time": "crwdns21690:0crwdne21690:0",
-	"wallet-refilling": "crwdns21691:0crwdne21691:0",
-	"real-wallet": "crwdns21692:0crwdne21692:0",
-	"demo-wallet": "crwdns31380:0crwdne31380:0",
-	"can-deduce-profit": "crwdns21694:0crwdne21694:0",
-	"all-assets-available": "crwdns21695:0crwdne21695:0",
-	"all-features-available": "crwdns21696:0crwdne21696:0",
-	"get-bonuses-from-the-platform": "crwdns21697:0crwdne21697:0",
-	"participate-tournaments": "crwdns21698:0crwdne21698:0",
-	"can-switch-wallet-any-time": "crwdns27505:0crwdne27505:0",
-	"cannot-deduce-profit": "crwdns21700:0crwdne21700:0",
-	"refill-wallet": "crwdns21701:0crwdne21701:0",
-	"choose-wallet-type": "crwdns21702:0crwdne21702:0",
-	"demo-wallet+wallet": "crwdns21703:0crwdne21703:0",
-	"real-wallet+wallet": "crwdns21704:0crwdne21704:0",
-	"choose-bet": "crwdns21705:0crwdne21705:0",
-	"added-items": "crwdns21706:0crwdne21706:0",
-	"bollinger-lines": "crwdns21707:0crwdne21707:0",
-	"ichi-cloud": "crwdns31382:0crwdne31382:0",
-	"alli-gator": "crwdns21708:0crwdne21708:0",
-	"graphics-analysys-tools": "crwdns21709:0crwdne21709:0",
-	"new-items": "crwdns21710:0crwdne21710:0",
-	"line-segment": "crwdns21711:0crwdne21711:0",
-	"ray": "crwdns21712:0crwdne21712:0",
-	"hori-line": "crwdns21713:0crwdne21713:0",
-	"vline": "crwdns30644:0crwdne30644:0",
-	"free-hand": "crwdns30698:0crwdne30698:0",
-	"crossroad": "crwdns30646:0crwdne30646:0",
-	"frame": "crwdns30648:0crwdne30648:0",
-	"range": "crwdns30650:0crwdne30650:0",
-	"ellipse": "crwdns30652:0crwdne30652:0",
-	"fibonacci-lines": "crwdns21714:0crwdne21714:0",
-	"andrews-fork": "crwdns21715:0crwdne21715:0",
-	"graphic-tools": "crwdns21716:0crwdne21716:0",
-	"time-period": "crwdns21717:0crwdne21717:0",
-	"count-second": "crwdns21718:0crwdne21718:0",
-	"count-seconds": "crwdns21719:0crwdne21719:0",
-	"count-minute": "crwdns21720:0crwdne21720:0",
-	"count-minutes": "crwdns21721:0crwdne21721:0",
-	"count-hour": "crwdns21722:0crwdne21722:0",
-	"count-hours": "crwdns21723:0crwdne21723:0",
-	"lock-time": "crwdns21724:0crwdne21724:0",
-	"user-profile": "crwdns21725:0crwdne21725:0",
-	"user-profile-heading": "crwdns21726:0crwdne21726:0",
-	"withdrawal": "crwdns21727:0crwdne21727:0",
-	"support-service": "crwdns21728:0crwdne21728:0",
-	"payment-history": "crwdns21729:0crwdne21729:0",
-	"exit": "crwdns21730:0crwdne21730:0",
-	"count-second-short": "crwdns21731:0crwdne21731:0",
-	"count-seconds-short": "crwdns28062:0crwdne28062:0",
-	"count-minute-short": "crwdns21732:0crwdne21732:0",
-	"count-minutes-short": "crwdns28064:0crwdne28064:0",
-	"count-hour-short": "crwdns21733:0crwdne21733:0",
-	"count-hours-short": "crwdns28066:0crwdne28066:0",
-	"count-day-short": "crwdns21734:0crwdne21734:0",
-	"binary-cap": "crwdns31384:0crwdne31384:0",
-	"error-too-small-bet": "crwdns21736:0crwdne21736:0",
-	"error-too-big-bet": "crwdns21737:0crwdne21737:0",
-	"error-wrong-expiration": "crwdns21738:0crwdne21738:0",
-	"not-enough-money": "crwdns27507:0crwdne27507:0",
-	"option-closed-head": "crwdns31386:0crwdne31386:0",
-	"transaction-result": "crwdns21741:0crwdne21741:0",
-	"internet-connection-trouble": "crwdns21742:0crwdne21742:0",
-	"lang-name-locale-en": "crwdns24873:0crwdne24873:0",
-	"lang-name-locale-ru": "crwdns24874:0crwdne24874:0",
-	"lang-name-locale-de": "crwdns24875:0crwdne24875:0",
-	"lang-name-locale-tr": "crwdns24876:0crwdne24876:0",
-	"lang-name-locale-vi": "crwdns24877:0crwdne24877:0",
-	"lang-name-locale-uk": "crwdns24878:0crwdne24878:0",
-	"lang-name-locale-th": "crwdns24879:0crwdne24879:0",
-	"lang-name-locale-it": "crwdns26428:0crwdne26428:0",
-	"lang-name-locale-pl": "crwdns26430:0crwdne26430:0",
-	"lang-name-chinese": "crwdns21745:0crwdne21745:0",
-	"timezone-info": "crwdns21746:0crwdne21746:0",
-	"you-started-using-real-wallet": "crwdns27511:0crwdne27511:0",
-	"you-started-using-tment-wallet": "crwdns27513:0crwdne27513:0",
-	"tournaments": "crwdns21749:0crwdne21749:0",
-	"currents": "crwdns21750:0crwdne21750:0",
-	"futures": "crwdns21751:0crwdne21751:0",
-	"archive": "crwdns21752:0crwdne21752:0",
-	"days": "crwdns21753:0crwdne21753:0",
-	"hours": "crwdns21754:0crwdne21754:0",
-	"minutes": "crwdns21755:0crwdne21755:0",
-	"prize-fond": "crwdns21756:0crwdne21756:0",
-	"participate-price": "crwdns21757:0crwdne21757:0",
-	"prize-places": "crwdns21758:0crwdne21758:0",
-	"tournament-participants-count": "crwdns21759:0crwdne21759:0",
-	"no-tournament-description": "crwdns21760:0crwdne21760:0",
-	"utc-info": "crwdns21761:0crwdne21761:0",
-	"begin-time": "crwdns21762:0crwdne21762:0",
-	"deductions": "crwdns21763:0crwdne21763:0",
-	"reg-in-tournament-for": "crwdns21764:0crwdne21764:0",
-	"reg-in-tournament-for-free": "crwdns31388:0crwdne31388:0",
-	"choose-tournament-to-see-info": "crwdns21765:0crwdne21765:0",
-	"has-reged-in-tournament": "crwdns21766:0crwdne21766:0",
-	"wait-for-reg-in-tournament": "crwdns21767:0crwdne21767:0",
-	"prize-places-low": "crwdns21768:0crwdne21768:0",
-	"starting-balance": "crwdns22320:0crwdne22320:0",
-	"min-deal-size": "crwdns22321:0crwdne22321:0",
-	"max-deal-size": "crwdns22322:0crwdne22322:0",
-	"max-simultaneously-open-deals": "crwdns22323:0crwdne22323:0",
-	"max-amount-of-open-deals": "crwdns22324:0crwdne22324:0",
-	"available-options-types": "crwdns22325:0crwdne22325:0",
-	"tournament-option-type-turbo": "crwdns22326:0crwdne22326:0",
-	"tournament-option-type-binary": "crwdns22327:0crwdne22327:0",
-	"tournament-option-type-both": "crwdns22328:0crwdne22328:0",
-	"tournament-winning-rules": "crwdns25708:0crwdne25708:0",
-	"available-assets": "crwdns25709:0crwdne25709:0",
-	"available-options": "crwdns25710:0crwdne25710:0",
-	"greeting": "crwdns26474:0crwdne26474:0",
-	"cashbox-plus-bonus": "crwdns27877:0crwdne27877:0",
-	"cashbox-input": "crwdns21770:0crwdne21770:0",
-	"cashbox-output": "crwdns21771:0crwdne21771:0",
-	"cashbox-total": "crwdns29314:0crwdne29314:0",
-	"bonus-terms-of-use": "crwdns21772:0crwdne21772:0",
-	"enter-cashbox-input-value": "crwdns21773:0crwdne21773:0",
-	"enter-cashbox-output-value": "crwdns21774:0crwdne21774:0",
-	"do-withdrawal": "crwdns21775:0crwdne21775:0",
-	"amount-due": "crwdns21776:0crwdne21776:0",
-	"will-recieve-to-account": "crwdns21777:0crwdne21777:0",
-	"i-wanna-get-bonus": "crwdns21778:0crwdne21778:0",
-	"enter-cashbox-card-type": "crwdns21779:0crwdne21779:0",
-	"finish-time": "crwdns21798:0crwdne21798:0",
-	"top-users": "crwdns21799:0crwdne21799:0",
-	"member": "crwdns21800:0crwdne21800:0",
-	"balance": "crwdns21801:0crwdne21801:0",
-	"prize": "crwdns21802:0crwdne21802:0",
-	"hint-split-view-button": "crwdns21780:0crwdne21780:0",
-	"hint-user-profile-button": "crwdns21781:0crwdne21781:0",
-	"hint-asset-stat": "crwdns21782:0crwdne21782:0",
-	"hint-sound-button": "crwdns21783:0crwdne21783:0",
-	"hint-platform-time": "crwdns21784:0crwdne21784:0",
-	"hint-profitability": "crwdns21785:0crwdne21785:0",
-	"hint-payout": "crwdns21786:0crwdne21786:0",
-	"hint-real-acc": "crwdns21787:0crwdne21787:0",
-	"hint-demo-acc": "crwdns21789:0crwdne21789:0",
-	"hint-tournament-acc": "crwdns21788:0crwdne21788:0",
-	"hint-settings": "crwdns21790:0crwdne21790:0",
-	"hint-support": "crwdns21791:0crwdne21791:0",
-	"hint-graph-type": "crwdns21792:0crwdne21792:0",
-	"hint-candle-interval": "crwdns21793:0crwdne21793:0",
-	"hint-user-lines": "crwdns21794:0crwdne21794:0",
-	"hint-secondary-lines": "crwdns21795:0crwdne21795:0",
-	"hint-centerize": "crwdns21796:0crwdne21796:0",
-	"hint-zoom-level": "crwdns21797:0crwdne21797:0",
-	"tournament": "crwdns21803:0crwdne21803:0",
-	"loading": "crwdns21804:0crwdne21804:0",
-	"you-are-in-tournament": "crwdns21805:0crwdne21805:0",
-	"repeat-tournament": "crwdns21806:0crwdne21806:0",
-	"unsupported-browser": "crwdns21807:0crwdne21807:0",
-	"account-is-for-educ": "crwdns21808:0crwdne21808:0",
-	"participate-in-demo-tments": "crwdns21812:0crwdne21812:0",
-	"use-real-money": "crwdns21813:0crwdne21813:0",
-	"participate-tments-with-real-money": "crwdns21814:0crwdne21814:0",
-	"native-deal-closed-body": "crwdns21810:0crwdne21810:0",
-	"tournaments-rules": "crwdns21811:0crwdne21811:0",
-	"tournaments-rules-2": "crwdns27515:0crwdne27515:0",
-	"get-trade-exp": "crwdns21809:0crwdne21809:0",
-	"tment-begins-in": "crwdns21815:0crwdne21815:0",
-	"tment-ends-in": "crwdns21816:0crwdne21816:0",
-	"tment-has-ended": "crwdns21817:0crwdne21817:0",
-	"tment-just-ended": "crwdns21818:0crwdne21818:0",
-	"tment-just-started": "crwdns21819:0crwdne21819:0",
-	"tment-just-created": "crwdns21820:0crwdne21820:0",
-	"read-more": "crwdns21821:0crwdne21821:0",
-	"history-is-empty": "crwdns21822:0crwdne21822:0",
-	"tournaments-current-is-empty": "crwdns31390:0crwdne31390:0",
-	"tournaments-future-is-empty": "crwdns27519:0crwdne27519:0",
-	"tournaments@current-empty": "crwdns31646:0crwdne31646:0",
-	"tournaments-ended-is-empty": "crwdns21825:0crwdne21825:0",
-	"upper-indicator-line": "crwdns21826:0crwdne21826:0",
-	"lower-indicator-line": "crwdns21827:0crwdne21827:0",
-	"stoch-overbuy-value": "crwdns21828:0crwdne21828:0",
-	"stoch-overbuy-line-width": "crwdns27521:0crwdne27521:0",
-	"stoch-overbuy-line-color": "crwdns27523:0crwdne27523:0",
-	"stoch-oversell-value": "crwdns21831:0crwdne21831:0",
-	"stoch-oversell-line-width": "crwdns27525:0crwdne27525:0",
-	"stoch-oversell-line-color": "crwdns27527:0crwdne27527:0",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "crwdns21834:0crwdne21834:0",
-	"889954f14a3839c141bd8d5102094fbb": "crwdns21835:0crwdne21835:0",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "crwdns21836:0crwdne21836:0",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "crwdns21837:0crwdne21837:0",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "crwdns21838:0crwdne21838:0",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "crwdns27529:0crwdne27529:0",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "crwdns21840:0crwdne21840:0",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "crwdns21841:0crwdne21841:0",
-	"478618a7-95ba-473d-9101-cabd45e49115": "crwdns21842:0crwdne21842:0",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "crwdns21843:0crwdne21843:0",
-	"3e5af93fb888b4aa77301a7603e113d5": "crwdns21844:0crwdne21844:0",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "crwdns21845:0crwdne21845:0",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "crwdns21846:0crwdne21846:0",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "crwdns21847:0crwdne21847:0",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "crwdns21848:0crwdne21848:0",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "crwdns21849:0crwdne21849:0",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "crwdns21850:0crwdne21850:0",
-	"661d3bc6c153e42a3658855010678cbd": "crwdns21851:0crwdne21851:0",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "crwdns21852:0crwdne21852:0",
-	"2d2ba82dd886ba3b69da804675842ff5": "crwdns21853:0crwdne21853:0",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "crwdns21854:0crwdne21854:0",
-	"f029308ab5f1672de0b7615c4fa33386": "crwdns21855:0crwdne21855:0",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "crwdns21856:0crwdne21856:0",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "crwdns21857:0crwdne21857:0",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "crwdns21858:0crwdne21858:0",
-	"f3a5b44d01097d966072b90187a16ec6": "crwdns21859:0crwdne21859:0",
-	"296ea5496bee3177c83ac27a1dc5bb10": "crwdns21860:0crwdne21860:0",
-	"fc53df7c4944ebb53e8b3713126ae226": "crwdns31394:0crwdne31394:0",
-	"0f8e85ca21aa2e33752728cf5e843e35": "crwdns21862:0crwdne21862:0",
-	"cbce1334c90e82f44381abe99b98fe5c": "crwdns22329:0crwdne22329:0",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "crwdns27531:0crwdne27531:0",
-	"promo-ends-in": "crwdns21863:0crwdne21863:0",
-	"your-promocode": "crwdns21864:0crwdne21864:0",
-	"from-value-to-value": "crwdns27533:0crwdne27533:0",
-	"deposit-sum": "crwdns21866:0crwdne21866:0",
-	"bonus-sum": "crwdns21867:0crwdne21867:0",
-	"promos-rules": "crwdns21868:0crwdne21868:0",
-	"promos-rules-2": "crwdns27535:0crwdne27535:0",
-	"participate-promo": "crwdns21869:0crwdne21869:0",
-	"promo-has-ended": "crwdns21870:0crwdne21870:0",
-	"no-promos-description": "crwdns21871:0crwdne21871:0",
-	"promos-is-empty": "crwdns28658:0crwdne28658:0",
-	"first-launch-disclaimer-content": "crwdns21873:0crwdne21873:0",
-	"accept": "crwdns21874:0crwdne21874:0",
-	"trading-session-closed": "crwdns21875:0crwdne21875:0",
-	"special-offer": "crwdns21876:0crwdne21876:0",
-	"continue": "crwdns21877:0crwdne21877:0",
-	"seconds": "crwdns21878:0crwdne21878:0",
-	"trading-sess-starts-in": "crwdns21879:0crwdne21879:0",
-	"trading-session-closed-info-0": "crwdns21880:0crwdne21880:0",
-	"trading-session-closed-info-1": "crwdns21881:0crwdne21881:0",
-	"trading-session-closed-info-2": "crwdns21882:0crwdne21882:0",
-	"trading-session-closed-info-3": "crwdns21883:0crwdne21883:0",
-	"asset": "crwdns21884:0crwdne21884:0",
-	"additional-info": "crwdns21885:0crwdne21885:0",
-	"fill-profile-to-continue": "crwdns21886:0crwdne21886:0",
-	"fill-username-heading": "crwdns26586:0crwdne26586:0",
-	"fill-username-text": "crwdns26588:0crwdne26588:0",
-	"fill-username-placeholder": "crwdns26590:0crwdne26590:0",
-	"save-and-continue": "crwdns26592:0crwdne26592:0",
-	"profile-name": "crwdns21887:0crwdne21887:0",
-	"profile-surname": "crwdns21888:0crwdne21888:0",
-	"profile-telephone": "crwdns21889:0crwdne21889:0",
-	"start-trading": "crwdns21890:0crwdne21890:0",
-	"personal-data-safety": "crwdns21891:0crwdne21891:0",
-	"bonus": "crwdns21892:0crwdne21892:0",
-	"new-bonus": "crwdns27787:0crwdne27787:0",
-	"received-bonus": "crwdns26730:0crwdne26730:0",
-	"received-bonus-value": "crwdns26732:0crwdne26732:0",
-	"mobile-received-bonus-value": "crwdns26734:0crwdne26734:0",
-	"expires-in": "crwdns21893:0crwdne21893:0",
-	"cannot-buy-option-try-later": "crwdns21894:0crwdne21894:0",
-	"notifications$demo-option-limit": "crwdns28084:0crwdne28084:0",
-	"max-total-bet-limit-exceeded": "crwdns21895:0crwdne21895:0",
-	"chart-opens-in": "crwdns28086:0crwdne28086:0",
-	"hint-activate-tment-wallet": "crwdns21897:0crwdne21897:0",
-	"largest-profit-banner-on-the-asset": "crwdns21898:0crwdne21898:0",
-	"largest-profit-banner-button-trade-caption": "crwdns21899:0crwdne21899:0",
-	"largest-profit-banner-button-trade-caption-2": "crwdns31396:0crwdne31396:0",
-	"largest-profit-banner-text": "crwdns26476:0crwdne26476:0",
-	"largest-profit-banner-text-2": "crwdns31648:0crwdne31648:0",
-	"largest-profit-height-profit": "crwdns26478:0crwdne26478:0",
-	"largest-profit-height-profit-2": "crwdns27541:0crwdne27541:0",
-	"offer-expires-in": "crwdns21900:0crwdne21900:0",
-	"offer-expires-in-2": "crwdns31400:0crwdne31400:0",
-	"warning": "crwdns21901:0crwdne21901:0",
-	"banner-tech-works-info-caption": "crwdns21902:0crwdne21902:0",
-	"banner-tech-works-info-content": "crwdns21903:0crwdne21903:0",
-	"confirm-email-content": "crwdns21904:0crwdne21904:0",
-	"confirm-email-caption": "crwdns21905:0crwdne21905:0",
-	"reload": "crwdns21906:0crwdne21906:0",
-	"resend-confirmation": "crwdns21907:0crwdne21907:0",
-	"resend-confirmation-again": "crwdns21908:0crwdne21908:0",
-	"confirmation-mail-sent": "crwdns21909:0crwdne21909:0",
-	"banner-not-enough-funds-for-tment": "crwdns21910:0crwdne21910:0",
-	"tment-reenter-not-allowed": "crwdns26594:0crwdne26594:0",
-	"fill-profile-wrong-phone": "crwdns21911:0crwdne21911:0",
-	"fill-profile-wrong-name": "crwdns21912:0crwdne21912:0",
-	"fill-profile-wrong-surname": "crwdns21913:0crwdne21913:0",
-	"fill-user-wrong-promocode": "crwdns21914:0crwdne21914:0",
-	"wrong-promocode-max-sum": "crwdns28660:0crwdne28660:0",
-	"wrong-promocode-min-sum": "crwdns28662:0crwdne28662:0",
-	"wrong-withdrawal-min-sum": "crwdns26540:0crwdne26540:0",
-	"wrong-withdrawal-max-sum": "crwdns26542:0crwdne26542:0",
-	"wrong-promocode-expired": "crwdns27545:0crwdne27545:0",
-	"wrong-promocode-only-for-second-deposit": "crwdns22333:0crwdne22333:0",
-	"wrong-promocode-only-for-first-deposit": "crwdns22334:0crwdne22334:0",
-	"wrong-promocode-used": "crwdns26596:0crwdne26596:0",
-	"fill-user-wrong-phone": "crwdns21915:0crwdne21915:0",
-	"fill-user-wrong-card": "crwdns21916:0crwdne21916:0",
-	"fill-user-wrong-customer_purse": "crwdns26438:0crwdne26438:0",
-	"fill-user-wrong-name": "crwdns26490:0crwdne26490:0",
-	"fill-user-wrong-surname": "crwdns26492:0crwdne26492:0",
-	"please-rotate-device": "crwdns27547:0crwdne27547:0",
-	"swipe-up-to-enter-fs": "crwdns21918:0crwdne21918:0",
-	"click-to-enter-fs": "crwdns26480:0crwdne26480:0",
-	"reconnect": "crwdns21919:0crwdne21919:0",
-	"reconnected": "crwdns21920:0crwdne21920:0",
-	"free-reg": "crwdns21921:0crwdne21921:0",
-	"investments": "crwdns27807:0crwdne27807:0",
-	"investments_short": "crwdns27749:0crwdne27749:0",
-	"investment_short": "crwdns27881:0crwdne27881:0",
-	"buy-time": "crwdns21923:0crwdne21923:0",
-	"total-investment": "crwdns21924:0crwdne21924:0",
-	"total-income": "crwdns21925:0crwdne21925:0",
-	"result": "crwdns21926:0crwdne21926:0",
-	"ur-income-would-be": "crwdns21927:0crwdne21927:0",
-	"create-account-for-free": "crwdns21928:0crwdne21928:0",
-	"resume-use-demo": "crwdns21929:0crwdne21929:0",
-	"reg-request-message": "crwdns21930:0crwdne21930:0",
-	"trade-without-restrictions": "crwdns21931:0crwdne21931:0",
-	"trade-without-restrictions-message": "crwdns21932:0crwdne21932:0",
-	"use-real-wallet": "crwdns21933:0crwdne21933:0",
-	"support": "crwdns21934:0crwdne21934:0",
-	"search-asset": "crwdns21935:0crwdne21935:0",
-	"error-sending-email-confirmation": "crwdns21936:0crwdne21936:0",
-	"error-sending-email-confirmation-with-time": "crwdns26736:0crwdne26736:0",
-	"risk-free-trades": "crwdns21937:0crwdne21937:0",
-	"count-trades-for-bet": "crwdns21938:0crwdne21938:0",
-	"count-x-bet": "crwdns26616:0crwdne26616:0",
-	"White": "crwdns21940:0crwdne21940:0",
-	"Red": "crwdns21941:0crwdne21941:0",
-	"Pink": "crwdns21942:0crwdne21942:0",
-	"Purple": "crwdns21943:0crwdne21943:0",
-	"Deep Purple": "crwdns21944:0crwdne21944:0",
-	"Indigo": "crwdns21945:0crwdne21945:0",
-	"Blue": "crwdns21946:0crwdne21946:0",
-	"Cyan": "crwdns21947:0crwdne21947:0",
-	"Green": "crwdns21948:0crwdne21948:0",
-	"Light Green": "crwdns21949:0crwdne21949:0",
-	"Lime": "crwdns21950:0crwdne21950:0",
-	"Yellow": "crwdns21951:0crwdne21951:0",
-	"Amber": "crwdns21952:0crwdne21952:0",
-	"Orange": "crwdns21953:0crwdne21953:0",
-	"tournament-accounts": "crwdns27751:0crwdne27751:0",
-	"activate-tournament-wallet": "crwdns21954:0crwdne21954:0",
-	"deposit-using-agreements-header": "crwdns21955:0crwdne21955:0",
-	"deposit-using-agreements-p1": "crwdns21956:0crwdne21956:0",
-	"deposit-using-agreements-p2": "crwdns21957:0crwdne21957:0",
-	"deposit-using-agreements-p3": "crwdns27549:0crwdne27549:0",
-	"choose-payment-method": "crwdns21959:0crwdne21959:0",
-	"choose-payment-sum": "crwdns21960:0crwdne21960:0",
-	"plus-value-bonus": "crwdns21961:0crwdne21961:0",
-	"deposit-user-sum-value-caption": "crwdns21962:0crwdne21962:0",
-	"i-have-promocode": "crwdns21963:0crwdne21963:0",
-	"requisiste-name-phone": "crwdns21964:0crwdne21964:0",
-	"no-bonus": "crwdns21965:0crwdne21965:0",
-	"refresh": "crwdns21966:0crwdne21966:0",
-	"browser": "crwdns21967:0crwdne21967:0",
-	"make-a-deposit": "crwdns21968:0crwdne21968:0",
-	"cashbox-withdrawal-info-0-header": "crwdns21969:0crwdne21969:0",
-	"cashbox-withdrawal-info-0-content": "crwdns21970:0crwdne21970:0",
-	"cashbox-withdrawal-info-1-header": "crwdns21971:0crwdne21971:0",
-	"cashbox-withdrawal-info-1-content": "crwdns30302:0crwdne30302:0",
-	"cashbox-withdrawal-info-2-header": "crwdns30304:0crwdne30304:0",
-	"cashbox-withdrawal-info-2-content": "crwdns30306:0crwdne30306:0",
-	"cashbox-withdrawal-info-3-header": "crwdns21975:0crwdne21975:0",
-	"cashbox-withdrawal-info-3-content-a": "crwdns27557:0crwdne27557:0",
-	"cashbox-withdrawal-info-3-content-b": "crwdns27559:0crwdne27559:0",
-	"cashbox-withdrawal-info-4-header": "crwdns21978:0crwdne21978:0",
-	"cashbox-withdrawal-info-4-content-a": "crwdns27561:0crwdne27561:0",
-	"cashbox-withdrawal-info-4-content-b": "crwdns27563:0crwdne27563:0",
-	"cashbox-withdrawal-info-5-header": "crwdns27565:0crwdne27565:0",
-	"cashbox-withdrawal-info-5-content-a": "crwdns27567:0crwdne27567:0",
-	"cashbox-withdrawal-info-5-content-b": "crwdns27569:0crwdne27569:0",
-	"cashbox-withdrawal-info-6-header": "crwdns21984:0crwdne21984:0",
-	"cashbox-withdrawal-info-6-content-a": "crwdns27571:0crwdne27571:0",
-	"cashbox-withdrawal-info-6-content-b": "crwdns27573:0crwdne27573:0",
-	"cashbox-withdrawal-info-6-content-c": "crwdns21987:0crwdne21987:0",
-	"cashbox-withdrawal-info-6-content-d": "crwdns27575:0crwdne27575:0",
-	"cashbox-withdrawal-info-7-header": "crwdns27577:0crwdne27577:0",
-	"cashbox-withdrawal-info-7-content": "crwdns27579:0crwdne27579:0",
-	"deposit-info-1": "crwdns26738:0crwdne26738:0",
-	"deposit-info-2": "crwdns26740:0crwdne26740:0",
-	"deposit-info-3": "crwdns27581:0crwdne27581:0",
-	"withdrawal-heading": "crwdns27583:0crwdne27583:0",
-	"withdrawal-content": "crwdns26726:0crwdne26726:0",
-	"withdrawal-restricted-content": "crwdns30174:0crwdne30174:0",
-	"withdrawal-amount-caption": "crwdns21991:0crwdne21991:0",
-	"withdrawal-type-caption": "crwdns21992:0crwdne21992:0",
-	"withdrawal-button-caption": "crwdns21993:0crwdne21993:0",
-	"requisite-name-card": "crwdns21994:0crwdne21994:0",
-	"requisite-name-phone": "crwdns21995:0crwdne21995:0",
-	"requisite-name-customer_purse": "crwdns21996:0crwdne21996:0",
-	"withdrawal-request-sent": "crwdns21997:0crwdne21997:0",
-	"withdrawal-request-sent-extra-info": "crwdns27587:0crwdne27587:0",
-	"withdrawal-method-qiwi_ecom": "crwdns21999:0crwdne21999:0",
-	"withdrawal-method-qiwi": "crwdns22000:0crwdne22000:0",
-	"withdrawal-method-yandex_money_ecom": "crwdns26444:0crwdne26444:0",
-	"withdrawal-method-webmoney_1gp": "crwdns26446:0crwdne26446:0",
-	"withdrawal-method-card": "crwdns22003:0crwdne22003:0",
-	"videohub": "crwdns22004:0crwdne22004:0",
-	"asset-type-all": "crwdns22005:0crwdne22005:0",
-	"asset-type-currency": "crwdns22006:0crwdne22006:0",
-	"asset-type-crypto": "crwdns22007:0crwdne22007:0",
-	"asset-type-goods": "crwdns22008:0crwdne22008:0",
-	"asset-type-countries": "crwdns27769:0crwdne27769:0",
-	"asset-type-leaders": "crwdns27771:0crwdne27771:0",
-	"cashbox-withdrawal-info": "crwdns27589:0crwdne27589:0",
-	"expiration-caption-16": "crwdns22010:0crwdne22010:0",
-	"trends": "crwdns22012:0crwdne22012:0",
-	"show-chart": "crwdns22013:0crwdne22013:0",
-	"hide-chart": "crwdns22014:0crwdne22014:0",
-	"trend-active": "crwdns22015:0crwdne22015:0",
-	"trend-non-active": "crwdns22016:0crwdne22016:0",
-	"trends-is-empty": "crwdns22017:0crwdne22017:0",
-	"what-are-trends": "crwdns22018:0crwdne22018:0",
-	"what-are-trends-advice-content": "crwdns27591:0crwdne27591:0",
-	"not-enough-money-for-trends-detailed": "crwdns27593:0crwdne27593:0",
-	"get-access-to-trends": "crwdns22021:0crwdne22021:0",
-	"trends-features-one": "crwdns27595:0crwdne27595:0",
-	"trends-features-two": "crwdns27597:0crwdne27597:0",
-	"month-0": "crwdns22024:0crwdne22024:0",
-	"month-1": "crwdns22025:0crwdne22025:0",
-	"month-2": "crwdns22026:0crwdne22026:0",
-	"month-3": "crwdns22027:0crwdne22027:0",
-	"month-4": "crwdns22028:0crwdne22028:0",
-	"month-5": "crwdns22029:0crwdne22029:0",
-	"month-6": "crwdns22030:0crwdne22030:0",
-	"month-7": "crwdns22031:0crwdne22031:0",
-	"month-8": "crwdns22032:0crwdne22032:0",
-	"month-9": "crwdns22033:0crwdne22033:0",
-	"month-10": "crwdns22034:0crwdne22034:0",
-	"month-11": "crwdns22035:0crwdne22035:0",
-	"day-0": "crwdns22036:0crwdne22036:0",
-	"day-1": "crwdns22037:0crwdne22037:0",
-	"day-2": "crwdns22038:0crwdne22038:0",
-	"day-3": "crwdns22039:0crwdne22039:0",
-	"day-4": "crwdns22040:0crwdne22040:0",
-	"day-5": "crwdns22041:0crwdne22041:0",
-	"day-6": "crwdns22042:0crwdne22042:0",
-	"trading-room": "crwdns22043:0crwdne22043:0",
-	"trading-room-entering-time": "crwdns22044:0crwdne22044:0",
-	"trading-room-expiration": "crwdns22045:0crwdne22045:0",
-	"trading-room-strength": "crwdns22046:0crwdne22046:0",
-	"trading-room-strike-price": "crwdns22047:0crwdne22047:0",
-	"trading-room-is-empty": "crwdns27887:0crwdne27887:0",
-	"demo-stats-banner-header-caption": "crwdns22335:0crwdne22335:0",
-	"demo-stats-banner-header-caption-2": "crwdns27599:0crwdne27599:0",
-	"demo-stats-banner-you-earned-on-demo": "crwdns27601:0crwdne27601:0",
-	"demo-stats-banner-total-deals-amount": "crwdns22337:0crwdne22337:0",
-	"demo-stats-banner-successfull-deals-percentage": "crwdns22338:0crwdne22338:0",
-	"demo-stats-banner-real-account-opening-request": "crwdns31402:0crwdne31402:0",
-	"demo-stats-banner-open-real-account-button-caption": "crwdns22340:0crwdne22340:0",
-	"demo-stats-banner-keep-trading-on-demo": "crwdns31404:0crwdne31404:0",
-	"demo-stats-banner-you-have-done": "crwdns23206:0crwdne23206:0",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "crwdns26448:0crwdne26448:0",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "crwdns26450:0crwdne26450:0",
-	"demo-stats-banner-earning-on-demo-account": "crwdns31406:0crwdne31406:0",
-	"demo-stats-banner-closed-in-a-row-2": "crwdns31408:0crwdne31408:0",
-	"tour-next-button-caption": "crwdns23210:0crwdne23210:0",
-	"tour-reading-duration-caption": "crwdns23211:0crwdne23211:0",
-	"tour-slides-steps-count": "crwdns23212:0crwdne23212:0",
-	"tour-slide-0-caption": "crwdns23213:0crwdne23213:0",
-	"tour-slide-0-content": "crwdns23214:0crwdne23214:0",
-	"tour-slide-0-content-1": "crwdns26790:0crwdne26790:0",
-	"tour-slide-0-content-2": "crwdns26792:0crwdne26792:0",
-	"tour-slide-0-content-3": "crwdns27605:0crwdne27605:0",
-	"tour-slide-0-content-3-port": "crwdns29316:0crwdne29316:0",
-	"tour-slide-0-extra-info": "crwdns23215:0crwdne23215:0",
-	"tour-slide-1-caption": "crwdns23216:0crwdne23216:0",
-	"tour-slide-1-content": "crwdns23217:0crwdne23217:0",
-	"tour-slide-2-caption": "crwdns23218:0crwdne23218:0",
-	"tour-slide-2-content-a": "crwdns26796:0crwdne26796:0",
-	"tour-slide-2-content-b": "crwdns26798:0crwdne26798:0",
-	"tour-slide-3-caption": "crwdns23221:0crwdne23221:0",
-	"tour-slide-3-content": "crwdns23222:0crwdne23222:0",
-	"tour-slide-4-caption": "crwdns23223:0crwdne23223:0",
-	"tour-slide-4-content": "crwdns23224:0crwdne23224:0",
-	"tour-slide-5-caption": "crwdns23225:0crwdne23225:0",
-	"tour-slide-5-content": "crwdns23226:0crwdne23226:0",
-	"tour-slide-6-caption": "crwdns23227:0crwdne23227:0",
-	"tour-slide-6-additional-caption": "crwdns23228:0crwdne23228:0",
-	"tour-slide-6-a-trading-rules": "crwdns23229:0crwdne23229:0",
-	"tour-slide-6-a-card-0-caption": "crwdns23230:0crwdne23230:0",
-	"tour-slide-6-a-card-0-content-1": "crwdns27843:0crwdne27843:0",
-	"tour-slide-6-a-card-0-content-2": "crwdns27845:0crwdne27845:0",
-	"tour-slide-6-a-card-1-caption": "crwdns27847:0crwdne27847:0",
-	"tour-slide-6-a-card-1-content": "crwdns27849:0crwdne27849:0",
-	"tour-slide-6-a-card-2-caption": "crwdns27851:0crwdne27851:0",
-	"tour-slide-6-a-card-2-content": "crwdns27853:0crwdne27853:0",
-	"tour-slide-6-a-card-3-caption": "crwdns26800:0crwdne26800:0",
-	"tour-slide-6-a-card-3-button-caption": "crwdns23237:0crwdne23237:0",
-	"tour-slide-6-a-dont-show-again": "crwdns28536:0crwdne28536:0",
-	"tour-slide-6-b-trading-rules": "crwdns23239:0crwdne23239:0",
-	"tour-slide-6-b-card-0-caption": "crwdns23240:0crwdne23240:0",
-	"tour-slide-6-b-card-0-content": "crwdns26816:0crwdne26816:0",
-	"tour-slide-6-b-card-1-caption": "crwdns26804:0crwdne26804:0",
-	"tour-slide-6-b-card-1-content": "crwdns23243:0crwdne23243:0",
-	"tour-slide-6-b-card-2-caption": "crwdns26806:0crwdne26806:0",
-	"tour-slide-6-b-card-2-content": "crwdns26948:0crwdne26948:0",
-	"tour-slide-6-b-card-3-caption": "crwdns23246:0crwdne23246:0",
-	"tour-slide-6-b-card-3-button-caption": "crwdns26946:0crwdne26946:0",
-	"tour-slide-6-b-dont-show-again": "crwdns23248:0crwdne23248:0",
-	"user-terms-caption": "crwdns26456:0crwdne26456:0",
-	"what-is-trading-room": "crwdns26458:0crwdne26458:0",
-	"what-is-trading-room-advice-content": "crwdns27607:0crwdne27607:0",
-	"not-enough-money-for-trading-room-detailed": "crwdns27609:0crwdne27609:0",
-	"get-access-to-trading-room": "crwdns27611:0crwdne27611:0",
-	"have-access-to-trading-room": "crwdns26746:0crwdne26746:0",
-	"trading-room-features-one": "crwdns26466:0crwdne26466:0",
-	"trading-room-features-two": "crwdns26468:0crwdne26468:0",
-	"trading-room_1-title": "crwdns27613:0crwdne27613:0",
-	"trading-room_1-text": "crwdns27615:0crwdne27615:0",
-	"trading-room_2-title": "crwdns27617:0crwdne27617:0",
-	"trading-room_2-text": "crwdns27619:0crwdne27619:0",
-	"trading-room_refill": "crwdns27621:0crwdne27621:0",
-	"account_level": "crwdns27623:0crwdne27623:0",
-	"modal-confirm_title": "crwdns27625:0crwdne27625:0",
-	"modal-confirm_text-1": "crwdns31410:0crwdne31410:0",
-	"modal-confirm_text-2": "crwdns31650:0crwdne31650:0",
-	"modal-confirm_button": "crwdns27631:0crwdne27631:0",
-	"modal-confirm_error-1-1": "crwdns27633:0crwdne27633:0",
-	"modal-confirm_error-1-2": "crwdns27635:0crwdne27635:0",
-	"modal-confirm_support": "crwdns31412:0crwdne31412:0",
-	"timer_days": "crwdns27797:0crwdne27797:0",
-	"timer_hours": "crwdns27799:0crwdne27799:0",
-	"timer_minutes": "crwdns27801:0crwdne27801:0",
-	"timer_seconds": "crwdns27803:0crwdne27803:0",
-	"tournament_button": "crwdns27647:0crwdne27647:0",
-	"modal-oneclick_title": "crwdns27649:0crwdne27649:0",
-	"modal-oneclick_text": "crwdns27651:0crwdne27651:0",
-	"modal-oneclick_button": "crwdns27653:0crwdne27653:0",
-	"modal-tbalance_title": "crwdns27655:0crwdne27655:0",
-	"modal-tbalance_text": "crwdns27657:0crwdne27657:0",
-	"modal-tbalance_button": "crwdns27659:0crwdne27659:0",
-	"modal-tech_title": "crwdns31414:0crwdne31414:0",
-	"modal-tech_text-1": "crwdns31652:0crwdne31652:0",
-	"modal-tech_text-2": "crwdns31654:0crwdne31654:0",
-	"modal-tech_button": "crwdns27667:0crwdne27667:0",
-	"modal-session_title": "crwdns27669:0crwdne27669:0",
-	"modal-session_text-1": "crwdns27671:0crwdne27671:0",
-	"modal-session_text-2": "crwdns27673:0crwdne27673:0",
-	"modal-session_text-3": "crwdns27675:0crwdne27675:0",
-	"modal-session_text-4": "crwdns27677:0crwdne27677:0",
-	"modal-session_button": "crwdns27679:0crwdne27679:0",
-	"modal-tn_title": "crwdns27681:0crwdne27681:0",
-	"modal-tn_text-1": "crwdns27683:0crwdne27683:0",
-	"modal-tn_text-2": "crwdns27685:0crwdne27685:0",
-	"modal-tn_text-3": "crwdns27687:0crwdne27687:0",
-	"modal-tn_button": "crwdns27689:0crwdne27689:0",
-	"modal-nickname_title": "crwdns27691:0crwdne27691:0",
-	"modal-nickname_text": "crwdns27693:0crwdne27693:0",
-	"modal-nickname_button": "crwdns27695:0crwdne27695:0",
-	"modal-nickname_placeholder": "crwdns31420:0crwdne31420:0",
-	"modal-profile_title": "crwdns27697:0crwdne27697:0",
-	"modal-profile_text": "crwdns27699:0crwdne27699:0",
-	"modal-profile_name": "crwdns27701:0crwdne27701:0",
-	"modal-profile_surname": "crwdns27703:0crwdne27703:0",
-	"modal-profile_phone": "crwdns31422:0crwdne31422:0",
-	"modal-profile_button": "crwdns27707:0crwdne27707:0",
-	"modal-profile_aside": "crwdns27709:0crwdne27709:0",
-	"form-error_required": "crwdns31424:0crwdne31424:0",
-	"form-error_name-short": "crwdns27713:0crwdne27713:0",
-	"form-error_name-format": "crwdns31426:0crwdne31426:0",
-	"form-error_surname-short": "crwdns27717:0crwdne27717:0",
-	"form-error_surname-format": "crwdns31428:0crwdne31428:0",
-	"form-error_phone-format": "crwdns31430:0crwdne31430:0",
-	"srv-err_asset-is-disabled": "crwdns27777:0crwdne27777:0",
-	"srv-err_asset-is-disabled-for-this-tournament": "crwdns27779:0crwdne27779:0",
-	"srv-err_binary-is-disabled-for-this-tournament": "crwdns27861:0crwdne27861:0",
-	"srv-err_turbo-is-disabled-for-this-tournament": "crwdns27863:0crwdne27863:0",
-	"tournament@btn.paid-participate": "crwdns28008:0crwdne28008:0",
-	"tournament@info.paid": "crwdns28010:0crwdne28010:0",
-	"faq@title": "crwdns28520:0crwdne28520:0",
-	"menu@faq": "crwdns28518:0crwdne28518:0",
-	"menu@education": "crwdns31432:0crwdne31432:0",
-	"menu@qa": "crwdns31434:0crwdne31434:0",
-	"menu@strategies": "crwdns31436:0crwdne31436:0",
-	"menu@btn$back": "crwdns31438:0crwdne31438:0",
-	"cashbox@no-bonus": "crwdns28558:0crwdne28558:0",
-	"wallet-menu@real-title": "crwdns28560:0crwdne28560:0",
-	"wallet-menu@bonus-title": "crwdns28562:0crwdne28562:0",
-	"wallet-menu@wager-title": "crwdns28564:0crwdne28564:0",
-	"wallet-menu@wager-link": "crwdns28566:0crwdne28566:0",
-	"modal-bonus@title": "crwdns28604:0crwdne28604:0",
-	"modal-bonus@text": "crwdns28606:0crwdne28606:0",
-	"modal-bonus@deal-size": "crwdns28608:0crwdne28608:0",
-	"modal-bonus@real-size": "crwdns28610:0crwdne28610:0",
-	"modal-bonus@bonus-size": "crwdns28612:0crwdne28612:0",
-	"modal-bonus@info": "crwdns28614:0crwdne28614:0",
-	"modal-bonus@faq": "crwdns28616:0crwdne28616:0",
-	"modal-bonus@btn-cancel": "crwdns28618:0crwdne28618:0",
-	"modal-bonus@btn-continue": "crwdns28620:0crwdne28620:0",
-	"modal-bonus@disable": "crwdns28622:0crwdne28622:0",
-	"trends@restrict-title": "crwdns28624:0crwdne28624:0",
-	"trends@restrict-text": "crwdns28626:0crwdne28626:0",
-	"asset-menu@title": "crwdns28674:0crwdne28674:0",
-	"asset-menu@available": "crwdns28676:0crwdne28676:0",
-	"asset-menu@profitable": "crwdns28678:0crwdne28678:0",
-	"asset-menu@interval": "crwdns28680:0crwdne28680:0",
-	"confirm-trade@header": "crwdns28734:0crwdne28734:0",
-	"confirm-trade@timer": "crwdns28762:0crwdne28762:0",
-	"confirm-trade@heading": "crwdns28738:0crwdne28738:0",
-	"confirm-trade@asset": "crwdns28740:0crwdne28740:0",
-	"confirm-trade@direction": "crwdns28742:0crwdne28742:0",
-	"confirm-trade@investment": "crwdns28744:0crwdne28744:0",
-	"confirm-trade@price": "crwdns28746:0crwdne28746:0",
-	"confirm-trade@profitability": "crwdns28748:0crwdne28748:0",
-	"confirm-trade@payout": "crwdns28750:0crwdne28750:0",
-	"confirm-trade@btn-cancel": "crwdns28752:0crwdne28752:0",
-	"confirm-trade@btn-confirm": "crwdns28754:0crwdne28754:0",
-	"plot@loading": "crwdns28770:0crwdne28770:0",
-	"plot@lock-time": "crwdns28772:0crwdne28772:0",
-	"plot@expiration-time": "crwdns28774:0crwdne28774:0",
-	"tr-empty@text": "crwdns28786:0crwdne28786:0",
-	"tr-empty@business": "crwdns28788:0crwdne28788:0",
-	"tr-empty@vip": "crwdns28790:0crwdne28790:0",
-	"tr-empty@open-btn": "crwdns28792:0crwdne28792:0",
-	"tr-empty@deposit-btn": "crwdns28794:0crwdne28794:0",
-	"tr-empty@vip-signals": "crwdns28798:0crwdne28798:0",
-	"hb@menu-btn": "crwdns29318:0crwdne29318:0",
-	"ac-types@title": "crwdns30076:0crwdne30076:0",
-	"ac-types@label_depositSum": "crwdns30078:0crwdne30078:0",
-	"ac-types@label_tradeback": "crwdns30080:0crwdne30080:0",
-	"ac-types@label_tradebackEnrolment": "crwdns30176:0crwdne30176:0",
-	"ac-types@label_assets": "crwdns30178:0crwdne30178:0",
-	"ac-types@label_withdrawalCountLimit": "crwdns30180:0crwdne30180:0",
-	"ac-types@label_withdrawalAmountLimit": "crwdns30182:0crwdne30182:0",
-	"ac-types@label_withdrawalDayAmountLimit": "crwdns30368:0crwdne30368:0",
-	"ac-types@label_tradingRoom": "crwdns30090:0crwdne30090:0",
-	"ac-types@label_openDealsSum": "crwdns30184:0crwdne30184:0",
-	"ac-types@value_real": "crwdns31440:0crwdne31440:0",
-	"ac-types@value_bonus": "crwdns31442:0crwdne31442:0",
-	"ac-types@value_nolimit": "crwdns31444:0crwdne31444:0",
-	"ac-types@btn": "crwdns30190:0crwdne30190:0",
-	"ac-types@self": "crwdns30192:0crwdne30192:0",
-	"ac-types@tradeback-hint": "crwdns30104:0crwdne30104:0",
-	"video-tutorial@title": "crwdns30194:0crwdne30194:0",
-	"video-tutorial@checkbox": "crwdns30196:0crwdne30196:0",
-	"user-menu@account-types": "crwdns30328:0crwdne30328:0",
-	"withdrawal-error@amount-limit": "crwdns30336:0crwdne30336:0",
-	"withdrawal@limit-with-counter": "crwdns30344:0crwdne30344:0",
-	"promo-gift@bonus": "crwdns30356:0crwdne30356:0",
-	"promo-gift@freeSpins": "crwdns30358:0crwdne30358:0",
-	"promo-gift@tradeRoom": "crwdns30398:0crwdne30398:0",
-	"promo-gift@tickets": "crwdns30362:0crwdne30362:0",
-	"settings@quality-title": "crwdns31664:0crwdne31664:0",
-	"settings@quality-hint": "crwdns30710:0crwdne30710:0",
-	"settings@quality-option-base": "crwdns30712:0crwdne30712:0",
-	"settings@quality-option-average": "crwdns30714:0crwdne30714:0",
-	"settings@quality-option-best": "crwdns30716:0crwdne30716:0",
-	"history@group$active": "crwdns31566:0crwdne31566:0",
-	"history@group$finished": "crwdns31568:0crwdne31568:0",
-	"st@level$all": "crwdns31722:0crwdne31722:0",
-	"st@level$easy": "crwdns31570:0crwdne31570:0",
-	"st@level$base": "crwdns31572:0crwdne31572:0",
-	"st@level$advanced": "crwdns31574:0crwdne31574:0",
-	"promo@btn$details": "crwdns31576:0crwdne31576:0",
-	"promo@timer$name": "crwdns31578:0crwdne31578:0",
-	"promo@until": "crwdns31580:0crwdne31580:0",
-	"wallet@btn$refill": "crwdns31582:0crwdne31582:0",
-	"tournament@prize-fund": "crwdns31584:0crwdne31584:0",
-	"tournament@prize-places": "crwdns31586:0crwdne31586:0",
-	"tournament@tab$restrictions": "crwdns31656:0crwdne31656:0",
-	"tournament@tab$rating": "crwdns31590:0crwdne31590:0",
-	"tournament@tab$current": "crwdns31592:0crwdne31592:0",
-	"tournament@tab$soon": "crwdns31594:0crwdne31594:0",
-	"tournament@timer$start": "crwdns31596:0crwdne31596:0",
-	"tournament@timer$end": "crwdns31598:0crwdne31598:0",
-	"section@title$bet": "crwdns31600:0crwdne31600:0",
-	"bet@tab$deposit": "crwdns31602:0crwdne31602:0",
-	"forecast@deal": "crwdns31604:0crwdne31604:0",
-	"forecast@deals": "crwdns31606:0crwdne31606:0",
-	"promo@days-short": "crwdns31608:0crwdne31608:0",
-	"settings@group$region": "crwdns31610:0crwdne31610:0",
-	"settings@group$design": "crwdns31612:0crwdne31612:0",
-	"menu@account-type": "crwdns31614:0crwdne31614:0",
-	"menu@profile": "crwdns31616:0crwdne31616:0",
-	"leaderboard@tournament": "crwdns31618:0crwdne31618:0",
-	"leaderboard$toggle@open": "crwdns31658:0crwdne31658:0",
-	"leaderboard$toggle@close": "crwdns31622:0crwdne31622:0",
-	"disabled-timer@title": "crwdns31624:0crwdne31624:0",
-	"open-option$total$deals": "crwdns31626:0crwdne31626:0",
-	"open-option$total$invest": "crwdns31628:0crwdne31628:0",
-	"open-option$total$payout": "crwdns31630:0crwdne31630:0",
-	"chat-button@text": "crwdns31632:0crwdne31632:0",
-	"accounts@popular": "crwdns31634:0crwdne31634:0",
-	"settings@animation": "crwdns31700:0crwdne31700:0",
-	"settings@animation-disabled": "crwdns31694:0crwdne31694:0",
-	"settings@animation-enabled": "crwdns31696:0crwdne31696:0"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","crwdns24832:0crwdne24832:0"
+"dearUser","crwdns21601:0crwdne21601:0"
+"error","crwdns21602:0crwdne21602:0"
+"settings","crwdns21603:0crwdne21603:0"
+"settings-2","crwdns27497:0crwdne27497:0"
+"regionalSettings","crwdns27499:0crwdne27499:0"
+"timezone","crwdns21605:0crwdne21605:0"
+"timezone-2","crwdns27501:0crwdne27501:0"
+"language","crwdns21606:0crwdne21606:0"
+"skin-theme","crwdns21607:0crwdne21607:0"
+"ui-zoom","crwdns21608:0crwdne21608:0"
+"ui-zoom-2","crwdns27503:0crwdne27503:0"
+"investment","crwdns21609:0crwdne21609:0"
+"payout","crwdns21610:0crwdne21610:0"
+"options","crwdns21611:0crwdne21611:0"
+"quote","crwdns21612:0crwdne21612:0"
+"time","crwdns21613:0crwdne21613:0"
+"past","crwdns28602:0crwdne28602:0"
+"active","crwdns21615:0crwdne21615:0"
+"value","crwdns21616:0crwdne21616:0"
+"add","crwdns21617:0crwdne21617:0"
+"add-new-chart","crwdns21618:0crwdne21618:0"
+"charts-arrangement","crwdns21619:0crwdne21619:0"
+"turbo-cap","crwdns31364:0crwdne31364:0"
+"count-chart","crwdns21621:0crwdne21621:0"
+"count-charts","crwdns21622:0crwdne21622:0"
+"one-chart","crwdns21623:0crwdne21623:0"
+"two-charts","crwdns21624:0crwdne21624:0"
+"three-charts","crwdns21625:0crwdne21625:0"
+"four-charts","crwdns21626:0crwdne21626:0"
+"refill","crwdns21627:0crwdne21627:0"
+"wallets-types","crwdns27747:0crwdne27747:0"
+"history","crwdns21628:0crwdne21628:0"
+"cashbox","crwdns21629:0crwdne21629:0"
+"education","crwdns21630:0crwdne21630:0"
+"education@category$videos","crwdns31366:0crwdne31366:0"
+"promos","crwdns21631:0crwdne21631:0"
+"trading-history","crwdns21632:0crwdne21632:0"
+"section-under-construction","crwdns21633:0crwdne21633:0"
+"count-purchase","crwdns21634:0crwdne21634:0"
+"count-purchases","crwdns26426:0crwdne26426:0"
+"total-payout","crwdns26788:0crwdne26788:0"
+"cancel","crwdns21636:0crwdne21636:0"
+"apply","crwdns21637:0crwdne21637:0"
+"period","crwdns21638:0crwdne21638:0"
+"stochastic-smoothing","crwdns31762:0crwdne31762:0"
+"stochastic-overbought","crwdns31764:0crwdne31764:0"
+"stochastic-oversold","crwdns31766:0crwdne31766:0"
+"fast-stochastic-period","crwdns27833:0crwdne27833:0"
+"slow-stochastic-period","crwdns27835:0crwdne27835:0"
+"fast-stochastic-line-color","crwdns27837:0crwdne27837:0"
+"slow-stochastic-line-color","crwdns27839:0crwdne27839:0"
+"fast-stochastic-line-thickness","crwdns27841:0crwdne27841:0"
+"fast-macd-period","crwdns30632:0crwdne30632:0"
+"slow-macd-period","crwdns30634:0crwdne30634:0"
+"signal-macd-period","crwdns30636:0crwdne30636:0"
+"fast-macd-line-thickness","crwdns30638:0crwdne30638:0"
+"signal_line_color","crwdns30640:0crwdne30640:0"
+"oversold","crwdns30664:0crwdne30664:0"
+"macd_color","crwdns30660:0crwdne30660:0"
+"line-thickness","crwdns21639:0crwdne21639:0"
+"line-color","crwdns21640:0crwdne21640:0"
+"line-offset","crwdns26582:0crwdne26582:0"
+"top-line-thickness","crwdns21641:0crwdne21641:0"
+"mid-line-thickness","crwdns21642:0crwdne21642:0"
+"slow_period","crwdns30580:0crwdne30580:0"
+"fast_period","crwdns30582:0crwdne30582:0"
+"short_period","crwdns30590:0crwdne30590:0"
+"long_period","crwdns30592:0crwdne30592:0"
+"offset","crwdns21643:0crwdne21643:0"
+"bottom-line-thickness","crwdns21644:0crwdne21644:0"
+"bottom-line-period","crwdns26534:0crwdne26534:0"
+"top-line-color","crwdns21645:0crwdne21645:0"
+"top-line-period","crwdns26536:0crwdne26536:0"
+"mid-line-color","crwdns21646:0crwdne21646:0"
+"mid-line-period","crwdns26538:0crwdne26538:0"
+"bottom-line-color","crwdns21647:0crwdne21647:0"
+"teeth-line-color","crwdns21648:0crwdne21648:0"
+"jaws-line-color","crwdns21649:0crwdne21649:0"
+"lips-line-color","crwdns21650:0crwdne21650:0"
+"jaws-period","crwdns21651:0crwdne21651:0"
+"jaws-offset","crwdns21652:0crwdne21652:0"
+"teeth-period","crwdns21653:0crwdne21653:0"
+"teeth-offset","crwdns21654:0crwdne21654:0"
+"lips-period","crwdns21655:0crwdne21655:0"
+"lips-offset","crwdns21656:0crwdne21656:0"
+"indice-lines-position","crwdns21657:0crwdne21657:0"
+"major-line-thickness","crwdns21658:0crwdne21658:0"
+"top-signal-line-thickness","crwdns21659:0crwdne21659:0"
+"bottom-signal-line-thickness","crwdns21660:0crwdne21660:0"
+"top-signal-line-color","crwdns21661:0crwdne21661:0"
+"bottom-signal-line-color","crwdns22289:0crwdne22289:0"
+"fast-stoch-color","crwdns21663:0crwdne21663:0"
+"low-stoch-color","crwdns21664:0crwdne21664:0"
+"low-stoch-period","crwdns21665:0crwdne21665:0"
+"fast-stoch-line-thickness","crwdns21666:0crwdne21666:0"
+"low-stoch-line-thickness","crwdns21667:0crwdne21667:0"
+"small-period","crwdns21668:0crwdne21668:0"
+"big-period","crwdns21669:0crwdne21669:0"
+"small-period-width","crwdns21670:0crwdne21670:0"
+"big-period-width","crwdns21671:0crwdne21671:0"
+"signal-period-width","crwdns21672:0crwdne21672:0"
+"bars-color","crwdns21673:0crwdne21673:0"
+"bars-color-maofmacd","crwdns21674:0crwdne21674:0"
+"smoothing-period","crwdns21675:0crwdne21675:0"
+"adx-minus-di-color","crwdns21676:0crwdne21676:0"
+"adx-plus-di-color","crwdns21677:0crwdne21677:0"
+"adx-line-color","crwdns21678:0crwdne21678:0"
+"sar-default-acceleration","crwdns21679:0crwdne21679:0"
+"acceleration-step","crwdns21680:0crwdne21680:0"
+"max-acceleration","crwdns21681:0crwdne21681:0"
+"chikou-line-thickness","crwdns31368:0crwdne31368:0"
+"chikou_period","crwdns31370:0crwdne31370:0"
+"tenkan_period","crwdns31372:0crwdne31372:0"
+"kijun_period","crwdns31374:0crwdne31374:0"
+"senkou_a_period","crwdns31376:0crwdne31376:0"
+"senkou_b_period","crwdns31378:0crwdne31378:0"
+"color","crwdns21682:0crwdne21682:0"
+"chart-type","crwdns21683:0crwdne21683:0"
+"chart-type-curve","crwdns21684:0crwdne21684:0"
+"chart-type-curve-area","crwdns21685:0crwdne21685:0"
+"chart-type-candlesticks","crwdns21686:0crwdne21686:0"
+"chart-type-bars","crwdns21687:0crwdne21687:0"
+"bet-sum","crwdns21688:0crwdne21688:0"
+"chart-controls-income-caption","crwdns21689:0crwdne21689:0"
+"expiration-time","crwdns21690:0crwdne21690:0"
+"wallet-refilling","crwdns21691:0crwdne21691:0"
+"real-wallet","crwdns21692:0crwdne21692:0"
+"demo-wallet","crwdns31380:0crwdne31380:0"
+"can-deduce-profit","crwdns21694:0crwdne21694:0"
+"all-assets-available","crwdns21695:0crwdne21695:0"
+"all-features-available","crwdns21696:0crwdne21696:0"
+"get-bonuses-from-the-platform","crwdns21697:0crwdne21697:0"
+"participate-tournaments","crwdns21698:0crwdne21698:0"
+"can-switch-wallet-any-time","crwdns27505:0crwdne27505:0"
+"cannot-deduce-profit","crwdns21700:0crwdne21700:0"
+"refill-wallet","crwdns21701:0crwdne21701:0"
+"choose-wallet-type","crwdns21702:0crwdne21702:0"
+"demo-wallet+wallet","crwdns21703:0crwdne21703:0"
+"real-wallet+wallet","crwdns21704:0crwdne21704:0"
+"choose-bet","crwdns21705:0crwdne21705:0"
+"added-items","crwdns21706:0crwdne21706:0"
+"bollinger-lines","crwdns21707:0crwdne21707:0"
+"ichi-cloud","crwdns31382:0crwdne31382:0"
+"alli-gator","crwdns21708:0crwdne21708:0"
+"graphics-analysys-tools","crwdns21709:0crwdne21709:0"
+"new-items","crwdns21710:0crwdne21710:0"
+"line-segment","crwdns21711:0crwdne21711:0"
+"ray","crwdns21712:0crwdne21712:0"
+"hori-line","crwdns21713:0crwdne21713:0"
+"vline","crwdns30644:0crwdne30644:0"
+"free-hand","crwdns30698:0crwdne30698:0"
+"crossroad","crwdns30646:0crwdne30646:0"
+"frame","crwdns30648:0crwdne30648:0"
+"range","crwdns30650:0crwdne30650:0"
+"ellipse","crwdns30652:0crwdne30652:0"
+"fibonacci-lines","crwdns21714:0crwdne21714:0"
+"andrews-fork","crwdns21715:0crwdne21715:0"
+"graphic-tools","crwdns21716:0crwdne21716:0"
+"time-period","crwdns21717:0crwdne21717:0"
+"count-second","crwdns21718:0crwdne21718:0"
+"count-seconds","crwdns21719:0crwdne21719:0"
+"count-minute","crwdns21720:0crwdne21720:0"
+"count-minutes","crwdns21721:0crwdne21721:0"
+"count-hour","crwdns21722:0crwdne21722:0"
+"count-hours","crwdns21723:0crwdne21723:0"
+"lock-time","crwdns21724:0crwdne21724:0"
+"user-profile","crwdns21725:0crwdne21725:0"
+"user-profile-heading","crwdns21726:0crwdne21726:0"
+"withdrawal","crwdns21727:0crwdne21727:0"
+"support-service","crwdns21728:0crwdne21728:0"
+"payment-history","crwdns21729:0crwdne21729:0"
+"exit","crwdns21730:0crwdne21730:0"
+"count-second-short","crwdns21731:0crwdne21731:0"
+"count-seconds-short","crwdns28062:0crwdne28062:0"
+"count-minute-short","crwdns21732:0crwdne21732:0"
+"count-minutes-short","crwdns28064:0crwdne28064:0"
+"count-hour-short","crwdns21733:0crwdne21733:0"
+"count-hours-short","crwdns28066:0crwdne28066:0"
+"count-day-short","crwdns21734:0crwdne21734:0"
+"binary-cap","crwdns31384:0crwdne31384:0"
+"error-too-small-bet","crwdns21736:0crwdne21736:0"
+"error-too-big-bet","crwdns21737:0crwdne21737:0"
+"error-wrong-expiration","crwdns21738:0crwdne21738:0"
+"not-enough-money","crwdns27507:0crwdne27507:0"
+"option-closed-head","crwdns31386:0crwdne31386:0"
+"transaction-result","crwdns21741:0crwdne21741:0"
+"internet-connection-trouble","crwdns21742:0crwdne21742:0"
+"lang-name-locale-en","crwdns24873:0crwdne24873:0"
+"lang-name-locale-ru","crwdns24874:0crwdne24874:0"
+"lang-name-locale-de","crwdns24875:0crwdne24875:0"
+"lang-name-locale-tr","crwdns24876:0crwdne24876:0"
+"lang-name-locale-vi","crwdns24877:0crwdne24877:0"
+"lang-name-locale-uk","crwdns24878:0crwdne24878:0"
+"lang-name-locale-th","crwdns24879:0crwdne24879:0"
+"lang-name-locale-it","crwdns26428:0crwdne26428:0"
+"lang-name-locale-pl","crwdns26430:0crwdne26430:0"
+"lang-name-chinese","crwdns21745:0crwdne21745:0"
+"timezone-info","crwdns21746:0crwdne21746:0"
+"you-started-using-real-wallet","crwdns27511:0crwdne27511:0"
+"you-started-using-tment-wallet","crwdns27513:0crwdne27513:0"
+"tournaments","crwdns21749:0crwdne21749:0"
+"currents","crwdns21750:0crwdne21750:0"
+"futures","crwdns21751:0crwdne21751:0"
+"archive","crwdns21752:0crwdne21752:0"
+"days","crwdns21753:0crwdne21753:0"
+"hours","crwdns21754:0crwdne21754:0"
+"minutes","crwdns21755:0crwdne21755:0"
+"prize-fond","crwdns21756:0crwdne21756:0"
+"participate-price","crwdns21757:0crwdne21757:0"
+"prize-places","crwdns21758:0crwdne21758:0"
+"tournament-participants-count","crwdns21759:0crwdne21759:0"
+"no-tournament-description","crwdns21760:0crwdne21760:0"
+"utc-info","crwdns21761:0crwdne21761:0"
+"begin-time","crwdns21762:0crwdne21762:0"
+"deductions","crwdns21763:0crwdne21763:0"
+"reg-in-tournament-for","crwdns21764:0crwdne21764:0"
+"reg-in-tournament-for-free","crwdns31388:0crwdne31388:0"
+"choose-tournament-to-see-info","crwdns21765:0crwdne21765:0"
+"has-reged-in-tournament","crwdns21766:0crwdne21766:0"
+"wait-for-reg-in-tournament","crwdns21767:0crwdne21767:0"
+"prize-places-low","crwdns21768:0crwdne21768:0"
+"starting-balance","crwdns22320:0crwdne22320:0"
+"min-deal-size","crwdns22321:0crwdne22321:0"
+"max-deal-size","crwdns22322:0crwdne22322:0"
+"max-simultaneously-open-deals","crwdns22323:0crwdne22323:0"
+"max-amount-of-open-deals","crwdns22324:0crwdne22324:0"
+"available-options-types","crwdns22325:0crwdne22325:0"
+"tournament-option-type-turbo","crwdns22326:0crwdne22326:0"
+"tournament-option-type-binary","crwdns22327:0crwdne22327:0"
+"tournament-option-type-both","crwdns22328:0crwdne22328:0"
+"tournament-winning-rules","crwdns25708:0crwdne25708:0"
+"available-assets","crwdns25709:0crwdne25709:0"
+"available-options","crwdns25710:0crwdne25710:0"
+"greeting","crwdns26474:0crwdne26474:0"
+"cashbox-plus-bonus","crwdns27877:0crwdne27877:0"
+"cashbox-input","crwdns21770:0crwdne21770:0"
+"cashbox-output","crwdns21771:0crwdne21771:0"
+"cashbox-total","crwdns29314:0crwdne29314:0"
+"bonus-terms-of-use","crwdns21772:0crwdne21772:0"
+"enter-cashbox-input-value","crwdns21773:0crwdne21773:0"
+"enter-cashbox-output-value","crwdns21774:0crwdne21774:0"
+"do-withdrawal","crwdns21775:0crwdne21775:0"
+"amount-due","crwdns21776:0crwdne21776:0"
+"will-recieve-to-account","crwdns21777:0crwdne21777:0"
+"i-wanna-get-bonus","crwdns21778:0crwdne21778:0"
+"enter-cashbox-card-type","crwdns21779:0crwdne21779:0"
+"finish-time","crwdns21798:0crwdne21798:0"
+"top-users","crwdns21799:0crwdne21799:0"
+"member","crwdns21800:0crwdne21800:0"
+"balance","crwdns21801:0crwdne21801:0"
+"prize","crwdns21802:0crwdne21802:0"
+"hint-split-view-button","crwdns21780:0crwdne21780:0"
+"hint-user-profile-button","crwdns21781:0crwdne21781:0"
+"hint-asset-stat","crwdns21782:0crwdne21782:0"
+"hint-sound-button","crwdns21783:0crwdne21783:0"
+"hint-platform-time","crwdns21784:0crwdne21784:0"
+"hint-profitability","crwdns21785:0crwdne21785:0"
+"hint-payout","crwdns21786:0crwdne21786:0"
+"hint-real-acc","crwdns21787:0crwdne21787:0"
+"hint-demo-acc","crwdns21789:0crwdne21789:0"
+"hint-tournament-acc","crwdns21788:0crwdne21788:0"
+"hint-settings","crwdns21790:0crwdne21790:0"
+"hint-support","crwdns21791:0crwdne21791:0"
+"hint-graph-type","crwdns21792:0crwdne21792:0"
+"hint-candle-interval","crwdns21793:0crwdne21793:0"
+"hint-user-lines","crwdns21794:0crwdne21794:0"
+"hint-secondary-lines","crwdns21795:0crwdne21795:0"
+"hint-centerize","crwdns21796:0crwdne21796:0"
+"hint-zoom-level","crwdns21797:0crwdne21797:0"
+"tournament","crwdns21803:0crwdne21803:0"
+"loading","crwdns21804:0crwdne21804:0"
+"you-are-in-tournament","crwdns21805:0crwdne21805:0"
+"repeat-tournament","crwdns21806:0crwdne21806:0"
+"unsupported-browser","crwdns21807:0crwdne21807:0"
+"account-is-for-educ","crwdns21808:0crwdne21808:0"
+"participate-in-demo-tments","crwdns21812:0crwdne21812:0"
+"use-real-money","crwdns21813:0crwdne21813:0"
+"participate-tments-with-real-money","crwdns21814:0crwdne21814:0"
+"native-deal-closed-body","crwdns21810:0crwdne21810:0"
+"tournaments-rules","crwdns21811:0crwdne21811:0"
+"tournaments-rules-2","crwdns27515:0crwdne27515:0"
+"get-trade-exp","crwdns21809:0crwdne21809:0"
+"tment-begins-in","crwdns21815:0crwdne21815:0"
+"tment-ends-in","crwdns21816:0crwdne21816:0"
+"tment-has-ended","crwdns21817:0crwdne21817:0"
+"tment-just-ended","crwdns21818:0crwdne21818:0"
+"tment-just-started","crwdns21819:0crwdne21819:0"
+"tment-just-created","crwdns21820:0crwdne21820:0"
+"read-more","crwdns21821:0crwdne21821:0"
+"history-is-empty","crwdns21822:0crwdne21822:0"
+"tournaments-current-is-empty","crwdns31390:0crwdne31390:0"
+"tournaments-future-is-empty","crwdns27519:0crwdne27519:0"
+"tournaments@current-empty","crwdns31646:0crwdne31646:0"
+"tournaments-ended-is-empty","crwdns21825:0crwdne21825:0"
+"upper-indicator-line","crwdns21826:0crwdne21826:0"
+"lower-indicator-line","crwdns21827:0crwdne21827:0"
+"stoch-overbuy-value","crwdns21828:0crwdne21828:0"
+"stoch-overbuy-line-width","crwdns27521:0crwdne27521:0"
+"stoch-overbuy-line-color","crwdns27523:0crwdne27523:0"
+"stoch-oversell-value","crwdns21831:0crwdne21831:0"
+"stoch-oversell-line-width","crwdns27525:0crwdne27525:0"
+"stoch-oversell-line-color","crwdns27527:0crwdne27527:0"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","crwdns21834:0crwdne21834:0"
+"889954f14a3839c141bd8d5102094fbb","crwdns21835:0crwdne21835:0"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","crwdns21836:0crwdne21836:0"
+"bf447c1c-0266-4e10-9c6c-573df282e413","crwdns21837:0crwdne21837:0"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","crwdns21838:0crwdne21838:0"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","crwdns27529:0crwdne27529:0"
+"9ff3fdc4-b214-49db-8718-39c315e33d45","crwdns21840:0crwdne21840:0"
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","crwdns21841:0crwdne21841:0"
+"478618a7-95ba-473d-9101-cabd45e49115","crwdns21842:0crwdne21842:0"
+"4dba5f9c79ae34be5884e1a3c8c45e92","crwdns21843:0crwdne21843:0"
+"3e5af93fb888b4aa77301a7603e113d5","crwdns21844:0crwdne21844:0"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","crwdns21845:0crwdne21845:0"
+"76454e69-502c-46c5-9643-f447d837c4d5","crwdns21846:0crwdne21846:0"
+"ad32d13f-c3d4-423b-909a-857b961eb720","crwdns21847:0crwdne21847:0"
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","crwdns21848:0crwdne21848:0"
+"853ff54c1a66d1a2379e0c46f8eb9ed4","crwdns21849:0crwdne21849:0"
+"3ac1d32eb3c54e11ef9ea474da816ad6","crwdns21850:0crwdne21850:0"
+"661d3bc6c153e42a3658855010678cbd","crwdns21851:0crwdne21851:0"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","crwdns21852:0crwdne21852:0"
+"2d2ba82dd886ba3b69da804675842ff5","crwdns21853:0crwdne21853:0"
+"3c55616c0a7de9c064e6c2d86fa72bc2","crwdns21854:0crwdne21854:0"
+"f029308ab5f1672de0b7615c4fa33386","crwdns21855:0crwdne21855:0"
+"10cf6f3e2d6a3532b77d924868cbfa62","crwdns21856:0crwdne21856:0"
+"64fc8bbac184ae9dab80c8f592d1a6f7","crwdns21857:0crwdne21857:0"
+"5561ccf1e94e6b9d88080bdbbcba1821","crwdns21858:0crwdne21858:0"
+"f3a5b44d01097d966072b90187a16ec6","crwdns21859:0crwdne21859:0"
+"296ea5496bee3177c83ac27a1dc5bb10","crwdns21860:0crwdne21860:0"
+"fc53df7c4944ebb53e8b3713126ae226","crwdns31394:0crwdne31394:0"
+"0f8e85ca21aa2e33752728cf5e843e35","crwdns21862:0crwdne21862:0"
+"cbce1334c90e82f44381abe99b98fe5c","crwdns22329:0crwdne22329:0"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","crwdns27531:0crwdne27531:0"
+"promo-ends-in","crwdns21863:0crwdne21863:0"
+"your-promocode","crwdns21864:0crwdne21864:0"
+"from-value-to-value","crwdns27533:0crwdne27533:0"
+"deposit-sum","crwdns21866:0crwdne21866:0"
+"bonus-sum","crwdns21867:0crwdne21867:0"
+"promos-rules","crwdns21868:0crwdne21868:0"
+"promos-rules-2","crwdns27535:0crwdne27535:0"
+"participate-promo","crwdns21869:0crwdne21869:0"
+"promo-has-ended","crwdns21870:0crwdne21870:0"
+"no-promos-description","crwdns21871:0crwdne21871:0"
+"promos-is-empty","crwdns28658:0crwdne28658:0"
+"first-launch-disclaimer-content","crwdns21873:0crwdne21873:0"
+"accept","crwdns21874:0crwdne21874:0"
+"trading-session-closed","crwdns21875:0crwdne21875:0"
+"special-offer","crwdns21876:0crwdne21876:0"
+"continue","crwdns21877:0crwdne21877:0"
+"seconds","crwdns21878:0crwdne21878:0"
+"trading-sess-starts-in","crwdns21879:0crwdne21879:0"
+"trading-session-closed-info-0","crwdns21880:0crwdne21880:0"
+"trading-session-closed-info-1","crwdns21881:0crwdne21881:0"
+"trading-session-closed-info-2","crwdns21882:0crwdne21882:0"
+"trading-session-closed-info-3","crwdns21883:0crwdne21883:0"
+"asset","crwdns21884:0crwdne21884:0"
+"additional-info","crwdns21885:0crwdne21885:0"
+"fill-profile-to-continue","crwdns21886:0crwdne21886:0"
+"fill-username-heading","crwdns26586:0crwdne26586:0"
+"fill-username-text","crwdns26588:0crwdne26588:0"
+"fill-username-placeholder","crwdns26590:0crwdne26590:0"
+"save-and-continue","crwdns26592:0crwdne26592:0"
+"profile-name","crwdns21887:0crwdne21887:0"
+"profile-surname","crwdns21888:0crwdne21888:0"
+"profile-telephone","crwdns21889:0crwdne21889:0"
+"start-trading","crwdns21890:0crwdne21890:0"
+"personal-data-safety","crwdns21891:0crwdne21891:0"
+"bonus","crwdns21892:0crwdne21892:0"
+"new-bonus","crwdns27787:0crwdne27787:0"
+"received-bonus","crwdns26730:0crwdne26730:0"
+"received-bonus-value","crwdns26732:0crwdne26732:0"
+"mobile-received-bonus-value","crwdns26734:0crwdne26734:0"
+"expires-in","crwdns21893:0crwdne21893:0"
+"cannot-buy-option-try-later","crwdns21894:0crwdne21894:0"
+"notifications$demo-option-limit","crwdns28084:0crwdne28084:0"
+"max-total-bet-limit-exceeded","crwdns21895:0crwdne21895:0"
+"chart-opens-in","crwdns28086:0crwdne28086:0"
+"hint-activate-tment-wallet","crwdns21897:0crwdne21897:0"
+"largest-profit-banner-on-the-asset","crwdns21898:0crwdne21898:0"
+"largest-profit-banner-button-trade-caption","crwdns21899:0crwdne21899:0"
+"largest-profit-banner-button-trade-caption-2","crwdns31396:0crwdne31396:0"
+"largest-profit-banner-text","crwdns26476:0crwdne26476:0"
+"largest-profit-banner-text-2","crwdns31648:0crwdne31648:0"
+"largest-profit-height-profit","crwdns26478:0crwdne26478:0"
+"largest-profit-height-profit-2","crwdns27541:0crwdne27541:0"
+"offer-expires-in","crwdns21900:0crwdne21900:0"
+"offer-expires-in-2","crwdns31400:0crwdne31400:0"
+"warning","crwdns21901:0crwdne21901:0"
+"banner-tech-works-info-caption","crwdns21902:0crwdne21902:0"
+"banner-tech-works-info-content","crwdns21903:0crwdne21903:0"
+"confirm-email-content","crwdns21904:0crwdne21904:0"
+"confirm-email-caption","crwdns21905:0crwdne21905:0"
+"reload","crwdns21906:0crwdne21906:0"
+"resend-confirmation","crwdns21907:0crwdne21907:0"
+"resend-confirmation-again","crwdns21908:0crwdne21908:0"
+"confirmation-mail-sent","crwdns21909:0crwdne21909:0"
+"banner-not-enough-funds-for-tment","crwdns21910:0crwdne21910:0"
+"tment-reenter-not-allowed","crwdns26594:0crwdne26594:0"
+"fill-profile-wrong-phone","crwdns21911:0crwdne21911:0"
+"fill-profile-wrong-name","crwdns21912:0crwdne21912:0"
+"fill-profile-wrong-surname","crwdns21913:0crwdne21913:0"
+"fill-user-wrong-promocode","crwdns21914:0crwdne21914:0"
+"wrong-promocode-max-sum","crwdns28660:0crwdne28660:0"
+"wrong-promocode-min-sum","crwdns28662:0crwdne28662:0"
+"wrong-withdrawal-min-sum","crwdns26540:0crwdne26540:0"
+"wrong-withdrawal-max-sum","crwdns26542:0crwdne26542:0"
+"wrong-promocode-expired","crwdns27545:0crwdne27545:0"
+"wrong-promocode-only-for-second-deposit","crwdns22333:0crwdne22333:0"
+"wrong-promocode-only-for-first-deposit","crwdns22334:0crwdne22334:0"
+"wrong-promocode-used","crwdns26596:0crwdne26596:0"
+"fill-user-wrong-phone","crwdns21915:0crwdne21915:0"
+"fill-user-wrong-card","crwdns21916:0crwdne21916:0"
+"fill-user-wrong-customer_purse","crwdns26438:0crwdne26438:0"
+"fill-user-wrong-name","crwdns26490:0crwdne26490:0"
+"fill-user-wrong-surname","crwdns26492:0crwdne26492:0"
+"please-rotate-device","crwdns27547:0crwdne27547:0"
+"swipe-up-to-enter-fs","crwdns21918:0crwdne21918:0"
+"click-to-enter-fs","crwdns26480:0crwdne26480:0"
+"reconnect","crwdns21919:0crwdne21919:0"
+"reconnected","crwdns21920:0crwdne21920:0"
+"free-reg","crwdns21921:0crwdne21921:0"
+"investments","crwdns27807:0crwdne27807:0"
+"investments_short","crwdns27749:0crwdne27749:0"
+"investment_short","crwdns27881:0crwdne27881:0"
+"buy-time","crwdns21923:0crwdne21923:0"
+"total-investment","crwdns21924:0crwdne21924:0"
+"total-income","crwdns21925:0crwdne21925:0"
+"result","crwdns21926:0crwdne21926:0"
+"ur-income-would-be","crwdns21927:0crwdne21927:0"
+"create-account-for-free","crwdns21928:0crwdne21928:0"
+"resume-use-demo","crwdns21929:0crwdne21929:0"
+"reg-request-message","crwdns21930:0crwdne21930:0"
+"trade-without-restrictions","crwdns21931:0crwdne21931:0"
+"trade-without-restrictions-message","crwdns21932:0crwdne21932:0"
+"use-real-wallet","crwdns21933:0crwdne21933:0"
+"support","crwdns21934:0crwdne21934:0"
+"search-asset","crwdns21935:0crwdne21935:0"
+"error-sending-email-confirmation","crwdns21936:0crwdne21936:0"
+"error-sending-email-confirmation-with-time","crwdns26736:0crwdne26736:0"
+"risk-free-trades","crwdns21937:0crwdne21937:0"
+"count-trades-for-bet","crwdns21938:0crwdne21938:0"
+"count-x-bet","crwdns26616:0crwdne26616:0"
+"White","crwdns21940:0crwdne21940:0"
+"Red","crwdns21941:0crwdne21941:0"
+"Pink","crwdns21942:0crwdne21942:0"
+"Purple","crwdns21943:0crwdne21943:0"
+"Deep Purple","crwdns21944:0crwdne21944:0"
+"Indigo","crwdns21945:0crwdne21945:0"
+"Blue","crwdns21946:0crwdne21946:0"
+"Cyan","crwdns21947:0crwdne21947:0"
+"Green","crwdns21948:0crwdne21948:0"
+"Light Green","crwdns21949:0crwdne21949:0"
+"Lime","crwdns21950:0crwdne21950:0"
+"Yellow","crwdns21951:0crwdne21951:0"
+"Amber","crwdns21952:0crwdne21952:0"
+"Orange","crwdns21953:0crwdne21953:0"
+"tournament-accounts","crwdns27751:0crwdne27751:0"
+"activate-tournament-wallet","crwdns21954:0crwdne21954:0"
+"deposit-using-agreements-header","crwdns21955:0crwdne21955:0"
+"deposit-using-agreements-p1","crwdns21956:0crwdne21956:0"
+"deposit-using-agreements-p2","crwdns21957:0crwdne21957:0"
+"deposit-using-agreements-p3","crwdns27549:0crwdne27549:0"
+"choose-payment-method","crwdns21959:0crwdne21959:0"
+"choose-payment-sum","crwdns21960:0crwdne21960:0"
+"plus-value-bonus","crwdns21961:0crwdne21961:0"
+"deposit-user-sum-value-caption","crwdns21962:0crwdne21962:0"
+"i-have-promocode","crwdns21963:0crwdne21963:0"
+"requisiste-name-phone","crwdns21964:0crwdne21964:0"
+"no-bonus","crwdns21965:0crwdne21965:0"
+"refresh","crwdns21966:0crwdne21966:0"
+"browser","crwdns21967:0crwdne21967:0"
+"make-a-deposit","crwdns21968:0crwdne21968:0"
+"cashbox-withdrawal-info-0-header","crwdns21969:0crwdne21969:0"
+"cashbox-withdrawal-info-0-content","crwdns21970:0crwdne21970:0"
+"cashbox-withdrawal-info-1-header","crwdns21971:0crwdne21971:0"
+"cashbox-withdrawal-info-1-content","crwdns30302:0crwdne30302:0"
+"cashbox-withdrawal-info-2-header","crwdns30304:0crwdne30304:0"
+"cashbox-withdrawal-info-2-content","crwdns30306:0crwdne30306:0"
+"cashbox-withdrawal-info-3-header","crwdns21975:0crwdne21975:0"
+"cashbox-withdrawal-info-3-content-a","crwdns27557:0crwdne27557:0"
+"cashbox-withdrawal-info-3-content-b","crwdns27559:0crwdne27559:0"
+"cashbox-withdrawal-info-4-header","crwdns21978:0crwdne21978:0"
+"cashbox-withdrawal-info-4-content-a","crwdns27561:0crwdne27561:0"
+"cashbox-withdrawal-info-4-content-b","crwdns27563:0crwdne27563:0"
+"cashbox-withdrawal-info-5-header","crwdns27565:0crwdne27565:0"
+"cashbox-withdrawal-info-5-content-a","crwdns27567:0crwdne27567:0"
+"cashbox-withdrawal-info-5-content-b","crwdns27569:0crwdne27569:0"
+"cashbox-withdrawal-info-6-header","crwdns21984:0crwdne21984:0"
+"cashbox-withdrawal-info-6-content-a","crwdns27571:0crwdne27571:0"
+"cashbox-withdrawal-info-6-content-b","crwdns27573:0crwdne27573:0"
+"cashbox-withdrawal-info-6-content-c","crwdns21987:0crwdne21987:0"
+"cashbox-withdrawal-info-6-content-d","crwdns27575:0crwdne27575:0"
+"cashbox-withdrawal-info-7-header","crwdns27577:0crwdne27577:0"
+"cashbox-withdrawal-info-7-content","crwdns27579:0crwdne27579:0"
+"deposit-info-1","crwdns26738:0crwdne26738:0"
+"deposit-info-2","crwdns26740:0crwdne26740:0"
+"deposit-info-3","crwdns27581:0crwdne27581:0"
+"withdrawal-heading","crwdns27583:0crwdne27583:0"
+"withdrawal-content","crwdns26726:0crwdne26726:0"
+"withdrawal-restricted-content","crwdns30174:0crwdne30174:0"
+"withdrawal-amount-caption","crwdns21991:0crwdne21991:0"
+"withdrawal-type-caption","crwdns21992:0crwdne21992:0"
+"withdrawal-button-caption","crwdns21993:0crwdne21993:0"
+"requisite-name-card","crwdns21994:0crwdne21994:0"
+"requisite-name-phone","crwdns21995:0crwdne21995:0"
+"requisite-name-customer_purse","crwdns21996:0crwdne21996:0"
+"withdrawal-request-sent","crwdns21997:0crwdne21997:0"
+"withdrawal-request-sent-extra-info","crwdns27587:0crwdne27587:0"
+"withdrawal-method-qiwi_ecom","crwdns21999:0crwdne21999:0"
+"withdrawal-method-qiwi","crwdns22000:0crwdne22000:0"
+"withdrawal-method-yandex_money_ecom","crwdns26444:0crwdne26444:0"
+"withdrawal-method-webmoney_1gp","crwdns26446:0crwdne26446:0"
+"withdrawal-method-card","crwdns22003:0crwdne22003:0"
+"videohub","crwdns22004:0crwdne22004:0"
+"asset-type-all","crwdns22005:0crwdne22005:0"
+"asset-type-currency","crwdns22006:0crwdne22006:0"
+"asset-type-crypto","crwdns22007:0crwdne22007:0"
+"asset-type-goods","crwdns22008:0crwdne22008:0"
+"asset-type-countries","crwdns27769:0crwdne27769:0"
+"asset-type-leaders","crwdns27771:0crwdne27771:0"
+"cashbox-withdrawal-info","crwdns27589:0crwdne27589:0"
+"expiration-caption-16","crwdns22010:0crwdne22010:0"
+"trends","crwdns22012:0crwdne22012:0"
+"show-chart","crwdns22013:0crwdne22013:0"
+"hide-chart","crwdns22014:0crwdne22014:0"
+"trend-active","crwdns22015:0crwdne22015:0"
+"trend-non-active","crwdns22016:0crwdne22016:0"
+"trends-is-empty","crwdns22017:0crwdne22017:0"
+"what-are-trends","crwdns22018:0crwdne22018:0"
+"what-are-trends-advice-content","crwdns27591:0crwdne27591:0"
+"not-enough-money-for-trends-detailed","crwdns27593:0crwdne27593:0"
+"get-access-to-trends","crwdns22021:0crwdne22021:0"
+"trends-features-one","crwdns27595:0crwdne27595:0"
+"trends-features-two","crwdns27597:0crwdne27597:0"
+"month-0","crwdns22024:0crwdne22024:0"
+"month-1","crwdns22025:0crwdne22025:0"
+"month-2","crwdns22026:0crwdne22026:0"
+"month-3","crwdns22027:0crwdne22027:0"
+"month-4","crwdns22028:0crwdne22028:0"
+"month-5","crwdns22029:0crwdne22029:0"
+"month-6","crwdns22030:0crwdne22030:0"
+"month-7","crwdns22031:0crwdne22031:0"
+"month-8","crwdns22032:0crwdne22032:0"
+"month-9","crwdns22033:0crwdne22033:0"
+"month-10","crwdns22034:0crwdne22034:0"
+"month-11","crwdns22035:0crwdne22035:0"
+"day-0","crwdns22036:0crwdne22036:0"
+"day-1","crwdns22037:0crwdne22037:0"
+"day-2","crwdns22038:0crwdne22038:0"
+"day-3","crwdns22039:0crwdne22039:0"
+"day-4","crwdns22040:0crwdne22040:0"
+"day-5","crwdns22041:0crwdne22041:0"
+"day-6","crwdns22042:0crwdne22042:0"
+"trading-room","crwdns22043:0crwdne22043:0"
+"trading-room-entering-time","crwdns22044:0crwdne22044:0"
+"trading-room-expiration","crwdns22045:0crwdne22045:0"
+"trading-room-strength","crwdns22046:0crwdne22046:0"
+"trading-room-strike-price","crwdns22047:0crwdne22047:0"
+"trading-room-is-empty","crwdns27887:0crwdne27887:0"
+"demo-stats-banner-header-caption","crwdns22335:0crwdne22335:0"
+"demo-stats-banner-header-caption-2","crwdns27599:0crwdne27599:0"
+"demo-stats-banner-you-earned-on-demo","crwdns27601:0crwdne27601:0"
+"demo-stats-banner-total-deals-amount","crwdns22337:0crwdne22337:0"
+"demo-stats-banner-successfull-deals-percentage","crwdns22338:0crwdne22338:0"
+"demo-stats-banner-real-account-opening-request","crwdns31402:0crwdne31402:0"
+"demo-stats-banner-open-real-account-button-caption","crwdns22340:0crwdne22340:0"
+"demo-stats-banner-keep-trading-on-demo","crwdns31404:0crwdne31404:0"
+"demo-stats-banner-you-have-done","crwdns23206:0crwdne23206:0"
+"demo-stats-banner-you-have-trades-closed-in-a-row","crwdns26448:0crwdne26448:0"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","crwdns26450:0crwdne26450:0"
+"demo-stats-banner-earning-on-demo-account","crwdns31406:0crwdne31406:0"
+"demo-stats-banner-closed-in-a-row-2","crwdns31408:0crwdne31408:0"
+"tour-next-button-caption","crwdns23210:0crwdne23210:0"
+"tour-reading-duration-caption","crwdns23211:0crwdne23211:0"
+"tour-slides-steps-count","crwdns23212:0crwdne23212:0"
+"tour-slide-0-caption","crwdns23213:0crwdne23213:0"
+"tour-slide-0-content","crwdns23214:0crwdne23214:0"
+"tour-slide-0-content-1","crwdns26790:0crwdne26790:0"
+"tour-slide-0-content-2","crwdns26792:0crwdne26792:0"
+"tour-slide-0-content-3","crwdns27605:0crwdne27605:0"
+"tour-slide-0-content-3-port","crwdns29316:0crwdne29316:0"
+"tour-slide-0-extra-info","crwdns23215:0crwdne23215:0"
+"tour-slide-1-caption","crwdns23216:0crwdne23216:0"
+"tour-slide-1-content","crwdns23217:0crwdne23217:0"
+"tour-slide-2-caption","crwdns23218:0crwdne23218:0"
+"tour-slide-2-content-a","crwdns26796:0crwdne26796:0"
+"tour-slide-2-content-b","crwdns26798:0crwdne26798:0"
+"tour-slide-3-caption","crwdns23221:0crwdne23221:0"
+"tour-slide-3-content","crwdns23222:0crwdne23222:0"
+"tour-slide-4-caption","crwdns23223:0crwdne23223:0"
+"tour-slide-4-content","crwdns23224:0crwdne23224:0"
+"tour-slide-5-caption","crwdns23225:0crwdne23225:0"
+"tour-slide-5-content","crwdns23226:0crwdne23226:0"
+"tour-slide-6-caption","crwdns23227:0crwdne23227:0"
+"tour-slide-6-additional-caption","crwdns23228:0crwdne23228:0"
+"tour-slide-6-a-trading-rules","crwdns23229:0crwdne23229:0"
+"tour-slide-6-a-card-0-caption","crwdns23230:0crwdne23230:0"
+"tour-slide-6-a-card-0-content-1","crwdns27843:0crwdne27843:0"
+"tour-slide-6-a-card-0-content-2","crwdns27845:0crwdne27845:0"
+"tour-slide-6-a-card-1-caption","crwdns27847:0crwdne27847:0"
+"tour-slide-6-a-card-1-content","crwdns27849:0crwdne27849:0"
+"tour-slide-6-a-card-2-caption","crwdns27851:0crwdne27851:0"
+"tour-slide-6-a-card-2-content","crwdns27853:0crwdne27853:0"
+"tour-slide-6-a-card-3-caption","crwdns26800:0crwdne26800:0"
+"tour-slide-6-a-card-3-button-caption","crwdns23237:0crwdne23237:0"
+"tour-slide-6-a-dont-show-again","crwdns28536:0crwdne28536:0"
+"tour-slide-6-b-trading-rules","crwdns23239:0crwdne23239:0"
+"tour-slide-6-b-card-0-caption","crwdns23240:0crwdne23240:0"
+"tour-slide-6-b-card-0-content","crwdns26816:0crwdne26816:0"
+"tour-slide-6-b-card-1-caption","crwdns26804:0crwdne26804:0"
+"tour-slide-6-b-card-1-content","crwdns23243:0crwdne23243:0"
+"tour-slide-6-b-card-2-caption","crwdns26806:0crwdne26806:0"
+"tour-slide-6-b-card-2-content","crwdns26948:0crwdne26948:0"
+"tour-slide-6-b-card-3-caption","crwdns23246:0crwdne23246:0"
+"tour-slide-6-b-card-3-button-caption","crwdns26946:0crwdne26946:0"
+"tour-slide-6-b-dont-show-again","crwdns23248:0crwdne23248:0"
+"user-terms-caption","crwdns26456:0crwdne26456:0"
+"what-is-trading-room","crwdns26458:0crwdne26458:0"
+"what-is-trading-room-advice-content","crwdns27607:0crwdne27607:0"
+"not-enough-money-for-trading-room-detailed","crwdns27609:0crwdne27609:0"
+"get-access-to-trading-room","crwdns27611:0crwdne27611:0"
+"have-access-to-trading-room","crwdns26746:0crwdne26746:0"
+"trading-room-features-one","crwdns26466:0crwdne26466:0"
+"trading-room-features-two","crwdns26468:0crwdne26468:0"
+"trading-room_1-title","crwdns27613:0crwdne27613:0"
+"trading-room_1-text","crwdns27615:0crwdne27615:0"
+"trading-room_2-title","crwdns27617:0crwdne27617:0"
+"trading-room_2-text","crwdns27619:0crwdne27619:0"
+"trading-room_refill","crwdns27621:0crwdne27621:0"
+"account_level","crwdns27623:0crwdne27623:0"
+"modal-confirm_title","crwdns27625:0crwdne27625:0"
+"modal-confirm_text-1","crwdns31410:0crwdne31410:0"
+"modal-confirm_text-2","crwdns31650:0crwdne31650:0"
+"modal-confirm_button","crwdns27631:0crwdne27631:0"
+"modal-confirm_error-1-1","crwdns27633:0crwdne27633:0"
+"modal-confirm_error-1-2","crwdns27635:0crwdne27635:0"
+"modal-confirm_support","crwdns31412:0crwdne31412:0"
+"timer_days","crwdns27797:0crwdne27797:0"
+"timer_hours","crwdns27799:0crwdne27799:0"
+"timer_minutes","crwdns27801:0crwdne27801:0"
+"timer_seconds","crwdns27803:0crwdne27803:0"
+"tournament_button","crwdns27647:0crwdne27647:0"
+"modal-oneclick_title","crwdns27649:0crwdne27649:0"
+"modal-oneclick_text","crwdns27651:0crwdne27651:0"
+"modal-oneclick_button","crwdns27653:0crwdne27653:0"
+"modal-tbalance_title","crwdns27655:0crwdne27655:0"
+"modal-tbalance_text","crwdns27657:0crwdne27657:0"
+"modal-tbalance_button","crwdns27659:0crwdne27659:0"
+"modal-tech_title","crwdns31414:0crwdne31414:0"
+"modal-tech_text-1","crwdns31652:0crwdne31652:0"
+"modal-tech_text-2","crwdns31654:0crwdne31654:0"
+"modal-tech_button","crwdns27667:0crwdne27667:0"
+"modal-session_title","crwdns27669:0crwdne27669:0"
+"modal-session_text-1","crwdns27671:0crwdne27671:0"
+"modal-session_text-2","crwdns27673:0crwdne27673:0"
+"modal-session_text-3","crwdns27675:0crwdne27675:0"
+"modal-session_text-4","crwdns27677:0crwdne27677:0"
+"modal-session_button","crwdns27679:0crwdne27679:0"
+"modal-tn_title","crwdns27681:0crwdne27681:0"
+"modal-tn_text-1","crwdns27683:0crwdne27683:0"
+"modal-tn_text-2","crwdns27685:0crwdne27685:0"
+"modal-tn_text-3","crwdns27687:0crwdne27687:0"
+"modal-tn_button","crwdns27689:0crwdne27689:0"
+"modal-nickname_title","crwdns27691:0crwdne27691:0"
+"modal-nickname_text","crwdns27693:0crwdne27693:0"
+"modal-nickname_button","crwdns27695:0crwdne27695:0"
+"modal-nickname_placeholder","crwdns31420:0crwdne31420:0"
+"modal-profile_title","crwdns27697:0crwdne27697:0"
+"modal-profile_text","crwdns27699:0crwdne27699:0"
+"modal-profile_name","crwdns27701:0crwdne27701:0"
+"modal-profile_surname","crwdns27703:0crwdne27703:0"
+"modal-profile_phone","crwdns31422:0crwdne31422:0"
+"modal-profile_button","crwdns27707:0crwdne27707:0"
+"modal-profile_aside","crwdns27709:0crwdne27709:0"
+"form-error_required","crwdns31424:0crwdne31424:0"
+"form-error_name-short","crwdns27713:0crwdne27713:0"
+"form-error_name-format","crwdns31426:0crwdne31426:0"
+"form-error_surname-short","crwdns27717:0crwdne27717:0"
+"form-error_surname-format","crwdns31428:0crwdne31428:0"
+"form-error_phone-format","crwdns31430:0crwdne31430:0"
+"srv-err_asset-is-disabled","crwdns27777:0crwdne27777:0"
+"srv-err_asset-is-disabled-for-this-tournament","crwdns27779:0crwdne27779:0"
+"srv-err_binary-is-disabled-for-this-tournament","crwdns27861:0crwdne27861:0"
+"srv-err_turbo-is-disabled-for-this-tournament","crwdns27863:0crwdne27863:0"
+"tournament@btn.paid-participate","crwdns28008:0crwdne28008:0"
+"tournament@info.paid","crwdns28010:0crwdne28010:0"
+"faq@title","crwdns28520:0crwdne28520:0"
+"menu@faq","crwdns28518:0crwdne28518:0"
+"menu@education","crwdns31432:0crwdne31432:0"
+"menu@qa","crwdns31434:0crwdne31434:0"
+"menu@strategies","crwdns31436:0crwdne31436:0"
+"menu@btn$back","crwdns31438:0crwdne31438:0"
+"cashbox@no-bonus","crwdns28558:0crwdne28558:0"
+"wallet-menu@real-title","crwdns28560:0crwdne28560:0"
+"wallet-menu@bonus-title","crwdns28562:0crwdne28562:0"
+"wallet-menu@wager-title","crwdns28564:0crwdne28564:0"
+"wallet-menu@wager-link","crwdns28566:0crwdne28566:0"
+"modal-bonus@title","crwdns28604:0crwdne28604:0"
+"modal-bonus@text","crwdns28606:0crwdne28606:0"
+"modal-bonus@deal-size","crwdns28608:0crwdne28608:0"
+"modal-bonus@real-size","crwdns28610:0crwdne28610:0"
+"modal-bonus@bonus-size","crwdns28612:0crwdne28612:0"
+"modal-bonus@info","crwdns28614:0crwdne28614:0"
+"modal-bonus@faq","crwdns28616:0crwdne28616:0"
+"modal-bonus@btn-cancel","crwdns28618:0crwdne28618:0"
+"modal-bonus@btn-continue","crwdns28620:0crwdne28620:0"
+"modal-bonus@disable","crwdns28622:0crwdne28622:0"
+"trends@restrict-title","crwdns28624:0crwdne28624:0"
+"trends@restrict-text","crwdns28626:0crwdne28626:0"
+"asset-menu@title","crwdns28674:0crwdne28674:0"
+"asset-menu@available","crwdns28676:0crwdne28676:0"
+"asset-menu@profitable","crwdns28678:0crwdne28678:0"
+"asset-menu@interval","crwdns28680:0crwdne28680:0"
+"confirm-trade@header","crwdns28734:0crwdne28734:0"
+"confirm-trade@timer","crwdns28762:0crwdne28762:0"
+"confirm-trade@heading","crwdns28738:0crwdne28738:0"
+"confirm-trade@asset","crwdns28740:0crwdne28740:0"
+"confirm-trade@direction","crwdns28742:0crwdne28742:0"
+"confirm-trade@investment","crwdns28744:0crwdne28744:0"
+"confirm-trade@price","crwdns28746:0crwdne28746:0"
+"confirm-trade@profitability","crwdns28748:0crwdne28748:0"
+"confirm-trade@payout","crwdns28750:0crwdne28750:0"
+"confirm-trade@btn-cancel","crwdns28752:0crwdne28752:0"
+"confirm-trade@btn-confirm","crwdns28754:0crwdne28754:0"
+"plot@loading","crwdns28770:0crwdne28770:0"
+"plot@lock-time","crwdns28772:0crwdne28772:0"
+"plot@expiration-time","crwdns28774:0crwdne28774:0"
+"tr-empty@text","crwdns28786:0crwdne28786:0"
+"tr-empty@business","crwdns28788:0crwdne28788:0"
+"tr-empty@vip","crwdns28790:0crwdne28790:0"
+"tr-empty@open-btn","crwdns28792:0crwdne28792:0"
+"tr-empty@deposit-btn","crwdns28794:0crwdne28794:0"
+"tr-empty@vip-signals","crwdns28798:0crwdne28798:0"
+"hb@menu-btn","crwdns29318:0crwdne29318:0"
+"ac-types@title","crwdns30076:0crwdne30076:0"
+"ac-types@label_depositSum","crwdns30078:0crwdne30078:0"
+"ac-types@label_tradeback","crwdns30080:0crwdne30080:0"
+"ac-types@label_tradebackEnrolment","crwdns30176:0crwdne30176:0"
+"ac-types@label_assets","crwdns30178:0crwdne30178:0"
+"ac-types@label_withdrawalCountLimit","crwdns30180:0crwdne30180:0"
+"ac-types@label_withdrawalAmountLimit","crwdns30182:0crwdne30182:0"
+"ac-types@label_withdrawalDayAmountLimit","crwdns30368:0crwdne30368:0"
+"ac-types@label_tradingRoom","crwdns30090:0crwdne30090:0"
+"ac-types@label_openDealsSum","crwdns30184:0crwdne30184:0"
+"ac-types@value_real","crwdns31440:0crwdne31440:0"
+"ac-types@value_bonus","crwdns31442:0crwdne31442:0"
+"ac-types@value_nolimit","crwdns31444:0crwdne31444:0"
+"ac-types@btn","crwdns30190:0crwdne30190:0"
+"ac-types@self","crwdns30192:0crwdne30192:0"
+"ac-types@tradeback-hint","crwdns30104:0crwdne30104:0"
+"video-tutorial@title","crwdns30194:0crwdne30194:0"
+"video-tutorial@checkbox","crwdns30196:0crwdne30196:0"
+"user-menu@account-types","crwdns30328:0crwdne30328:0"
+"withdrawal-error@amount-limit","crwdns30336:0crwdne30336:0"
+"withdrawal@limit-with-counter","crwdns30344:0crwdne30344:0"
+"promo-gift@bonus","crwdns30356:0crwdne30356:0"
+"promo-gift@freeSpins","crwdns30358:0crwdne30358:0"
+"promo-gift@tradeRoom","crwdns30398:0crwdne30398:0"
+"promo-gift@tickets","crwdns30362:0crwdne30362:0"
+"settings@quality-title","crwdns31664:0crwdne31664:0"
+"settings@quality-hint","crwdns30710:0crwdne30710:0"
+"settings@quality-option-base","crwdns30712:0crwdne30712:0"
+"settings@quality-option-average","crwdns30714:0crwdne30714:0"
+"settings@quality-option-best","crwdns30716:0crwdne30716:0"
+"history@group$active","crwdns31566:0crwdne31566:0"
+"history@group$finished","crwdns31568:0crwdne31568:0"
+"st@level$all","crwdns31722:0crwdne31722:0"
+"st@level$easy","crwdns31570:0crwdne31570:0"
+"st@level$base","crwdns31572:0crwdne31572:0"
+"st@level$advanced","crwdns31574:0crwdne31574:0"
+"promo@btn$details","crwdns31576:0crwdne31576:0"
+"promo@timer$name","crwdns31578:0crwdne31578:0"
+"promo@until","crwdns31580:0crwdne31580:0"
+"wallet@btn$refill","crwdns31582:0crwdne31582:0"
+"tournament@prize-fund","crwdns31584:0crwdne31584:0"
+"tournament@prize-places","crwdns31586:0crwdne31586:0"
+"tournament@tab$restrictions","crwdns31656:0crwdne31656:0"
+"tournament@tab$rating","crwdns31590:0crwdne31590:0"
+"tournament@tab$current","crwdns31592:0crwdne31592:0"
+"tournament@tab$soon","crwdns31594:0crwdne31594:0"
+"tournament@timer$start","crwdns31596:0crwdne31596:0"
+"tournament@timer$end","crwdns31598:0crwdne31598:0"
+"section@title$bet","crwdns31600:0crwdne31600:0"
+"bet@tab$deposit","crwdns31602:0crwdne31602:0"
+"forecast@deal","crwdns31604:0crwdne31604:0"
+"forecast@deals","crwdns31606:0crwdne31606:0"
+"promo@days-short","crwdns31608:0crwdne31608:0"
+"settings@group$region","crwdns31610:0crwdne31610:0"
+"settings@group$design","crwdns31612:0crwdne31612:0"
+"menu@account-type","crwdns31614:0crwdne31614:0"
+"menu@profile","crwdns31616:0crwdne31616:0"
+"leaderboard@tournament","crwdns31618:0crwdne31618:0"
+"leaderboard$toggle@open","crwdns31658:0crwdne31658:0"
+"leaderboard$toggle@close","crwdns31622:0crwdne31622:0"
+"disabled-timer@title","crwdns31624:0crwdne31624:0"
+"open-option$total$deals","crwdns31626:0crwdne31626:0"
+"open-option$total$invest","crwdns31628:0crwdne31628:0"
+"open-option$total$payout","crwdns31630:0crwdne31630:0"
+"chat-button@text","crwdns31632:0crwdne31632:0"
+"accounts@popular","crwdns31634:0crwdne31634:0"
+"settings@animation","crwdns31700:0crwdne31700:0"
+"settings@animation-disabled","crwdns31694:0crwdne31694:0"
+"settings@animation-enabled","crwdns31696:0crwdne31696:0"

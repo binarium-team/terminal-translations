@@ -1,806 +1,808 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "안녕하세요, 사용자님!",
-	"error": "오류",
-	"settings": "설정",
-	"settings-2": "터미널 설정",
-	"regionalSettings": "지역 설정",
-	"timezone": "시간대",
-	"timezone-2": "시간대",
-	"language": "언어",
-	"skin-theme": "테마",
-	"ui-zoom": "확대/축소",
-	"ui-zoom-2": "조정",
-	"investment": "거래",
-	"payout": "지불금",
-	"options": "옵션",
-	"quote": "견적",
-	"time": "시간",
-	"past": "Closed",
-	"active": "시작됨",
-	"value": "가치",
-	"add": "새 탭",
-	"add-new-chart": "새 차트 추가",
-	"charts-arrangement": "차트 그리드",
-	"turbo-cap": "1~5분",
-	"count-chart": "차트 {{@count}}개",
-	"count-charts": "차트 {{@count}}개",
-	"one-chart": "차트 1개",
-	"two-charts": "차트 2개",
-	"three-charts": "차트 3개",
-	"four-charts": "차트 4개",
-	"refill": "예금",
-	"wallets-types": "계좌 유형",
-	"history": "내역",
-	"cashbox": "뱅킹",
-	"education": "교육",
-	"education@category$videos": "교육 <span>동영상</span>",
-	"promos": "보너스",
-	"trading-history": "거래 내역",
-	"section-under-construction": "이 섹션은 작업 중입니다",
-	"count-purchase": "거래 {{@count}}건",
-	"count-purchases": "{{@count}} #{trades@trade?count}",
-	"total-payout": "총 지불금",
-	"cancel": "취소",
-	"apply": "적용",
-	"period": "기간",
-	"stochastic-smoothing": "스무딩",
-	"stochastic-overbought": "과매수",
-	"stochastic-oversold": "과매도",
-	"fast-stochastic-period": "빠른 수익 기간",
-	"slow-stochastic-period": "느린 수익 기간",
-	"fast-stochastic-line-color": "빠른 수익 색상",
-	"slow-stochastic-line-color": "느린 수익 색상",
-	"fast-stochastic-line-thickness": "빠른 수익 두께",
-	"fast-macd-period": "빠른 수익 기간",
-	"slow-macd-period": "느린 수익 기간",
-	"signal-macd-period": "신호 기간",
-	"fast-macd-line-thickness": "빠른 수익 두께",
-	"signal_line_color": "신호 선 색상",
-	"oversold": "과매도",
-	"macd_color": "색상",
-	"line-thickness": "선 두께",
-	"line-color": "선 색상",
-	"line-offset": "선 이동",
-	"top-line-thickness": "총매출 두께",
-	"mid-line-thickness": "중간 수익 두께",
-	"slow_period": "느린 기간",
-	"fast_period": "빠른 기간",
-	"short_period": "단기",
-	"long_period": "장기",
-	"offset": "오프셋",
-	"bottom-line-thickness": "순수익 두께",
-	"bottom-line-period": "순수익 기간",
-	"top-line-color": "총매출 색상",
-	"top-line-period": "총매출 기간",
-	"mid-line-color": "중간 수익 색상",
-	"mid-line-period": "중간 수익 기간",
-	"bottom-line-color": "순수익 색상",
-	"teeth-line-color": "이빨 선 색상",
-	"jaws-line-color": "턱 선 색상",
-	"lips-line-color": "입술 선 색상",
-	"jaws-period": "턱 기간",
-	"jaws-offset": "턱 오프셋",
-	"teeth-period": "이빨 기간",
-	"teeth-offset": "이빨 오프셋",
-	"lips-period": "입술 기간",
-	"lips-offset": "입술 오프셋",
-	"indice-lines-position": "지표 선 위치",
-	"major-line-thickness": "주요 수익 두께",
-	"top-signal-line-thickness": "총매출 신호 두께",
-	"bottom-signal-line-thickness": "순수익 신호 두께",
-	"top-signal-line-color": "총매출 신호 색상",
-	"bottom-signal-line-color": "순수익 신호 색상",
-	"fast-stoch-color": "패스트 스토캐스틱 색상",
-	"low-stoch-color": "로우 스토캐스틱 색상",
-	"low-stoch-period": "로우 스토캐스틱 기간",
-	"fast-stoch-line-thickness": "패스트 스토캐스틱 선 두께",
-	"low-stoch-line-thickness": "로우 스토캐스틱 선 두께",
-	"small-period": "단기",
-	"big-period": "장기",
-	"small-period-width": "단기 폭",
-	"big-period-width": "장기 폭",
-	"signal-period-width": "신호 기간 폭",
-	"bars-color": "막대 색상",
-	"bars-color-maofmacd": "MACD의 MA 막대 색상",
-	"smoothing-period": "스무딩 기간",
-	"adx-minus-di-color": "-DI 색상",
-	"adx-plus-di-color": "+DI 색상",
-	"adx-line-color": "ADX 선 색상",
-	"sar-default-acceleration": "기본 가속화",
-	"acceleration-step": "가속 단계",
-	"max-acceleration": "최대 가속",
-	"chikou-line-thickness": "후행 두께",
-	"chikou_period": "후행 스팬",
-	"tenkan_period": "전환 스팬",
-	"kijun_period": "기준 스팬",
-	"senkou_a_period": "선행 A 스팬",
-	"senkou_b_period": "선행 B 스팬",
-	"color": "색상",
-	"chart-type": "차트 유형",
-	"chart-type-curve": "곡선",
-	"chart-type-curve-area": "곡선 영역",
-	"chart-type-candlesticks": "캔들스틱",
-	"chart-type-bars": "막대",
-	"bet-sum": "총계",
-	"chart-controls-income-caption": "수익성",
-	"expiration-time": "만료 시간",
-	"wallet-refilling": "예금",
-	"real-wallet": "실제",
-	"demo-wallet": "데모 계좌",
-	"can-deduce-profit": "수익을 인출할 수 있습니다.",
-	"all-assets-available": "모든 자산을 이용할 수 있습니다.",
-	"all-features-available": "플랫폼의 모든 기능을 이용하십시오.",
-	"get-bonuses-from-the-platform": "회사가 제공하는 보너스를 받으십시오.",
-	"participate-tournaments": "컨테스트 참가",
-	"can-switch-wallet-any-time": "언제든지 계좌 간 전환할 수 있습니다.",
-	"cannot-deduce-profit": "수익을 인출할 수 없습니다.",
-	"refill-wallet": "예금",
-	"choose-wallet-type": "계좌 유형",
-	"demo-wallet+wallet": "데모 계좌",
-	"real-wallet+wallet": "실제 계좌",
-	"choose-bet": "거래",
-	"added-items": "추가됨",
-	"bollinger-lines": "볼린저 밴드",
-	"ichi-cloud": "일목균형표",
-	"alli-gator": "앨리게이터",
-	"graphics-analysys-tools": "분석 도구",
-	"new-items": "신규",
-	"line-segment": "선 세그먼트",
-	"ray": "레이",
-	"hori-line": "수평선",
-	"vline": "수직선",
-	"free-hand": "프리핸드",
-	"crossroad": "교차",
-	"frame": "프레임",
-	"range": "범위",
-	"ellipse": "타원",
-	"fibonacci-lines": "피모나치 선",
-	"andrews-fork": "앤드류 피치포크",
-	"graphic-tools": "그래픽 도구",
-	"time-period": "기간",
-	"count-second": "{{@count}}초",
-	"count-seconds": "{{@count}}초",
-	"count-minute": "{{@count}}분",
-	"count-minutes": "{{@count}}분",
-	"count-hour": "{{@count}}시간",
-	"count-hours": "{{@count}}시간",
-	"lock-time": "잠금 시간",
-	"user-profile": "사용자 프로필",
-	"user-profile-heading": "사용자 프로필",
-	"withdrawal": "인출",
-	"support-service": "지원",
-	"payment-history": "결제 내역",
-	"exit": "로그아웃",
-	"count-second-short": "{{@count}}초",
-	"count-seconds-short": "{{@count}}초",
-	"count-minute-short": "{{@count}}분",
-	"count-minutes-short": "{{@count}}분",
-	"count-hour-short": "{{@count}}시간",
-	"count-hours-short": "{{@count}}시간",
-	"count-day-short": "{{@count}}일",
-	"binary-cap": "5분 초과",
-	"error-too-small-bet": "{{@sum}}와(과) 동일한 금액으로 베팅할 수 없습니다. {{@currency}} 통화 기준 최소 베팅 금액은 {{@minbet}}입니다.",
-	"error-too-big-bet": "{{@sum}}와(과) 동일한 금액으로 베팅할 수 없습니다. {{@currency}} 통화 기준 최대 베팅 금액은 {{@maxbet}}입니다.",
-	"error-wrong-expiration": "잘못된 만료 시간 {{@time}}",
-	"not-enough-money": "계좌에 자금이 충분하지 않습니다.",
-	"option-closed-head": "닫은 옵션",
-	"transaction-result": "{{@assetName}} 결과",
-	"internet-connection-trouble": "연결 오류",
-	"lang-name-locale-en": "영어",
-	"lang-name-locale-ru": "러시아어",
-	"lang-name-locale-de": "독일어",
-	"lang-name-locale-tr": "터키어",
-	"lang-name-locale-vi": "베트남어",
-	"lang-name-locale-uk": "우크라이나어",
-	"lang-name-locale-th": "태국어",
-	"lang-name-locale-it": "이탈리아어",
-	"lang-name-locale-pl": "폴란드어",
-	"lang-name-chinese": "중국어(간체)",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "실제 계좌를 사용 중입니다.",
-	"you-started-using-tment-wallet": "컨테스트 계좌를 사용 중입니다.",
-	"tournaments": "컨테스트",
-	"currents": "현재",
-	"futures": "예정",
-	"archive": "아카이브",
-	"days": "일",
-	"hours": "시간",
-	"minutes": "분",
-	"prize-fond": "상금",
-	"participate-price": "참가비",
-	"prize-places": "수상",
-	"tournament-participants-count": "참가자",
-	"no-tournament-description": "콘테스트 설명 없음",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "시작",
-	"deductions": "공제",
-	"reg-in-tournament-for": "{{@price}}의 비용으로 컨테스트에 참가하십시오.",
-	"reg-in-tournament-for-free": "무료 토너먼트 참여하기",
-	"choose-tournament-to-see-info": "컨테스트를 선택하십시오.",
-	"has-reged-in-tournament": "등록되었습니다.",
-	"wait-for-reg-in-tournament": "등록 요청이 전송되었습니다.",
-	"prize-places-low": "{{@count}}개의 수상 기회",
-	"starting-balance": "시작 잔액",
-	"min-deal-size": "최소 거래 금액",
-	"max-deal-size": "최대 거래 금액",
-	"max-simultaneously-open-deals": "개방형 거래 제한",
-	"max-amount-of-open-deals": "투자 제한",
-	"available-options-types": "이용 가능한 옵션",
-	"tournament-option-type-turbo": "Turbo",
-	"tournament-option-type-binary": "Binary",
-	"tournament-option-type-both": "둘 다",
-	"tournament-winning-rules": "최종 토너먼트에서 최고 잔액을 가진 거래자가 우승자가 됩니다.",
-	"available-assets": "이용 가능한 자산",
-	"available-options": "이용 가능한 트랜잭션 유형",
-	"greeting": "환영합니다",
-	"cashbox-plus-bonus": "보너스",
-	"cashbox-input": "예금",
-	"cashbox-output": "인출",
-	"cashbox-total": "보너스, 프로모션, 합계",
-	"bonus-terms-of-use": "보너스 이용 약관",
-	"enter-cashbox-input-value": "예금액 입력",
-	"enter-cashbox-output-value": "인출 금액 입력",
-	"do-withdrawal": "인출",
-	"amount-due": "금액",
-	"will-recieve-to-account": "받을 수익:",
-	"i-wanna-get-bonus": "보너스 받기",
-	"enter-cashbox-card-type": "결제 수단",
-	"finish-time": "완료",
-	"top-users": "리더보드",
-	"member": "구성원",
-	"balance": "잔액",
-	"prize": "상품",
-	"hint-split-view-button": "레이아웃",
-	"hint-user-profile-button": "사용자 메뉴",
-	"hint-asset-stat": "거래자 선택사항",
-	"hint-sound-button": "사운드",
-	"hint-platform-time": "플랫폼 시간",
-	"hint-profitability": "수익성",
-	"hint-payout": "지불금",
-	"hint-real-acc": "실제 계좌",
-	"hint-demo-acc": "데모 계좌",
-	"hint-tournament-acc": "컨테스트 계좌",
-	"hint-settings": "설정",
-	"hint-support": "지원",
-	"hint-graph-type": "차트 유형",
-	"hint-candle-interval": "캔들 간격",
-	"hint-user-lines": "그래픽 도구",
-	"hint-secondary-lines": "지표",
-	"hint-centerize": "현재 가격",
-	"hint-zoom-level": "기간",
-	"tournament": "컨테스트",
-	"loading": "로딩 중",
-	"you-are-in-tournament": "참가 완료!",
-	"repeat-tournament": "재매수가 {{@price}}",
-	"unsupported-browser": "이 제품은 테스트 단계에 있으며 현재 Chrome, Opera, Yandex Browser와 같은 브라우저에서 안정적인 작동을 보장합니다. 양해해 주셔서 감사합니다.",
-	"account-is-for-educ": "데모 계좌입니다.",
-	"participate-in-demo-tments": "데모 컨테스트 참가",
-	"use-real-money": "실제 자금으로 거래",
-	"participate-tments-with-real-money": "컨테스트에 참여하여 상금을 획득하십시오.",
-	"native-deal-closed-body": "{{@assetName}} 옵션이 {{@closeTime}}에 마감되었습니다. 수익은 {{@incomeValue}}입니다.",
-	"tournaments-rules": "컨테스트 규칙",
-	"tournaments-rules-2": "컨테스트 참가 규칙",
-	"get-trade-exp": "가치 있는 거래 경험을 쌓으십시오.",
-	"tment-begins-in": "컨테스트 시작",
-	"tment-ends-in": "컨테스트 종료",
-	"tment-has-ended": "컨테스트가 종료되었습니다.",
-	"tment-just-ended": "\"{{@name}}\"이(가) 방금 종료되었습니다.",
-	"tment-just-started": "\"{{@name}}\"이(가) 방금 시작되었습니다.",
-	"tment-just-created": "\"{{@name}}\"이(가) 방금 생성되었습니다.",
-	"read-more": "더보기",
-	"history-is-empty": "만료된 거래가 없습니다.",
-	"tournaments-current-is-empty": "지금 진행 중인 컨테스트가 없습니다. 뉴스 피드를 팔로우하고 뉴스레터를 확인해 주십시오.",
-	"tournaments-future-is-empty": "향후 예정된 컨테스트가 없습니다. 뉴스 피드를 팔로우하고 뉴스레터를 확인해 주십시오.",
-	"tournaments@current-empty": "지금 진행 중인 컨테스트는 없지만 곧 시작될 예정입니다.<br><br>위의 메뉴에서 \"시작 예정\" 탭을 확인하고 플랫폼 소식과 이메일을 계속 확인해 주십시오.",
-	"tournaments-ended-is-empty": "종료된 컨테스트가 없습니다.",
-	"upper-indicator-line": "높은 지표 선",
-	"lower-indicator-line": "낮은 지표 선",
-	"stoch-overbuy-value": "과매수",
-	"stoch-overbuy-line-width": "과매수 폭",
-	"stoch-overbuy-line-color": "과매수 색상",
-	"stoch-oversell-value": "과매도",
-	"stoch-oversell-line-width": "과매도 폭",
-	"stoch-oversell-line-color": "과매도 색상",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "이 값은 유효하지 않습니다.",
-	"889954f14a3839c141bd8d5102094fbb": "이 값은 이미 사용되었습니다.",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "이 값은 유효한 이메일 주소가 아닙니다.",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "이 값은 유효한 이메일 주소가 아닙니다.",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "이 값은 유효한 이메일 주소가 아닙니다.",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "이 필드는 필수항목입니다.",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "값이 너무 짧습니다. 최소 문자 수는 {{@min}}자입니다.",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "값이 너무 깁니다. 최대 문자 수는 {{@limit}}자입니다.",
-	"478618a7-95ba-473d-9101-cabd45e49115": "이 값은 {{@compared_value}}와(과) 동일해야 합니다.",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "사용자 이름 또는 비밀번호가 올바르지 않습니다.",
-	"3e5af93fb888b4aa77301a7603e113d5": "비밀번호가 올바르지 않습니다.",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "이 값은 {{@limit}} 이하여야 합니다.",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "이 값은 {{@limit}} 이상이어야 합니다.",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "무효 값이어서는 안 됩니다.",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "선택한 값이 유효한 선택항목이 아닙니다.",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "필수항목 {{@name}}이(가) 유효하지 않습니다.",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "필수항목 {{@name}}을(를) 설정해야 합니다.",
-	"661d3bc6c153e42a3658855010678cbd": "{{@names}}은(는) 알 수 없는 필수항목입니다.",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "처리된 요청의 상태를 변경할 수 없습니다.",
-	"2d2ba82dd886ba3b69da804675842ff5": "결제 수단이 올바르지 않습니다.",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "만료 시간이 유효하지 않습니다.",
-	"f029308ab5f1672de0b7615c4fa33386": "자산이 현재 종료되었습니다.",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "자산이 현재 종료되었습니다.",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "이용 가능한 거래 금액 한도를 초과했습니다.",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "불충분한 자금",
-	"f3a5b44d01097d966072b90187a16ec6": "존재하지 않는 사용자입니다.",
-	"296ea5496bee3177c83ac27a1dc5bb10": "컨테스트 잔액은 시작 잔액보다 적어야 합니다.",
-	"fc53df7c4944ebb53e8b3713126ae226": "최대 거래 개시 수는 {{@limit}}개입니다",
-	"0f8e85ca21aa2e33752728cf5e843e35": "이용 가능한 거래 금액 한도를 초과했습니다.",
-	"cbce1334c90e82f44381abe99b98fe5c": "총 공개 옵션 한도를 초과했습니다.",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "이 닉네임은 이미 사용 중입니다. 다른 닉네임을 선택해 주십시오.",
-	"promo-ends-in": "보너스 종료까지 남은 시간:",
-	"your-promocode": "프로모션 코드",
-	"from-value-to-value": "{{@fromValue}}~{{@toValue}}",
-	"deposit-sum": "총 예금",
-	"bonus-sum": "보너스",
-	"promos-rules": "보너스 규칙",
-	"promos-rules-2": "보너스 규칙",
-	"participate-promo": "보너스 참가",
-	"promo-has-ended": "보너스가 종료되었습니다.",
-	"no-promos-description": "보너스 설명이 없습니다.",
-	"promos-is-empty": "No current promotions available. Please follow our latest news and watch out for future emails.",
-	"first-launch-disclaimer-content": "주의사항! 한 번만 클릭하면 확인 단계 없이 거래가 시작됩니다.",
-	"accept": "승인",
-	"trading-session-closed": "거래 세션이 종료되었습니다.",
-	"special-offer": "특별 오퍼",
-	"continue": "계속",
-	"seconds": "초",
-	"trading-sess-starts-in": "거래 세션 시작까지 남은 시간:",
-	"trading-session-closed-info-0": "주의사항!",
-	"trading-session-closed-info-1": "주식 시장은 주말에 휴장합니다.",
-	"trading-session-closed-info-2": "Binarium 플랫폼에서의 거래는 월요일 03:00부터 금요일 00:00까지 이용할 수 있습니다.",
-	"trading-session-closed-info-3": "시장 데이터는 Thompson Reuters에서 제공합니다.",
-	"asset": "자산",
-	"additional-info": "추가 정보",
-	"fill-profile-to-continue": "플랫폼에서 계속 작업하려면 추가 정보를 제공해 주십시오.",
-	"fill-username-heading": "안녕하세요, 거래자님.",
-	"fill-username-text": "토너먼트에 참가하려면 토너먼트 참가자 목록에 표시될 본인의 닉네임을 입력해 주십시오. 닉네임은 프로필 설정에서 언제든지 변경할 수 있습니다.",
-	"fill-username-placeholder": "닉네임을 입력해 주십시오.",
-	"save-and-continue": "저장 후 계속",
-	"profile-name": "이름",
-	"profile-surname": "성",
-	"profile-telephone": "전화",
-	"start-trading": "거래 시작",
-	"personal-data-safety": "개인 데이터 안전은 보장됩니다.",
-	"bonus": "보너스",
-	"new-bonus": "{}의 보너스를 계좌로",
-	"received-bonus": "선택한 예금과 함께 받게 될 보너스:",
-	"received-bonus-value": "보너스 금액: {{@bonus}}",
-	"mobile-received-bonus-value": "+ 보너스 {{@bonus}}",
-	"expires-in": "만료까지 남은 시간:",
-	"cannot-buy-option-try-later": "이 거래를 시작할 수 없습니다. 나중에 다시 시도해 주십시오.",
-	"notifications$demo-option-limit": "5개 넘는 거래를 한 번에 열고 싶으십니까? 그렇다면 실제 계정에서 여십시오. 데모 계정을 계속 사용하려면 거래가 완료될 때까지 기다리셔야 합니다.",
-	"max-total-bet-limit-exceeded": "허용된 거래 금액을 초과했습니다.\n 허용된 거래 금액은 최대 {{@maxBet}}입니다.",
-	"chart-opens-in": "자산 이용 가능 위치:",
-	"hint-activate-tment-wallet": "컨테스트 계좌를 사용해 시작하려면 여기를 누르십시오.",
-	"largest-profit-banner-on-the-asset": "자산에서",
-	"largest-profit-banner-button-trade-caption": "거래",
-	"largest-profit-banner-button-trade-caption-2": "지금 거래하기",
-	"largest-profit-banner-text": "자산을 거래할 최적의 시간",
-	"largest-profit-banner-text-2": "거래하기에 좋은 타이밍입니다",
-	"largest-profit-height-profit": "향상된 수익성",
-	"largest-profit-height-profit-2": "높은 수익성",
-	"offer-expires-in": "오퍼 종료까지 남은 시간:",
-	"offer-expires-in-2": "오퍼 종료까지 남은 시간:",
-	"warning": "경고",
-	"banner-tech-works-info-caption": "기술적 업데이트",
-	"banner-tech-works-info-content": "Binarium은 거래 플랫폼을 개선하기 위해 항상 노력하고 있습니다.\n 현재 플랫폼을 업데이트하고 있습니다.\n 이용에 불편을 드려 죄송합니다.",
-	"confirm-email-content": "이메일 주소를 확인해 주십시오. 확인 링크가 있는 이메일을 다시 전송하려면 아래 버튼을 클릭하십시오.",
-	"confirm-email-caption": "계좌 재활성화",
-	"reload": "다시 로드",
-	"resend-confirmation": "다시 전송",
-	"resend-confirmation-again": "다시 시도하십시오.",
-	"confirmation-mail-sent": "전송되었습니다.",
-	"banner-not-enough-funds-for-tment": "계좌에 잔액이 부족합니다. 컨테스트에 참여하려면 계좌에 입금하십시오.",
-	"tment-reenter-not-allowed": "진행 중인 트랜잭션 때문에 추가 결제를 진행할 수 없습니다.",
-	"fill-profile-wrong-phone": "유효하지 않은 전화 번호입니다.",
-	"fill-profile-wrong-name": "유효하지 않은 이름입니다.",
-	"fill-profile-wrong-surname": "유효하지 않은 성입니다.",
-	"fill-user-wrong-promocode": "유효하지 않은 프로모션 코드입니다.",
-	"wrong-promocode-max-sum": "Maximum amount to activate promo code {{@sum}}",
-	"wrong-promocode-min-sum": "Minimum amount to activate promo code {{@sum}}",
-	"wrong-withdrawal-min-sum": "최소 합계는 {{@sum}}입니다.",
-	"wrong-withdrawal-max-sum": "최대 인출 금액은 {{@sum}}입니다.",
-	"wrong-promocode-expired": "만료됨",
-	"wrong-promocode-only-for-second-deposit": "두 번째 후속 입금 시에만 이용할 수 있습니다.",
-	"wrong-promocode-only-for-first-deposit": "첫 번째 입금 시에만 이용할 수 있습니다.",
-	"wrong-promocode-used": "이 프로모션 코드는 이미 사용되었습니다.",
-	"fill-user-wrong-phone": "유효하지 않은 전화 번호입니다.",
-	"fill-user-wrong-card": "유효하지 않은 카드 번호입니다.",
-	"fill-user-wrong-customer_purse": "유효하지 않은 계좌 번호입니다.",
-	"fill-user-wrong-name": "유효하지 않은 이름입니다.",
-	"fill-user-wrong-surname": "유효하지 않은 성입니다.",
-	"please-rotate-device": "터미널을 쉽게 사용할 수 있도록 기기의 위치를 조정하십시오.",
-	"swipe-up-to-enter-fs": "전체 화면 모드로 들어가려면 위로 밀어 올리십시오.",
-	"click-to-enter-fs": "전체 화면 모드로 전환하려면 화면 어디든 탭하십시오.",
-	"reconnect": "다시 연결",
-	"reconnected": "다시 연결되었습니다.",
-	"free-reg": "무료 등록",
-	"investments": "거래",
-	"investments_short": "투자",
-	"investment_short": "투자",
-	"buy-time": "매수 시간",
-	"total-investment": "총 투자금",
-	"total-income": "총 지불금",
-	"result": "결과",
-	"ur-income-would-be": "수익",
-	"create-account-for-free": "무료 계좌 만들기",
-	"resume-use-demo": "데모 모드 계속",
-	"reg-request-message": "Binarium 웹사이트에서 거래하셨다면 지금 {{@income}}의 수익을 거두실 수 있었습니다. 더 늦기 전에 거래를 시작하십시오!",
-	"trade-without-restrictions": "제한 없는 거래",
-	"trade-without-restrictions-message": "한 번에 5건이 넘는 거래를 시작하고 싶으신 경우 실제 거래 계좌를 열고 제한 없이 거래하십시오. 데모 계좌를 계속 사용하시려면 현재 거래가 만료될 때까지 기다려 주십시오.",
-	"use-real-wallet": "실제 계좌",
-	"support": "지원",
-	"search-asset": "자산 검색",
-	"error-sending-email-confirmation": "이메일을 전송하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
-	"error-sending-email-confirmation-with-time": "새 이메일이 {{@time}}분 후에 전송됩니다. 계좌를 활성화하려면 이메일을 확인하거나 지원 서비스로 문의해 주십시오.",
-	"risk-free-trades": "위험 없는 거래",
-	"count-trades-for-bet": "거래 {{@count}}건, 합계 {{@sum}}",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "흰색",
-	"Red": "빨간색",
-	"Pink": "분홍색",
-	"Purple": "보라색",
-	"Deep Purple": "짙은 보라색",
-	"Indigo": "남색",
-	"Blue": "파란색",
-	"Cyan": "청록색",
-	"Green": "녹색",
-	"Light Green": "연한 녹색",
-	"Lime": "라임색",
-	"Yellow": "노란색",
-	"Amber": "황색",
-	"Orange": "오렌지색",
-	"tournament-accounts": "토너먼트 계좌",
-	"activate-tournament-wallet": "컨테스트 지갑 활성화",
-	"deposit-using-agreements-header": "보너스 항목",
-	"deposit-using-agreements-p1": "보너스는 거래자의 거래 잠재력을 높이기 위해 회사가 제공하는 추가 자금입니다.",
-	"deposit-using-agreements-p2": "예금 입금 시 일정 금액의 보너스가 계좌에 입금될 수 있으며, 보너스 금액은 예금액에 따라 다릅니다.",
-	"deposit-using-agreements-p3": "보너스는 인출할 수 있는 금액을 제한하지 않습니다. 언제든지 예금과 함께 수익을 인출할 수 있습니다. 인출할 때 적립되지 않은 모든 보너스 자금은 비활성 상태로 지정되며 계좌에서 인출됩니다.",
-	"choose-payment-method": "예금 수단 선택",
-	"choose-payment-sum": "예금 선택",
-	"plus-value-bonus": "+ {{@value}} 보너스",
-	"deposit-user-sum-value-caption": "직접 금액을 선택하고 싶으십니까? 입력 필드를 사용하십시오.",
-	"i-have-promocode": "프로모션 코드가 있습니다.",
-	"requisiste-name-phone": "전화",
-	"no-bonus": "보너스 없음",
-	"refresh": "새로고침",
-	"browser": "브라우저",
-	"make-a-deposit": "예금 입금",
-	"cashbox-withdrawal-info-0-header": "자금을 계좌에서 어떻게 인출합니까?",
-	"cashbox-withdrawal-info-0-content": "사용 가능한 옵션은 은행 카드, Qiwi/Yandex Money/WebMoney 전자 지갑입니다. 소액 계좌 소유자는 자금 인출에 대한 활성화된 신청을 하나만 가질 수 있습니다.",
-	"cashbox-withdrawal-info-1-header": "계좌에서 인출할 수 있는 최소 금액은 얼마입니까?",
-	"cashbox-withdrawal-info-1-content": "최소 인출 금액은 ₽300 또는 $5 또는 €5 또는 A$5 또는 ₴150입니다. 단일 트랜잭션당 최대 인출 금액은 ₽15,000 또는 $200 또는 €200 또는 A$200 또는 ₴6,000입니다.",
-	"cashbox-withdrawal-info-2-header": "₽15,000 또는 $200 또는 €200 또는 A$200 또는 ₴6,000보다 많은 금액을 인출하려면 어떻게 해야 합니까?",
-	"cashbox-withdrawal-info-2-content": "이 한도는 빠른 계정 인출을 방지하기 위해 설정되었습니다. 정해진 한도를 초과하는 금액은 더 시간이 걸려야만 인출할 수 있습니다. 더 많은 금액을 인출해야 하는 경우 자금 인출을 $200 또는 €200 또는 A$200 또는 ₽15,000 또는 ₴6,000 단위로 나눌 수 있습니다. 귀하가 할 수 있는 인출 요청 횟수에는 제한이 없습니다. 한 번의 결제에서 더 많은 금액을 인출하려면 플랫폼 지원 팀에 문의하십시오. 계좌가 확인되지 않으면 자금 인출 요청을 처리하는 데 영업일 기준 최대 3일이 소요될 수 있습니다. 자금 인출 요청은 하루에 2회 이상 제출할 수 없습니다.",
-	"cashbox-withdrawal-info-3-header": "자금 인출은 얼마나 빨리 처리됩니까?",
-	"cashbox-withdrawal-info-3-content-a": "요청이 플랫폼 재무 부서의 영업 시간 동안 제출되고 플랫폼 요구사항에 따라 계정이 확인된 경우 요청을 처리하는 데 1시간이 걸립니다. ",
-	"cashbox-withdrawal-info-3-content-b": "재무 부서의 영업 시간은 월요일~금요일, 오전 10시~오후 10시(GMT +2)입니다. 재무 부서의 영업 시간 외에 또는 공휴일에 자금 인출 요청을 제출하면 다음 영업일이 시작될 때 요청이 처리됩니다. 계좌가 확인되지 않으면 영업일 기준 3일 이내에 자금 출금 요청이 처리됩니다. 자금 인출 요청은 하루에 2회 이상 제출할 수 없습니다.",
-	"cashbox-withdrawal-info-4-header": "인출 정책",
-	"cashbox-withdrawal-info-4-content-a": "고객은 요청이 올바르게 처리되도록 '프로필 설정' 섹션에 요청된 모든 데이터를 표시해야 합니다. 부정확하거나 불완전한 데이터가 입력된 것으로 판단되면 자금 인출 요청이 거부되거나 지연될 수 있습니다.",
-	"cashbox-withdrawal-info-4-content-b": "자금은 계좌에 자금을 예치하는 데 사용된 동일한 은행 계좌(또는 동일한 결제 시스템)로 인출됩니다. 거래를 완료할 수 없는 경우 온라인 채팅을 시작하거나 support@binarium.com으로 지원 요청을 보내 지원 서비스에 문의하셔야 합니다.",
-	"cashbox-withdrawal-info-5-header": "자금을 인출할 때 서류를 제출해야 합니까? 그렇다면 무엇을 제출해야 합니까?",
-	"cashbox-withdrawal-info-5-content-a": "빠른 인출을 위해 '프로필 설정' 섹션에서 모든 개인 데이터를 제공하십시오. 여러 은행 카드를 사용하거나 등록 시 제공한 결제 정보와 해당 결제 정보가 일치하지 않는 경우 전체 승인 절차를 거쳐 카드가 실제로 귀하의 소유임을 증명해야 합니다. 자금은 제3자 계좌로 인출할 수 없습니다. ",
-	"cashbox-withdrawal-info-5-content-b": "확인 절차를 완료하려면 소유자의 성과 이름을 볼 수 있도록 여권 및 은행 카드 앞면을 스캔한 파일을 support@binarium.com으로 보내 주십시오. 양각 카드가 아닌 경우 여권 사본과 함께 해당 카드에서 Binarium 계좌로 전송된 트랜잭션을 보여주는 은행 계좌 명세서 스캔 파일을 보내야 합니다. Binarium은 카드 소지자와 거래 계좌 데이터가 일치하지 않을 경우 추가 지원 문서를 요구할 권리가 있습니다.",
-	"cashbox-withdrawal-info-6-header": "보너스 자금을 인출할 수 있는 조건은 무엇입니까?",
-	"cashbox-withdrawal-info-6-content-a": "보너스 자체는 적립 후 즉시 인출할 수 없습니다. 중개인은 이 돈을 귀하의 거래 기회를 늘리기 위한 보너스로 귀하의 계좌에 입금합니다. 보너스 자금을 사용하여 얻은 이자도 보너스로 간주되며 필요한 거래 회전율이 달성된 후에만 인출할 수 있습니다. 보너스 자체를 인출하려면 계좌에서 보너스 금액의 40배에 달하는 회전율을 달성해야 합니다. 예금 없는 보너스를 받은 경우 레버리지가 50배로 증가합니다. 즉, 계좌의 회전율이 보너스의 50배와 같아야 하며 최대 인출 금액은 추가된 예금 없는 보너스의 금액을 초과할 수 없습니다. Binarium의 무료 컨테스트에서 얻은 상금은 40배 회전율을 달성한 후에만 인출할 수있는 보너스로 간주됩니다.",
-	"cashbox-withdrawal-info-6-content-b": "예를 들어 예금하여 보너스로 $150가 발생했다고 가정해 보겠습니다. 규칙에 따르면 매수한 옵션의 총 가치가 30 x 150 = $4,500에 달해야 합니다. 이 가치가 달성되면 보너스 자금을 인출할 수 있습니다. 이 경우 수익성 있는 거래와 수익성 없는 트랜잭션이 모두 고려됩니다. 조기 종료된 트랜잭션은 회전율에 포함되지 않습니다. 수익 인출에는 제한이 없습니다.",
-	"cashbox-withdrawal-info-6-content-c": "예금의 일부를 인출하려는 경우 보너스는 계좌에서 자동으로 공제됩니다.",
-	"cashbox-withdrawal-info-6-content-d": "궁금한 점이 있으시면 Binarium 지원 서비스에 문의해 주십시오.",
-	"cashbox-withdrawal-info-7-header": "계좌에 대한 자금 인출 요청을 작성할 수 없습니다. 문제가 무엇입니까?",
-	"cashbox-withdrawal-info-7-content": "먼저 모든 개인 정보가 '프로필' 섹션의 프로필 페이지에 있는지 확인하십시오. 또한 요청을 제출할 때 모든 정보를 올바르게 입력했는지 재차 확인하십시오. +,-, / 등의 특수 문자는 유효하지 않습니다. 입력한 정보가 모두 정확한데도 문제가 지속되면 온라인 채팅 또는 support@binarium.com을 통해 고객 지원 서비스에 문의해 주십시오.",
-	"deposit-info-1": "보너스는 거래자의 거래 잠재력을 높이기 위해 회사가 제공하는 추가 자금입니다",
-	"deposit-info-2": "예금 입금 시 일정 금액의 보너스가 계좌에 입금될 수 있으며, 보너스 금액은 예금액에 따라 다릅니다.",
-	"deposit-info-3": "보너스는 인출 금액을 제한하지 않습니다. 언제든지 예금과 함께 수익을 인출할 수 있습니다. 자금 인출 시 40배 회전율로 거래에서 사용되지 않은 모든 보너스 자금은 비활성 상태로 지정되며 계좌에서 인출됩니다.",
-	"withdrawal-heading": "요청은 제출 후 24시간 이내에 처리됩니다.",
-	"withdrawal-content": "요청서가 Binarium 재무 부서의 근무 시간 외에 제출된 경우 다음 업무일 이내에 처리됩니다.",
-	"withdrawal-restricted-content": "귀하의 <span class=\"open-act-button\">계좌 유형</span>에 적용된 인출 한도가 초과되었습니다",
-	"withdrawal-amount-caption": "결제 금액",
-	"withdrawal-type-caption": "자금 인출 수단",
-	"withdrawal-button-caption": "자금 인출",
-	"requisite-name-card": "카드 번호",
-	"requisite-name-phone": "전화",
-	"requisite-name-customer_purse": "고객 지갑",
-	"withdrawal-request-sent": "요청이 대기열에 배치됩니다.",
-	"withdrawal-request-sent-extra-info": "요청 상태는 '트랜잭션 내역' 섹션에서 추적할 수 있습니다.",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "Visa/Mastercard",
-	"videohub": "교육",
-	"asset-type-all": "모두",
-	"asset-type-currency": "통화",
-	"asset-type-crypto": "암호화",
-	"asset-type-goods": "상품",
-	"asset-type-countries": "국가",
-	"asset-type-leaders": "리더",
-	"cashbox-withdrawal-info": "요청을 처리하려면 시간이 걸립니다. 일반적으로 재무 부서에서 업무 시간 동안 요청을 검토하는 데 최대 24시간이 걸립니다. 인출 요청이 승인되기를 기다리는 동안 잔액은 동결되지 않는다는 사실을 알려 드립니다. 따라서 거래를 계속하실 수 있습니다.",
-	"expiration-caption-16": "24시간 후",
-	"trends": "동향",
-	"show-chart": "차트 표시",
-	"hide-chart": "차트 숨기기",
-	"trend-active": "활성",
-	"trend-non-active": "모두",
-	"trends-is-empty": "동향을 업데이트 중입니다.",
-	"what-are-trends": "동향이란?",
-	"what-are-trends-advice-content": "동향은 수익성이 있는 자산(가격 방향이 뚜렷한 자산)을 신속하게 찾고 해당 방향으로 거래를 시작할 수 있는 특별한 거래 도구입니다.",
-	"not-enough-money-for-trends-detailed": "Binarium의 고유한 거래 도구는 {{@balance}} 이상의 실제 잔액을 보유한 고객에게 제공됩니다. 이 도구의 혜택은 다음과 같습니다.",
-	"get-access-to-trends": "동향 액세스 권한 제공",
-	"trends-features-one": "시장의 모든 자산 동향 추적",
-	"trends-features-two": "동향이 나타나면 해당 방향에 맞는 거래를 즉시 시작",
-	"month-0": "1월",
-	"month-1": "2월",
-	"month-2": "3월",
-	"month-3": "4월",
-	"month-4": "5월",
-	"month-5": "6월",
-	"month-6": "7월",
-	"month-7": "8월",
-	"month-8": "9월",
-	"month-9": "10월",
-	"month-10": "11월",
-	"month-11": "12월",
-	"day-0": "월요일",
-	"day-1": "화요일",
-	"day-2": "수요일",
-	"day-3": "목요일",
-	"day-4": "금요일",
-	"day-5": "토요일",
-	"day-6": "일요일",
-	"trading-room": "거래방",
-	"trading-room-entering-time": "입장 시간",
-	"trading-room-expiration": "만료",
-	"trading-room-strength": "강도",
-	"trading-room-strike-price": "집행 가격",
-	"trading-room-is-empty": "이용할 수 있는 신호가 없습니다. 거래방을 잠시 확인해 보십시오.",
-	"demo-stats-banner-header-caption": "잘하셨습니다!",
-	"demo-stats-banner-header-caption-2": "축하합니다!",
-	"demo-stats-banner-you-earned-on-demo": "데모 계좌에서 수익을 얻으셨습니다.",
-	"demo-stats-banner-total-deals-amount": "총 거래 수",
-	"demo-stats-banner-successfull-deals-percentage": "성공적 거래 비율",
-	"demo-stats-banner-real-account-opening-request": "실제 계좌를 열어 수익 인출",
-	"demo-stats-banner-open-real-account-button-caption": "실제 계좌 열기",
-	"demo-stats-banner-keep-trading-on-demo": "데모 계좌 유지",
-	"demo-stats-banner-you-have-done": "완료했습니다.",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "연속적인 거래",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "연속적인 수익성 있는 거래",
-	"demo-stats-banner-earning-on-demo-account": "데모 계좌의 수익",
-	"demo-stats-banner-closed-in-a-row-2": "수익성 있는 거래",
-	"tour-next-button-caption": "계속",
-	"tour-reading-duration-caption": "4분 길이 읽을거리",
-	"tour-slides-steps-count": "단계 {{@currentSlide}}/{{@totalSlidesCount}}",
-	"tour-slide-0-caption": "Binarium 거래 플랫폼에 오신 것을 환영합니다.",
-	"tour-slide-0-content": "이 간단한 데모에서는 거래의 기본 원칙과 Binarium 플랫폼 인터페이스를 소개합니다.",
-	"tour-slide-0-content-1": "모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오.",
-	"tour-slide-0-content-2": "이 간단한 데모에서는 거래의 기본 원칙과 Binarium 플랫폼 인터페이스를 소개합니다.",
-	"tour-slide-0-content-3": "메인 메뉴는 왼쪽에 있습니다. 예를 들어 <span class=\"bold\">은행</span> 섹션에서는 계좌의 자금을 충전할 수 있습니다. <span class=\"bold\">거래방</span> 섹션에서는 플랫폼 내 최우수 거래자를 통해 거래를 주문할 수 있습니다.",
-	"tour-slide-0-content-3-port": "메인 메뉴는 왼쪽 상단에 있습니다. 예를 들어 <span class=\"bold\">은행</span> 섹션에서는 예금을 만들 수 있습니다. <span class=\"bold\">거래방</span> 섹션에서는 플랫폼 내 최우수 거래자에게 도움을 받고 거래할 수 있습니다.",
-	"tour-slide-0-extra-info": "모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오.",
-	"tour-slide-1-caption": "플랫폼에서 수익을 얻는 방법",
-	"tour-slide-1-content": "<span class=\"bold\">거래 플랫폼에서 거래</span>는 외환 통화 쌍, 암호 화폐, 상품 및 기타 금융 상품과 같은 금융 자산에 단기 투자하여 진행할 수 있습니다.",
-	"tour-slide-2-caption": "거래 시 기본 원칙",
-	"tour-slide-2-content-a": "거래는 금융 자산의 가격이 특정 기간 동안 어떻게 변할 것인지에 대한 예측입니다. 투자자는 <span class=\"green\">장기</span> 또는 <span class=\"red\">단기</span> 거래를 합니다.",
-	"tour-slide-2-content-b": "예측이 맞은 것으로 나타나면 수입을 받게 됩니다. 틀렸다면 투자한 모든 자금을 잃게 됩니다.",
-	"tour-slide-3-caption": "Binarium 플랫폼에서 거래하는 방법",
-	"tour-slide-3-content": "예측하고 싶은 가격 동향을 가진 <span class=\"bold\">자산을 선택</span>합니다.",
-	"tour-slide-4-caption": "Binarium 플랫폼에서 거래하는 방법",
-	"tour-slide-4-content": "<span class=\"bold\">투자 금액을 선택합니다.</span>",
-	"tour-slide-5-caption": "Binarium 플랫폼에서 거래하는 방법",
-	"tour-slide-5-content": "가격이 <span class=\"green\">증가</span> 또는 <span class=\"red\">감소</span>할 것이라고 예측한 후 <span class=\"bold\">거래를 시작</span>합니다. 거래가 종료될 때까지 기다립니다.",
-	"tour-slide-6-caption": "Binarium 플랫폼에서의 거래에 행운을 빕니다",
-	"tour-slide-6-additional-caption": "귀하의 예측이 정확하면 수익이 귀하의 거래 계좌에 자동으로 적립됩니다.",
-	"tour-slide-6-a-trading-rules": "거래 조건",
-	"tour-slide-6-a-card-0-caption": "성공적인 예측으로 얻은 수입 금액:",
-	"tour-slide-6-a-card-0-content-1": "최대 {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "성공적인 예측으로 얻게 될 투자 금액",
-	"tour-slide-6-a-card-1-caption": "최소 거래 예금액:",
-	"tour-slide-6-a-card-1-content": "최소 {{@minWithdrawal}}",
-	"tour-slide-6-a-card-2-caption": "자금 인출에 필요한 평균 시간:",
-	"tour-slide-6-a-card-2-content": "30분",
-	"tour-slide-6-a-card-3-caption": "거래를 시작하기 위해 실제 계좌에 자금을 입금하십시오.",
-	"tour-slide-6-a-card-3-button-caption": "자금 입금 후 거래 시작",
-	"tour-slide-6-a-dont-show-again": "플랫폼 둘러보기 닫기",
-	"tour-slide-6-b-trading-rules": "거래 조건",
-	"tour-slide-6-b-card-0-caption": "성공적인 예측으로 얻은 수입 금액:",
-	"tour-slide-6-b-card-0-content": "투자금의 <span class=\"big\">최대 90%</span>.",
-	"tour-slide-6-b-card-1-caption": "최소 거래 예금액:",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "자금 인출에 필요한 평균 시간:",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span>분",
-	"tour-slide-6-b-card-3-caption": "데모 계좌를 사용해 위험 없이 거래하는 방법 알아보기",
-	"tour-slide-6-b-card-3-button-caption": "데모 계좌를 이용한 거래",
-	"tour-slide-6-b-dont-show-again": "플랫폼 둘러보기 닫기",
-	"user-terms-caption": "한 번의 클릭으로 거래",
-	"what-is-trading-room": "거래방이란?",
-	"what-is-trading-room-advice-content": "거래방은 한 번의 클릭으로 플랫폼 내 최우수 거래자의 거래를 따라할 수 있는 편리한 도구입니다. 이 도구를 이용하면 거래 효율성을 높이고 시간을 절약할 수 있습니다.",
-	"not-enough-money-for-trading-room-detailed": "거래방을 사용하여 Binarium 플랫폼에서 최우수 거래자와 거래하고 수익을 올릴 수 있습니다. 실제 잔액을 최소 {{@minBalance}}까지 충전하고 다음 혜택을 받으십시오.",
-	"get-access-to-trading-room": "거래방 액세스",
-	"have-access-to-trading-room": "'거래방'에 액세스하려면 담당 관리자 또는 지원 서비스에 문의하십시오.",
-	"trading-room-features-one": "플랫폼에서 가장 성공적인 거래자의 거래를 주시하십시오.",
-	"trading-room-features-two": "트랜잭션을 따라하여 수익 창출",
-	"trading-room_1-title": "함께 거래",
-	"trading-room_1-text": "플랫폼에서 가장 성공적인 거래자의 거래를 주시하십시오.",
-	"trading-room_2-title": "다른 사람의 성공적인 경험을 활용하십시오",
-	"trading-room_2-text": "다른 거래자의 행동을 따라하여 수익을 창출하십시오!",
-	"trading-room_refill": "'거래방'에 액세스하기 위해 충전해야 하는 최소 잔액:",
-	"account_level": "계좌 수준",
-	"modal-confirm_title": "이메일 주소 확인",
-	"modal-confirm_text-1": "확인 링크가 포함된 이메일이 전송되었습니다.",
-	"modal-confirm_text-2": "확인 링크가 포함된 이메일을 받지 못하셨습니까? '스팸' 폴더를 확인하십시오. 메시지가 그곳에 전송되는 경우가 있습니다. 또는 메시지를 다시 요청하십시오.",
-	"modal-confirm_button": "메시지 다시 전송",
-	"modal-confirm_error-1-1": "새 이메일이 {{@time}}분 후에 전송됩니다. 계좌를 활성화하려면 이메일을 확인하거나 지원 서비스로 문의해 주십시오. 또는",
-	"modal-confirm_error-1-2": "지원 서비스에 문의하십시오.",
-	"modal-confirm_support": "지원 팀에 문의하기",
-	"timer_days": "일",
-	"timer_hours": "시간",
-	"timer_minutes": "분",
-	"timer_seconds": "초",
-	"tournament_button": "컨테스트 참가",
-	"modal-oneclick_title": "한 번의 클릭으로 거래",
-	"modal-oneclick_text": "플랫폼에서 한 번의 클릭으로 거래를 시작할 수 있습니다. 추가 확인 단계가 없습니다.",
-	"modal-oneclick_button": "확인 및 계속",
-	"modal-tbalance_title": "계좌 충전",
-	"modal-tbalance_text": "계좌에 자금이 부족합니다. 컨테스트에 참가하려면 계좌를 충전하십시오.",
-	"modal-tbalance_button": "예금 입금",
-	"modal-tech_title": "곧 연락드리겠습니다.",
-	"modal-tech_text-1": "본사는 거래 플랫폼을 지속적으로 개선하고 있으며 곧 업데이트를 완료할 예정입니다. 불편을 드려 죄송합니다.",
-	"modal-tech_text-2": "작업 완료까지 남은 시간:",
-	"modal-tech_button": "계속",
-	"modal-session_title": "주의사항",
-	"modal-session_text-1": "주식 시장은 주말에 휴장합니다.",
-	"modal-session_text-2": "거래 플랫폼에 액세스할 수 있습니다.",
-	"modal-session_text-3": "월요일 오전 3:00~금요일 오전 12:00",
-	"modal-session_text-4": "거래 세션 시작까지 남은 시간:",
-	"modal-session_button": "계속",
-	"modal-tn_title": "환영합니다",
-	"modal-tn_text-1": "최종 토너먼트에서 최고 잔액을 가진 거래자가 우승자가 됩니다.",
-	"modal-tn_text-2": "이용 가능한 자산:",
-	"modal-tn_text-3": "이용 가능한 트랜잭션 유형:",
-	"modal-tn_button": "시작",
-	"modal-nickname_title": "닉네임 선택",
-	"modal-nickname_text": "컨테스트에 참가하려면 컨테스트 참가자 목록에 표시될 본인의 닉네임을 입력해 주십시오. 닉네임은 프로필 설정에서 언제든지 변경할 수 있습니다.",
-	"modal-nickname_button": "저장 후 계속",
-	"modal-nickname_placeholder": "닉네임을 입력해 주십시오",
-	"modal-profile_title": "추가 정보",
-	"modal-profile_text": "플랫폼에서 작업을 계속하려면 추가 정보를 제공해 주십시오.",
-	"modal-profile_name": "이름",
-	"modal-profile_surname": "성",
-	"modal-profile_phone": "전화 번호(국가 코드 포함)",
-	"modal-profile_button": "거래 시작",
-	"modal-profile_aside": "개인 데이터 안전은 보장됩니다.",
-	"form-error_required": "이 필드는 공백이면 안 됩니다",
-	"form-error_name-short": "이름이 너무 짧습니다.",
-	"form-error_name-format": "문자만 입력할 수 있습니다",
-	"form-error_surname-short": "성이 너무 짧습니다.",
-	"form-error_surname-format": "문자만 입력할 수 있습니다",
-	"form-error_phone-format": "번호는 국제 형식이어야 합니다",
-	"srv-err_asset-is-disabled": "자산이 사용 중지되었습니다.",
-	"srv-err_asset-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
-	"srv-err_binary-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
-	"srv-err_turbo-is-disabled-for-this-tournament": "자산이 이 토너먼트에서 사용 중지되었습니다.",
-	"tournament@btn.paid-participate": "참가비",
-	"tournament@info.paid": "유료 토너먼트",
-	"faq@title": "Questions and answers",
-	"menu@faq": "자주 묻는 질문",
-	"menu@education": "교육",
-	"menu@qa": "질문과 답변",
-	"menu@strategies": "전략",
-	"menu@btn$back": "뒤로",
-	"cashbox@no-bonus": "Don't receive bonus",
-	"wallet-menu@real-title": "실제 자금",
-	"wallet-menu@bonus-title": "Bonus funds",
-	"wallet-menu@wager-title": "Turnover to withdraw bonus",
-	"wallet-menu@wager-link": "Read more about bonuses",
-	"modal-bonus@title": "You are using bonus funds",
-	"modal-bonus@text": "The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:",
-	"modal-bonus@deal-size": "Trade size",
-	"modal-bonus@real-size": "Real funds",
-	"modal-bonus@bonus-size": "Bonus funds",
-	"modal-bonus@info": "All funds received as part of the trade will be credited to your bonus account.",
-	"modal-bonus@faq": "Bonus fund usage rules",
-	"modal-bonus@btn-cancel": "Cancel",
-	"modal-bonus@btn-continue": "Accept and continue",
-	"modal-bonus@disable": "Don't show this message anymore",
-	"trends@restrict-title": "Insufficient funds in your account",
-	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least",
-	"asset-menu@title": "자산",
-	"asset-menu@available": "거래 가능한 자산",
-	"asset-menu@profitable": "수익이 향상된 자산",
-	"asset-menu@interval": "분",
-	"confirm-trade@header": "거래 확인",
-	"confirm-trade@timer": "{{@data}}초 후 창이 자동으로 닫힙니다.",
-	"confirm-trade@heading": "멋집니다! 이제 거래를 확인하려 하시는군요. 그 전에 아래의 세부 사항을 확인해 주십시오.",
-	"confirm-trade@asset": "자산",
-	"confirm-trade@direction": "방향",
-	"confirm-trade@investment": "투자",
-	"confirm-trade@price": "현재 가격",
-	"confirm-trade@profitability": "수익성",
-	"confirm-trade@payout": "잠재적 지불금",
-	"confirm-trade@btn-cancel": "취소",
-	"confirm-trade@btn-confirm": "확인",
-	"plot@loading": "로딩 중",
-	"plot@lock-time": "잠금 시간",
-	"plot@expiration-time": "만료 시간",
-	"tr-empty@text": "전문가와 함께하는 상세한 거래의 세계로 뛰어드십시오. 플랫폼에서 가장 성공적인 거래자의 거래를 따라 더 많은 수익을 올리십시오.",
-	"tr-empty@business": "거래방은 비즈니스 계정 이상의 거래자가 이용할 수 있습니다. 평일 2회 4시간 거래 세션이 제공되며 매일 전문 거래자로부터 약 30개의 신호를 받을 수 있습니다. 독학하느라 시간을 낭비하지 마십시오. 귀하가 해야 할 작업은 Binarium 최우수 거래자가 이미 마쳐 놓았습니다.",
-	"tr-empty@vip": "VIP 고객이 되면 거래방에서 본사 거래자가 귀하의 모든 질문에 답변하고 현재 시장 동향을 설명하며 잠재력이 가장 높은 부문을 제안해 드리며 귀하와 개인적 신호를 교환하고 협업하는 등 모든 특권이 제공됩니다. 이는 가장 많은 거래를 얻을 수 있는 최고의 방법입니다.",
-	"tr-empty@open-btn": "자세한 정보 • 로그인",
-	"tr-empty@deposit-btn": "결제로 이동 • 로그인",
-	"tr-empty@vip-signals": "+ 가치 있는 신호",
-	"hb@menu-btn": "메뉴",
-	"ac-types@title": "계좌 유형",
-	"ac-types@label_depositSum": "예금액",
-	"ac-types@label_tradeback": "트레이드백",
-	"ac-types@label_tradebackEnrolment": "트레이드백 포인트",
-	"ac-types@label_assets": "자산 거래",
-	"ac-types@label_withdrawalCountLimit": "일일 인출 요청 수",
-	"ac-types@label_withdrawalAmountLimit": "월 인출 한도",
-	"ac-types@label_withdrawalDayAmountLimit": "일일 인출 한도",
-	"ac-types@label_tradingRoom": "거래방",
-	"ac-types@label_openDealsSum": "최대 거래 개시 수(한 번에 허용된 수)",
-	"ac-types@value_real": "실제 자금",
-	"ac-types@value_bonus": "보너스",
-	"ac-types@value_nolimit": "한도 없음",
-	"ac-types@btn": "증가",
-	"ac-types@self": "내 계좌",
-	"ac-types@tradeback-hint": "트레이드백 - 거래자가 손실을 입은 거래에 대한 부분 환불. 매주 화요일 12:00(0:00 UTC)에 적립",
-	"video-tutorial@title": "Binarium에서 90초만에 거래 시작하기",
-	"video-tutorial@checkbox": "이 동영상을 다시 표시 안 함",
-	"user-menu@account-types": "계좌 유형",
-	"withdrawal-error@amount-limit": "인출 한도가 초과되었습니다",
-	"withdrawal@limit-with-counter": "자금 인출 한도를 초과했습니다.<br>귀하의 <span class=\"open-act-button\">계좌 유형</span>에서는 {{@limitCount}}회 요청으로 총 {{@limitAmount}}의 금액을 인출할 수 있습니다.<br>{{@limitTime}} 후에 다시 요청할 수 있습니다.",
-	"promo-gift@bonus": "보너스",
-	"promo-gift@freeSpins": "위험 없는 거래",
-	"promo-gift@tradeRoom": "거래방",
-	"promo-gift@tickets": "티켓",
-	"settings@quality-title": "그래픽 품질",
-	"settings@quality-hint": "그래픽 품질 설정을 변경하여 기기의 부하를 관리하십시오. 표준 품질을 선택하면 그래픽 품질이 다소 떨어지지만 리소스를 절약하고 플랫폼을 더 빠르게 로드할 수 있습니다.",
-	"settings@quality-option-base": "기본",
-	"settings@quality-option-average": "평균",
-	"settings@quality-option-best": "고품질",
-	"history@group$active": "진행 중인 거래",
-	"history@group$finished": "완료된 거래",
-	"st@level$all": "모두",
-	"st@level$easy": "단순",
-	"st@level$base": "기본",
-	"st@level$advanced": "고급",
-	"promo@btn$details": "더보기",
-	"promo@timer$name": "프로모션 종료까지 남은 시간:",
-	"promo@until": "기간:",
-	"wallet@btn$refill": "데모 계좌 입금",
-	"tournament@prize-fund": "상금",
-	"tournament@prize-places": "상위",
-	"tournament@tab$restrictions": "이용약관",
-	"tournament@tab$rating": "참여자 순위",
-	"tournament@tab$current": "현재",
-	"tournament@tab$soon": "시작 예정",
-	"tournament@timer$start": "컨테스트 시작까지 남은 시간:",
-	"tournament@timer$end": "컨테스트 종료까지 남은 시간:",
-	"section@title$bet": "거래",
-	"bet@tab$deposit": "예금",
-	"forecast@deal": "거래",
-	"forecast@deals": "거래",
-	"promo@days-short": "일",
-	"settings@group$region": "지역 설정",
-	"settings@group$design": "디자인",
-	"menu@account-type": "계좌 유형",
-	"menu@profile": "사용자 프로필",
-	"leaderboard@tournament": "컨테스트",
-	"leaderboard$toggle@open": "전체 순위",
-	"leaderboard$toggle@close": "닫기",
-	"disabled-timer@title": "시작까지 남은 시간",
-	"open-option$total$deals": "투자",
-	"open-option$total$invest": "총 투자금",
-	"open-option$total$payout": "총 지불금",
-	"chat-button@text": "온라인<br>도움말",
-	"accounts@popular": "인기 선택항목",
-	"settings@animation": "Points animation",
-	"settings@animation-disabled": "Disabled",
-	"settings@animation-enabled": "Enabled"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","안녕하세요, 사용자님!"
+"error","오류"
+"settings","설정"
+"settings-2","터미널 설정"
+"regionalSettings","지역 설정"
+"timezone","시간대"
+"timezone-2","시간대"
+"language","언어"
+"skin-theme","테마"
+"ui-zoom","확대/축소"
+"ui-zoom-2","조정"
+"investment","거래"
+"payout","지불금"
+"options","옵션"
+"quote","견적"
+"time","시간"
+"past","Closed"
+"active","시작됨"
+"value","가치"
+"add","새 탭"
+"add-new-chart","새 차트 추가"
+"charts-arrangement","차트 그리드"
+"turbo-cap","1~5분"
+"count-chart","차트 {{@count}}개"
+"count-charts","차트 {{@count}}개"
+"one-chart","차트 1개"
+"two-charts","차트 2개"
+"three-charts","차트 3개"
+"four-charts","차트 4개"
+"refill","예금"
+"wallets-types","계좌 유형"
+"history","내역"
+"cashbox","뱅킹"
+"education","교육"
+"education@category$videos","교육 <span>동영상</span>"
+"promos","보너스"
+"trading-history","거래 내역"
+"section-under-construction","이 섹션은 작업 중입니다"
+"count-purchase","거래 {{@count}}건"
+"count-purchases","{{@count}} #{trades@trade?count}"
+"total-payout","총 지불금"
+"cancel","취소"
+"apply","적용"
+"period","기간"
+"stochastic-smoothing","스무딩"
+"stochastic-overbought","과매수"
+"stochastic-oversold","과매도"
+"fast-stochastic-period","빠른 수익 기간"
+"slow-stochastic-period","느린 수익 기간"
+"fast-stochastic-line-color","빠른 수익 색상"
+"slow-stochastic-line-color","느린 수익 색상"
+"fast-stochastic-line-thickness","빠른 수익 두께"
+"fast-macd-period","빠른 수익 기간"
+"slow-macd-period","느린 수익 기간"
+"signal-macd-period","신호 기간"
+"fast-macd-line-thickness","빠른 수익 두께"
+"signal_line_color","신호 선 색상"
+"oversold","과매도"
+"macd_color","색상"
+"line-thickness","선 두께"
+"line-color","선 색상"
+"line-offset","선 이동"
+"top-line-thickness","총매출 두께"
+"mid-line-thickness","중간 수익 두께"
+"slow_period","느린 기간"
+"fast_period","빠른 기간"
+"short_period","단기"
+"long_period","장기"
+"offset","오프셋"
+"bottom-line-thickness","순수익 두께"
+"bottom-line-period","순수익 기간"
+"top-line-color","총매출 색상"
+"top-line-period","총매출 기간"
+"mid-line-color","중간 수익 색상"
+"mid-line-period","중간 수익 기간"
+"bottom-line-color","순수익 색상"
+"teeth-line-color","이빨 선 색상"
+"jaws-line-color","턱 선 색상"
+"lips-line-color","입술 선 색상"
+"jaws-period","턱 기간"
+"jaws-offset","턱 오프셋"
+"teeth-period","이빨 기간"
+"teeth-offset","이빨 오프셋"
+"lips-period","입술 기간"
+"lips-offset","입술 오프셋"
+"indice-lines-position","지표 선 위치"
+"major-line-thickness","주요 수익 두께"
+"top-signal-line-thickness","총매출 신호 두께"
+"bottom-signal-line-thickness","순수익 신호 두께"
+"top-signal-line-color","총매출 신호 색상"
+"bottom-signal-line-color","순수익 신호 색상"
+"fast-stoch-color","패스트 스토캐스틱 색상"
+"low-stoch-color","로우 스토캐스틱 색상"
+"low-stoch-period","로우 스토캐스틱 기간"
+"fast-stoch-line-thickness","패스트 스토캐스틱 선 두께"
+"low-stoch-line-thickness","로우 스토캐스틱 선 두께"
+"small-period","단기"
+"big-period","장기"
+"small-period-width","단기 폭"
+"big-period-width","장기 폭"
+"signal-period-width","신호 기간 폭"
+"bars-color","막대 색상"
+"bars-color-maofmacd","MACD의 MA 막대 색상"
+"smoothing-period","스무딩 기간"
+"adx-minus-di-color","-DI 색상"
+"adx-plus-di-color","+DI 색상"
+"adx-line-color","ADX 선 색상"
+"sar-default-acceleration","기본 가속화"
+"acceleration-step","가속 단계"
+"max-acceleration","최대 가속"
+"chikou-line-thickness","후행 두께"
+"chikou_period","후행 스팬"
+"tenkan_period","전환 스팬"
+"kijun_period","기준 스팬"
+"senkou_a_period","선행 A 스팬"
+"senkou_b_period","선행 B 스팬"
+"color","색상"
+"chart-type","차트 유형"
+"chart-type-curve","곡선"
+"chart-type-curve-area","곡선 영역"
+"chart-type-candlesticks","캔들스틱"
+"chart-type-bars","막대"
+"bet-sum","총계"
+"chart-controls-income-caption","수익성"
+"expiration-time","만료 시간"
+"wallet-refilling","예금"
+"real-wallet","실제"
+"demo-wallet","데모 계좌"
+"can-deduce-profit","수익을 인출할 수 있습니다."
+"all-assets-available","모든 자산을 이용할 수 있습니다."
+"all-features-available","플랫폼의 모든 기능을 이용하십시오."
+"get-bonuses-from-the-platform","회사가 제공하는 보너스를 받으십시오."
+"participate-tournaments","컨테스트 참가"
+"can-switch-wallet-any-time","언제든지 계좌 간 전환할 수 있습니다."
+"cannot-deduce-profit","수익을 인출할 수 없습니다."
+"refill-wallet","예금"
+"choose-wallet-type","계좌 유형"
+"demo-wallet+wallet","데모 계좌"
+"real-wallet+wallet","실제 계좌"
+"choose-bet","거래"
+"added-items","추가됨"
+"bollinger-lines","볼린저 밴드"
+"ichi-cloud","일목균형표"
+"alli-gator","앨리게이터"
+"graphics-analysys-tools","분석 도구"
+"new-items","신규"
+"line-segment","선 세그먼트"
+"ray","레이"
+"hori-line","수평선"
+"vline","수직선"
+"free-hand","프리핸드"
+"crossroad","교차"
+"frame","프레임"
+"range","범위"
+"ellipse","타원"
+"fibonacci-lines","피모나치 선"
+"andrews-fork","앤드류 피치포크"
+"graphic-tools","그래픽 도구"
+"time-period","기간"
+"count-second","{{@count}}초"
+"count-seconds","{{@count}}초"
+"count-minute","{{@count}}분"
+"count-minutes","{{@count}}분"
+"count-hour","{{@count}}시간"
+"count-hours","{{@count}}시간"
+"lock-time","잠금 시간"
+"user-profile","사용자 프로필"
+"user-profile-heading","사용자 프로필"
+"withdrawal","인출"
+"support-service","지원"
+"payment-history","결제 내역"
+"exit","로그아웃"
+"count-second-short","{{@count}}초"
+"count-seconds-short","{{@count}}초"
+"count-minute-short","{{@count}}분"
+"count-minutes-short","{{@count}}분"
+"count-hour-short","{{@count}}시간"
+"count-hours-short","{{@count}}시간"
+"count-day-short","{{@count}}일"
+"binary-cap","5분 초과"
+"error-too-small-bet","{{@sum}}와(과) 동일한 금액으로 베팅할 수 없습니다. {{@currency}} 통화 기준 최소 베팅 금액은 {{@minbet}}입니다."
+"error-too-big-bet","{{@sum}}와(과) 동일한 금액으로 베팅할 수 없습니다. {{@currency}} 통화 기준 최대 베팅 금액은 {{@maxbet}}입니다."
+"error-wrong-expiration","잘못된 만료 시간 {{@time}}"
+"not-enough-money","계좌에 자금이 충분하지 않습니다."
+"option-closed-head","닫은 옵션"
+"transaction-result","{{@assetName}} 결과"
+"internet-connection-trouble","연결 오류"
+"lang-name-locale-en","영어"
+"lang-name-locale-ru","러시아어"
+"lang-name-locale-de","독일어"
+"lang-name-locale-tr","터키어"
+"lang-name-locale-vi","베트남어"
+"lang-name-locale-uk","우크라이나어"
+"lang-name-locale-th","태국어"
+"lang-name-locale-it","이탈리아어"
+"lang-name-locale-pl","폴란드어"
+"lang-name-chinese","중국어(간체)"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","실제 계좌를 사용 중입니다."
+"you-started-using-tment-wallet","컨테스트 계좌를 사용 중입니다."
+"tournaments","컨테스트"
+"currents","현재"
+"futures","예정"
+"archive","아카이브"
+"days","일"
+"hours","시간"
+"minutes","분"
+"prize-fond","상금"
+"participate-price","참가비"
+"prize-places","수상"
+"tournament-participants-count","참가자"
+"no-tournament-description","콘테스트 설명 없음"
+"utc-info","(UTC{{@offset}})"
+"begin-time","시작"
+"deductions","공제"
+"reg-in-tournament-for","{{@price}}의 비용으로 컨테스트에 참가하십시오."
+"reg-in-tournament-for-free","무료 토너먼트 참여하기"
+"choose-tournament-to-see-info","컨테스트를 선택하십시오."
+"has-reged-in-tournament","등록되었습니다."
+"wait-for-reg-in-tournament","등록 요청이 전송되었습니다."
+"prize-places-low","{{@count}}개의 수상 기회"
+"starting-balance","시작 잔액"
+"min-deal-size","최소 거래 금액"
+"max-deal-size","최대 거래 금액"
+"max-simultaneously-open-deals","개방형 거래 제한"
+"max-amount-of-open-deals","투자 제한"
+"available-options-types","이용 가능한 옵션"
+"tournament-option-type-turbo","Turbo"
+"tournament-option-type-binary","Binary"
+"tournament-option-type-both","둘 다"
+"tournament-winning-rules","최종 토너먼트에서 최고 잔액을 가진 거래자가 우승자가 됩니다."
+"available-assets","이용 가능한 자산"
+"available-options","이용 가능한 트랜잭션 유형"
+"greeting","환영합니다"
+"cashbox-plus-bonus","보너스"
+"cashbox-input","예금"
+"cashbox-output","인출"
+"cashbox-total","보너스, 프로모션, 합계"
+"bonus-terms-of-use","보너스 이용 약관"
+"enter-cashbox-input-value","예금액 입력"
+"enter-cashbox-output-value","인출 금액 입력"
+"do-withdrawal","인출"
+"amount-due","금액"
+"will-recieve-to-account","받을 수익:"
+"i-wanna-get-bonus","보너스 받기"
+"enter-cashbox-card-type","결제 수단"
+"finish-time","완료"
+"top-users","리더보드"
+"member","구성원"
+"balance","잔액"
+"prize","상품"
+"hint-split-view-button","레이아웃"
+"hint-user-profile-button","사용자 메뉴"
+"hint-asset-stat","거래자 선택사항"
+"hint-sound-button","사운드"
+"hint-platform-time","플랫폼 시간"
+"hint-profitability","수익성"
+"hint-payout","지불금"
+"hint-real-acc","실제 계좌"
+"hint-demo-acc","데모 계좌"
+"hint-tournament-acc","컨테스트 계좌"
+"hint-settings","설정"
+"hint-support","지원"
+"hint-graph-type","차트 유형"
+"hint-candle-interval","캔들 간격"
+"hint-user-lines","그래픽 도구"
+"hint-secondary-lines","지표"
+"hint-centerize","현재 가격"
+"hint-zoom-level","기간"
+"tournament","컨테스트"
+"loading","로딩 중"
+"you-are-in-tournament","참가 완료!"
+"repeat-tournament","재매수가 {{@price}}"
+"unsupported-browser","이 제품은 테스트 단계에 있으며 현재 Chrome, Opera, Yandex Browser와 같은 브라우저에서 안정적인 작동을 보장합니다. 양해해 주셔서 감사합니다."
+"account-is-for-educ","데모 계좌입니다."
+"participate-in-demo-tments","데모 컨테스트 참가"
+"use-real-money","실제 자금으로 거래"
+"participate-tments-with-real-money","컨테스트에 참여하여 상금을 획득하십시오."
+"native-deal-closed-body","{{@assetName}} 옵션이 {{@closeTime}}에 마감되었습니다. 수익은 {{@incomeValue}}입니다."
+"tournaments-rules","컨테스트 규칙"
+"tournaments-rules-2","컨테스트 참가 규칙"
+"get-trade-exp","가치 있는 거래 경험을 쌓으십시오."
+"tment-begins-in","컨테스트 시작"
+"tment-ends-in","컨테스트 종료"
+"tment-has-ended","컨테스트가 종료되었습니다."
+"tment-just-ended","""{{@name}}""이(가) 방금 종료되었습니다."
+"tment-just-started","""{{@name}}""이(가) 방금 시작되었습니다."
+"tment-just-created","""{{@name}}""이(가) 방금 생성되었습니다."
+"read-more","더보기"
+"history-is-empty","만료된 거래가 없습니다."
+"tournaments-current-is-empty","지금 진행 중인 컨테스트가 없습니다. 뉴스 피드를 팔로우하고 뉴스레터를 확인해 주십시오."
+"tournaments-future-is-empty","향후 예정된 컨테스트가 없습니다. 뉴스 피드를 팔로우하고 뉴스레터를 확인해 주십시오."
+"tournaments@current-empty","지금 진행 중인 컨테스트는 없지만 곧 시작될 예정입니다.<br><br>위의 메뉴에서 ""시작 예정"" 탭을 확인하고 플랫폼 소식과 이메일을 계속 확인해 주십시오."
+"tournaments-ended-is-empty","종료된 컨테스트가 없습니다."
+"upper-indicator-line","높은 지표 선"
+"lower-indicator-line","낮은 지표 선"
+"stoch-overbuy-value","과매수"
+"stoch-overbuy-line-width","과매수 폭"
+"stoch-overbuy-line-color","과매수 색상"
+"stoch-oversell-value","과매도"
+"stoch-oversell-line-width","과매도 폭"
+"stoch-oversell-line-color","과매도 색상"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","이 값은 유효하지 않습니다."
+"889954f14a3839c141bd8d5102094fbb","이 값은 이미 사용되었습니다."
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","이 값은 유효한 이메일 주소가 아닙니다."
+"bf447c1c-0266-4e10-9c6c-573df282e413","이 값은 유효한 이메일 주소가 아닙니다."
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","이 값은 유효한 이메일 주소가 아닙니다."
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","이 필드는 필수항목입니다."
+"9ff3fdc4-b214-49db-8718-39c315e33d45","값이 너무 짧습니다. 최소 문자 수는 {{@min}}자입니다."
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","값이 너무 깁니다. 최대 문자 수는 {{@limit}}자입니다."
+"478618a7-95ba-473d-9101-cabd45e49115","이 값은 {{@compared_value}}와(과) 동일해야 합니다."
+"4dba5f9c79ae34be5884e1a3c8c45e92","사용자 이름 또는 비밀번호가 올바르지 않습니다."
+"3e5af93fb888b4aa77301a7603e113d5","비밀번호가 올바르지 않습니다."
+"2d28afcb-e32e-45fb-a815-01c431a86a69","이 값은 {{@limit}} 이하여야 합니다."
+"76454e69-502c-46c5-9643-f447d837c4d5","이 값은 {{@limit}} 이상이어야 합니다."
+"ad32d13f-c3d4-423b-909a-857b961eb720","무효 값이어서는 안 됩니다."
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","선택한 값이 유효한 선택항목이 아닙니다."
+"853ff54c1a66d1a2379e0c46f8eb9ed4","필수항목 {{@name}}이(가) 유효하지 않습니다."
+"3ac1d32eb3c54e11ef9ea474da816ad6","필수항목 {{@name}}을(를) 설정해야 합니다."
+"661d3bc6c153e42a3658855010678cbd","{{@names}}은(는) 알 수 없는 필수항목입니다."
+"51fd5caf0ad30e6acb3a75b8b7f6d060","처리된 요청의 상태를 변경할 수 없습니다."
+"2d2ba82dd886ba3b69da804675842ff5","결제 수단이 올바르지 않습니다."
+"3c55616c0a7de9c064e6c2d86fa72bc2","만료 시간이 유효하지 않습니다."
+"f029308ab5f1672de0b7615c4fa33386","자산이 현재 종료되었습니다."
+"10cf6f3e2d6a3532b77d924868cbfa62","자산이 현재 종료되었습니다."
+"64fc8bbac184ae9dab80c8f592d1a6f7","이용 가능한 거래 금액 한도를 초과했습니다."
+"5561ccf1e94e6b9d88080bdbbcba1821","불충분한 자금"
+"f3a5b44d01097d966072b90187a16ec6","존재하지 않는 사용자입니다."
+"296ea5496bee3177c83ac27a1dc5bb10","컨테스트 잔액은 시작 잔액보다 적어야 합니다."
+"fc53df7c4944ebb53e8b3713126ae226","최대 거래 개시 수는 {{@limit}}개입니다"
+"0f8e85ca21aa2e33752728cf5e843e35","이용 가능한 거래 금액 한도를 초과했습니다."
+"cbce1334c90e82f44381abe99b98fe5c","총 공개 옵션 한도를 초과했습니다."
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","이 닉네임은 이미 사용 중입니다. 다른 닉네임을 선택해 주십시오."
+"promo-ends-in","보너스 종료까지 남은 시간:"
+"your-promocode","프로모션 코드"
+"from-value-to-value","{{@fromValue}}~{{@toValue}}"
+"deposit-sum","총 예금"
+"bonus-sum","보너스"
+"promos-rules","보너스 규칙"
+"promos-rules-2","보너스 규칙"
+"participate-promo","보너스 참가"
+"promo-has-ended","보너스가 종료되었습니다."
+"no-promos-description","보너스 설명이 없습니다."
+"promos-is-empty","No current promotions available. Please follow our latest news and watch out for future emails."
+"first-launch-disclaimer-content","주의사항! 한 번만 클릭하면 확인 단계 없이 거래가 시작됩니다."
+"accept","승인"
+"trading-session-closed","거래 세션이 종료되었습니다."
+"special-offer","특별 오퍼"
+"continue","계속"
+"seconds","초"
+"trading-sess-starts-in","거래 세션 시작까지 남은 시간:"
+"trading-session-closed-info-0","주의사항!"
+"trading-session-closed-info-1","주식 시장은 주말에 휴장합니다."
+"trading-session-closed-info-2","Binarium 플랫폼에서의 거래는 월요일 03:00부터 금요일 00:00까지 이용할 수 있습니다."
+"trading-session-closed-info-3","시장 데이터는 Thompson Reuters에서 제공합니다."
+"asset","자산"
+"additional-info","추가 정보"
+"fill-profile-to-continue","플랫폼에서 계속 작업하려면 추가 정보를 제공해 주십시오."
+"fill-username-heading","안녕하세요, 거래자님."
+"fill-username-text","토너먼트에 참가하려면 토너먼트 참가자 목록에 표시될 본인의 닉네임을 입력해 주십시오. 닉네임은 프로필 설정에서 언제든지 변경할 수 있습니다."
+"fill-username-placeholder","닉네임을 입력해 주십시오."
+"save-and-continue","저장 후 계속"
+"profile-name","이름"
+"profile-surname","성"
+"profile-telephone","전화"
+"start-trading","거래 시작"
+"personal-data-safety","개인 데이터 안전은 보장됩니다."
+"bonus","보너스"
+"new-bonus","{}의 보너스를 계좌로"
+"received-bonus","선택한 예금과 함께 받게 될 보너스:"
+"received-bonus-value","보너스 금액: {{@bonus}}"
+"mobile-received-bonus-value","+ 보너스 {{@bonus}}"
+"expires-in","만료까지 남은 시간:"
+"cannot-buy-option-try-later","이 거래를 시작할 수 없습니다. 나중에 다시 시도해 주십시오."
+"notifications$demo-option-limit","5개 넘는 거래를 한 번에 열고 싶으십니까? 그렇다면 실제 계정에서 여십시오. 데모 계정을 계속 사용하려면 거래가 완료될 때까지 기다리셔야 합니다."
+"max-total-bet-limit-exceeded","허용된 거래 금액을 초과했습니다.
+ 허용된 거래 금액은 최대 {{@maxBet}}입니다."
+"chart-opens-in","자산 이용 가능 위치:"
+"hint-activate-tment-wallet","컨테스트 계좌를 사용해 시작하려면 여기를 누르십시오."
+"largest-profit-banner-on-the-asset","자산에서"
+"largest-profit-banner-button-trade-caption","거래"
+"largest-profit-banner-button-trade-caption-2","지금 거래하기"
+"largest-profit-banner-text","자산을 거래할 최적의 시간"
+"largest-profit-banner-text-2","거래하기에 좋은 타이밍입니다"
+"largest-profit-height-profit","향상된 수익성"
+"largest-profit-height-profit-2","높은 수익성"
+"offer-expires-in","오퍼 종료까지 남은 시간:"
+"offer-expires-in-2","오퍼 종료까지 남은 시간:"
+"warning","경고"
+"banner-tech-works-info-caption","기술적 업데이트"
+"banner-tech-works-info-content","Binarium은 거래 플랫폼을 개선하기 위해 항상 노력하고 있습니다.
+ 현재 플랫폼을 업데이트하고 있습니다.
+ 이용에 불편을 드려 죄송합니다."
+"confirm-email-content","이메일 주소를 확인해 주십시오. 확인 링크가 있는 이메일을 다시 전송하려면 아래 버튼을 클릭하십시오."
+"confirm-email-caption","계좌 재활성화"
+"reload","다시 로드"
+"resend-confirmation","다시 전송"
+"resend-confirmation-again","다시 시도하십시오."
+"confirmation-mail-sent","전송되었습니다."
+"banner-not-enough-funds-for-tment","계좌에 잔액이 부족합니다. 컨테스트에 참여하려면 계좌에 입금하십시오."
+"tment-reenter-not-allowed","진행 중인 트랜잭션 때문에 추가 결제를 진행할 수 없습니다."
+"fill-profile-wrong-phone","유효하지 않은 전화 번호입니다."
+"fill-profile-wrong-name","유효하지 않은 이름입니다."
+"fill-profile-wrong-surname","유효하지 않은 성입니다."
+"fill-user-wrong-promocode","유효하지 않은 프로모션 코드입니다."
+"wrong-promocode-max-sum","Maximum amount to activate promo code {{@sum}}"
+"wrong-promocode-min-sum","Minimum amount to activate promo code {{@sum}}"
+"wrong-withdrawal-min-sum","최소 합계는 {{@sum}}입니다."
+"wrong-withdrawal-max-sum","최대 인출 금액은 {{@sum}}입니다."
+"wrong-promocode-expired","만료됨"
+"wrong-promocode-only-for-second-deposit","두 번째 후속 입금 시에만 이용할 수 있습니다."
+"wrong-promocode-only-for-first-deposit","첫 번째 입금 시에만 이용할 수 있습니다."
+"wrong-promocode-used","이 프로모션 코드는 이미 사용되었습니다."
+"fill-user-wrong-phone","유효하지 않은 전화 번호입니다."
+"fill-user-wrong-card","유효하지 않은 카드 번호입니다."
+"fill-user-wrong-customer_purse","유효하지 않은 계좌 번호입니다."
+"fill-user-wrong-name","유효하지 않은 이름입니다."
+"fill-user-wrong-surname","유효하지 않은 성입니다."
+"please-rotate-device","터미널을 쉽게 사용할 수 있도록 기기의 위치를 조정하십시오."
+"swipe-up-to-enter-fs","전체 화면 모드로 들어가려면 위로 밀어 올리십시오."
+"click-to-enter-fs","전체 화면 모드로 전환하려면 화면 어디든 탭하십시오."
+"reconnect","다시 연결"
+"reconnected","다시 연결되었습니다."
+"free-reg","무료 등록"
+"investments","거래"
+"investments_short","투자"
+"investment_short","투자"
+"buy-time","매수 시간"
+"total-investment","총 투자금"
+"total-income","총 지불금"
+"result","결과"
+"ur-income-would-be","수익"
+"create-account-for-free","무료 계좌 만들기"
+"resume-use-demo","데모 모드 계속"
+"reg-request-message","Binarium 웹사이트에서 거래하셨다면 지금 {{@income}}의 수익을 거두실 수 있었습니다. 더 늦기 전에 거래를 시작하십시오!"
+"trade-without-restrictions","제한 없는 거래"
+"trade-without-restrictions-message","한 번에 5건이 넘는 거래를 시작하고 싶으신 경우 실제 거래 계좌를 열고 제한 없이 거래하십시오. 데모 계좌를 계속 사용하시려면 현재 거래가 만료될 때까지 기다려 주십시오."
+"use-real-wallet","실제 계좌"
+"support","지원"
+"search-asset","자산 검색"
+"error-sending-email-confirmation","이메일을 전송하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주십시오."
+"error-sending-email-confirmation-with-time","새 이메일이 {{@time}}분 후에 전송됩니다. 계좌를 활성화하려면 이메일을 확인하거나 지원 서비스로 문의해 주십시오."
+"risk-free-trades","위험 없는 거래"
+"count-trades-for-bet","거래 {{@count}}건, 합계 {{@sum}}"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","흰색"
+"Red","빨간색"
+"Pink","분홍색"
+"Purple","보라색"
+"Deep Purple","짙은 보라색"
+"Indigo","남색"
+"Blue","파란색"
+"Cyan","청록색"
+"Green","녹색"
+"Light Green","연한 녹색"
+"Lime","라임색"
+"Yellow","노란색"
+"Amber","황색"
+"Orange","오렌지색"
+"tournament-accounts","토너먼트 계좌"
+"activate-tournament-wallet","컨테스트 지갑 활성화"
+"deposit-using-agreements-header","보너스 항목"
+"deposit-using-agreements-p1","보너스는 거래자의 거래 잠재력을 높이기 위해 회사가 제공하는 추가 자금입니다."
+"deposit-using-agreements-p2","예금 입금 시 일정 금액의 보너스가 계좌에 입금될 수 있으며, 보너스 금액은 예금액에 따라 다릅니다."
+"deposit-using-agreements-p3","보너스는 인출할 수 있는 금액을 제한하지 않습니다. 언제든지 예금과 함께 수익을 인출할 수 있습니다. 인출할 때 적립되지 않은 모든 보너스 자금은 비활성 상태로 지정되며 계좌에서 인출됩니다."
+"choose-payment-method","예금 수단 선택"
+"choose-payment-sum","예금 선택"
+"plus-value-bonus","+ {{@value}} 보너스"
+"deposit-user-sum-value-caption","직접 금액을 선택하고 싶으십니까? 입력 필드를 사용하십시오."
+"i-have-promocode","프로모션 코드가 있습니다."
+"requisiste-name-phone","전화"
+"no-bonus","보너스 없음"
+"refresh","새로고침"
+"browser","브라우저"
+"make-a-deposit","예금 입금"
+"cashbox-withdrawal-info-0-header","자금을 계좌에서 어떻게 인출합니까?"
+"cashbox-withdrawal-info-0-content","사용 가능한 옵션은 은행 카드, Qiwi/Yandex Money/WebMoney 전자 지갑입니다. 소액 계좌 소유자는 자금 인출에 대한 활성화된 신청을 하나만 가질 수 있습니다."
+"cashbox-withdrawal-info-1-header","계좌에서 인출할 수 있는 최소 금액은 얼마입니까?"
+"cashbox-withdrawal-info-1-content","최소 인출 금액은 ₽300 또는 $5 또는 €5 또는 A$5 또는 ₴150입니다. 단일 트랜잭션당 최대 인출 금액은 ₽15,000 또는 $200 또는 €200 또는 A$200 또는 ₴6,000입니다."
+"cashbox-withdrawal-info-2-header","₽15,000 또는 $200 또는 €200 또는 A$200 또는 ₴6,000보다 많은 금액을 인출하려면 어떻게 해야 합니까?"
+"cashbox-withdrawal-info-2-content","이 한도는 빠른 계정 인출을 방지하기 위해 설정되었습니다. 정해진 한도를 초과하는 금액은 더 시간이 걸려야만 인출할 수 있습니다. 더 많은 금액을 인출해야 하는 경우 자금 인출을 $200 또는 €200 또는 A$200 또는 ₽15,000 또는 ₴6,000 단위로 나눌 수 있습니다. 귀하가 할 수 있는 인출 요청 횟수에는 제한이 없습니다. 한 번의 결제에서 더 많은 금액을 인출하려면 플랫폼 지원 팀에 문의하십시오. 계좌가 확인되지 않으면 자금 인출 요청을 처리하는 데 영업일 기준 최대 3일이 소요될 수 있습니다. 자금 인출 요청은 하루에 2회 이상 제출할 수 없습니다."
+"cashbox-withdrawal-info-3-header","자금 인출은 얼마나 빨리 처리됩니까?"
+"cashbox-withdrawal-info-3-content-a","요청이 플랫폼 재무 부서의 영업 시간 동안 제출되고 플랫폼 요구사항에 따라 계정이 확인된 경우 요청을 처리하는 데 1시간이 걸립니다. "
+"cashbox-withdrawal-info-3-content-b","재무 부서의 영업 시간은 월요일~금요일, 오전 10시~오후 10시(GMT +2)입니다. 재무 부서의 영업 시간 외에 또는 공휴일에 자금 인출 요청을 제출하면 다음 영업일이 시작될 때 요청이 처리됩니다. 계좌가 확인되지 않으면 영업일 기준 3일 이내에 자금 출금 요청이 처리됩니다. 자금 인출 요청은 하루에 2회 이상 제출할 수 없습니다."
+"cashbox-withdrawal-info-4-header","인출 정책"
+"cashbox-withdrawal-info-4-content-a","고객은 요청이 올바르게 처리되도록 '프로필 설정' 섹션에 요청된 모든 데이터를 표시해야 합니다. 부정확하거나 불완전한 데이터가 입력된 것으로 판단되면 자금 인출 요청이 거부되거나 지연될 수 있습니다."
+"cashbox-withdrawal-info-4-content-b","자금은 계좌에 자금을 예치하는 데 사용된 동일한 은행 계좌(또는 동일한 결제 시스템)로 인출됩니다. 거래를 완료할 수 없는 경우 온라인 채팅을 시작하거나 support@binarium.com으로 지원 요청을 보내 지원 서비스에 문의하셔야 합니다."
+"cashbox-withdrawal-info-5-header","자금을 인출할 때 서류를 제출해야 합니까? 그렇다면 무엇을 제출해야 합니까?"
+"cashbox-withdrawal-info-5-content-a","빠른 인출을 위해 '프로필 설정' 섹션에서 모든 개인 데이터를 제공하십시오. 여러 은행 카드를 사용하거나 등록 시 제공한 결제 정보와 해당 결제 정보가 일치하지 않는 경우 전체 승인 절차를 거쳐 카드가 실제로 귀하의 소유임을 증명해야 합니다. 자금은 제3자 계좌로 인출할 수 없습니다. "
+"cashbox-withdrawal-info-5-content-b","확인 절차를 완료하려면 소유자의 성과 이름을 볼 수 있도록 여권 및 은행 카드 앞면을 스캔한 파일을 support@binarium.com으로 보내 주십시오. 양각 카드가 아닌 경우 여권 사본과 함께 해당 카드에서 Binarium 계좌로 전송된 트랜잭션을 보여주는 은행 계좌 명세서 스캔 파일을 보내야 합니다. Binarium은 카드 소지자와 거래 계좌 데이터가 일치하지 않을 경우 추가 지원 문서를 요구할 권리가 있습니다."
+"cashbox-withdrawal-info-6-header","보너스 자금을 인출할 수 있는 조건은 무엇입니까?"
+"cashbox-withdrawal-info-6-content-a","보너스 자체는 적립 후 즉시 인출할 수 없습니다. 중개인은 이 돈을 귀하의 거래 기회를 늘리기 위한 보너스로 귀하의 계좌에 입금합니다. 보너스 자금을 사용하여 얻은 이자도 보너스로 간주되며 필요한 거래 회전율이 달성된 후에만 인출할 수 있습니다. 보너스 자체를 인출하려면 계좌에서 보너스 금액의 40배에 달하는 회전율을 달성해야 합니다. 예금 없는 보너스를 받은 경우 레버리지가 50배로 증가합니다. 즉, 계좌의 회전율이 보너스의 50배와 같아야 하며 최대 인출 금액은 추가된 예금 없는 보너스의 금액을 초과할 수 없습니다. Binarium의 무료 컨테스트에서 얻은 상금은 40배 회전율을 달성한 후에만 인출할 수있는 보너스로 간주됩니다."
+"cashbox-withdrawal-info-6-content-b","예를 들어 예금하여 보너스로 $150가 발생했다고 가정해 보겠습니다. 규칙에 따르면 매수한 옵션의 총 가치가 30 x 150 = $4,500에 달해야 합니다. 이 가치가 달성되면 보너스 자금을 인출할 수 있습니다. 이 경우 수익성 있는 거래와 수익성 없는 트랜잭션이 모두 고려됩니다. 조기 종료된 트랜잭션은 회전율에 포함되지 않습니다. 수익 인출에는 제한이 없습니다."
+"cashbox-withdrawal-info-6-content-c","예금의 일부를 인출하려는 경우 보너스는 계좌에서 자동으로 공제됩니다."
+"cashbox-withdrawal-info-6-content-d","궁금한 점이 있으시면 Binarium 지원 서비스에 문의해 주십시오."
+"cashbox-withdrawal-info-7-header","계좌에 대한 자금 인출 요청을 작성할 수 없습니다. 문제가 무엇입니까?"
+"cashbox-withdrawal-info-7-content","먼저 모든 개인 정보가 '프로필' 섹션의 프로필 페이지에 있는지 확인하십시오. 또한 요청을 제출할 때 모든 정보를 올바르게 입력했는지 재차 확인하십시오. +,-, / 등의 특수 문자는 유효하지 않습니다. 입력한 정보가 모두 정확한데도 문제가 지속되면 온라인 채팅 또는 support@binarium.com을 통해 고객 지원 서비스에 문의해 주십시오."
+"deposit-info-1","보너스는 거래자의 거래 잠재력을 높이기 위해 회사가 제공하는 추가 자금입니다"
+"deposit-info-2","예금 입금 시 일정 금액의 보너스가 계좌에 입금될 수 있으며, 보너스 금액은 예금액에 따라 다릅니다."
+"deposit-info-3","보너스는 인출 금액을 제한하지 않습니다. 언제든지 예금과 함께 수익을 인출할 수 있습니다. 자금 인출 시 40배 회전율로 거래에서 사용되지 않은 모든 보너스 자금은 비활성 상태로 지정되며 계좌에서 인출됩니다."
+"withdrawal-heading","요청은 제출 후 24시간 이내에 처리됩니다."
+"withdrawal-content","요청서가 Binarium 재무 부서의 근무 시간 외에 제출된 경우 다음 업무일 이내에 처리됩니다."
+"withdrawal-restricted-content","귀하의 <span class=""open-act-button"">계좌 유형</span>에 적용된 인출 한도가 초과되었습니다"
+"withdrawal-amount-caption","결제 금액"
+"withdrawal-type-caption","자금 인출 수단"
+"withdrawal-button-caption","자금 인출"
+"requisite-name-card","카드 번호"
+"requisite-name-phone","전화"
+"requisite-name-customer_purse","고객 지갑"
+"withdrawal-request-sent","요청이 대기열에 배치됩니다."
+"withdrawal-request-sent-extra-info","요청 상태는 '트랜잭션 내역' 섹션에서 추적할 수 있습니다."
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","Visa/Mastercard"
+"videohub","교육"
+"asset-type-all","모두"
+"asset-type-currency","통화"
+"asset-type-crypto","암호화"
+"asset-type-goods","상품"
+"asset-type-countries","국가"
+"asset-type-leaders","리더"
+"cashbox-withdrawal-info","요청을 처리하려면 시간이 걸립니다. 일반적으로 재무 부서에서 업무 시간 동안 요청을 검토하는 데 최대 24시간이 걸립니다. 인출 요청이 승인되기를 기다리는 동안 잔액은 동결되지 않는다는 사실을 알려 드립니다. 따라서 거래를 계속하실 수 있습니다."
+"expiration-caption-16","24시간 후"
+"trends","동향"
+"show-chart","차트 표시"
+"hide-chart","차트 숨기기"
+"trend-active","활성"
+"trend-non-active","모두"
+"trends-is-empty","동향을 업데이트 중입니다."
+"what-are-trends","동향이란?"
+"what-are-trends-advice-content","동향은 수익성이 있는 자산(가격 방향이 뚜렷한 자산)을 신속하게 찾고 해당 방향으로 거래를 시작할 수 있는 특별한 거래 도구입니다."
+"not-enough-money-for-trends-detailed","Binarium의 고유한 거래 도구는 {{@balance}} 이상의 실제 잔액을 보유한 고객에게 제공됩니다. 이 도구의 혜택은 다음과 같습니다."
+"get-access-to-trends","동향 액세스 권한 제공"
+"trends-features-one","시장의 모든 자산 동향 추적"
+"trends-features-two","동향이 나타나면 해당 방향에 맞는 거래를 즉시 시작"
+"month-0","1월"
+"month-1","2월"
+"month-2","3월"
+"month-3","4월"
+"month-4","5월"
+"month-5","6월"
+"month-6","7월"
+"month-7","8월"
+"month-8","9월"
+"month-9","10월"
+"month-10","11월"
+"month-11","12월"
+"day-0","월요일"
+"day-1","화요일"
+"day-2","수요일"
+"day-3","목요일"
+"day-4","금요일"
+"day-5","토요일"
+"day-6","일요일"
+"trading-room","거래방"
+"trading-room-entering-time","입장 시간"
+"trading-room-expiration","만료"
+"trading-room-strength","강도"
+"trading-room-strike-price","집행 가격"
+"trading-room-is-empty","이용할 수 있는 신호가 없습니다. 거래방을 잠시 확인해 보십시오."
+"demo-stats-banner-header-caption","잘하셨습니다!"
+"demo-stats-banner-header-caption-2","축하합니다!"
+"demo-stats-banner-you-earned-on-demo","데모 계좌에서 수익을 얻으셨습니다."
+"demo-stats-banner-total-deals-amount","총 거래 수"
+"demo-stats-banner-successfull-deals-percentage","성공적 거래 비율"
+"demo-stats-banner-real-account-opening-request","실제 계좌를 열어 수익 인출"
+"demo-stats-banner-open-real-account-button-caption","실제 계좌 열기"
+"demo-stats-banner-keep-trading-on-demo","데모 계좌 유지"
+"demo-stats-banner-you-have-done","완료했습니다."
+"demo-stats-banner-you-have-trades-closed-in-a-row","연속적인 거래"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","연속적인 수익성 있는 거래"
+"demo-stats-banner-earning-on-demo-account","데모 계좌의 수익"
+"demo-stats-banner-closed-in-a-row-2","수익성 있는 거래"
+"tour-next-button-caption","계속"
+"tour-reading-duration-caption","4분 길이 읽을거리"
+"tour-slides-steps-count","단계 {{@currentSlide}}/{{@totalSlidesCount}}"
+"tour-slide-0-caption","Binarium 거래 플랫폼에 오신 것을 환영합니다."
+"tour-slide-0-content","이 간단한 데모에서는 거래의 기본 원칙과 Binarium 플랫폼 인터페이스를 소개합니다."
+"tour-slide-0-content-1","모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오."
+"tour-slide-0-content-2","이 간단한 데모에서는 거래의 기본 원칙과 Binarium 플랫폼 인터페이스를 소개합니다."
+"tour-slide-0-content-3","메인 메뉴는 왼쪽에 있습니다. 예를 들어 <span class=""bold"">은행</span> 섹션에서는 계좌의 자금을 충전할 수 있습니다. <span class=""bold"">거래방</span> 섹션에서는 플랫폼 내 최우수 거래자를 통해 거래를 주문할 수 있습니다."
+"tour-slide-0-content-3-port","메인 메뉴는 왼쪽 상단에 있습니다. 예를 들어 <span class=""bold"">은행</span> 섹션에서는 예금을 만들 수 있습니다. <span class=""bold"">거래방</span> 섹션에서는 플랫폼 내 최우수 거래자에게 도움을 받고 거래할 수 있습니다."
+"tour-slide-0-extra-info","모든 카드를 읽고 플랫폼에서 더 효과적으로 거래하는 방법을 알아보십시오."
+"tour-slide-1-caption","플랫폼에서 수익을 얻는 방법"
+"tour-slide-1-content","<span class=""bold"">거래 플랫폼에서 거래</span>는 외환 통화 쌍, 암호 화폐, 상품 및 기타 금융 상품과 같은 금융 자산에 단기 투자하여 진행할 수 있습니다."
+"tour-slide-2-caption","거래 시 기본 원칙"
+"tour-slide-2-content-a","거래는 금융 자산의 가격이 특정 기간 동안 어떻게 변할 것인지에 대한 예측입니다. 투자자는 <span class=""green"">장기</span> 또는 <span class=""red"">단기</span> 거래를 합니다."
+"tour-slide-2-content-b","예측이 맞은 것으로 나타나면 수입을 받게 됩니다. 틀렸다면 투자한 모든 자금을 잃게 됩니다."
+"tour-slide-3-caption","Binarium 플랫폼에서 거래하는 방법"
+"tour-slide-3-content","예측하고 싶은 가격 동향을 가진 <span class=""bold"">자산을 선택</span>합니다."
+"tour-slide-4-caption","Binarium 플랫폼에서 거래하는 방법"
+"tour-slide-4-content","<span class=""bold"">투자 금액을 선택합니다.</span>"
+"tour-slide-5-caption","Binarium 플랫폼에서 거래하는 방법"
+"tour-slide-5-content","가격이 <span class=""green"">증가</span> 또는 <span class=""red"">감소</span>할 것이라고 예측한 후 <span class=""bold"">거래를 시작</span>합니다. 거래가 종료될 때까지 기다립니다."
+"tour-slide-6-caption","Binarium 플랫폼에서의 거래에 행운을 빕니다"
+"tour-slide-6-additional-caption","귀하의 예측이 정확하면 수익이 귀하의 거래 계좌에 자동으로 적립됩니다."
+"tour-slide-6-a-trading-rules","거래 조건"
+"tour-slide-6-a-card-0-caption","성공적인 예측으로 얻은 수입 금액:"
+"tour-slide-6-a-card-0-content-1","최대 {{@maxProfit}}"
+"tour-slide-6-a-card-0-content-2","성공적인 예측으로 얻게 될 투자 금액"
+"tour-slide-6-a-card-1-caption","최소 거래 예금액:"
+"tour-slide-6-a-card-1-content","최소 {{@minWithdrawal}}"
+"tour-slide-6-a-card-2-caption","자금 인출에 필요한 평균 시간:"
+"tour-slide-6-a-card-2-content","30분"
+"tour-slide-6-a-card-3-caption","거래를 시작하기 위해 실제 계좌에 자금을 입금하십시오."
+"tour-slide-6-a-card-3-button-caption","자금 입금 후 거래 시작"
+"tour-slide-6-a-dont-show-again","플랫폼 둘러보기 닫기"
+"tour-slide-6-b-trading-rules","거래 조건"
+"tour-slide-6-b-card-0-caption","성공적인 예측으로 얻은 수입 금액:"
+"tour-slide-6-b-card-0-content","투자금의 <span class=""big"">최대 90%</span>."
+"tour-slide-6-b-card-1-caption","최소 거래 예금액:"
+"tour-slide-6-b-card-1-content","<span class=""big"">{{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","자금 인출에 필요한 평균 시간:"
+"tour-slide-6-b-card-2-content","<span class=""big"">30</span>분"
+"tour-slide-6-b-card-3-caption","데모 계좌를 사용해 위험 없이 거래하는 방법 알아보기"
+"tour-slide-6-b-card-3-button-caption","데모 계좌를 이용한 거래"
+"tour-slide-6-b-dont-show-again","플랫폼 둘러보기 닫기"
+"user-terms-caption","한 번의 클릭으로 거래"
+"what-is-trading-room","거래방이란?"
+"what-is-trading-room-advice-content","거래방은 한 번의 클릭으로 플랫폼 내 최우수 거래자의 거래를 따라할 수 있는 편리한 도구입니다. 이 도구를 이용하면 거래 효율성을 높이고 시간을 절약할 수 있습니다."
+"not-enough-money-for-trading-room-detailed","거래방을 사용하여 Binarium 플랫폼에서 최우수 거래자와 거래하고 수익을 올릴 수 있습니다. 실제 잔액을 최소 {{@minBalance}}까지 충전하고 다음 혜택을 받으십시오."
+"get-access-to-trading-room","거래방 액세스"
+"have-access-to-trading-room","'거래방'에 액세스하려면 담당 관리자 또는 지원 서비스에 문의하십시오."
+"trading-room-features-one","플랫폼에서 가장 성공적인 거래자의 거래를 주시하십시오."
+"trading-room-features-two","트랜잭션을 따라하여 수익 창출"
+"trading-room_1-title","함께 거래"
+"trading-room_1-text","플랫폼에서 가장 성공적인 거래자의 거래를 주시하십시오."
+"trading-room_2-title","다른 사람의 성공적인 경험을 활용하십시오"
+"trading-room_2-text","다른 거래자의 행동을 따라하여 수익을 창출하십시오!"
+"trading-room_refill","'거래방'에 액세스하기 위해 충전해야 하는 최소 잔액:"
+"account_level","계좌 수준"
+"modal-confirm_title","이메일 주소 확인"
+"modal-confirm_text-1","확인 링크가 포함된 이메일이 전송되었습니다."
+"modal-confirm_text-2","확인 링크가 포함된 이메일을 받지 못하셨습니까? '스팸' 폴더를 확인하십시오. 메시지가 그곳에 전송되는 경우가 있습니다. 또는 메시지를 다시 요청하십시오."
+"modal-confirm_button","메시지 다시 전송"
+"modal-confirm_error-1-1","새 이메일이 {{@time}}분 후에 전송됩니다. 계좌를 활성화하려면 이메일을 확인하거나 지원 서비스로 문의해 주십시오. 또는"
+"modal-confirm_error-1-2","지원 서비스에 문의하십시오."
+"modal-confirm_support","지원 팀에 문의하기"
+"timer_days","일"
+"timer_hours","시간"
+"timer_minutes","분"
+"timer_seconds","초"
+"tournament_button","컨테스트 참가"
+"modal-oneclick_title","한 번의 클릭으로 거래"
+"modal-oneclick_text","플랫폼에서 한 번의 클릭으로 거래를 시작할 수 있습니다. 추가 확인 단계가 없습니다."
+"modal-oneclick_button","확인 및 계속"
+"modal-tbalance_title","계좌 충전"
+"modal-tbalance_text","계좌에 자금이 부족합니다. 컨테스트에 참가하려면 계좌를 충전하십시오."
+"modal-tbalance_button","예금 입금"
+"modal-tech_title","곧 연락드리겠습니다."
+"modal-tech_text-1","본사는 거래 플랫폼을 지속적으로 개선하고 있으며 곧 업데이트를 완료할 예정입니다. 불편을 드려 죄송합니다."
+"modal-tech_text-2","작업 완료까지 남은 시간:"
+"modal-tech_button","계속"
+"modal-session_title","주의사항"
+"modal-session_text-1","주식 시장은 주말에 휴장합니다."
+"modal-session_text-2","거래 플랫폼에 액세스할 수 있습니다."
+"modal-session_text-3","월요일 오전 3:00~금요일 오전 12:00"
+"modal-session_text-4","거래 세션 시작까지 남은 시간:"
+"modal-session_button","계속"
+"modal-tn_title","환영합니다"
+"modal-tn_text-1","최종 토너먼트에서 최고 잔액을 가진 거래자가 우승자가 됩니다."
+"modal-tn_text-2","이용 가능한 자산:"
+"modal-tn_text-3","이용 가능한 트랜잭션 유형:"
+"modal-tn_button","시작"
+"modal-nickname_title","닉네임 선택"
+"modal-nickname_text","컨테스트에 참가하려면 컨테스트 참가자 목록에 표시될 본인의 닉네임을 입력해 주십시오. 닉네임은 프로필 설정에서 언제든지 변경할 수 있습니다."
+"modal-nickname_button","저장 후 계속"
+"modal-nickname_placeholder","닉네임을 입력해 주십시오"
+"modal-profile_title","추가 정보"
+"modal-profile_text","플랫폼에서 작업을 계속하려면 추가 정보를 제공해 주십시오."
+"modal-profile_name","이름"
+"modal-profile_surname","성"
+"modal-profile_phone","전화 번호(국가 코드 포함)"
+"modal-profile_button","거래 시작"
+"modal-profile_aside","개인 데이터 안전은 보장됩니다."
+"form-error_required","이 필드는 공백이면 안 됩니다"
+"form-error_name-short","이름이 너무 짧습니다."
+"form-error_name-format","문자만 입력할 수 있습니다"
+"form-error_surname-short","성이 너무 짧습니다."
+"form-error_surname-format","문자만 입력할 수 있습니다"
+"form-error_phone-format","번호는 국제 형식이어야 합니다"
+"srv-err_asset-is-disabled","자산이 사용 중지되었습니다."
+"srv-err_asset-is-disabled-for-this-tournament","자산이 이 토너먼트에서 사용 중지되었습니다."
+"srv-err_binary-is-disabled-for-this-tournament","자산이 이 토너먼트에서 사용 중지되었습니다."
+"srv-err_turbo-is-disabled-for-this-tournament","자산이 이 토너먼트에서 사용 중지되었습니다."
+"tournament@btn.paid-participate","참가비"
+"tournament@info.paid","유료 토너먼트"
+"faq@title","Questions and answers"
+"menu@faq","자주 묻는 질문"
+"menu@education","교육"
+"menu@qa","질문과 답변"
+"menu@strategies","전략"
+"menu@btn$back","뒤로"
+"cashbox@no-bonus","Don't receive bonus"
+"wallet-menu@real-title","실제 자금"
+"wallet-menu@bonus-title","Bonus funds"
+"wallet-menu@wager-title","Turnover to withdraw bonus"
+"wallet-menu@wager-link","Read more about bonuses"
+"modal-bonus@title","You are using bonus funds"
+"modal-bonus@text","The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:"
+"modal-bonus@deal-size","Trade size"
+"modal-bonus@real-size","Real funds"
+"modal-bonus@bonus-size","Bonus funds"
+"modal-bonus@info","All funds received as part of the trade will be credited to your bonus account."
+"modal-bonus@faq","Bonus fund usage rules"
+"modal-bonus@btn-cancel","Cancel"
+"modal-bonus@btn-continue","Accept and continue"
+"modal-bonus@disable","Don't show this message anymore"
+"trends@restrict-title","Insufficient funds in your account"
+"trends@restrict-text","To unlock the Trends section, your account balance must be at least"
+"asset-menu@title","자산"
+"asset-menu@available","거래 가능한 자산"
+"asset-menu@profitable","수익이 향상된 자산"
+"asset-menu@interval","분"
+"confirm-trade@header","거래 확인"
+"confirm-trade@timer","{{@data}}초 후 창이 자동으로 닫힙니다."
+"confirm-trade@heading","멋집니다! 이제 거래를 확인하려 하시는군요. 그 전에 아래의 세부 사항을 확인해 주십시오."
+"confirm-trade@asset","자산"
+"confirm-trade@direction","방향"
+"confirm-trade@investment","투자"
+"confirm-trade@price","현재 가격"
+"confirm-trade@profitability","수익성"
+"confirm-trade@payout","잠재적 지불금"
+"confirm-trade@btn-cancel","취소"
+"confirm-trade@btn-confirm","확인"
+"plot@loading","로딩 중"
+"plot@lock-time","잠금 시간"
+"plot@expiration-time","만료 시간"
+"tr-empty@text","전문가와 함께하는 상세한 거래의 세계로 뛰어드십시오. 플랫폼에서 가장 성공적인 거래자의 거래를 따라 더 많은 수익을 올리십시오."
+"tr-empty@business","거래방은 비즈니스 계정 이상의 거래자가 이용할 수 있습니다. 평일 2회 4시간 거래 세션이 제공되며 매일 전문 거래자로부터 약 30개의 신호를 받을 수 있습니다. 독학하느라 시간을 낭비하지 마십시오. 귀하가 해야 할 작업은 Binarium 최우수 거래자가 이미 마쳐 놓았습니다."
+"tr-empty@vip","VIP 고객이 되면 거래방에서 본사 거래자가 귀하의 모든 질문에 답변하고 현재 시장 동향을 설명하며 잠재력이 가장 높은 부문을 제안해 드리며 귀하와 개인적 신호를 교환하고 협업하는 등 모든 특권이 제공됩니다. 이는 가장 많은 거래를 얻을 수 있는 최고의 방법입니다."
+"tr-empty@open-btn","자세한 정보 • 로그인"
+"tr-empty@deposit-btn","결제로 이동 • 로그인"
+"tr-empty@vip-signals","+ 가치 있는 신호"
+"hb@menu-btn","메뉴"
+"ac-types@title","계좌 유형"
+"ac-types@label_depositSum","예금액"
+"ac-types@label_tradeback","트레이드백"
+"ac-types@label_tradebackEnrolment","트레이드백 포인트"
+"ac-types@label_assets","자산 거래"
+"ac-types@label_withdrawalCountLimit","일일 인출 요청 수"
+"ac-types@label_withdrawalAmountLimit","월 인출 한도"
+"ac-types@label_withdrawalDayAmountLimit","일일 인출 한도"
+"ac-types@label_tradingRoom","거래방"
+"ac-types@label_openDealsSum","최대 거래 개시 수(한 번에 허용된 수)"
+"ac-types@value_real","실제 자금"
+"ac-types@value_bonus","보너스"
+"ac-types@value_nolimit","한도 없음"
+"ac-types@btn","증가"
+"ac-types@self","내 계좌"
+"ac-types@tradeback-hint","트레이드백 - 거래자가 손실을 입은 거래에 대한 부분 환불. 매주 화요일 12:00(0:00 UTC)에 적립"
+"video-tutorial@title","Binarium에서 90초만에 거래 시작하기"
+"video-tutorial@checkbox","이 동영상을 다시 표시 안 함"
+"user-menu@account-types","계좌 유형"
+"withdrawal-error@amount-limit","인출 한도가 초과되었습니다"
+"withdrawal@limit-with-counter","자금 인출 한도를 초과했습니다.<br>귀하의 <span class=""open-act-button"">계좌 유형</span>에서는 {{@limitCount}}회 요청으로 총 {{@limitAmount}}의 금액을 인출할 수 있습니다.<br>{{@limitTime}} 후에 다시 요청할 수 있습니다."
+"promo-gift@bonus","보너스"
+"promo-gift@freeSpins","위험 없는 거래"
+"promo-gift@tradeRoom","거래방"
+"promo-gift@tickets","티켓"
+"settings@quality-title","그래픽 품질"
+"settings@quality-hint","그래픽 품질 설정을 변경하여 기기의 부하를 관리하십시오. 표준 품질을 선택하면 그래픽 품질이 다소 떨어지지만 리소스를 절약하고 플랫폼을 더 빠르게 로드할 수 있습니다."
+"settings@quality-option-base","기본"
+"settings@quality-option-average","평균"
+"settings@quality-option-best","고품질"
+"history@group$active","진행 중인 거래"
+"history@group$finished","완료된 거래"
+"st@level$all","모두"
+"st@level$easy","단순"
+"st@level$base","기본"
+"st@level$advanced","고급"
+"promo@btn$details","더보기"
+"promo@timer$name","프로모션 종료까지 남은 시간:"
+"promo@until","기간:"
+"wallet@btn$refill","데모 계좌 입금"
+"tournament@prize-fund","상금"
+"tournament@prize-places","상위"
+"tournament@tab$restrictions","이용약관"
+"tournament@tab$rating","참여자 순위"
+"tournament@tab$current","현재"
+"tournament@tab$soon","시작 예정"
+"tournament@timer$start","컨테스트 시작까지 남은 시간:"
+"tournament@timer$end","컨테스트 종료까지 남은 시간:"
+"section@title$bet","거래"
+"bet@tab$deposit","예금"
+"forecast@deal","거래"
+"forecast@deals","거래"
+"promo@days-short","일"
+"settings@group$region","지역 설정"
+"settings@group$design","디자인"
+"menu@account-type","계좌 유형"
+"menu@profile","사용자 프로필"
+"leaderboard@tournament","컨테스트"
+"leaderboard$toggle@open","전체 순위"
+"leaderboard$toggle@close","닫기"
+"disabled-timer@title","시작까지 남은 시간"
+"open-option$total$deals","투자"
+"open-option$total$invest","총 투자금"
+"open-option$total$payout","총 지불금"
+"chat-button@text","온라인<br>도움말"
+"accounts@popular","인기 선택항목"
+"settings@animation","Points animation"
+"settings@animation-disabled","Disabled"
+"settings@animation-enabled","Enabled"

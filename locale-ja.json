@@ -1,806 +1,808 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "お客様",
-	"error": "エラー",
-	"settings": "設定",
-	"settings-2": "ターミナル設定",
-	"regionalSettings": "地域設定",
-	"timezone": "時間帯",
-	"timezone-2": "時間帯",
-	"language": "言語",
-	"skin-theme": "テーマ",
-	"ui-zoom": "ズーム",
-	"ui-zoom-2": "規模",
-	"investment": "トレード",
-	"payout": "支払い",
-	"options": "選択",
-	"quote": "見積もり",
-	"time": "時間",
-	"past": "取引完了",
-	"active": "開始",
-	"value": "価値",
-	"add": "新しいタブ",
-	"add-new-chart": "新しいチャートを追加",
-	"charts-arrangement": "チャートグリッド",
-	"turbo-cap": "1 - 5分",
-	"count-chart": "{{@count}} チャート",
-	"count-charts": "{{@count}} チャート",
-	"one-chart": "1 チャート",
-	"two-charts": "2 チャート",
-	"three-charts": "3 チャート",
-	"four-charts": "4 チャート",
-	"refill": "入金",
-	"wallets-types": "アカウントの種類",
-	"history": "履歴",
-	"cashbox": "バンキング",
-	"education": "教育",
-	"education@category$videos": "Educational <span>video</span>",
-	"promos": "ボーナス",
-	"trading-history": "取引履歴",
-	"section-under-construction": "このセクションは作業中です",
-	"count-purchase": "{{@count}} 取引",
-	"count-purchases": "{{@count}} #{trades@trade?count}",
-	"total-payout": "総支払",
-	"cancel": "キャンセル",
-	"apply": "適用",
-	"period": "期間",
-	"stochastic-smoothing": "スムージング",
-	"stochastic-overbought": "買われ過ぎ",
-	"stochastic-oversold": "売られ過ぎ",
-	"fast-stochastic-period": "ファスト線の期間",
-	"slow-stochastic-period": "スロー線の期間",
-	"fast-stochastic-line-color": "ファスト線の色",
-	"slow-stochastic-line-color": "スロー線の色",
-	"fast-stochastic-line-thickness": "ファスト線の太さ",
-	"fast-macd-period": "ファスト線の期間",
-	"slow-macd-period": "スロー線の期間",
-	"signal-macd-period": "シグナル期間",
-	"fast-macd-line-thickness": "ファスト線の太さ",
-	"signal_line_color": "シグナル線の色",
-	"oversold": "売られ過ぎ",
-	"macd_color": "色",
-	"line-thickness": "線の太さ",
-	"line-color": "線の色",
-	"line-offset": "ラインの移動",
-	"top-line-thickness": "トップラインの太さ",
-	"mid-line-thickness": "中間ラインの太さ",
-	"slow_period": "遅い期間",
-	"fast_period": "速い期間",
-	"short_period": "短期間",
-	"long_period": "長期間",
-	"offset": "オフセット",
-	"bottom-line-thickness": "ボトムラインの太さ",
-	"bottom-line-period": "ボトムライン期間",
-	"top-line-color": "トップラインの色",
-	"top-line-period": "トップライン期間",
-	"mid-line-color": "中間ライン色",
-	"mid-line-period": "中間ライン期間",
-	"bottom-line-color": "ボトムライン色",
-	"teeth-line-color": "歯ラインの色",
-	"jaws-line-color": "ワニのアゴ線の色",
-	"lips-line-color": "唇ラインの色",
-	"jaws-period": "ワニのアゴの期間",
-	"jaws-offset": "ワニのアゴ・オフセット",
-	"teeth-period": "ワニの歯期間",
-	"teeth-offset": "ワニの歯オフセット",
-	"lips-period": "ワニの唇",
-	"lips-offset": "唇のオフセット",
-	"indice-lines-position": "ライン位置のインジケーター",
-	"major-line-thickness": "メイン・ラインの太さ",
-	"top-signal-line-thickness": "トップ・シグナル線の色",
-	"bottom-signal-line-thickness": "ボトム・シグナル線の色",
-	"top-signal-line-color": "トップ・シグナル線の色",
-	"bottom-signal-line-color": "ボトム・シグナル線の色",
-	"fast-stoch-color": "ファスト・ストキャスティクス期間",
-	"low-stoch-color": "ロー・ストキャスティクス色",
-	"low-stoch-period": "ロー・ストキャスティクス期間",
-	"fast-stoch-line-thickness": "ファスト・ストキャスティクス線の太さ",
-	"low-stoch-line-thickness": "ロー・ストキャスティクス線の太さ",
-	"small-period": "短期",
-	"big-period": "長期",
-	"small-period-width": "短期幅",
-	"big-period-width": "長期の幅",
-	"signal-period-width": "シグナル期間の幅",
-	"bars-color": "バーの色",
-	"bars-color-maofmacd": "MACDのMAバーの色",
-	"smoothing-period": "平滑移動期間",
-	"adx-minus-di-color": "-DI 色",
-	"adx-plus-di-color": "+DI 色",
-	"adx-line-color": "ADX ライン色",
-	"sar-default-acceleration": "基本加速",
-	"acceleration-step": "加速段階",
-	"max-acceleration": "最大加速",
-	"chikou-line-thickness": "遅行の厚さ",
-	"chikou_period": "遅行スパン",
-	"tenkan_period": "転換線",
-	"kijun_period": "基準線",
-	"senkou_a_period": "先行スパンA",
-	"senkou_b_period": "先行スパンB",
-	"color": "色",
-	"chart-type": "チャートタイプ",
-	"chart-type-curve": "曲線",
-	"chart-type-curve-area": "曲線領域",
-	"chart-type-candlesticks": "ローソク足",
-	"chart-type-bars": "バー",
-	"bet-sum": "合計",
-	"chart-controls-income-caption": "収益性",
-	"expiration-time": "有効期限",
-	"wallet-refilling": "入金",
-	"real-wallet": "リアル",
-	"demo-wallet": "デモ口座",
-	"can-deduce-profit": "利益を引き出せます",
-	"all-assets-available": "全ての資産は利用可能です",
-	"all-features-available": "プラットフォームの全機能を使用できます",
-	"get-bonuses-from-the-platform": "会社が提供しているボーナスをゲット",
-	"participate-tournaments": "コンテストに参加",
-	"can-switch-wallet-any-time": "アカウントはいつでも切り替えることができます。",
-	"cannot-deduce-profit": "利益を引き出せません",
-	"refill-wallet": "入金",
-	"choose-wallet-type": "アカウントの種類",
-	"demo-wallet+wallet": "デモ口座",
-	"real-wallet+wallet": "リアル口座",
-	"choose-bet": "取引",
-	"added-items": "追加済み",
-	"bollinger-lines": "ボリンジャーバンド",
-	"ichi-cloud": "一目均衡表",
-	"alli-gator": "アリゲーター",
-	"graphics-analysys-tools": "分析ツール",
-	"new-items": "新しい",
-	"line-segment": "線分",
-	"ray": "光線",
-	"hori-line": "水平ライン",
-	"vline": "縦線",
-	"free-hand": "フリーハンド",
-	"crossroad": "交差",
-	"frame": "フレーム",
-	"range": "範囲",
-	"ellipse": "楕円",
-	"fibonacci-lines": "フィボナッチライン",
-	"andrews-fork": "アンドリューズ・ピッチフォーク",
-	"graphic-tools": "グラフィカルツール",
-	"time-period": "期間",
-	"count-second": "{{@count}} 秒",
-	"count-seconds": "{{@count}} 秒",
-	"count-minute": "{{@count}} 分",
-	"count-minutes": "{{@count}} 分",
-	"count-hour": "{{@count}} 時間",
-	"count-hours": "{{@count}} 時間",
-	"lock-time": "ロック時間",
-	"user-profile": "ユーザープロフィール",
-	"user-profile-heading": "ユーザープロフィール",
-	"withdrawal": "出金",
-	"support-service": "サポート",
-	"payment-history": "支払い履歴",
-	"exit": "ログアウト",
-	"count-second-short": "{{@count}} 秒",
-	"count-seconds-short": "{{@count}} 秒",
-	"count-minute-short": "{{@count}} 分",
-	"count-minutes-short": "{{@count}} 分",
-	"count-hour-short": "{{@count}} 時間",
-	"count-hours-short": "{{@count}} 時間",
-	"count-day-short": "{{@count}} 日",
-	"binary-cap": "5分以上",
-	"error-too-small-bet": "このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最小ベットは{{@minbet}} です。",
-	"error-too-big-bet": "このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最大ベットは{{@maxbet}} です。",
-	"error-wrong-expiration": "{{@time}} 有効期限に誤りがあります",
-	"not-enough-money": "残高が足りません",
-	"option-closed-head": "クローズしたオプション",
-	"transaction-result": "{{@assetName}} 結果",
-	"internet-connection-trouble": "接続問題",
-	"lang-name-locale-en": "英語",
-	"lang-name-locale-ru": "ロシア語",
-	"lang-name-locale-de": "ドイツ語",
-	"lang-name-locale-tr": "トルコ語",
-	"lang-name-locale-vi": "ベトナム語",
-	"lang-name-locale-uk": "ウクライナ語",
-	"lang-name-locale-th": "タイ語",
-	"lang-name-locale-it": "イタリア語",
-	"lang-name-locale-pl": "ポーランド語",
-	"lang-name-chinese": "中国語（簡体字）",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "リアル・アカウントを使用しています。",
-	"you-started-using-tment-wallet": "コンテストアカウントを利用しています。",
-	"tournaments": "コンテスト",
-	"currents": "現在",
-	"futures": "今後",
-	"archive": "アーカイブ",
-	"days": "日",
-	"hours": "時間",
-	"minutes": "分",
-	"prize-fond": "賞品",
-	"participate-price": "入場料",
-	"prize-places": "上位",
-	"tournament-participants-count": "参加者",
-	"no-tournament-description": "コンテスト説明はありません",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "開始",
-	"deductions": "控除",
-	"reg-in-tournament-for": "{{@price}} コンテストに参加",
-	"reg-in-tournament-for-free": "トーナメントに無料で参加",
-	"choose-tournament-to-see-info": "コンテストを選択",
-	"has-reged-in-tournament": "登録完了",
-	"wait-for-reg-in-tournament": "登録リクエスト送信済み",
-	"prize-places-low": "{{@count}} 上位",
-	"starting-balance": "開始残高",
-	"min-deal-size": "裁定取引金額",
-	"max-deal-size": "最低取引額",
-	"max-simultaneously-open-deals": "オープントレード制限",
-	"max-amount-of-open-deals": "投資限度",
-	"available-options-types": "利用可能なオプション",
-	"tournament-option-type-turbo": "ターボ",
-	"tournament-option-type-binary": "バイナリー",
-	"tournament-option-type-both": "両方",
-	"tournament-winning-rules": "トーナメント終わりに最高残高のトレーダーが勝利となります",
-	"available-assets": "利用可能な資産",
-	"available-options": "利用可能なトランザクション種類",
-	"greeting": "ようこそ",
-	"cashbox-plus-bonus": "ボーナス",
-	"cashbox-input": "入金",
-	"cashbox-output": "出金",
-	"cashbox-total": "ボーナス、プロモーション、合計",
-	"bonus-terms-of-use": "ユーザーのボーナス規約",
-	"enter-cashbox-input-value": "入金額を入力",
-	"enter-cashbox-output-value": "出金額を入力",
-	"do-withdrawal": "出金",
-	"amount-due": "金額",
-	"will-recieve-to-account": "獲得",
-	"i-wanna-get-bonus": "ボーナスをゲット",
-	"enter-cashbox-card-type": "支払い方法",
-	"finish-time": "完成",
-	"top-users": "リーダーボード",
-	"member": "会員",
-	"balance": "残高",
-	"prize": "賞品",
-	"hint-split-view-button": "レイアウト",
-	"hint-user-profile-button": "ユーザーメニュー",
-	"hint-asset-stat": "トレーダーの選択",
-	"hint-sound-button": "音",
-	"hint-platform-time": "プラットフォーム時間",
-	"hint-profitability": "収益性",
-	"hint-payout": "支払い",
-	"hint-real-acc": "リアル口座",
-	"hint-demo-acc": "デモ口座",
-	"hint-tournament-acc": "コンテスト口座",
-	"hint-settings": "設定",
-	"hint-support": "サポート",
-	"hint-graph-type": "チャートタイプ",
-	"hint-candle-interval": "ローソク間隔",
-	"hint-user-lines": "グラフィカルツール",
-	"hint-secondary-lines": "インジケータ",
-	"hint-centerize": "現在価格",
-	"hint-zoom-level": "時間枠",
-	"tournament": "コンテスト",
-	"loading": "読み込み中",
-	"you-are-in-tournament": "参加完了！",
-	"repeat-tournament": "リバイ{{@price}}",
-	"unsupported-browser": "この製品はテスト段階にあり、現時点にて安定した動作を保証しているブラウザーは、Google Chrome、Opera、Yandexです。ご理解ありがとうございます！",
-	"account-is-for-educ": "これはデモ口座のみです",
-	"participate-in-demo-tments": "デモコンテストに参加する",
-	"use-real-money": "リアルマネーで取引する",
-	"participate-tments-with-real-money": "コンテストに参加して、プライズを獲得しよう",
-	"native-deal-closed-body": "{{@assetName}} のオプションは{{@closeTime}} に閉鎖されました。 利益は{{@incomeValue}} です。",
-	"tournaments-rules": "コンテストのルール",
-	"tournaments-rules-2": "コンテスト参加のためのルール",
-	"get-trade-exp": "貴重なトレード取引経験を得ましょう",
-	"tment-begins-in": "コンテスト開始時間",
-	"tment-ends-in": "コンテスト終了時間",
-	"tment-has-ended": "コンテスト終了",
-	"tment-just-ended": "\"{{@name}}\" 終了",
-	"tment-just-started": "\"{{@name}}\"開始",
-	"tment-just-created": "\"{{@name}}\"　作成済み",
-	"read-more": "もっと見る",
-	"history-is-empty": "有効期限切れの取引はありません",
-	"tournaments-current-is-empty": "現時点でアクティブなコンテストはありません。ニュースフィードをフォローして、ニュースレターをご確認ください。",
-	"tournaments-future-is-empty": "現時点で予定が組まれているコンテストはありません。ニュースフィードをフォローして、ニュースレターをご覧ください。",
-	"tournaments@current-empty": "現時点でアクティブなトーナメントありません。ですが、もうすぐ始まる予定です。<br><br>上にあるメニューの「近日予定」タブをチェックして、プラットフォームニュースやメールに目を配ってください。",
-	"tournaments-ended-is-empty": "コンテストは終わっていません",
-	"upper-indicator-line": "上のインジケーター線",
-	"lower-indicator-line": "下インジケーター線",
-	"stoch-overbuy-value": "買われ過ぎ",
-	"stoch-overbuy-line-width": "買われ過ぎ幅",
-	"stoch-overbuy-line-color": "買われ過ぎ色",
-	"stoch-oversell-value": "売られ過ぎ",
-	"stoch-oversell-line-width": "売られ過ぎ幅",
-	"stoch-oversell-line-color": "買われ過ぎ色",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "この値は無効です。",
-	"889954f14a3839c141bd8d5102094fbb": "この値は既に使用されています",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "この値は有効なメールアドレスではありません",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "この値は有効なメールアドレスではありません",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "この値は有効なメールアドレスではありません",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "この項目は必須です。",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "この値は短すぎます。{{@limit}} 文字以上にしてください。",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "値が長過ぎます。{{@limit}} 文字以下にしてください。",
-	"478618a7-95ba-473d-9101-cabd45e49115": "値は{{@compared_value}} と同じであるべきです。",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "ユーザーネームまたはパスワードが違います",
-	"3e5af93fb888b4aa77301a7603e113d5": "パスワードが正しくありません",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "値は{{@limit}} 以下であるべきです",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "値は{{@limit}} 以上であるべきです",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "この値は無効ではないはずです。",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "選択の値は有効ではありません",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "無効な必要条件{{@name}}",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "必要条件{{@name}} を設定する必要があります。",
-	"661d3bc6c153e42a3658855010678cbd": "不明な要件{{@names}}",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "処理済みのリクエストのステータスを変更することはできません",
-	"2d2ba82dd886ba3b69da804675842ff5": "良くない支払い方法",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "無効な有効期限",
-	"f029308ab5f1672de0b7615c4fa33386": "資産は現時点にて閉鎖されています",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "資産は現時点にて閉鎖されています",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "利用可能な取引量上限を超えました。",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "残高不足",
-	"f3a5b44d01097d966072b90187a16ec6": "ユーザがありません",
-	"296ea5496bee3177c83ac27a1dc5bb10": "コンテストの残高は開始残高より少ないべきです",
-	"fc53df7c4944ebb53e8b3713126ae226": "最大取引開始数は {{@limit}} です",
-	"0f8e85ca21aa2e33752728cf5e843e35": "利用可能な取引量上限を超えました。",
-	"cbce1334c90e82f44381abe99b98fe5c": "制限オープンオプションの合計数を超えています",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "このニックネームはすでに使用されています。 別のものを選択してください。",
-	"promo-ends-in": "ボーナス終了時間",
-	"your-promocode": "あなたのプロモーションコード",
-	"from-value-to-value": "{{@fromValue}} から — {{@toValue}} まで",
-	"deposit-sum": "入金総額",
-	"bonus-sum": "ボーナス",
-	"promos-rules": "ボーナスのルール",
-	"promos-rules-2": "ボーナスのルール",
-	"participate-promo": "ボーナスに参加する",
-	"promo-has-ended": "ボーナスは終了しました",
-	"no-promos-description": "ボーナス説明はありません",
-	"promos-is-empty": "現在、プロモーションはありません。当社の最新ニュースをフォローして、近日中に送信されるメールをお見逃しなく。",
-	"first-launch-disclaimer-content": "注意！ワンクリックで取引を開始します。確認はありません。",
-	"accept": "受け取る",
-	"trading-session-closed": "取引セッションは終了しました",
-	"special-offer": "特別なオファー",
-	"continue": "続く",
-	"seconds": "秒",
-	"trading-sess-starts-in": "取引開始：",
-	"trading-session-closed-info-0": "ご注意！",
-	"trading-session-closed-info-1": "週末は株式市場が閉鎖されます。",
-	"trading-session-closed-info-2": "プラットフォームでの取引は、月曜日の3:00から金曜日の00:00まで利用できます。",
-	"trading-session-closed-info-3": "Thompson Reutersが提供する市場データ",
-	"asset": "資産",
-	"additional-info": "追加情報",
-	"fill-profile-to-continue": "プラットフォームでの作業を続行するには、追加情報を提供して下さい",
-	"fill-username-heading": "トレーダー様",
-	"fill-username-text": "トーナメントに参加するには、トーナメント参加者リストにニックネームを入力してください。プロフィールの設定にていつでも変更できます。",
-	"fill-username-placeholder": "ニックネームを入力してください",
-	"save-and-continue": "保存して続く",
-	"profile-name": "名前",
-	"profile-surname": "姓",
-	"profile-telephone": "電話番号",
-	"start-trading": "取引開始",
-	"personal-data-safety": "個人情報の保護は保障されています",
-	"bonus": "ボーナス",
-	"new-bonus": "アカウントに",
-	"received-bonus": "選択の入金と共に受け取ります",
-	"received-bonus-value": "{{@bonus}} の金額内のボーナス",
-	"mobile-received-bonus-value": "+ ボーナス {{@bonus}}",
-	"expires-in": "時間切れ",
-	"cannot-buy-option-try-later": "この取引を開けることができません。少し待ってから再試行して下さい。",
-	"notifications$demo-option-limit": "5つ以上の取引を同時に開けたいですか？本物のアカウントを開けてください。引き続きデモ用アカウントを使うには、取引が完了するまで待ってください",
-	"max-total-bet-limit-exceeded": "許容取引額を超えました。\n許可される取引額は{{@maxBet}} です",
-	"chart-opens-in": "アセットは次で利用可能です：",
-	"hint-activate-tment-wallet": "コンテスト・アカウントの使用を開始するにはここを押してください",
-	"largest-profit-banner-on-the-asset": "資産上",
-	"largest-profit-banner-button-trade-caption": "取引",
-	"largest-profit-banner-button-trade-caption-2": "今すぐ取引する",
-	"largest-profit-banner-text": "資産を取引するのに最適な時期",
-	"largest-profit-banner-text-2": "取引に最適なタイミングです",
-	"largest-profit-height-profit": "収益性の向上",
-	"largest-profit-height-profit-2": "までの高い収益性",
-	"offer-expires-in": "オファーの有効期限終了まで：",
-	"offer-expires-in-2": "オファーの有効期限終了まで：",
-	"warning": "ご注意",
-	"banner-tech-works-info-caption": "テクニカルアップデート",
-	"banner-tech-works-info-content": "私たちは常に取引プラットフォームの改善に取り組んでいます。\n現在、プラットフォームの更新が行われています。\nご不便をおかけしていますことをお詫びいたします。",
-	"confirm-email-content": "メールアドレスの認証を行ってください。下のボタンをクリックすると、認証リンク付きのメールの再送信を行うことができます。",
-	"confirm-email-caption": "アカウント認証",
-	"reload": "リロード",
-	"resend-confirmation": "再送信",
-	"resend-confirmation-again": "再試行",
-	"confirmation-mail-sent": "送信済み",
-	"banner-not-enough-funds-for-tment": "アカウントの資金が不足しています。コンテストに参加するには、アカウントを補充してください。",
-	"tment-reenter-not-allowed": "未処理のトランザクションがある間は追加購入はできません。",
-	"fill-profile-wrong-phone": "電話番号は無効です",
-	"fill-profile-wrong-name": "名前が正しくありません",
-	"fill-profile-wrong-surname": "姓が正しくありません",
-	"fill-user-wrong-promocode": "プロモーションコードが正しくありません",
-	"wrong-promocode-max-sum": "プロモコードを有効化する最高額{{@sum}}",
-	"wrong-promocode-min-sum": "プロモコードを有効化する最小額{{@sum}}",
-	"wrong-withdrawal-min-sum": "最低額{{@sum}}",
-	"wrong-withdrawal-max-sum": "最大出金額 {{@sum}}",
-	"wrong-promocode-expired": "時間切れ",
-	"wrong-promocode-only-for-second-deposit": "2回目以降の入金でのみ利用可能です",
-	"wrong-promocode-only-for-first-deposit": "初回入金にのみ利用可能",
-	"wrong-promocode-used": "プロモーション・コードはすでに利用済みです",
-	"fill-user-wrong-phone": "電話番号は無効です",
-	"fill-user-wrong-card": "カード番号は無効です",
-	"fill-user-wrong-customer_purse": "口座番号は無効です",
-	"fill-user-wrong-name": "名前が正しくありません",
-	"fill-user-wrong-surname": "姓が無効です",
-	"please-rotate-device": "端末を簡単に使用できるように、デバイスを裏返します",
-	"swipe-up-to-enter-fs": "フルスクリーン・モードに入るため、スワイプして下さい",
-	"click-to-enter-fs": "フルスクリーン・モードへの切り替えのため、スクリーンのどこかをアップしてください",
-	"reconnect": "再接続",
-	"reconnected": "再接続！",
-	"free-reg": "無料登録",
-	"investments": "取引",
-	"investments_short": "投資",
-	"investment_short": "投資",
-	"buy-time": "時間稼ぎ",
-	"total-investment": "投資合計",
-	"total-income": "出金合計",
-	"result": "結界",
-	"ur-income-would-be": "利益",
-	"create-account-for-free": "無料でアカウントを作成する",
-	"resume-use-demo": "デモモードを続ける",
-	"reg-request-message": "私たちのウェブサイトで取引をしていれば、これまでに{{@income}} を獲得されていることでしょう。 もう時間を無駄にすることはありません、取引を始めましょう！",
-	"trade-without-restrictions": "制限なし取引する",
-	"trade-without-restrictions-message": "一度に5つ以上の取引を開きたい場合は、実際の取引口座を開き、制限なしで取引してください。 デモ口座を引き続き使用するには、現在の取引の有効期限が切れるまでお待ちください。",
-	"use-real-wallet": "リアル口座",
-	"support": "サポート",
-	"search-asset": "資産を検索しましょう",
-	"error-sending-email-confirmation": "メールの送信中にエラーが発生しました。 後でもう一度やり直してください。",
-	"error-sending-email-confirmation-with-time": "{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。",
-	"risk-free-trades": "リスクなしの取引",
-	"count-trades-for-bet": "{{@sum}} のための{{@count}} 取引",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "ホワイト",
-	"Red": "レッド",
-	"Pink": "ピンク",
-	"Purple": "パープル",
-	"Deep Purple": "ディープ・パープル",
-	"Indigo": "インディゴ",
-	"Blue": "ブルー",
-	"Cyan": "シアン",
-	"Green": "グリーン",
-	"Light Green": "ライト・グリーン",
-	"Lime": "ライム",
-	"Yellow": "イェロー",
-	"Amber": "アンバー",
-	"Orange": "オレンジ",
-	"tournament-accounts": "トーナメントアカウント",
-	"activate-tournament-wallet": "コンテスト・ウォレットを有効にしてください",
-	"deposit-using-agreements-header": "ボーナス条件",
-	"deposit-using-agreements-p1": "ボーナスとは、トレーダーの取引の可能性を高めるために当社が提供する追加資金です。",
-	"deposit-using-agreements-p2": "入金を行うと、一定額のボーナスがアカウントに入金される場合があります。ボーナスの金額は入金額に応じて変わります。",
-	"deposit-using-agreements-p3": "ボーナスは引き出し可能な資金額を制限するものではありません。利益はいつでも入金額と一緒に引き出すことができます。資金の引き出し時には、未獲得のボーナス資金はすべて非アクティブ状態となり、アカウントから引き落とされますので、ご注意ください。",
-	"choose-payment-method": "入金方法を選択",
-	"choose-payment-sum": "入金額を選択",
-	"plus-value-bonus": "+ {{@value}} ボーナス",
-	"deposit-user-sum-value-caption": "自分の金額を受け取りたいですか？入力フィールドを使用しましょう",
-	"i-have-promocode": "プロモーションコードがあります",
-	"requisiste-name-phone": "電話番号",
-	"no-bonus": "ボーナスがありません",
-	"refresh": "リフレッシュ",
-	"browser": "ブラウザ",
-	"make-a-deposit": "入金する",
-	"cashbox-withdrawal-info-0-header": "アカウントからの引き出しはどのようにできますか？",
-	"cashbox-withdrawal-info-0-content": "以下のオプションのご利用が可能です：銀行カード、Qiwi/Yandex Money / WebMoney電子財布。マイクロアカウントの所有者は、資金引き出しのためアクティブなアプリケーション1つのみを持つことができます。",
-	"cashbox-withdrawal-info-1-header": "アカウントから引き出せる最小額はいくらですか？",
-	"cashbox-withdrawal-info-1-content": "最小引き出し額は、₽300、$5、€5 、A$5 、あるいは₴150です。シングル取引における最大引き出し額は、₽15,000、$200、€200、A$200 、あるいは ₴6,000です。",
-	"cashbox-withdrawal-info-2-header": "₽15,000、$200、€200、A$200、あるいは ₴6,000より大きな額はどのように引き出すことができますか？",
-	"cashbox-withdrawal-info-2-content": "この制限は、急激なアカウントの引き出しを防ぐために設定されています。定められた限度を超える金額は、より長い期間をかけてのみ引き出すことが可能です。大きな金額を引き出す必要がある場合は、引き出し金額を $200、€200、A$200、 ₽15,000、 あるいは ₴6,000に分割して下さい。引き出しリクエストの回数に制限はありません。１回の支払いによる大きな金額の引き出しを希望する場合には、プラットフォーム・サポートチームにお問い合わせください。アカウントが承認されていない場合、リクエストの処理には最大3営業日がかかる場合があります。1日に複数の引き出しリクエストの送信をすることはできません。",
-	"cashbox-withdrawal-info-3-header": "素早く資金の引き出しを行うにはどうすればいいですか？",
-	"cashbox-withdrawal-info-3-content-a": "プラットフォームファイナンス部門の営業時間中にリクエストが送られ、アカウントがプラットフォームの要件に従って認証されている場合、リクエストは1時間で処理されます。 ",
-	"cashbox-withdrawal-info-3-content-b": "財務部門の営業時間は、月曜日から金曜日の午前10時から午後10時（GMT +2）です。 財務部門の営業時間外または休日に送信の出金リクエストは、翌営業日の処理となります。アカウントが未承認の場合、リクエストの処理は3営業日以内となります。1日に複数の資金引き出しリクエストの送信を行うことはできません。",
-	"cashbox-withdrawal-info-4-header": "出金ポリシー",
-	"cashbox-withdrawal-info-4-content-a": "リクエストの適切な処理のため、必要なすべての情報を「プロファイル設定」セクションにてご提示ください。入力情報が不正確または不完全だと判断された場合、資金引き出し要求が拒否されたり、あるいは遅延される可能性があります。",
-	"cashbox-withdrawal-info-4-content-b": "資金は、口座への資金調達に使用したものと同じ銀行口座（または同じ支払いシステム）に引き出されます。トランザクションを完了できない場合には、オンラインチャット、あるいはsupport @ binarium.comへのメール送信にて、サポートサービスにご連絡下さい。",
-	"cashbox-withdrawal-info-5-header": "資金の引き出しには書類提出が必要ですか？必要な場合、何が必要でしょうか？",
-	"cashbox-withdrawal-info-5-content-a": "迅速な引き出しを確実にするために、「プロファイル設定」セクションにてすべての個人データをご提供ください。複数の銀行カードを使用している場合、あるいは支払いの詳細が登録時に指定したものと一致しない場合、完全な承認プロセスを経て、カードが実際にあなたのものであることを証明することが必要になります。第三者のアカウントへの資金のお引き出しはできません。 ",
-	"cashbox-withdrawal-info-5-content-b": "承認プロセスを完了するために、パスポートと銀行カード表面を所有者のご氏名が見えるようスキャンしてsupport@binarium.comにご送付ください。エンボスカードを所有していない場合は、パスポートのコピーに加えて、カードからBinariumアカウントへ取引したことを示す銀行取引明細書のスキャンをご送付いただくことが必要となります。当社は、カード所有者と取引口座情報が一致しない場合、追加の補足書類を要求する権利を留保します。",
-	"cashbox-withdrawal-info-6-header": "ボーナス資金の引き出しにはどのような条件がありますか？",
-	"cashbox-withdrawal-info-6-content-a": "ボーナスは、発生後すぐにはお引き出しができない場合があります。ブローカーは、お客様の取引機会を増やすためのボーナスとしてこのお金を提供しています。ボーナス資金を利用して獲得した利子もボーナスとなり、必要な取引ターンオーバー達成後にのみお引き出しが可能になります。ボーナスのお引き出しには、ボーナス額の40倍のターンオーバー達成が必要です。入金不要ボーナスの場合、レバレッジは50に増加となります。つまり、アカウントのターンオーバーはボーナス50倍に等しくなり、最大引き出し額は提供された入金不要ボーナスの金額を超えることはありません。当社の無料コンテストで獲得した賞金はボーナスと見なされ、引き出しは、40倍のターンオーバーを達成した後にのみ可能となります。",
-	"cashbox-withdrawal-info-6-content-b": "例として、入金して、ボーナス150ドルが発生したとします。ルールに従って、購入したオプションの合計額を30 x 150 = 4,500ドルにする必要があります。この金額を達成した後には、ボーナス資金のお引き出しが可能になります。この場合、収益性の高い取引と収益性の低い取引の両方が考慮されます。途中で終了したトランザクションは売上高に含まれません。利益の引き出しに制限はありません。",
-	"cashbox-withdrawal-info-6-content-c": "入金額の一部を引き出す場合、ボーナスはアカウントから自動的に差し引かれます。",
-	"cashbox-withdrawal-info-6-content-d": "ご質問等は、Binariumサポートサービスへお問い合わせください",
-	"cashbox-withdrawal-info-7-header": "アカウントの資金の引き出し申請を作成できません。原因は何でしょうか？",
-	"cashbox-withdrawal-info-7-content": "まず最初に、すべての個人情報が「プロフィール」セクションのプロフィールページに入力されているかどうかをご確認下さい。リクエストの送信をするときには、すべての情報が正しく入力されているかどうかの再確認を行ってください。「+」、「-」、「/」などの特殊文字は無効です。入力した情報がすべて正しいにもかかわらず、問題が解決しない場合は、オンラインチャットあるいはメールにてsupport@binarium.comカスタマーサポートサービスまでお問い合わせください。",
-	"deposit-info-1": "ボーナスは、トレーダーの取引の可能性を高めるために当社が提供する追加資金です。",
-	"deposit-info-2": "入金を行うと、一定額のボーナスがアカウントに入金される場合があります。ボーナスの金額は入金額に応じて変わります。",
-	"deposit-info-3": "ボーナスは引き出し可能な資金額を制限するものではありません：利益は入金額と共にいつでもお引き出しが可能です。資金を引き出す場合、40倍のターンオーバーにて取引に利用されなかったすべてのボーナス資金は、非アクティブ状態とされ、アカウントから引き落とされます。",
-	"withdrawal-heading": "申請から24時間以内にリクエストの処理が行われます。",
-	"withdrawal-content": "会社の財務部門の勤務時間外に申請書が発行された場合、処理は翌営業日に行われます。",
-	"withdrawal-restricted-content": "あなたの<span class=\"open-act-button\">アカウントの種類</span>の引き出し額が上限を超えています",
-	"withdrawal-amount-caption": "支払い額",
-	"withdrawal-type-caption": "資金の出金方法",
-	"withdrawal-button-caption": "資金を出金",
-	"requisite-name-card": "カード番号",
-	"requisite-name-phone": "電話番号",
-	"requisite-name-customer_purse": "お客様の財布",
-	"withdrawal-request-sent": "リクエストはキューに置かれています",
-	"withdrawal-request-sent-extra-info": "「トランザクション履歴」セクションにてリクエストのステータスを追跡できます。",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "Visa/Mastercard",
-	"videohub": "教育",
-	"asset-type-all": "全部",
-	"asset-type-currency": "通過",
-	"asset-type-crypto": "仮想通貨",
-	"asset-type-goods": "商品",
-	"asset-type-countries": "国",
-	"asset-type-leaders": "リーダー",
-	"cashbox-withdrawal-info": "リクエストの処理にはある程度の時間がかかります。通常、営業時間中に財務部門がリクエストを確認するのに最大24時間を要します。お客様が出金リクエストの承認を待つ間、残高を凍結しないことをお知らせいたします。ひいては取引を続けることができます。",
-	"expiration-caption-16": "24時間で",
-	"trends": "トレンド",
-	"show-chart": "チャート表示",
-	"hide-chart": "チャート非表示",
-	"trend-active": "有効",
-	"trend-non-active": "全部",
-	"trends-is-empty": "トレンドが更新中です",
-	"what-are-trends": "トレンドとは何ですか？",
-	"what-are-trends-advice-content": "トレンドは特別な取引ツールであり、収益性のある資産（価格の方向性が顕著）をすばやく見つけて、トレンドの方向に取引を開始できます。",
-	"not-enough-money-for-trends-detailed": "{{@balance}} 以上の実際の残高をお持ちのお客様は、Binariumのユニークな取引ツールをご利用いただけます。有望な機会：",
-	"get-access-to-trends": "トレンドにアクセスする",
-	"trends-features-one": "市場のすべての資産の動向を追跡しましょう",
-	"trends-features-two": "トレンドが現れたときにトレンドの方向に即座に取引を開始します",
-	"month-0": "1月",
-	"month-1": "2月",
-	"month-2": "3月",
-	"month-3": "4月",
-	"month-4": "5月",
-	"month-5": "6月",
-	"month-6": "7月",
-	"month-7": "8月",
-	"month-8": "9月",
-	"month-9": "10月",
-	"month-10": "11月",
-	"month-11": "12月",
-	"day-0": "月",
-	"day-1": "火",
-	"day-2": "水",
-	"day-3": "木",
-	"day-4": "金",
-	"day-5": "土",
-	"day-6": "日",
-	"trading-room": "取引室",
-	"trading-room-entering-time": "入場時間",
-	"trading-room-expiration": "有効期限",
-	"trading-room-strength": "強度",
-	"trading-room-strike-price": "ストライク価格",
-	"trading-room-is-empty": "利用できるシグナルがありません。トレーディングルームをすぐに確認してください.",
-	"demo-stats-banner-header-caption": "素晴らしい！",
-	"demo-stats-banner-header-caption-2": "おめでとうございます！",
-	"demo-stats-banner-you-earned-on-demo": "デモ口座で利益を獲得しました",
-	"demo-stats-banner-total-deals-amount": "総取引",
-	"demo-stats-banner-successfull-deals-percentage": "成功した取引の割合",
-	"demo-stats-banner-real-account-opening-request": "実際の口座を開設して、収益を出金する",
-	"demo-stats-banner-open-real-account-button-caption": "リアルアカウントを開設",
-	"demo-stats-banner-keep-trading-on-demo": "デモ口座にとどまる",
-	"demo-stats-banner-you-have-done": "行った",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "連続の取引",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "連続の収益性が高い取引",
-	"demo-stats-banner-earning-on-demo-account": "デモ口座の収益",
-	"demo-stats-banner-closed-in-a-row-2": "儲かる取引",
-	"tour-next-button-caption": "続く",
-	"tour-reading-duration-caption": "4分間の読書",
-	"tour-slides-steps-count": "{{@totalSlidesCount}} のステップ{{@currentSlide}}",
-	"tour-slide-0-caption": "Binariumトレーディング・プラットフォームへようこそ",
-	"tour-slide-0-content": "この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。",
-	"tour-slide-0-content-1": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
-	"tour-slide-0-content-2": "この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。",
-	"tour-slide-0-content-3": "メインメニューは左側にあります。例えば、<span class=\"bold\">銀行</span> セクションではアカウントを補充できます。また、<span class=\"bold\">取引室</span> セクションではプラットフォームで最高のトレーダーを使用して取引を注文できます。",
-	"tour-slide-0-content-3-port": "メインメニューは左にあります。例えば、<span class=\"bold\">銀行</span>のセクションに入金できます。 そして、プラットフォームの最も優れたトレーダーからの手助けで<span class=\"bold\">取引ルーム</span>のセクションで取引することができます。",
-	"tour-slide-0-extra-info": "プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。",
-	"tour-slide-1-caption": "プラットフォームでどのように収入を得ることができますか？",
-	"tour-slide-1-content": "<span class=\"bold\">取引プラットフォームでは</span> 、外国為替通貨ペア、暗号通貨、商品、その他の金融商品などの金融資産に短期投資で取引を行うことができます。",
-	"tour-slide-2-caption": "取引を行う上での基本原理は何でしょうか？",
-	"tour-slide-2-content-a": "取引は、特定の期間にわたって金融資産の価格がどのように変化するかを予測することです。投資家は、<span class=\"green\"> 長期 </span>あるいは<span class=\"red\">短期 </span>取引を行います。",
-	"tour-slide-2-content-b": "予測が当たった場合、収入があります。当たらなかった場合、投資した資金はすべて失われます。",
-	"tour-slide-3-caption": "Binariumプラットフォームではどのように取引を行いますか？",
-	"tour-slide-3-content": "<span class=\"bold\">予測したい価格トレンドのアセットを選択</span>します。",
-	"tour-slide-4-caption": "Binariumプラットフォームではどのように取引を行いますか？",
-	"tour-slide-4-content": "<span class=\"bold\">投資のサイズを選択してください</span>",
-	"tour-slide-5-caption": "Binariumプラットフォームではどのように取引を行いますか？",
-	"tour-slide-5-content": "価格が<span class=\"green\"> 上がる </span> あるいは<span class=\"red\"> 下がる </span>ことを予測した後、<span class=\"bold\">取引を開いて下さい。</span> 。 取引終了まで待ちましょう。",
-	"tour-slide-6-caption": "Binariumプラットフォームでの取引に幸運がありますように",
-	"tour-slide-6-additional-caption": "予測が正しければ、利益は自動的に取引口座に入金されます。",
-	"tour-slide-6-a-trading-rules": "取引条件",
-	"tour-slide-6-a-card-0-caption": "予測が当たった時の収入額：",
-	"tour-slide-6-a-card-0-content-1": "{{@maxProfit}} まで",
-	"tour-slide-6-a-card-0-content-2": "予測が当たった時にあなたが受け取る、投資額の",
-	"tour-slide-6-a-card-1-caption": "取引のための最小入金額。",
-	"tour-slide-6-a-card-1-content": "{{@minWithdrawal}} から",
-	"tour-slide-6-a-card-2-caption": "資金引き出しにかかる平均時間：",
-	"tour-slide-6-a-card-2-content": "30 分",
-	"tour-slide-6-a-card-3-caption": "取引を開始するために、実際の口座に資金を入金してください：",
-	"tour-slide-6-a-card-3-button-caption": "入金をして取引を開始しましょう",
-	"tour-slide-6-a-dont-show-again": "プラットフォームツアーを却下",
-	"tour-slide-6-b-trading-rules": "取引条件",
-	"tour-slide-6-b-card-0-caption": "予測が当たった時の収入額：",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">投資額の最大90％</span>",
-	"tour-slide-6-b-card-1-caption": "取引のための最小入金額",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "資金出金にかかる平均時間",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> 分",
-	"tour-slide-6-b-card-3-caption": "デモ口座にてリスクを回避する取引の仕方を学ぼう",
-	"tour-slide-6-b-card-3-button-caption": "デモ口座を利用し、取引を行う",
-	"tour-slide-6-b-dont-show-again": "プラットフォームツアーを却下",
-	"user-terms-caption": "ワンクリック取引",
-	"what-is-trading-room": "トレーディング・ルームとは何ですか？",
-	"what-is-trading-room-advice-content": "トレーディング・ルームは、プラットフォームの最高のトレーダーのトランザクションをワンクリックでコピーできる便利なツールです。このツールにより取引の効率を高め、時間の節約ができます。",
-	"not-enough-money-for-trading-room-detailed": "トレーディング・ルームを使用して、Binariumプラットフォームの最高のトレーダーと取引をしお金を稼いで下さい。実際の残高を{{@minBalance}} に補充すると、次のメリットがあります：",
-	"get-access-to-trading-room": "トレーディング・ルームへアクセスしましょう",
-	"have-access-to-trading-room": "「トレーディング・ルーム」へのアクセスには、マネージャーまたはサポートサービスにお問い合わせください。",
-	"trading-room-features-one": "プラットフォームの最も成功したトレーダーの取引に注目してください",
-	"trading-room-features-two": "トランザクションをコピーして利益を上げましょう",
-	"trading-room_1-title": "一緒に取引をする",
-	"trading-room_1-text": "プラットフォームの最も成功したトレーダーの取引に注目してください。",
-	"trading-room_2-title": "他の人の成功経験を活用しましょう",
-	"trading-room_2-text": "他のトレーダーの行動を模倣して利益を上げましょう！",
-	"trading-room_refill": "「トレーディング・ルーム」にアクセスするには、残高を補充してください",
-	"account_level": "口座レベル",
-	"modal-confirm_title": "メールアドレスの認証を行ってください",
-	"modal-confirm_text-1": "確認リンクを含むメールを送信します。",
-	"modal-confirm_text-2": "確認リンクを含むメールを受け取りませんでしたか？「スパム」フォルダを確認してください。そこにメッセージが届くことがあります。またはメッセージを再度リクエストしてください。",
-	"modal-confirm_button": "メッセージを再送信",
-	"modal-confirm_error-1-1": "{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。",
-	"modal-confirm_error-1-2": "カスタマーサポートにご連絡ください",
-	"modal-confirm_support": "サポートに問い合わせる",
-	"timer_days": "日",
-	"timer_hours": "時間",
-	"timer_minutes": "分",
-	"timer_seconds": "秒",
-	"tournament_button": "コンテストに参加する",
-	"modal-oneclick_title": "ワンクリック取引",
-	"modal-oneclick_text": "ワンクリックでプラットフォーム上で取引を開始できるのでご注意ください。追加の確認はありません。",
-	"modal-oneclick_button": "同意して続く",
-	"modal-tbalance_title": "アカウントを補充してください",
-	"modal-tbalance_text": "アカウントに十分な資金がありません。コンテストに参加するにはアカウントを補充してください。",
-	"modal-tbalance_button": "入金する",
-	"modal-tech_title": "すぐに返答いたします。",
-	"modal-tech_text-1": "私たちは常に取引プラットフォームの改善に取り組んでおり、まもなくアップデートが完了する予定です。ご不便をおかけしておりますことをお詫びいたします。",
-	"modal-tech_text-2": "作業が完了するまでの残り時間：",
-	"modal-tech_button": "続く",
-	"modal-session_title": "ご注意",
-	"modal-session_text-1": "株式市場は週末閉鎖されます。",
-	"modal-session_text-2": "トレーディング・プラットフォームへのアクセスが可能です",
-	"modal-session_text-3": "月曜日午前3時から金曜日午前0時までの期間",
-	"modal-session_text-4": "取引セッションが開始時間：",
-	"modal-session_button": "続く",
-	"modal-tn_title": "ようこそ",
-	"modal-tn_text-1": "コンテストの最後に最高の残高を持つトレーダーが勝者です。",
-	"modal-tn_text-2": "利用可能な資産：",
-	"modal-tn_text-3": "利用可能なトランザクション種類：",
-	"modal-tn_button": "開始",
-	"modal-nickname_title": "ニックネームを選択",
-	"modal-nickname_text": "コンテストに参加するには、コンテスト参加者リストにニックネームを入力して下さい。プロファイル設定でいつでも変更できます。",
-	"modal-nickname_button": "保存して続く",
-	"modal-nickname_placeholder": "ニックネームを入力してください",
-	"modal-profile_title": "追加情報",
-	"modal-profile_text": "プラットフォームでの作業を続行するには、追加情報を入力してください。",
-	"modal-profile_name": "名",
-	"modal-profile_surname": "姓",
-	"modal-profile_phone": "電話番号（国コード付き）",
-	"modal-profile_button": "取引を開始",
-	"modal-profile_aside": "個人情報の安全は保障されています。",
-	"form-error_required": "フィールドは空白にできません",
-	"form-error_name-short": "名前が短すぎます。",
-	"form-error_name-format": "文字のみが許可されています",
-	"form-error_surname-short": "姓が短すぎます。",
-	"form-error_surname-format": "文字のみが許可されています",
-	"form-error_phone-format": "数字は国際フォーマットでなければなりません",
-	"srv-err_asset-is-disabled": "資産は無効化されています",
-	"srv-err_asset-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
-	"srv-err_binary-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
-	"srv-err_turbo-is-disabled-for-this-tournament": "このトーナメントでは、資産は無効化されています",
-	"tournament@btn.paid-participate": "入場料",
-	"tournament@info.paid": "支払い済みのトーナメント",
-	"faq@title": "質問と回答",
-	"menu@faq": "よくある質問",
-	"menu@education": "教育",
-	"menu@qa": "質問と回答",
-	"menu@strategies": "ストラテジー",
-	"menu@btn$back": "戻る",
-	"cashbox@no-bonus": "ボーナスを受け取らないでください",
-	"wallet-menu@real-title": "実際のファンド",
-	"wallet-menu@bonus-title": "ボーナスファンド",
-	"wallet-menu@wager-title": "ターンオーバーしてボーナスを引き落とす",
-	"wallet-menu@wager-link": "ボーナスについて続きを読む",
-	"modal-bonus@title": "ボーナスファンドを使っています",
-	"modal-bonus@text": "取引のサイズが利用可能なリアルファンドを超えています。従って、取引を開けると、ボーナスファンドは次のことに使われます。",
-	"modal-bonus@deal-size": "取引サイズ",
-	"modal-bonus@real-size": "リアルファンド",
-	"modal-bonus@bonus-size": "ボーナスファンド",
-	"modal-bonus@info": "取引の一部として受領されたすべてのファンドは、ボーナスアカウントに入金されます。",
-	"modal-bonus@faq": "ボーナスファンド利用のルール",
-	"modal-bonus@btn-cancel": "キャンセル",
-	"modal-bonus@btn-continue": "同意して続ける",
-	"modal-bonus@disable": "今後、このメッセージを表示しない",
-	"trends@restrict-title": "アカウントに充分なファンドがありません",
-	"trends@restrict-text": "「トレンド」セクションをアンロックするには、アカウントに少なくとも次の残高が残っていなければなりません：",
-	"asset-menu@title": "資産",
-	"asset-menu@available": "取引できる資産",
-	"asset-menu@profitable": "収益性が高まった資産",
-	"asset-menu@interval": "分",
-	"confirm-trade@header": "取引の確認",
-	"confirm-trade@timer": "ウィンドウは{{@data}} で自動的に閉じます ",
-	"confirm-trade@heading": "すばらしい！あなたは今、取引を確認しようとしています。以下の詳細を確認してください。",
-	"confirm-trade@asset": "資産",
-	"confirm-trade@direction": "価格の方向性",
-	"confirm-trade@investment": "投資",
-	"confirm-trade@price": "現在価格",
-	"confirm-trade@profitability": "収益性",
-	"confirm-trade@payout": "潜在支出",
-	"confirm-trade@btn-cancel": "キャンセル",
-	"confirm-trade@btn-confirm": "確認",
-	"plot@loading": "読み込み中",
-	"plot@lock-time": "ロック時間",
-	"plot@expiration-time": "有効期限",
-	"tr-empty@text": "プロと一緒に取引の詳細な世界に飛び込みましょう。プラットフォームの最も成功したトレーダーたちの取引を模倣して、さらに収益を得ましょう。",
-	"tr-empty@business": "取引ルームは、ビジネスアカウント以上のトレーダーのために開かれています。平日に4時間の取引セッションが2回あります。プロのトレーダーたちから毎日約30のシグナルが発信されます。独学で学ぼうとして時間を無駄にしないでくださいーバイナリアムの最も優れたトレーダーたちが、すでにあなたのために稼働しています。",
-	"tr-empty@vip": "当社のVIPクライアントは、個人的シグナルを受け取ることや、質問にすべて回答し、現在の市場動向を説明し、可能性が最も高い分野を示唆してくれる企業トレーダーから個人的な協力を得ることを含む、 取引ルームのあらゆる特典が得られます。これは、取引から最大限に利益を得るための最良の方法です。",
-	"tr-empty@open-btn": "詳細情報・ログイン",
-	"tr-empty@deposit-btn": "支払いに移動・ログイン",
-	"tr-empty@vip-signals": "+ 貴重なシグナル",
-	"hb@menu-btn": "メニュー",
-	"ac-types@title": "アカウントの種類",
-	"ac-types@label_depositSum": "入金額",
-	"ac-types@label_tradeback": "トレードバック",
-	"ac-types@label_tradebackEnrolment": "トレードバックポイント",
-	"ac-types@label_assets": "取引資産",
-	"ac-types@label_withdrawalCountLimit": "引き出しリクエスト、1日毎",
-	"ac-types@label_withdrawalAmountLimit": "引き出し制限、月毎",
-	"ac-types@label_withdrawalDayAmountLimit": "引き出し制限、日毎",
-	"ac-types@label_tradingRoom": "取引室",
-	"ac-types@label_openDealsSum": "最大オープン取引数（1回につき）",
-	"ac-types@value_real": "実際のファンド",
-	"ac-types@value_bonus": "ボーナス",
-	"ac-types@value_nolimit": "無制限",
-	"ac-types@btn": "増大",
-	"ac-types@self": "あなたのアカウント",
-	"ac-types@tradeback-hint": "トレードバック—トレーダーの負け取引の一部返済。毎週火曜日12:00 時（0:00 UTC）に返済。",
-	"video-tutorial@title": "Binariumで90秒以内に取引を始める方法",
-	"video-tutorial@checkbox": "今後、このビデオを表示しない",
-	"user-menu@account-types": "アカウントの種類",
-	"withdrawal-error@amount-limit": "お引き出しの限度額を超えました",
-	"withdrawal@limit-with-counter": "引出し限度額を超えました。<br>あなたの <span class=\"open-act-button\">アカウントタイプ</span>では、{{@limitCount}} 合計 {{@limitAmount}}をリクエストできます。<br>別件のリクエストを {{@limitTime}}ですることができます。",
-	"promo-gift@bonus": "ボーナス",
-	"promo-gift@freeSpins": "リスクなしの取引",
-	"promo-gift@tradeRoom": "取引室",
-	"promo-gift@tickets": "チケット",
-	"settings@quality-title": "グラフィックスの品質",
-	"settings@quality-hint": "グラフィックの品質設定を変更して、デバイスの負荷を管理します。グラフィックの品質はわずかに低下しますが、標準品質はリソースを節約し、プラットフォームをより高速にロードするのに役立ちます。",
-	"settings@quality-option-base": "ベース",
-	"settings@quality-option-average": "平均",
-	"settings@quality-option-best": "高い",
-	"history@group$active": "アクティブな取引",
-	"history@group$finished": "完了済み取引",
-	"st@level$all": "全部",
-	"st@level$easy": "シンプル",
-	"st@level$base": "ベーシック",
-	"st@level$advanced": "アドバンスト",
-	"promo@btn$details": "さらに読む",
-	"promo@timer$name": "プロモーション終了時間",
-	"promo@until": "期限",
-	"wallet@btn$refill": "デモ口座を補充する",
-	"tournament@prize-fund": "賞金",
-	"tournament@prize-places": "上位",
-	"tournament@tab$restrictions": "ご利用条件",
-	"tournament@tab$rating": "参加者ランキング",
-	"tournament@tab$current": "現在",
-	"tournament@tab$soon": "近日予定",
-	"tournament@timer$start": "コンテスト開始時間",
-	"tournament@timer$end": "コンテスト終了時間",
-	"section@title$bet": "取引",
-	"bet@tab$deposit": "入金",
-	"forecast@deal": "取引",
-	"forecast@deals": "取引",
-	"promo@days-short": "d.",
-	"settings@group$region": "地域設定",
-	"settings@group$design": "デザイン",
-	"menu@account-type": "アカウントの種類",
-	"menu@profile": "ユーザープロフィール",
-	"leaderboard@tournament": "コンテスト",
-	"leaderboard$toggle@open": "完全なランキング",
-	"leaderboard$toggle@close": "取引完了",
-	"disabled-timer@title": "開始",
-	"open-option$total$deals": "投資。",
-	"open-option$total$invest": "投資合計。",
-	"open-option$total$payout": "出金合計",
-	"chat-button@text": "オンライン<br>ヘルプ",
-	"accounts@popular": "人気のある選択肢",
-	"settings@animation": "ポイントアニメーション",
-	"settings@animation-disabled": "無効",
-	"settings@animation-enabled": "有効"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","お客様"
+"error","エラー"
+"settings","設定"
+"settings-2","ターミナル設定"
+"regionalSettings","地域設定"
+"timezone","時間帯"
+"timezone-2","時間帯"
+"language","言語"
+"skin-theme","テーマ"
+"ui-zoom","ズーム"
+"ui-zoom-2","規模"
+"investment","トレード"
+"payout","支払い"
+"options","選択"
+"quote","見積もり"
+"time","時間"
+"past","取引完了"
+"active","開始"
+"value","価値"
+"add","新しいタブ"
+"add-new-chart","新しいチャートを追加"
+"charts-arrangement","チャートグリッド"
+"turbo-cap","1 - 5分"
+"count-chart","{{@count}} チャート"
+"count-charts","{{@count}} チャート"
+"one-chart","1 チャート"
+"two-charts","2 チャート"
+"three-charts","3 チャート"
+"four-charts","4 チャート"
+"refill","入金"
+"wallets-types","アカウントの種類"
+"history","履歴"
+"cashbox","バンキング"
+"education","教育"
+"education@category$videos","Educational <span>video</span>"
+"promos","ボーナス"
+"trading-history","取引履歴"
+"section-under-construction","このセクションは作業中です"
+"count-purchase","{{@count}} 取引"
+"count-purchases","{{@count}} #{trades@trade?count}"
+"total-payout","総支払"
+"cancel","キャンセル"
+"apply","適用"
+"period","期間"
+"stochastic-smoothing","スムージング"
+"stochastic-overbought","買われ過ぎ"
+"stochastic-oversold","売られ過ぎ"
+"fast-stochastic-period","ファスト線の期間"
+"slow-stochastic-period","スロー線の期間"
+"fast-stochastic-line-color","ファスト線の色"
+"slow-stochastic-line-color","スロー線の色"
+"fast-stochastic-line-thickness","ファスト線の太さ"
+"fast-macd-period","ファスト線の期間"
+"slow-macd-period","スロー線の期間"
+"signal-macd-period","シグナル期間"
+"fast-macd-line-thickness","ファスト線の太さ"
+"signal_line_color","シグナル線の色"
+"oversold","売られ過ぎ"
+"macd_color","色"
+"line-thickness","線の太さ"
+"line-color","線の色"
+"line-offset","ラインの移動"
+"top-line-thickness","トップラインの太さ"
+"mid-line-thickness","中間ラインの太さ"
+"slow_period","遅い期間"
+"fast_period","速い期間"
+"short_period","短期間"
+"long_period","長期間"
+"offset","オフセット"
+"bottom-line-thickness","ボトムラインの太さ"
+"bottom-line-period","ボトムライン期間"
+"top-line-color","トップラインの色"
+"top-line-period","トップライン期間"
+"mid-line-color","中間ライン色"
+"mid-line-period","中間ライン期間"
+"bottom-line-color","ボトムライン色"
+"teeth-line-color","歯ラインの色"
+"jaws-line-color","ワニのアゴ線の色"
+"lips-line-color","唇ラインの色"
+"jaws-period","ワニのアゴの期間"
+"jaws-offset","ワニのアゴ・オフセット"
+"teeth-period","ワニの歯期間"
+"teeth-offset","ワニの歯オフセット"
+"lips-period","ワニの唇"
+"lips-offset","唇のオフセット"
+"indice-lines-position","ライン位置のインジケーター"
+"major-line-thickness","メイン・ラインの太さ"
+"top-signal-line-thickness","トップ・シグナル線の色"
+"bottom-signal-line-thickness","ボトム・シグナル線の色"
+"top-signal-line-color","トップ・シグナル線の色"
+"bottom-signal-line-color","ボトム・シグナル線の色"
+"fast-stoch-color","ファスト・ストキャスティクス期間"
+"low-stoch-color","ロー・ストキャスティクス色"
+"low-stoch-period","ロー・ストキャスティクス期間"
+"fast-stoch-line-thickness","ファスト・ストキャスティクス線の太さ"
+"low-stoch-line-thickness","ロー・ストキャスティクス線の太さ"
+"small-period","短期"
+"big-period","長期"
+"small-period-width","短期幅"
+"big-period-width","長期の幅"
+"signal-period-width","シグナル期間の幅"
+"bars-color","バーの色"
+"bars-color-maofmacd","MACDのMAバーの色"
+"smoothing-period","平滑移動期間"
+"adx-minus-di-color","-DI 色"
+"adx-plus-di-color","+DI 色"
+"adx-line-color","ADX ライン色"
+"sar-default-acceleration","基本加速"
+"acceleration-step","加速段階"
+"max-acceleration","最大加速"
+"chikou-line-thickness","遅行の厚さ"
+"chikou_period","遅行スパン"
+"tenkan_period","転換線"
+"kijun_period","基準線"
+"senkou_a_period","先行スパンA"
+"senkou_b_period","先行スパンB"
+"color","色"
+"chart-type","チャートタイプ"
+"chart-type-curve","曲線"
+"chart-type-curve-area","曲線領域"
+"chart-type-candlesticks","ローソク足"
+"chart-type-bars","バー"
+"bet-sum","合計"
+"chart-controls-income-caption","収益性"
+"expiration-time","有効期限"
+"wallet-refilling","入金"
+"real-wallet","リアル"
+"demo-wallet","デモ口座"
+"can-deduce-profit","利益を引き出せます"
+"all-assets-available","全ての資産は利用可能です"
+"all-features-available","プラットフォームの全機能を使用できます"
+"get-bonuses-from-the-platform","会社が提供しているボーナスをゲット"
+"participate-tournaments","コンテストに参加"
+"can-switch-wallet-any-time","アカウントはいつでも切り替えることができます。"
+"cannot-deduce-profit","利益を引き出せません"
+"refill-wallet","入金"
+"choose-wallet-type","アカウントの種類"
+"demo-wallet+wallet","デモ口座"
+"real-wallet+wallet","リアル口座"
+"choose-bet","取引"
+"added-items","追加済み"
+"bollinger-lines","ボリンジャーバンド"
+"ichi-cloud","一目均衡表"
+"alli-gator","アリゲーター"
+"graphics-analysys-tools","分析ツール"
+"new-items","新しい"
+"line-segment","線分"
+"ray","光線"
+"hori-line","水平ライン"
+"vline","縦線"
+"free-hand","フリーハンド"
+"crossroad","交差"
+"frame","フレーム"
+"range","範囲"
+"ellipse","楕円"
+"fibonacci-lines","フィボナッチライン"
+"andrews-fork","アンドリューズ・ピッチフォーク"
+"graphic-tools","グラフィカルツール"
+"time-period","期間"
+"count-second","{{@count}} 秒"
+"count-seconds","{{@count}} 秒"
+"count-minute","{{@count}} 分"
+"count-minutes","{{@count}} 分"
+"count-hour","{{@count}} 時間"
+"count-hours","{{@count}} 時間"
+"lock-time","ロック時間"
+"user-profile","ユーザープロフィール"
+"user-profile-heading","ユーザープロフィール"
+"withdrawal","出金"
+"support-service","サポート"
+"payment-history","支払い履歴"
+"exit","ログアウト"
+"count-second-short","{{@count}} 秒"
+"count-seconds-short","{{@count}} 秒"
+"count-minute-short","{{@count}} 分"
+"count-minutes-short","{{@count}} 分"
+"count-hour-short","{{@count}} 時間"
+"count-hours-short","{{@count}} 時間"
+"count-day-short","{{@count}} 日"
+"binary-cap","5分以上"
+"error-too-small-bet","このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最小ベットは{{@minbet}} です。"
+"error-too-big-bet","このベット{{@sum}} と同じベットはできません、この通貨{{@currency}} の最大ベットは{{@maxbet}} です。"
+"error-wrong-expiration","{{@time}} 有効期限に誤りがあります"
+"not-enough-money","残高が足りません"
+"option-closed-head","クローズしたオプション"
+"transaction-result","{{@assetName}} 結果"
+"internet-connection-trouble","接続問題"
+"lang-name-locale-en","英語"
+"lang-name-locale-ru","ロシア語"
+"lang-name-locale-de","ドイツ語"
+"lang-name-locale-tr","トルコ語"
+"lang-name-locale-vi","ベトナム語"
+"lang-name-locale-uk","ウクライナ語"
+"lang-name-locale-th","タイ語"
+"lang-name-locale-it","イタリア語"
+"lang-name-locale-pl","ポーランド語"
+"lang-name-chinese","中国語（簡体字）"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","リアル・アカウントを使用しています。"
+"you-started-using-tment-wallet","コンテストアカウントを利用しています。"
+"tournaments","コンテスト"
+"currents","現在"
+"futures","今後"
+"archive","アーカイブ"
+"days","日"
+"hours","時間"
+"minutes","分"
+"prize-fond","賞品"
+"participate-price","入場料"
+"prize-places","上位"
+"tournament-participants-count","参加者"
+"no-tournament-description","コンテスト説明はありません"
+"utc-info","(UTC{{@offset}})"
+"begin-time","開始"
+"deductions","控除"
+"reg-in-tournament-for","{{@price}} コンテストに参加"
+"reg-in-tournament-for-free","トーナメントに無料で参加"
+"choose-tournament-to-see-info","コンテストを選択"
+"has-reged-in-tournament","登録完了"
+"wait-for-reg-in-tournament","登録リクエスト送信済み"
+"prize-places-low","{{@count}} 上位"
+"starting-balance","開始残高"
+"min-deal-size","裁定取引金額"
+"max-deal-size","最低取引額"
+"max-simultaneously-open-deals","オープントレード制限"
+"max-amount-of-open-deals","投資限度"
+"available-options-types","利用可能なオプション"
+"tournament-option-type-turbo","ターボ"
+"tournament-option-type-binary","バイナリー"
+"tournament-option-type-both","両方"
+"tournament-winning-rules","トーナメント終わりに最高残高のトレーダーが勝利となります"
+"available-assets","利用可能な資産"
+"available-options","利用可能なトランザクション種類"
+"greeting","ようこそ"
+"cashbox-plus-bonus","ボーナス"
+"cashbox-input","入金"
+"cashbox-output","出金"
+"cashbox-total","ボーナス、プロモーション、合計"
+"bonus-terms-of-use","ユーザーのボーナス規約"
+"enter-cashbox-input-value","入金額を入力"
+"enter-cashbox-output-value","出金額を入力"
+"do-withdrawal","出金"
+"amount-due","金額"
+"will-recieve-to-account","獲得"
+"i-wanna-get-bonus","ボーナスをゲット"
+"enter-cashbox-card-type","支払い方法"
+"finish-time","完成"
+"top-users","リーダーボード"
+"member","会員"
+"balance","残高"
+"prize","賞品"
+"hint-split-view-button","レイアウト"
+"hint-user-profile-button","ユーザーメニュー"
+"hint-asset-stat","トレーダーの選択"
+"hint-sound-button","音"
+"hint-platform-time","プラットフォーム時間"
+"hint-profitability","収益性"
+"hint-payout","支払い"
+"hint-real-acc","リアル口座"
+"hint-demo-acc","デモ口座"
+"hint-tournament-acc","コンテスト口座"
+"hint-settings","設定"
+"hint-support","サポート"
+"hint-graph-type","チャートタイプ"
+"hint-candle-interval","ローソク間隔"
+"hint-user-lines","グラフィカルツール"
+"hint-secondary-lines","インジケータ"
+"hint-centerize","現在価格"
+"hint-zoom-level","時間枠"
+"tournament","コンテスト"
+"loading","読み込み中"
+"you-are-in-tournament","参加完了！"
+"repeat-tournament","リバイ{{@price}}"
+"unsupported-browser","この製品はテスト段階にあり、現時点にて安定した動作を保証しているブラウザーは、Google Chrome、Opera、Yandexです。ご理解ありがとうございます！"
+"account-is-for-educ","これはデモ口座のみです"
+"participate-in-demo-tments","デモコンテストに参加する"
+"use-real-money","リアルマネーで取引する"
+"participate-tments-with-real-money","コンテストに参加して、プライズを獲得しよう"
+"native-deal-closed-body","{{@assetName}} のオプションは{{@closeTime}} に閉鎖されました。 利益は{{@incomeValue}} です。"
+"tournaments-rules","コンテストのルール"
+"tournaments-rules-2","コンテスト参加のためのルール"
+"get-trade-exp","貴重なトレード取引経験を得ましょう"
+"tment-begins-in","コンテスト開始時間"
+"tment-ends-in","コンテスト終了時間"
+"tment-has-ended","コンテスト終了"
+"tment-just-ended","""{{@name}}"" 終了"
+"tment-just-started","""{{@name}}""開始"
+"tment-just-created","""{{@name}}""　作成済み"
+"read-more","もっと見る"
+"history-is-empty","有効期限切れの取引はありません"
+"tournaments-current-is-empty","現時点でアクティブなコンテストはありません。ニュースフィードをフォローして、ニュースレターをご確認ください。"
+"tournaments-future-is-empty","現時点で予定が組まれているコンテストはありません。ニュースフィードをフォローして、ニュースレターをご覧ください。"
+"tournaments@current-empty","現時点でアクティブなトーナメントありません。ですが、もうすぐ始まる予定です。<br><br>上にあるメニューの「近日予定」タブをチェックして、プラットフォームニュースやメールに目を配ってください。"
+"tournaments-ended-is-empty","コンテストは終わっていません"
+"upper-indicator-line","上のインジケーター線"
+"lower-indicator-line","下インジケーター線"
+"stoch-overbuy-value","買われ過ぎ"
+"stoch-overbuy-line-width","買われ過ぎ幅"
+"stoch-overbuy-line-color","買われ過ぎ色"
+"stoch-oversell-value","売られ過ぎ"
+"stoch-oversell-line-width","売られ過ぎ幅"
+"stoch-oversell-line-color","買われ過ぎ色"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","この値は無効です。"
+"889954f14a3839c141bd8d5102094fbb","この値は既に使用されています"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","この値は有効なメールアドレスではありません"
+"bf447c1c-0266-4e10-9c6c-573df282e413","この値は有効なメールアドレスではありません"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","この値は有効なメールアドレスではありません"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","この項目は必須です。"
+"9ff3fdc4-b214-49db-8718-39c315e33d45","この値は短すぎます。{{@limit}} 文字以上にしてください。"
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","値が長過ぎます。{{@limit}} 文字以下にしてください。"
+"478618a7-95ba-473d-9101-cabd45e49115","値は{{@compared_value}} と同じであるべきです。"
+"4dba5f9c79ae34be5884e1a3c8c45e92","ユーザーネームまたはパスワードが違います"
+"3e5af93fb888b4aa77301a7603e113d5","パスワードが正しくありません"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","値は{{@limit}} 以下であるべきです"
+"76454e69-502c-46c5-9643-f447d837c4d5","値は{{@limit}} 以上であるべきです"
+"ad32d13f-c3d4-423b-909a-857b961eb720","この値は無効ではないはずです。"
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","選択の値は有効ではありません"
+"853ff54c1a66d1a2379e0c46f8eb9ed4","無効な必要条件{{@name}}"
+"3ac1d32eb3c54e11ef9ea474da816ad6","必要条件{{@name}} を設定する必要があります。"
+"661d3bc6c153e42a3658855010678cbd","不明な要件{{@names}}"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","処理済みのリクエストのステータスを変更することはできません"
+"2d2ba82dd886ba3b69da804675842ff5","良くない支払い方法"
+"3c55616c0a7de9c064e6c2d86fa72bc2","無効な有効期限"
+"f029308ab5f1672de0b7615c4fa33386","資産は現時点にて閉鎖されています"
+"10cf6f3e2d6a3532b77d924868cbfa62","資産は現時点にて閉鎖されています"
+"64fc8bbac184ae9dab80c8f592d1a6f7","利用可能な取引量上限を超えました。"
+"5561ccf1e94e6b9d88080bdbbcba1821","残高不足"
+"f3a5b44d01097d966072b90187a16ec6","ユーザがありません"
+"296ea5496bee3177c83ac27a1dc5bb10","コンテストの残高は開始残高より少ないべきです"
+"fc53df7c4944ebb53e8b3713126ae226","最大取引開始数は {{@limit}} です"
+"0f8e85ca21aa2e33752728cf5e843e35","利用可能な取引量上限を超えました。"
+"cbce1334c90e82f44381abe99b98fe5c","制限オープンオプションの合計数を超えています"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","このニックネームはすでに使用されています。 別のものを選択してください。"
+"promo-ends-in","ボーナス終了時間"
+"your-promocode","あなたのプロモーションコード"
+"from-value-to-value","{{@fromValue}} から — {{@toValue}} まで"
+"deposit-sum","入金総額"
+"bonus-sum","ボーナス"
+"promos-rules","ボーナスのルール"
+"promos-rules-2","ボーナスのルール"
+"participate-promo","ボーナスに参加する"
+"promo-has-ended","ボーナスは終了しました"
+"no-promos-description","ボーナス説明はありません"
+"promos-is-empty","現在、プロモーションはありません。当社の最新ニュースをフォローして、近日中に送信されるメールをお見逃しなく。"
+"first-launch-disclaimer-content","注意！ワンクリックで取引を開始します。確認はありません。"
+"accept","受け取る"
+"trading-session-closed","取引セッションは終了しました"
+"special-offer","特別なオファー"
+"continue","続く"
+"seconds","秒"
+"trading-sess-starts-in","取引開始："
+"trading-session-closed-info-0","ご注意！"
+"trading-session-closed-info-1","週末は株式市場が閉鎖されます。"
+"trading-session-closed-info-2","プラットフォームでの取引は、月曜日の3:00から金曜日の00:00まで利用できます。"
+"trading-session-closed-info-3","Thompson Reutersが提供する市場データ"
+"asset","資産"
+"additional-info","追加情報"
+"fill-profile-to-continue","プラットフォームでの作業を続行するには、追加情報を提供して下さい"
+"fill-username-heading","トレーダー様"
+"fill-username-text","トーナメントに参加するには、トーナメント参加者リストにニックネームを入力してください。プロフィールの設定にていつでも変更できます。"
+"fill-username-placeholder","ニックネームを入力してください"
+"save-and-continue","保存して続く"
+"profile-name","名前"
+"profile-surname","姓"
+"profile-telephone","電話番号"
+"start-trading","取引開始"
+"personal-data-safety","個人情報の保護は保障されています"
+"bonus","ボーナス"
+"new-bonus","アカウントに"
+"received-bonus","選択の入金と共に受け取ります"
+"received-bonus-value","{{@bonus}} の金額内のボーナス"
+"mobile-received-bonus-value","+ ボーナス {{@bonus}}"
+"expires-in","時間切れ"
+"cannot-buy-option-try-later","この取引を開けることができません。少し待ってから再試行して下さい。"
+"notifications$demo-option-limit","5つ以上の取引を同時に開けたいですか？本物のアカウントを開けてください。引き続きデモ用アカウントを使うには、取引が完了するまで待ってください"
+"max-total-bet-limit-exceeded","許容取引額を超えました。
+許可される取引額は{{@maxBet}} です"
+"chart-opens-in","アセットは次で利用可能です："
+"hint-activate-tment-wallet","コンテスト・アカウントの使用を開始するにはここを押してください"
+"largest-profit-banner-on-the-asset","資産上"
+"largest-profit-banner-button-trade-caption","取引"
+"largest-profit-banner-button-trade-caption-2","今すぐ取引する"
+"largest-profit-banner-text","資産を取引するのに最適な時期"
+"largest-profit-banner-text-2","取引に最適なタイミングです"
+"largest-profit-height-profit","収益性の向上"
+"largest-profit-height-profit-2","までの高い収益性"
+"offer-expires-in","オファーの有効期限終了まで："
+"offer-expires-in-2","オファーの有効期限終了まで："
+"warning","ご注意"
+"banner-tech-works-info-caption","テクニカルアップデート"
+"banner-tech-works-info-content","私たちは常に取引プラットフォームの改善に取り組んでいます。
+現在、プラットフォームの更新が行われています。
+ご不便をおかけしていますことをお詫びいたします。"
+"confirm-email-content","メールアドレスの認証を行ってください。下のボタンをクリックすると、認証リンク付きのメールの再送信を行うことができます。"
+"confirm-email-caption","アカウント認証"
+"reload","リロード"
+"resend-confirmation","再送信"
+"resend-confirmation-again","再試行"
+"confirmation-mail-sent","送信済み"
+"banner-not-enough-funds-for-tment","アカウントの資金が不足しています。コンテストに参加するには、アカウントを補充してください。"
+"tment-reenter-not-allowed","未処理のトランザクションがある間は追加購入はできません。"
+"fill-profile-wrong-phone","電話番号は無効です"
+"fill-profile-wrong-name","名前が正しくありません"
+"fill-profile-wrong-surname","姓が正しくありません"
+"fill-user-wrong-promocode","プロモーションコードが正しくありません"
+"wrong-promocode-max-sum","プロモコードを有効化する最高額{{@sum}}"
+"wrong-promocode-min-sum","プロモコードを有効化する最小額{{@sum}}"
+"wrong-withdrawal-min-sum","最低額{{@sum}}"
+"wrong-withdrawal-max-sum","最大出金額 {{@sum}}"
+"wrong-promocode-expired","時間切れ"
+"wrong-promocode-only-for-second-deposit","2回目以降の入金でのみ利用可能です"
+"wrong-promocode-only-for-first-deposit","初回入金にのみ利用可能"
+"wrong-promocode-used","プロモーション・コードはすでに利用済みです"
+"fill-user-wrong-phone","電話番号は無効です"
+"fill-user-wrong-card","カード番号は無効です"
+"fill-user-wrong-customer_purse","口座番号は無効です"
+"fill-user-wrong-name","名前が正しくありません"
+"fill-user-wrong-surname","姓が無効です"
+"please-rotate-device","端末を簡単に使用できるように、デバイスを裏返します"
+"swipe-up-to-enter-fs","フルスクリーン・モードに入るため、スワイプして下さい"
+"click-to-enter-fs","フルスクリーン・モードへの切り替えのため、スクリーンのどこかをアップしてください"
+"reconnect","再接続"
+"reconnected","再接続！"
+"free-reg","無料登録"
+"investments","取引"
+"investments_short","投資"
+"investment_short","投資"
+"buy-time","時間稼ぎ"
+"total-investment","投資合計"
+"total-income","出金合計"
+"result","結界"
+"ur-income-would-be","利益"
+"create-account-for-free","無料でアカウントを作成する"
+"resume-use-demo","デモモードを続ける"
+"reg-request-message","私たちのウェブサイトで取引をしていれば、これまでに{{@income}} を獲得されていることでしょう。 もう時間を無駄にすることはありません、取引を始めましょう！"
+"trade-without-restrictions","制限なし取引する"
+"trade-without-restrictions-message","一度に5つ以上の取引を開きたい場合は、実際の取引口座を開き、制限なしで取引してください。 デモ口座を引き続き使用するには、現在の取引の有効期限が切れるまでお待ちください。"
+"use-real-wallet","リアル口座"
+"support","サポート"
+"search-asset","資産を検索しましょう"
+"error-sending-email-confirmation","メールの送信中にエラーが発生しました。 後でもう一度やり直してください。"
+"error-sending-email-confirmation-with-time","{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。"
+"risk-free-trades","リスクなしの取引"
+"count-trades-for-bet","{{@sum}} のための{{@count}} 取引"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","ホワイト"
+"Red","レッド"
+"Pink","ピンク"
+"Purple","パープル"
+"Deep Purple","ディープ・パープル"
+"Indigo","インディゴ"
+"Blue","ブルー"
+"Cyan","シアン"
+"Green","グリーン"
+"Light Green","ライト・グリーン"
+"Lime","ライム"
+"Yellow","イェロー"
+"Amber","アンバー"
+"Orange","オレンジ"
+"tournament-accounts","トーナメントアカウント"
+"activate-tournament-wallet","コンテスト・ウォレットを有効にしてください"
+"deposit-using-agreements-header","ボーナス条件"
+"deposit-using-agreements-p1","ボーナスとは、トレーダーの取引の可能性を高めるために当社が提供する追加資金です。"
+"deposit-using-agreements-p2","入金を行うと、一定額のボーナスがアカウントに入金される場合があります。ボーナスの金額は入金額に応じて変わります。"
+"deposit-using-agreements-p3","ボーナスは引き出し可能な資金額を制限するものではありません。利益はいつでも入金額と一緒に引き出すことができます。資金の引き出し時には、未獲得のボーナス資金はすべて非アクティブ状態となり、アカウントから引き落とされますので、ご注意ください。"
+"choose-payment-method","入金方法を選択"
+"choose-payment-sum","入金額を選択"
+"plus-value-bonus","+ {{@value}} ボーナス"
+"deposit-user-sum-value-caption","自分の金額を受け取りたいですか？入力フィールドを使用しましょう"
+"i-have-promocode","プロモーションコードがあります"
+"requisiste-name-phone","電話番号"
+"no-bonus","ボーナスがありません"
+"refresh","リフレッシュ"
+"browser","ブラウザ"
+"make-a-deposit","入金する"
+"cashbox-withdrawal-info-0-header","アカウントからの引き出しはどのようにできますか？"
+"cashbox-withdrawal-info-0-content","以下のオプションのご利用が可能です：銀行カード、Qiwi/Yandex Money / WebMoney電子財布。マイクロアカウントの所有者は、資金引き出しのためアクティブなアプリケーション1つのみを持つことができます。"
+"cashbox-withdrawal-info-1-header","アカウントから引き出せる最小額はいくらですか？"
+"cashbox-withdrawal-info-1-content","最小引き出し額は、₽300、$5、€5 、A$5 、あるいは₴150です。シングル取引における最大引き出し額は、₽15,000、$200、€200、A$200 、あるいは ₴6,000です。"
+"cashbox-withdrawal-info-2-header","₽15,000、$200、€200、A$200、あるいは ₴6,000より大きな額はどのように引き出すことができますか？"
+"cashbox-withdrawal-info-2-content","この制限は、急激なアカウントの引き出しを防ぐために設定されています。定められた限度を超える金額は、より長い期間をかけてのみ引き出すことが可能です。大きな金額を引き出す必要がある場合は、引き出し金額を $200、€200、A$200、 ₽15,000、 あるいは ₴6,000に分割して下さい。引き出しリクエストの回数に制限はありません。１回の支払いによる大きな金額の引き出しを希望する場合には、プラットフォーム・サポートチームにお問い合わせください。アカウントが承認されていない場合、リクエストの処理には最大3営業日がかかる場合があります。1日に複数の引き出しリクエストの送信をすることはできません。"
+"cashbox-withdrawal-info-3-header","素早く資金の引き出しを行うにはどうすればいいですか？"
+"cashbox-withdrawal-info-3-content-a","プラットフォームファイナンス部門の営業時間中にリクエストが送られ、アカウントがプラットフォームの要件に従って認証されている場合、リクエストは1時間で処理されます。 "
+"cashbox-withdrawal-info-3-content-b","財務部門の営業時間は、月曜日から金曜日の午前10時から午後10時（GMT +2）です。 財務部門の営業時間外または休日に送信の出金リクエストは、翌営業日の処理となります。アカウントが未承認の場合、リクエストの処理は3営業日以内となります。1日に複数の資金引き出しリクエストの送信を行うことはできません。"
+"cashbox-withdrawal-info-4-header","出金ポリシー"
+"cashbox-withdrawal-info-4-content-a","リクエストの適切な処理のため、必要なすべての情報を「プロファイル設定」セクションにてご提示ください。入力情報が不正確または不完全だと判断された場合、資金引き出し要求が拒否されたり、あるいは遅延される可能性があります。"
+"cashbox-withdrawal-info-4-content-b","資金は、口座への資金調達に使用したものと同じ銀行口座（または同じ支払いシステム）に引き出されます。トランザクションを完了できない場合には、オンラインチャット、あるいはsupport @ binarium.comへのメール送信にて、サポートサービスにご連絡下さい。"
+"cashbox-withdrawal-info-5-header","資金の引き出しには書類提出が必要ですか？必要な場合、何が必要でしょうか？"
+"cashbox-withdrawal-info-5-content-a","迅速な引き出しを確実にするために、「プロファイル設定」セクションにてすべての個人データをご提供ください。複数の銀行カードを使用している場合、あるいは支払いの詳細が登録時に指定したものと一致しない場合、完全な承認プロセスを経て、カードが実際にあなたのものであることを証明することが必要になります。第三者のアカウントへの資金のお引き出しはできません。 "
+"cashbox-withdrawal-info-5-content-b","承認プロセスを完了するために、パスポートと銀行カード表面を所有者のご氏名が見えるようスキャンしてsupport@binarium.comにご送付ください。エンボスカードを所有していない場合は、パスポートのコピーに加えて、カードからBinariumアカウントへ取引したことを示す銀行取引明細書のスキャンをご送付いただくことが必要となります。当社は、カード所有者と取引口座情報が一致しない場合、追加の補足書類を要求する権利を留保します。"
+"cashbox-withdrawal-info-6-header","ボーナス資金の引き出しにはどのような条件がありますか？"
+"cashbox-withdrawal-info-6-content-a","ボーナスは、発生後すぐにはお引き出しができない場合があります。ブローカーは、お客様の取引機会を増やすためのボーナスとしてこのお金を提供しています。ボーナス資金を利用して獲得した利子もボーナスとなり、必要な取引ターンオーバー達成後にのみお引き出しが可能になります。ボーナスのお引き出しには、ボーナス額の40倍のターンオーバー達成が必要です。入金不要ボーナスの場合、レバレッジは50に増加となります。つまり、アカウントのターンオーバーはボーナス50倍に等しくなり、最大引き出し額は提供された入金不要ボーナスの金額を超えることはありません。当社の無料コンテストで獲得した賞金はボーナスと見なされ、引き出しは、40倍のターンオーバーを達成した後にのみ可能となります。"
+"cashbox-withdrawal-info-6-content-b","例として、入金して、ボーナス150ドルが発生したとします。ルールに従って、購入したオプションの合計額を30 x 150 = 4,500ドルにする必要があります。この金額を達成した後には、ボーナス資金のお引き出しが可能になります。この場合、収益性の高い取引と収益性の低い取引の両方が考慮されます。途中で終了したトランザクションは売上高に含まれません。利益の引き出しに制限はありません。"
+"cashbox-withdrawal-info-6-content-c","入金額の一部を引き出す場合、ボーナスはアカウントから自動的に差し引かれます。"
+"cashbox-withdrawal-info-6-content-d","ご質問等は、Binariumサポートサービスへお問い合わせください"
+"cashbox-withdrawal-info-7-header","アカウントの資金の引き出し申請を作成できません。原因は何でしょうか？"
+"cashbox-withdrawal-info-7-content","まず最初に、すべての個人情報が「プロフィール」セクションのプロフィールページに入力されているかどうかをご確認下さい。リクエストの送信をするときには、すべての情報が正しく入力されているかどうかの再確認を行ってください。「+」、「-」、「/」などの特殊文字は無効です。入力した情報がすべて正しいにもかかわらず、問題が解決しない場合は、オンラインチャットあるいはメールにてsupport@binarium.comカスタマーサポートサービスまでお問い合わせください。"
+"deposit-info-1","ボーナスは、トレーダーの取引の可能性を高めるために当社が提供する追加資金です。"
+"deposit-info-2","入金を行うと、一定額のボーナスがアカウントに入金される場合があります。ボーナスの金額は入金額に応じて変わります。"
+"deposit-info-3","ボーナスは引き出し可能な資金額を制限するものではありません：利益は入金額と共にいつでもお引き出しが可能です。資金を引き出す場合、40倍のターンオーバーにて取引に利用されなかったすべてのボーナス資金は、非アクティブ状態とされ、アカウントから引き落とされます。"
+"withdrawal-heading","申請から24時間以内にリクエストの処理が行われます。"
+"withdrawal-content","会社の財務部門の勤務時間外に申請書が発行された場合、処理は翌営業日に行われます。"
+"withdrawal-restricted-content","あなたの<span class=""open-act-button"">アカウントの種類</span>の引き出し額が上限を超えています"
+"withdrawal-amount-caption","支払い額"
+"withdrawal-type-caption","資金の出金方法"
+"withdrawal-button-caption","資金を出金"
+"requisite-name-card","カード番号"
+"requisite-name-phone","電話番号"
+"requisite-name-customer_purse","お客様の財布"
+"withdrawal-request-sent","リクエストはキューに置かれています"
+"withdrawal-request-sent-extra-info","「トランザクション履歴」セクションにてリクエストのステータスを追跡できます。"
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","Visa/Mastercard"
+"videohub","教育"
+"asset-type-all","全部"
+"asset-type-currency","通過"
+"asset-type-crypto","仮想通貨"
+"asset-type-goods","商品"
+"asset-type-countries","国"
+"asset-type-leaders","リーダー"
+"cashbox-withdrawal-info","リクエストの処理にはある程度の時間がかかります。通常、営業時間中に財務部門がリクエストを確認するのに最大24時間を要します。お客様が出金リクエストの承認を待つ間、残高を凍結しないことをお知らせいたします。ひいては取引を続けることができます。"
+"expiration-caption-16","24時間で"
+"trends","トレンド"
+"show-chart","チャート表示"
+"hide-chart","チャート非表示"
+"trend-active","有効"
+"trend-non-active","全部"
+"trends-is-empty","トレンドが更新中です"
+"what-are-trends","トレンドとは何ですか？"
+"what-are-trends-advice-content","トレンドは特別な取引ツールであり、収益性のある資産（価格の方向性が顕著）をすばやく見つけて、トレンドの方向に取引を開始できます。"
+"not-enough-money-for-trends-detailed","{{@balance}} 以上の実際の残高をお持ちのお客様は、Binariumのユニークな取引ツールをご利用いただけます。有望な機会："
+"get-access-to-trends","トレンドにアクセスする"
+"trends-features-one","市場のすべての資産の動向を追跡しましょう"
+"trends-features-two","トレンドが現れたときにトレンドの方向に即座に取引を開始します"
+"month-0","1月"
+"month-1","2月"
+"month-2","3月"
+"month-3","4月"
+"month-4","5月"
+"month-5","6月"
+"month-6","7月"
+"month-7","8月"
+"month-8","9月"
+"month-9","10月"
+"month-10","11月"
+"month-11","12月"
+"day-0","月"
+"day-1","火"
+"day-2","水"
+"day-3","木"
+"day-4","金"
+"day-5","土"
+"day-6","日"
+"trading-room","取引室"
+"trading-room-entering-time","入場時間"
+"trading-room-expiration","有効期限"
+"trading-room-strength","強度"
+"trading-room-strike-price","ストライク価格"
+"trading-room-is-empty","利用できるシグナルがありません。トレーディングルームをすぐに確認してください."
+"demo-stats-banner-header-caption","素晴らしい！"
+"demo-stats-banner-header-caption-2","おめでとうございます！"
+"demo-stats-banner-you-earned-on-demo","デモ口座で利益を獲得しました"
+"demo-stats-banner-total-deals-amount","総取引"
+"demo-stats-banner-successfull-deals-percentage","成功した取引の割合"
+"demo-stats-banner-real-account-opening-request","実際の口座を開設して、収益を出金する"
+"demo-stats-banner-open-real-account-button-caption","リアルアカウントを開設"
+"demo-stats-banner-keep-trading-on-demo","デモ口座にとどまる"
+"demo-stats-banner-you-have-done","行った"
+"demo-stats-banner-you-have-trades-closed-in-a-row","連続の取引"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","連続の収益性が高い取引"
+"demo-stats-banner-earning-on-demo-account","デモ口座の収益"
+"demo-stats-banner-closed-in-a-row-2","儲かる取引"
+"tour-next-button-caption","続く"
+"tour-reading-duration-caption","4分間の読書"
+"tour-slides-steps-count","{{@totalSlidesCount}} のステップ{{@currentSlide}}"
+"tour-slide-0-caption","Binariumトレーディング・プラットフォームへようこそ"
+"tour-slide-0-content","この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。"
+"tour-slide-0-content-1","プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。"
+"tour-slide-0-content-2","この簡単なデモでは、取引の基本原則とBinariumプラットフォームインターフェイスを紹介します。"
+"tour-slide-0-content-3","メインメニューは左側にあります。例えば、<span class=""bold"">銀行</span> セクションではアカウントを補充できます。また、<span class=""bold"">取引室</span> セクションではプラットフォームで最高のトレーダーを使用して取引を注文できます。"
+"tour-slide-0-content-3-port","メインメニューは左にあります。例えば、<span class=""bold"">銀行</span>のセクションに入金できます。 そして、プラットフォームの最も優れたトレーダーからの手助けで<span class=""bold"">取引ルーム</span>のセクションで取引することができます。"
+"tour-slide-0-extra-info","プラットフォームでより効果的に取引する方法を学ぶために、すべてのカードを読んでください。"
+"tour-slide-1-caption","プラットフォームでどのように収入を得ることができますか？"
+"tour-slide-1-content","<span class=""bold"">取引プラットフォームでは</span> 、外国為替通貨ペア、暗号通貨、商品、その他の金融商品などの金融資産に短期投資で取引を行うことができます。"
+"tour-slide-2-caption","取引を行う上での基本原理は何でしょうか？"
+"tour-slide-2-content-a","取引は、特定の期間にわたって金融資産の価格がどのように変化するかを予測することです。投資家は、<span class=""green""> 長期 </span>あるいは<span class=""red"">短期 </span>取引を行います。"
+"tour-slide-2-content-b","予測が当たった場合、収入があります。当たらなかった場合、投資した資金はすべて失われます。"
+"tour-slide-3-caption","Binariumプラットフォームではどのように取引を行いますか？"
+"tour-slide-3-content","<span class=""bold"">予測したい価格トレンドのアセットを選択</span>します。"
+"tour-slide-4-caption","Binariumプラットフォームではどのように取引を行いますか？"
+"tour-slide-4-content","<span class=""bold"">投資のサイズを選択してください</span>"
+"tour-slide-5-caption","Binariumプラットフォームではどのように取引を行いますか？"
+"tour-slide-5-content","価格が<span class=""green""> 上がる </span> あるいは<span class=""red""> 下がる </span>ことを予測した後、<span class=""bold"">取引を開いて下さい。</span> 。 取引終了まで待ちましょう。"
+"tour-slide-6-caption","Binariumプラットフォームでの取引に幸運がありますように"
+"tour-slide-6-additional-caption","予測が正しければ、利益は自動的に取引口座に入金されます。"
+"tour-slide-6-a-trading-rules","取引条件"
+"tour-slide-6-a-card-0-caption","予測が当たった時の収入額："
+"tour-slide-6-a-card-0-content-1","{{@maxProfit}} まで"
+"tour-slide-6-a-card-0-content-2","予測が当たった時にあなたが受け取る、投資額の"
+"tour-slide-6-a-card-1-caption","取引のための最小入金額。"
+"tour-slide-6-a-card-1-content","{{@minWithdrawal}} から"
+"tour-slide-6-a-card-2-caption","資金引き出しにかかる平均時間："
+"tour-slide-6-a-card-2-content","30 分"
+"tour-slide-6-a-card-3-caption","取引を開始するために、実際の口座に資金を入金してください："
+"tour-slide-6-a-card-3-button-caption","入金をして取引を開始しましょう"
+"tour-slide-6-a-dont-show-again","プラットフォームツアーを却下"
+"tour-slide-6-b-trading-rules","取引条件"
+"tour-slide-6-b-card-0-caption","予測が当たった時の収入額："
+"tour-slide-6-b-card-0-content","<span class=""big"">投資額の最大90％</span>"
+"tour-slide-6-b-card-1-caption","取引のための最小入金額"
+"tour-slide-6-b-card-1-content","<span class=""big"">{{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","資金出金にかかる平均時間"
+"tour-slide-6-b-card-2-content","<span class=""big"">30</span> 分"
+"tour-slide-6-b-card-3-caption","デモ口座にてリスクを回避する取引の仕方を学ぼう"
+"tour-slide-6-b-card-3-button-caption","デモ口座を利用し、取引を行う"
+"tour-slide-6-b-dont-show-again","プラットフォームツアーを却下"
+"user-terms-caption","ワンクリック取引"
+"what-is-trading-room","トレーディング・ルームとは何ですか？"
+"what-is-trading-room-advice-content","トレーディング・ルームは、プラットフォームの最高のトレーダーのトランザクションをワンクリックでコピーできる便利なツールです。このツールにより取引の効率を高め、時間の節約ができます。"
+"not-enough-money-for-trading-room-detailed","トレーディング・ルームを使用して、Binariumプラットフォームの最高のトレーダーと取引をしお金を稼いで下さい。実際の残高を{{@minBalance}} に補充すると、次のメリットがあります："
+"get-access-to-trading-room","トレーディング・ルームへアクセスしましょう"
+"have-access-to-trading-room","「トレーディング・ルーム」へのアクセスには、マネージャーまたはサポートサービスにお問い合わせください。"
+"trading-room-features-one","プラットフォームの最も成功したトレーダーの取引に注目してください"
+"trading-room-features-two","トランザクションをコピーして利益を上げましょう"
+"trading-room_1-title","一緒に取引をする"
+"trading-room_1-text","プラットフォームの最も成功したトレーダーの取引に注目してください。"
+"trading-room_2-title","他の人の成功経験を活用しましょう"
+"trading-room_2-text","他のトレーダーの行動を模倣して利益を上げましょう！"
+"trading-room_refill","「トレーディング・ルーム」にアクセスするには、残高を補充してください"
+"account_level","口座レベル"
+"modal-confirm_title","メールアドレスの認証を行ってください"
+"modal-confirm_text-1","確認リンクを含むメールを送信します。"
+"modal-confirm_text-2","確認リンクを含むメールを受け取りませんでしたか？「スパム」フォルダを確認してください。そこにメッセージが届くことがあります。またはメッセージを再度リクエストしてください。"
+"modal-confirm_button","メッセージを再送信"
+"modal-confirm_error-1-1","{{@time}} 分以内に新しいメールを送信いたします。アカウントを有効にするには、メールを確認するか、あるいはサポートサービスにお問い合わせください。"
+"modal-confirm_error-1-2","カスタマーサポートにご連絡ください"
+"modal-confirm_support","サポートに問い合わせる"
+"timer_days","日"
+"timer_hours","時間"
+"timer_minutes","分"
+"timer_seconds","秒"
+"tournament_button","コンテストに参加する"
+"modal-oneclick_title","ワンクリック取引"
+"modal-oneclick_text","ワンクリックでプラットフォーム上で取引を開始できるのでご注意ください。追加の確認はありません。"
+"modal-oneclick_button","同意して続く"
+"modal-tbalance_title","アカウントを補充してください"
+"modal-tbalance_text","アカウントに十分な資金がありません。コンテストに参加するにはアカウントを補充してください。"
+"modal-tbalance_button","入金する"
+"modal-tech_title","すぐに返答いたします。"
+"modal-tech_text-1","私たちは常に取引プラットフォームの改善に取り組んでおり、まもなくアップデートが完了する予定です。ご不便をおかけしておりますことをお詫びいたします。"
+"modal-tech_text-2","作業が完了するまでの残り時間："
+"modal-tech_button","続く"
+"modal-session_title","ご注意"
+"modal-session_text-1","株式市場は週末閉鎖されます。"
+"modal-session_text-2","トレーディング・プラットフォームへのアクセスが可能です"
+"modal-session_text-3","月曜日午前3時から金曜日午前0時までの期間"
+"modal-session_text-4","取引セッションが開始時間："
+"modal-session_button","続く"
+"modal-tn_title","ようこそ"
+"modal-tn_text-1","コンテストの最後に最高の残高を持つトレーダーが勝者です。"
+"modal-tn_text-2","利用可能な資産："
+"modal-tn_text-3","利用可能なトランザクション種類："
+"modal-tn_button","開始"
+"modal-nickname_title","ニックネームを選択"
+"modal-nickname_text","コンテストに参加するには、コンテスト参加者リストにニックネームを入力して下さい。プロファイル設定でいつでも変更できます。"
+"modal-nickname_button","保存して続く"
+"modal-nickname_placeholder","ニックネームを入力してください"
+"modal-profile_title","追加情報"
+"modal-profile_text","プラットフォームでの作業を続行するには、追加情報を入力してください。"
+"modal-profile_name","名"
+"modal-profile_surname","姓"
+"modal-profile_phone","電話番号（国コード付き）"
+"modal-profile_button","取引を開始"
+"modal-profile_aside","個人情報の安全は保障されています。"
+"form-error_required","フィールドは空白にできません"
+"form-error_name-short","名前が短すぎます。"
+"form-error_name-format","文字のみが許可されています"
+"form-error_surname-short","姓が短すぎます。"
+"form-error_surname-format","文字のみが許可されています"
+"form-error_phone-format","数字は国際フォーマットでなければなりません"
+"srv-err_asset-is-disabled","資産は無効化されています"
+"srv-err_asset-is-disabled-for-this-tournament","このトーナメントでは、資産は無効化されています"
+"srv-err_binary-is-disabled-for-this-tournament","このトーナメントでは、資産は無効化されています"
+"srv-err_turbo-is-disabled-for-this-tournament","このトーナメントでは、資産は無効化されています"
+"tournament@btn.paid-participate","入場料"
+"tournament@info.paid","支払い済みのトーナメント"
+"faq@title","質問と回答"
+"menu@faq","よくある質問"
+"menu@education","教育"
+"menu@qa","質問と回答"
+"menu@strategies","ストラテジー"
+"menu@btn$back","戻る"
+"cashbox@no-bonus","ボーナスを受け取らないでください"
+"wallet-menu@real-title","実際のファンド"
+"wallet-menu@bonus-title","ボーナスファンド"
+"wallet-menu@wager-title","ターンオーバーしてボーナスを引き落とす"
+"wallet-menu@wager-link","ボーナスについて続きを読む"
+"modal-bonus@title","ボーナスファンドを使っています"
+"modal-bonus@text","取引のサイズが利用可能なリアルファンドを超えています。従って、取引を開けると、ボーナスファンドは次のことに使われます。"
+"modal-bonus@deal-size","取引サイズ"
+"modal-bonus@real-size","リアルファンド"
+"modal-bonus@bonus-size","ボーナスファンド"
+"modal-bonus@info","取引の一部として受領されたすべてのファンドは、ボーナスアカウントに入金されます。"
+"modal-bonus@faq","ボーナスファンド利用のルール"
+"modal-bonus@btn-cancel","キャンセル"
+"modal-bonus@btn-continue","同意して続ける"
+"modal-bonus@disable","今後、このメッセージを表示しない"
+"trends@restrict-title","アカウントに充分なファンドがありません"
+"trends@restrict-text","「トレンド」セクションをアンロックするには、アカウントに少なくとも次の残高が残っていなければなりません："
+"asset-menu@title","資産"
+"asset-menu@available","取引できる資産"
+"asset-menu@profitable","収益性が高まった資産"
+"asset-menu@interval","分"
+"confirm-trade@header","取引の確認"
+"confirm-trade@timer","ウィンドウは{{@data}} で自動的に閉じます "
+"confirm-trade@heading","すばらしい！あなたは今、取引を確認しようとしています。以下の詳細を確認してください。"
+"confirm-trade@asset","資産"
+"confirm-trade@direction","価格の方向性"
+"confirm-trade@investment","投資"
+"confirm-trade@price","現在価格"
+"confirm-trade@profitability","収益性"
+"confirm-trade@payout","潜在支出"
+"confirm-trade@btn-cancel","キャンセル"
+"confirm-trade@btn-confirm","確認"
+"plot@loading","読み込み中"
+"plot@lock-time","ロック時間"
+"plot@expiration-time","有効期限"
+"tr-empty@text","プロと一緒に取引の詳細な世界に飛び込みましょう。プラットフォームの最も成功したトレーダーたちの取引を模倣して、さらに収益を得ましょう。"
+"tr-empty@business","取引ルームは、ビジネスアカウント以上のトレーダーのために開かれています。平日に4時間の取引セッションが2回あります。プロのトレーダーたちから毎日約30のシグナルが発信されます。独学で学ぼうとして時間を無駄にしないでくださいーバイナリアムの最も優れたトレーダーたちが、すでにあなたのために稼働しています。"
+"tr-empty@vip","当社のVIPクライアントは、個人的シグナルを受け取ることや、質問にすべて回答し、現在の市場動向を説明し、可能性が最も高い分野を示唆してくれる企業トレーダーから個人的な協力を得ることを含む、 取引ルームのあらゆる特典が得られます。これは、取引から最大限に利益を得るための最良の方法です。"
+"tr-empty@open-btn","詳細情報・ログイン"
+"tr-empty@deposit-btn","支払いに移動・ログイン"
+"tr-empty@vip-signals","+ 貴重なシグナル"
+"hb@menu-btn","メニュー"
+"ac-types@title","アカウントの種類"
+"ac-types@label_depositSum","入金額"
+"ac-types@label_tradeback","トレードバック"
+"ac-types@label_tradebackEnrolment","トレードバックポイント"
+"ac-types@label_assets","取引資産"
+"ac-types@label_withdrawalCountLimit","引き出しリクエスト、1日毎"
+"ac-types@label_withdrawalAmountLimit","引き出し制限、月毎"
+"ac-types@label_withdrawalDayAmountLimit","引き出し制限、日毎"
+"ac-types@label_tradingRoom","取引室"
+"ac-types@label_openDealsSum","最大オープン取引数（1回につき）"
+"ac-types@value_real","実際のファンド"
+"ac-types@value_bonus","ボーナス"
+"ac-types@value_nolimit","無制限"
+"ac-types@btn","増大"
+"ac-types@self","あなたのアカウント"
+"ac-types@tradeback-hint","トレードバック—トレーダーの負け取引の一部返済。毎週火曜日12:00 時（0:00 UTC）に返済。"
+"video-tutorial@title","Binariumで90秒以内に取引を始める方法"
+"video-tutorial@checkbox","今後、このビデオを表示しない"
+"user-menu@account-types","アカウントの種類"
+"withdrawal-error@amount-limit","お引き出しの限度額を超えました"
+"withdrawal@limit-with-counter","引出し限度額を超えました。<br>あなたの <span class=""open-act-button"">アカウントタイプ</span>では、{{@limitCount}} 合計 {{@limitAmount}}をリクエストできます。<br>別件のリクエストを {{@limitTime}}ですることができます。"
+"promo-gift@bonus","ボーナス"
+"promo-gift@freeSpins","リスクなしの取引"
+"promo-gift@tradeRoom","取引室"
+"promo-gift@tickets","チケット"
+"settings@quality-title","グラフィックスの品質"
+"settings@quality-hint","グラフィックの品質設定を変更して、デバイスの負荷を管理します。グラフィックの品質はわずかに低下しますが、標準品質はリソースを節約し、プラットフォームをより高速にロードするのに役立ちます。"
+"settings@quality-option-base","ベース"
+"settings@quality-option-average","平均"
+"settings@quality-option-best","高い"
+"history@group$active","アクティブな取引"
+"history@group$finished","完了済み取引"
+"st@level$all","全部"
+"st@level$easy","シンプル"
+"st@level$base","ベーシック"
+"st@level$advanced","アドバンスト"
+"promo@btn$details","さらに読む"
+"promo@timer$name","プロモーション終了時間"
+"promo@until","期限"
+"wallet@btn$refill","デモ口座を補充する"
+"tournament@prize-fund","賞金"
+"tournament@prize-places","上位"
+"tournament@tab$restrictions","ご利用条件"
+"tournament@tab$rating","参加者ランキング"
+"tournament@tab$current","現在"
+"tournament@tab$soon","近日予定"
+"tournament@timer$start","コンテスト開始時間"
+"tournament@timer$end","コンテスト終了時間"
+"section@title$bet","取引"
+"bet@tab$deposit","入金"
+"forecast@deal","取引"
+"forecast@deals","取引"
+"promo@days-short","d."
+"settings@group$region","地域設定"
+"settings@group$design","デザイン"
+"menu@account-type","アカウントの種類"
+"menu@profile","ユーザープロフィール"
+"leaderboard@tournament","コンテスト"
+"leaderboard$toggle@open","完全なランキング"
+"leaderboard$toggle@close","取引完了"
+"disabled-timer@title","開始"
+"open-option$total$deals","投資。"
+"open-option$total$invest","投資合計。"
+"open-option$total$payout","出金合計"
+"chat-button@text","オンライン<br>ヘルプ"
+"accounts@popular","人気のある選択肢"
+"settings@animation","ポイントアニメーション"
+"settings@animation-disabled","無効"
+"settings@animation-enabled","有効"

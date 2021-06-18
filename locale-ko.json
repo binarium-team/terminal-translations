@@ -173,7 +173,7 @@
 	"payment-history": "결제 내역",
 	"exit": "로그아웃",
 	"count-second-short": "{{@count}}초",
-	"count-seconds-short": "{{@count}}초",
+	"count-seconds-short": "{{@count}} 초",
 	"count-minute-short": "{{@count}} 분",
 	"count-minutes-short": "{{@count}}분",
 	"count-hour-short": "{{@count}} 시간",

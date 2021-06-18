@@ -1,806 +1,808 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "Yth. Pengguna!",
-	"error": "Eror",
-	"settings": "Pengaturan",
-	"settings-2": "Pengaturan terminal",
-	"regionalSettings": "Pengaturan wilayah",
-	"timezone": "Zona waktu",
-	"timezone-2": "Zona Waktu",
-	"language": "Bahasa",
-	"skin-theme": "Tema",
-	"ui-zoom": "Zoom",
-	"ui-zoom-2": "Skala",
-	"investment": "Perdagangan",
-	"payout": "Pembayaran",
-	"options": "Opsi",
-	"quote": "Penawaran",
-	"time": "Waktu",
-	"past": "Closed",
-	"active": "Dibuka",
-	"value": "Nilai",
-	"add": "Tab baru",
-	"add-new-chart": "Tambah grafik baru",
-	"charts-arrangement": "Kisi grafik",
-	"turbo-cap": "1—5 mnt",
-	"count-chart": "{{@count}} grafik",
-	"count-charts": "{{@count}} grafik",
-	"one-chart": "1 grafik",
-	"two-charts": "2 grafik",
-	"three-charts": "3 grafik",
-	"four-charts": "4 grafik",
-	"refill": "Deposit",
-	"wallets-types": "Jenis akun",
-	"history": "Riwayat",
-	"cashbox": "Perbankan",
-	"education": "Edukasi",
-	"education@category$videos": "Educational <span>video</span>",
-	"promos": "Bonus",
-	"trading-history": "Riwayat trading",
-	"section-under-construction": "Bagian ini sedang diperbaiki",
-	"count-purchase": "{{@count}} perdagangan",
-	"count-purchases": "{{@count}} #{trades@trade?count}",
-	"total-payout": "Total pembayaran",
-	"cancel": "Batalkan",
-	"apply": "Terapkan",
-	"period": "Periode",
-	"stochastic-smoothing": "Penghalusan",
-	"stochastic-overbought": "Jenuh beli",
-	"stochastic-oversold": "Jenuh jual",
-	"fast-stochastic-period": "Periode garis cepat",
-	"slow-stochastic-period": "Periode garis lambat",
-	"fast-stochastic-line-color": "Warna garis cepat",
-	"slow-stochastic-line-color": "Warna garis lambat",
-	"fast-stochastic-line-thickness": "Ketebalan garis cepat",
-	"fast-macd-period": "Periode garis cepat",
-	"slow-macd-period": "Periode garis lambat",
-	"signal-macd-period": "Periode sinyal",
-	"fast-macd-line-thickness": "Ketebalan garis cepat",
-	"signal_line_color": "Warna garis sinyal",
-	"oversold": "Oversold",
-	"macd_color": "Warna",
-	"line-thickness": "Ketebalan garis",
-	"line-color": "Warna Garis",
-	"line-offset": "Pergeseran garis",
-	"top-line-thickness": "Ketebalan garis atas",
-	"mid-line-thickness": "Ketebalan garis tengah",
-	"slow_period": "Periode lambat",
-	"fast_period": "Periode cepat",
-	"short_period": "Periode pendek",
-	"long_period": "Periode panjang",
-	"offset": "Offset",
-	"bottom-line-thickness": "Ketebalan garis bawah",
-	"bottom-line-period": "Periode batas pemasukan",
-	"top-line-color": "Warna garis atas",
-	"top-line-period": "Periode pendapatan kotor",
-	"mid-line-color": "Warna garis tengah",
-	"mid-line-period": "Periode keuntungan kotor",
-	"bottom-line-color": "Warna garis bawah",
-	"teeth-line-color": "Warna garis gigi (merah)",
-	"jaws-line-color": "Warna garis rahang (biru)",
-	"lips-line-color": "Warna garis bibir (hijau)",
-	"jaws-period": "Periode rahang",
-	"jaws-offset": "Offset rahang",
-	"teeth-period": "Periode gigi (merah)",
-	"teeth-offset": "Offset gigi",
-	"lips-period": "Periode bibir (hijau)",
-	"lips-offset": "Offset bibir",
-	"indice-lines-position": "Posisi garis indikator",
-	"major-line-thickness": "Ketebalan garis utama",
-	"top-signal-line-thickness": "Ketebalan garis sinyal atas",
-	"bottom-signal-line-thickness": "Ketebalan garis sinyal bawah",
-	"top-signal-line-color": "Warna garis sinyal atas",
-	"bottom-signal-line-color": "Warna garis sinyal bawah",
-	"fast-stoch-color": "Warna stokastik cepat",
-	"low-stoch-color": "Warna stokastik lambat",
-	"low-stoch-period": "Periode stokastik lambat",
-	"fast-stoch-line-thickness": "Ketebalan garis stokastik cepat",
-	"low-stoch-line-thickness": "Ketebalan garis stokastik lambat",
-	"small-period": "Periode kecil",
-	"big-period": "Periode besar",
-	"small-period-width": "Lebar periode kecil",
-	"big-period-width": "Lebar periode besar",
-	"signal-period-width": "Lebar periode sinyal",
-	"bars-color": "Warna bar",
-	"bars-color-maofmacd": "Warna bar MA dari MACD",
-	"smoothing-period": "Periode penghalusan",
-	"adx-minus-di-color": "Warna -DI",
-	"adx-plus-di-color": "Warna +DI",
-	"adx-line-color": "Warna garis ADX",
-	"sar-default-acceleration": "Akselerasi baku",
-	"acceleration-step": "Langkah akselerasi",
-	"max-acceleration": "Akselerasi maks",
-	"chikou-line-thickness": "Ketebalan Chikou",
-	"chikou_period": "Rentang Chikou",
-	"tenkan_period": "Rentang Tenkan",
-	"kijun_period": "Rentang Kijun",
-	"senkou_a_period": "Rentang Senkou A",
-	"senkou_b_period": "Rentang Senkou B",
-	"color": "Warna",
-	"chart-type": "Jenis grafik",
-	"chart-type-curve": "Kurva",
-	"chart-type-curve-area": "Area kurva",
-	"chart-type-candlesticks": "Candlestick",
-	"chart-type-bars": "Bar",
-	"bet-sum": "Jumlah",
-	"chart-controls-income-caption": "Profitabilitas",
-	"expiration-time": "Masa kedaluwarsa",
-	"wallet-refilling": "Deposit",
-	"real-wallet": "Riil",
-	"demo-wallet": "Akun Demo",
-	"can-deduce-profit": "Anda dapat menarik profit",
-	"all-assets-available": "Semua aset tersedia",
-	"all-features-available": "Gunakan semua fitur platform",
-	"get-bonuses-from-the-platform": "Dapatkan bonus dari perusahaan",
-	"participate-tournaments": "Ikuti kontes",
-	"can-switch-wallet-any-time": "Anda dapat beralih di antara beberapa akun kapan pun.",
-	"cannot-deduce-profit": "Anda tidak dapat menarik profit",
-	"refill-wallet": "Deposit",
-	"choose-wallet-type": "Jenis akun",
-	"demo-wallet+wallet": "Akun demo",
-	"real-wallet+wallet": "Akun riil",
-	"choose-bet": "Perdagangan",
-	"added-items": "Ditambahkan",
-	"bollinger-lines": "Bollinger Band",
-	"ichi-cloud": "Cloud Ichimoku",
-	"alli-gator": "Alli Gator",
-	"graphics-analysys-tools": "Alat Analisis",
-	"new-items": "Baru",
-	"line-segment": "Segmen garis",
-	"ray": "Ray",
-	"hori-line": "Garis horizontal",
-	"vline": "Garis vertikal",
-	"free-hand": "Menggambar bebas",
-	"crossroad": "Garis silang",
-	"frame": "Kerangka",
-	"range": "Rentang",
-	"ellipse": "Elips",
-	"fibonacci-lines": "Garis Fibonacci",
-	"andrews-fork": "Andrews` pitchfork",
-	"graphic-tools": "Alat grafis",
-	"time-period": "Periode waktu",
-	"count-second": "{{@count}} detik",
-	"count-seconds": "{{@count}} detik",
-	"count-minute": "{{@count}} menit",
-	"count-minutes": "{{@count}} menit",
-	"count-hour": "{{@count}} jam",
-	"count-hours": "{{@count}} jam",
-	"lock-time": "Kunci waktu",
-	"user-profile": "Profil pengguna",
-	"user-profile-heading": "Profil pengguna",
-	"withdrawal": "Penarikan",
-	"support-service": "Dukungan",
-	"payment-history": "Riwayat pembayaran",
-	"exit": "Keluar",
-	"count-second-short": "{{@count}} d",
-	"count-seconds-short": "{{@count}} d",
-	"count-minute-short": "{{@count}} b",
-	"count-minutes-short": "{{@count}} b",
-	"count-hour-short": "{{@count}} j",
-	"count-hours-short": "{{@count}} j",
-	"count-day-short": "{{@count}} h",
-	"binary-cap": "5+ min",
-	"error-too-small-bet": "Tidak bisa membuat taruhan sebesar {{@sum}}, taruhan minimum untuk mata uang {{@currency}} adalah {{@minbet}}",
-	"error-too-big-bet": "Tidak bisa membuat taruhan sebesar {{@sum}}, taruhan maksimum untuk mata uang {{@currency}} adalah {{@maxbet}}",
-	"error-wrong-expiration": "Masa kedaluwarsa salah {{@time}}",
-	"not-enough-money": "Dana di akun Anda tidak mencukupi.",
-	"option-closed-head": "Opsi ditutup",
-	"transaction-result": "Hasil untuk {{@assetName}}",
-	"internet-connection-trouble": "Masalah koneksi",
-	"lang-name-locale-en": "Bahasa Inggris",
-	"lang-name-locale-ru": "Bahasa Rusia",
-	"lang-name-locale-de": "Bahasa Jerman",
-	"lang-name-locale-tr": "Bahasa Turki",
-	"lang-name-locale-vi": "Bahasa Vietnam",
-	"lang-name-locale-uk": "Bahasa Ukraina",
-	"lang-name-locale-th": "Bahasa Thailand",
-	"lang-name-locale-it": "Bahasa Italia",
-	"lang-name-locale-pl": "Bahasa Polandia",
-	"lang-name-chinese": "Bahasa Tiongkok (sederhana)",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "Anda menggunakan akun riil.",
-	"you-started-using-tment-wallet": "Anda menggunakan akun kontes.",
-	"tournaments": "Kontes",
-	"currents": "Saat Ini",
-	"futures": "Mendatang",
-	"archive": "Arsip",
-	"days": "Hari",
-	"hours": "Jam",
-	"minutes": "Menit",
-	"prize-fond": "Hadiah",
-	"participate-price": "Biaya pendaftaran",
-	"prize-places": "Posisi teratas",
-	"tournament-participants-count": "Peserta",
-	"no-tournament-description": "Tidak ada deskripsi kontes",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "Mulai",
-	"deductions": "Pengurangan",
-	"reg-in-tournament-for": "Daftar Kontes {{@price}}",
-	"reg-in-tournament-for-free": "Ikut dalam turnamen secara gratis",
-	"choose-tournament-to-see-info": "Pilih kontes",
-	"has-reged-in-tournament": "Anda sudah terdaftar",
-	"wait-for-reg-in-tournament": "Permintaan pendaftaran terkirim",
-	"prize-places-low": "{{@count}} Posisi teratas",
-	"starting-balance": "Saldo awal",
-	"min-deal-size": "Jumlah perdagangan minimum",
-	"max-deal-size": "Jumlah perdagangan maksimum",
-	"max-simultaneously-open-deals": "Batas trading terbuka",
-	"max-amount-of-open-deals": "Batas investasi",
-	"available-options-types": "Opsi tersedia",
-	"tournament-option-type-turbo": "Turbo",
-	"tournament-option-type-binary": "Biner",
-	"tournament-option-type-both": "Keduanya",
-	"tournament-winning-rules": "Trader dengan saldo terbanyak pada akhir turnamen akan menjadi pemenang.",
-	"available-assets": "Aset yang tersedia",
-	"available-options": "Jenis transaksi yang tersedia",
-	"greeting": "Selamat datang",
-	"cashbox-plus-bonus": "bonus",
-	"cashbox-input": "Deposit",
-	"cashbox-output": "Penarikan",
-	"cashbox-total": "Bonus, promo, total",
-	"bonus-terms-of-use": "Ketentuan pengguna bonus",
-	"enter-cashbox-input-value": "Masukkan jumlah deposit",
-	"enter-cashbox-output-value": "Masukkan jumlah penarikan",
-	"do-withdrawal": "Penarikan",
-	"amount-due": "Jumlah",
-	"will-recieve-to-account": "Anda mendapat",
-	"i-wanna-get-bonus": "Dapatkan bonus",
-	"enter-cashbox-card-type": "Metode pembayaran",
-	"finish-time": "Selesai",
-	"top-users": "Papan peringkat",
-	"member": "Anggota",
-	"balance": "Saldo",
-	"prize": "Hadiah",
-	"hint-split-view-button": "Tata Letak",
-	"hint-user-profile-button": "Menu pengguna",
-	"hint-asset-stat": "Pilihan trader",
-	"hint-sound-button": "Suara",
-	"hint-platform-time": "Waktu platform",
-	"hint-profitability": "Profitabilitas",
-	"hint-payout": "Pembayaran",
-	"hint-real-acc": "Akun riil",
-	"hint-demo-acc": "Akun demo",
-	"hint-tournament-acc": "Akun kontes",
-	"hint-settings": "Pengaturan",
-	"hint-support": "Dukungan",
-	"hint-graph-type": "Jenis grafik",
-	"hint-candle-interval": "Interval candle",
-	"hint-user-lines": "Alat grafis",
-	"hint-secondary-lines": "Indikator",
-	"hint-centerize": "Harga saat ini",
-	"hint-zoom-level": "Jangka waktu",
-	"tournament": "Kontes",
-	"loading": "Memuat",
-	"you-are-in-tournament": "Anda sudah bergabung!",
-	"repeat-tournament": "Beli lagi {{@price}}",
-	"unsupported-browser": "Produk ada di tahap pengujian, saat ini kami menjamin operasi yang stabil pada peramban berikut: Google Chrome, Opera and Yandex Browser. Terima kasih atas pengertian Anda!",
-	"account-is-for-educ": "Ini hanya akun demo",
-	"participate-in-demo-tments": "Ikuti kontes demo",
-	"use-real-money": "Berdagang dengan uang riil",
-	"participate-tments-with-real-money": "Ikuti kontes dan menangkan hadiah",
-	"native-deal-closed-body": "Opsi untuk {{@assetName}} ditutup pada {{@closeTime}}. Profitnya {{@incomeValue}}",
-	"tournaments-rules": "Peraturan kontes",
-	"tournaments-rules-2": "Peraturan untuk mengikuti kontes.",
-	"get-trade-exp": "Dapatkan pengalaman trading yang berharga",
-	"tment-begins-in": "Kontes dimulai dalam",
-	"tment-ends-in": "Kontes berakhir dalam",
-	"tment-has-ended": "Kontes sudah berakhir",
-	"tment-just-ended": "\"{{@name}}\" baru berakhir",
-	"tment-just-started": "\"{{@name}}\" baru dimulai",
-	"tment-just-created": "\"{{@name}}\" baru dibuat",
-	"read-more": "Baca selengkapnya",
-	"history-is-empty": "Anda tak punya penawaran kedaluwarsa",
-	"tournaments-current-is-empty": "Tidak ada kontes yang aktif sekarang. Silakan ikuti umpan berita kami dan nantikan buletin.",
-	"tournaments-future-is-empty": "Tidak ada jadwal kontes mendatang. Ikuti umpan berita kami dan nantikan buletin.",
-	"tournaments@current-empty": "Tidak ada turnamen yang aktif saat ini. Tapi akan segera muncul. <br><br>Buka bilah \"Segera hadir\" pada menu di atas dan perhatikan terus email serta berita di platform.",
-	"tournaments-ended-is-empty": "Tidak ada kontes yang berakhir",
-	"upper-indicator-line": "Garis indikator atas",
-	"lower-indicator-line": "Garis indikator bawah",
-	"stoch-overbuy-value": "Overbought",
-	"stoch-overbuy-line-width": "Lebar Overbought",
-	"stoch-overbuy-line-color": "Warna Overbought",
-	"stoch-oversell-value": "Jenuh jual",
-	"stoch-oversell-line-width": "Lebar Oversold",
-	"stoch-oversell-line-color": "Warna Oversold",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "Nilai ini tidak valid",
-	"889954f14a3839c141bd8d5102094fbb": "Nilai ini sudah digunakan",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "Nilai ini bukan alamat email yang valid",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "Nilai ini bukan alamat email yang valid",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "Nilai ini bukan alamat email yang valid",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "Bidang ini wajib diisi.",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "Nilai ini terlalu pendek. Nilainya harus mengandung {{@min}} karakter atau lebih.",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "Nilai ini terlalu panjang. Nilainya harus mengandung {{@limit}} karakter atau kurang.",
-	"478618a7-95ba-473d-9101-cabd45e49115": "Nilai ini harus sama dengan {{@compared_value}}.",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "Nama pengguna atau kata sandi salah",
-	"3e5af93fb888b4aa77301a7603e113d5": "Kata sandi salah",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "Nilai ini harus {{@limit}} atau kurang",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "Nilai ini harus {{@limit}} atau lebih",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "Nilai ini tidak boleh kosong.",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "Nilai yang Anda pilih bukan pilihan yang valid.",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "Syarat {{@name}} tidak valid",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "Persyaratan  '{{@name}}' harus ditetapkan",
-	"661d3bc6c153e42a3658855010678cbd": "Syarat {{@names}} tidak diketahui",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "Anda tidak diperbolehkan mengubah status permintaan yang telah diproses",
-	"2d2ba82dd886ba3b69da804675842ff5": "Metode pembayaran salah",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "Masa kedaluwarsa tidak valid",
-	"f029308ab5f1672de0b7615c4fa33386": "Aset sedang ditutup",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "Aset sedang ditutup",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "Anda telah melampaui batas jumlah perdagangan",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "Dana tidak mencukupi",
-	"f3a5b44d01097d966072b90187a16ec6": "Pengguna tidak ada",
-	"296ea5496bee3177c83ac27a1dc5bb10": "Saldo kontes harus lebih kecil daripada saldo awal",
-	"fc53df7c4944ebb53e8b3713126ae226": "Jumlah perdagangan terbuka maksimum adalah {{@limit}}",
-	"0f8e85ca21aa2e33752728cf5e843e35": "Anda telah melampaui batas jumlah perdagangan yang tersedia",
-	"cbce1334c90e82f44381abe99b98fe5c": "Jumlah total dari opsi batasan terbuka telah terlampaui",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Nama panggilan ini telah digunakan. Pilih nama yang lain.",
-	"promo-ends-in": "Bonus berakhir pada",
-	"your-promocode": "Kode promo Anda",
-	"from-value-to-value": "Dari {{@fromValue}} — hingga {{@toValue}}",
-	"deposit-sum": "Jumlah deposit",
-	"bonus-sum": "Bonus",
-	"promos-rules": "Peraturan bonus",
-	"promos-rules-2": "Peraturan bonus",
-	"participate-promo": "Berpartisipasi dalam bonus",
-	"promo-has-ended": "Bonus sudah berakhir",
-	"no-promos-description": "Tidak ada deskripsi bonus",
-	"promos-is-empty": "No current promotions available. Please follow our latest news and watch out for future emails.",
-	"first-launch-disclaimer-content": "Perhatian! Hanya Satu Kali Klik untuk membuka perdagangan. Tanpa konfirmasi.",
-	"accept": "Terima",
-	"trading-session-closed": "Sesi trading ditutup",
-	"special-offer": "Penawaran spesial",
-	"continue": "Lanjutkan",
-	"seconds": "Detik",
-	"trading-sess-starts-in": "Sesi trading dimulai dalam",
-	"trading-session-closed-info-0": "Perhatian!",
-	"trading-session-closed-info-1": "Pasar saham tutup pada akhir pekan.",
-	"trading-session-closed-info-2": "Trading di platform kami tersedia mulai pukul 03.00 pada hari Senin hingga pukul 00.00 pada hari Jumat.",
-	"trading-session-closed-info-3": "Data pasar disediakan oleh Thompson Reuters.",
-	"asset": "Aset",
-	"additional-info": "Informasi tambahan",
-	"fill-profile-to-continue": "Untuk melanjutkan pekerjaan Anda di platform, harap berikan informasi tambahan",
-	"fill-username-heading": "Kepada trader,",
-	"fill-username-text": "Untuk bergabung dalam turnamen, masukkan nama panggilan yang akan merepresentasikan Anda dalam daftar peserta turnamen. Anda dapat mengubahnya di pengaturan profil kapan pun.",
-	"fill-username-placeholder": "Masukkan nama panggilan Anda",
-	"save-and-continue": "Simpan dan lanjutkan",
-	"profile-name": "Nama",
-	"profile-surname": "Nama belakang",
-	"profile-telephone": "Telepon",
-	"start-trading": "Mulai trading",
-	"personal-data-safety": "Keamanan data pribadi dijamin",
-	"bonus": "Bonus",
-	"new-bonus": "ke akun",
-	"received-bonus": "Beserta deposit yang dipilih, Anda akan menerima",
-	"received-bonus-value": "bonus sejumlah: {{@bonus}}",
-	"mobile-received-bonus-value": "+ bonus {{@bonus}}",
-	"expires-in": "Berakhir pada",
-	"cannot-buy-option-try-later": "Tidak dapat membuka perdagangan ini, coba lagi nanti.",
-	"notifications$demo-option-limit": "Ingin membuka lebih dari 5 perdagangan sekaligus? Buka akun riil. Untuk melanjutkan penggunaan akun demo, tunggu sampai perdagangan selesai",
-	"max-total-bet-limit-exceeded": "Anda telah melampaui jumlah perdagangan yang diizinkan.\n Jumlah perdagangan yang diizinkan {{@maxBet}}",
-	"chart-opens-in": "Aset akan tersedia dalam:",
-	"hint-activate-tment-wallet": "Tekan di sini untuk mulai menggunakan akun kontes",
-	"largest-profit-banner-on-the-asset": "pada aset",
-	"largest-profit-banner-button-trade-caption": "Perdagangan",
-	"largest-profit-banner-button-trade-caption-2": "Berdagang sekarang",
-	"largest-profit-banner-text": "Waktu terbaik untuk trading aset",
-	"largest-profit-banner-text-2": "Waktu yang sangat terpat untuk berdagang",
-	"largest-profit-height-profit": "Peningkatan profitabilitas",
-	"largest-profit-height-profit-2": "Profitabilitas tinggi hingga",
-	"offer-expires-in": "Penawaran berakhir dalam:",
-	"offer-expires-in-2": "Penawaran berakhir dalam:",
-	"warning": "Peringatan",
-	"banner-tech-works-info-caption": "Pembaruan teknis",
-	"banner-tech-works-info-content": "Kami selalu berupaya meningkatkan platform trading kami.\n Saat ini, platform sedang diperbarui.\n Kami mohon maaf atas ketidaknyamanannya.",
-	"confirm-email-content": "Konfirmasikan alamat email Anda. Klik tombol berikut untuk mengirimkan ulang email dengan tautan konfirmasi.",
-	"confirm-email-caption": "Aktivasi ulang akun",
-	"reload": "Muat ulang",
-	"resend-confirmation": "Kirim ulang",
-	"resend-confirmation-again": "Coba lagi",
-	"confirmation-mail-sent": "Terkirim",
-	"banner-not-enough-funds-for-tment": "Dana di akun Anda tidak mencukupi. Isi ulang akun Anda untuk mengikuti kontes.",
-	"tment-reenter-not-allowed": "Anda tidak dapat melakukan pembelian tambahan jika masih ada transaksi terbuka.",
-	"fill-profile-wrong-phone": "Nomor telepon tidak valid",
-	"fill-profile-wrong-name": "Nama tidak valid",
-	"fill-profile-wrong-surname": "Nama belakang tidak valid",
-	"fill-user-wrong-promocode": "Kode promo tidak valid",
-	"wrong-promocode-max-sum": "Maximum amount to activate promo code {{@sum}}",
-	"wrong-promocode-min-sum": "Jumlah minimum untuk mengaktifkan kode promo {{@sum}}",
-	"wrong-withdrawal-min-sum": "Jumlah minimum {{@sum}}",
-	"wrong-withdrawal-max-sum": "Jumlah penarikan maksimum {{@sum}}",
-	"wrong-promocode-expired": "Kedaluwarsa",
-	"wrong-promocode-only-for-second-deposit": "Tersedia hanya untuk deposit kedua dan berikutnya",
-	"wrong-promocode-only-for-first-deposit": "Hanya tersedia untuk deposit pertama",
-	"wrong-promocode-used": "Kode promo sudah ditukarkan",
-	"fill-user-wrong-phone": "Nomor telepon tidak valid",
-	"fill-user-wrong-card": "Nomor kartu tidak valid",
-	"fill-user-wrong-customer_purse": "Nomor rekening tidak valid",
-	"fill-user-wrong-name": "Nama tidak valid",
-	"fill-user-wrong-surname": "Nama belakang tidak valid",
-	"please-rotate-device": "Putar perangkat agar Anda dapat menggunakan terminal dengan mudah.",
-	"swipe-up-to-enter-fs": "Geser ke atas untuk masuk ke mode layar penuh",
-	"click-to-enter-fs": "Ketuk di mana saja pada layar untuk beralih ke mode layar penuh",
-	"reconnect": "Hubungkan kembali",
-	"reconnected": "Terhubung kembali!",
-	"free-reg": "Pendaftaran gratis",
-	"investments": "perdagangan",
-	"investments_short": "invest.",
-	"investment_short": "invest.",
-	"buy-time": "Waktu beli",
-	"total-investment": "Total investasi",
-	"total-income": "Total pembayaran",
-	"result": "Hasil",
-	"ur-income-would-be": "Profit Anda",
-	"create-account-for-free": "Buat akun secara gratis",
-	"resume-use-demo": "Lanjutkan mode demo",
-	"reg-request-message": "Jika Anda trading di situs web kami, Anda bisa menghasilkan {{@income}} saat ini. Jangan sia-siakan waktu lagi, mulai trading!",
-	"trade-without-restrictions": "Trading tanpa batasan",
-	"trade-without-restrictions-message": "Jika Anda ingin membuka lebih dari 5 perdagangan, buka akun trading riil dan trading tanpa batas. Untuk tetap menggunakan akun demo, harap tunggu penawaran Anda saat ini berakhir.",
-	"use-real-wallet": "Akun riil",
-	"support": "Dukungan",
-	"search-asset": "Cari aset",
-	"error-sending-email-confirmation": "Terjadi kesalahan saat mengirimkan email. Coba lagi nanti.",
-	"error-sending-email-confirmation-with-time": "Email baru dapat dikirimkan kepada Anda dalam waktu {{@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami.",
-	"risk-free-trades": "Perdagangan bebas risiko",
-	"count-trades-for-bet": "{{@count}} perdagangan untuk {{@sum}}",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "Putih",
-	"Red": "Merah",
-	"Pink": "Merah muda",
-	"Purple": "Ungu",
-	"Deep Purple": "Ungu Tua",
-	"Indigo": "Biru Nila",
-	"Blue": "Biru",
-	"Cyan": "Biru Kehijauan",
-	"Green": "Hijau",
-	"Light Green": "Hijau Muda",
-	"Lime": "Hijau Kekuningan",
-	"Yellow": "Kuning",
-	"Amber": "Kuning Kecokelatan",
-	"Orange": "Oranye",
-	"tournament-accounts": "Akun turnamen",
-	"activate-tournament-wallet": "Aktifkan dompet kontes",
-	"deposit-using-agreements-header": "Item bonus",
-	"deposit-using-agreements-p1": "Bonus adalah dana tambahan yang disediakan oleh perusahaan untuk meningkatkan potensi trading para trader.",
-	"deposit-using-agreements-p2": "Saat melakukan deposit, jumlah uang bonus tertentu dapat dikreditkan ke akun Anda, besaran bonus tergantung pada besaran deposit Anda.",
-	"deposit-using-agreements-p3": "Bonus tidak membatasi jumlah dana yang bisa Anda tarik: Anda bisa menarik profit beserta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus diterima di muka akan diubah ke statusnya menjadi tidak aktif dan akan didebit dari akun Anda.",
-	"choose-payment-method": "Pilih metode deposit",
-	"choose-payment-sum": "Pilih jumlah deposit",
-	"plus-value-bonus": "+ bonus {{@value}}",
-	"deposit-user-sum-value-caption": "Ingin memilih jumlah Anda sendiri? Gunakan kolom masukan",
-	"i-have-promocode": "Saya punya kode promo",
-	"requisiste-name-phone": "Telepon",
-	"no-bonus": "tidak ada bonus",
-	"refresh": "Segarkan",
-	"browser": "Peramban",
-	"make-a-deposit": "Lakukan deposit",
-	"cashbox-withdrawal-info-0-header": "Bagaimana cara menarik dana dari akun saya?",
-	"cashbox-withdrawal-info-0-content": "Opsi yang tersedia adalah: kartu bank, dompet elektronik Qiwi/Yandex Money/WebMoney. Pemilik akun mikro hanya boleh memiliki satu aplikasi aktif untuk menarik dana.",
-	"cashbox-withdrawal-info-1-header": "Berapakah jumlah minimum uang yang dapat ditarik dari akun?",
-	"cashbox-withdrawal-info-1-content": "Jumlah penarikan minimum — ₽300 atau $5 atau €5 atau A$5 atau ₴150. Jumlah penarikan maksimum dalam satu transaksi — ₽15.000 atau $200 atau €200 atau A$200 atau ₴6.000.",
-	"cashbox-withdrawal-info-2-header": "Bagaimana cara menarik uang yang lebih besar dari ₽15.000 atau $200 atau €200 atau A$200, atau ₴6.000?",
-	"cashbox-withdrawal-info-2-content": "Pembatasan ini ditetapkan untuk mencegah penarikan akun secara cepat. Jumlah yang melampaui batas yang ditetapkan hanya dapat ditarik dalam jangka waktu yang lebih lama. Jika Anda perlu menarik dalam jumlah besar, Anda dapat memecah penarikan dana Anda dalam nominal $200 atau €200 atau A$200, atau tambahan ₽15.000 atau ₴6.000. Jumlah permintaan penarikan yang dapat dilakukan tidak dibatasi. Jika Anda ingin melakukan penarikan yang lebih besar dalam satu pembayaran, hubungi tim dukungan platform. Jika akun Anda tidak terverifikasi, mungkin diperlukan waktu hingga tiga hari kerja untuk memproses permintaan penarikan dana. Anda tidak dapat mengajukan lebih dari satu permintaan penarikan dana per hari.",
-	"cashbox-withdrawal-info-3-header": "Seberapa cepat proses penarikan dana?",
-	"cashbox-withdrawal-info-3-content-a": "Diperlukan waktu satu jam untuk memproses permintaan, dengan asumsi bahwa permintaan tersebut diajukan selama jam kerja bagian keuangan platform dan akun Anda telah diverifikasi sesuai dengan persyaratan platform. ",
-	"cashbox-withdrawal-info-3-content-b": "Jam kerja departemen keuangan adalah hari Senin hingga Jumat pukul 10.00 hingga 22.00 (GMT +2). Jika Anda mengajukan permintaan penarikan dana di luar jam kerja departemen keuangan atau pada hari libur, maka permintaan Anda akan diproses pada awal hari kerja berikutnya. Jika akun Anda belum diverifikasi, maka permintaan penarikan dana Anda akan diproses dalam waktu tiga hari kerja. Anda tidak dapat mengirimkan lebih dari satu permintaan penarikan dana per hari.",
-	"cashbox-withdrawal-info-4-header": "Kebijakan penarikan",
-	"cashbox-withdrawal-info-4-content-a": "Klien harus menyatakan semua data yang diminta pada bagian \"Pengaturan Profil\" untuk memastikan bahwa permintaan mereka telah diproses sebagaimana mestinya. Jika telah ditentukan bahwa ada masukan data yang tidak akurat atau tidak lengkap, permintaan penarikan dana Anda dapat ditolak atau ditunda.",
-	"cashbox-withdrawal-info-4-content-b": "Dana ditarik ke rekening bank yang sama (atau sistem pembayaran yang sama) yang digunakan untuk mendanai akun Anda. Jika tidak memungkinkan untuk menyelesaikan transaksi, maka Anda harus menghubungi layanan dukungan baik dengan cara memulai chat online atau mengirimkan permintaan dukungan ke support@binarium.com.",
-	"cashbox-withdrawal-info-5-header": "Apakah saya harus menyediakan dokumen saat menarik dana? Jika ya, dokumen apa saja?",
-	"cashbox-withdrawal-info-5-content-a": "Harap lengkapi semua data pribadi Anda pada bagian \"Pengaturan Profil\" untuk memastikan penarikan yang cepat. Jika Anda menggunakan beberapa kartu bank atau detail pembayaran yang tidak cocok dengan data pribadi yang telah Anda berikan saat pendaftaran, Anda perlu menjalani seluruh proses otorisasi dan membuktikan bahwa kartu tersebut benar-benar milik Anda. Dana mungkin tidak dapat ditarik ke akun pihak ketiga. ",
-	"cashbox-withdrawal-info-5-content-b": "Untuk menyelesaikan proses verifikasi, berikan salinan paspor dan bagian depan kartu bank Anda yang dipindai ke support@binarium.com sehingga nama depan dan belakang pemilik dapat terlihat. Jika kartu yang Anda miliki bukan kartu yang dicetak timbul, maka Anda harus mengirimkan salinan laporan bank yang dipindai yang menampilkan suatu transaksi dari kartu ini ke akun Binarium Anda sebagai tambahan untuk salinan paspor Anda. Perusahaan berhak untuk mensyaratkan dokumen pendukung tambahan jika data pemilik kartu dan akun trading tidak cocok.",
-	"cashbox-withdrawal-info-6-header": "Dengan syarat apa yang memungkinkan penarikan dana bonus?",
-	"cashbox-withdrawal-info-6-content-a": "Bonus itu sendiri tidak dapat segera ditarik setelah ditambahkan. Pialang mengkreditkan uang ini pada akun Anda sebagai bonus untuk meningkatkan peluang trading Anda. Bunga yang Anda dapatkan dari hasil dari penggunakan dana bonus juga merupakan sebuah bonus, dan hanya tersedia untuk ditarik setelah omzet perdagangan yang diperlukan tercapai. Untuk menarik bonus itu sendiri, Anda harus mencapai omzet x40 dari jumlah bonus di akun. Jika Anda diberi bonus tanpa deposit, maka leverage dinaikkan menjadi 50, artinya, omset pada akun harus setara dengan bonus x50 dan jumlah penarikan maksimum tidak boleh melampaui jumlah bonus tanpa deposit yang telah ditambahkan. Hadiah uang tunai yang dimenangkan dalam kontes gratis dari perusahaan dianggap sebagai bonus dan siap untuk ditarik setelah mencapai omzet x40.",
-	"cashbox-withdrawal-info-6-content-b": "Misalnya: Saat melakukan deposit, Anda memperoleh $150 sebagai bonus. Menurut aturan, Anda harus mencapai nilai total opsi yang dibeli senilai 30 x 150 = $4.500. Setelah nilai ini tercapai, Anda dapat menarik dana bonus. Dalam hal ini, transaksi yang menguntungkan dan tidak menguntungkan akan diperhitungkan. Transaksi yang dihentikan sebelum waktunya tidak termasuk dalam omset. Tidak ada batasan untuk penarikan profit.",
-	"cashbox-withdrawal-info-6-content-c": "Jika Anda akan menarik sebagian deposit, bonus akan secara otomatis dikurangkan dari akun Anda.",
-	"cashbox-withdrawal-info-6-content-d": "Jika Anda memiliki pertanyaan, hubungi layanan dukungan Binarium.",
-	"cashbox-withdrawal-info-7-header": "Saya tidak dapat melakukan permintaan penarikan dana untuk akun saya. Apa yang mungkin salah?",
-	"cashbox-withdrawal-info-7-content": "Pertama, periksa apakah semua informasi pribadi Anda telah terdaftar di laman profil Anda pada bagian \"Profil\". Sekali lagi, pastikan Anda memasukkan semua informasi dengan benar pada saat Anda mengirimkan permintaan Anda. Karakter khusus seperti +, -, / dll. tidak valid. Jika semua informasi yang dimasukkan sudah benar, tetapi tetap ada masalah, hubungi layanan dukungan pelanggan kami melalui chat online atau di support@binarium.com.",
-	"deposit-info-1": "Bonus adalah dana tambahan yang disediakan oleh perusahaan untuk meningkatkan potensi trading para trader",
-	"deposit-info-2": "Saat melakukan deposit, jumlah uang bonus tertentu dapat dikreditkan ke akun Anda, besaran bonus tergantung pada besaran deposit Anda.",
-	"deposit-info-3": "Bonus tidak membatasi jumlah dana yang bisa Anda tarik: Anda bisa menarik profit beserta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus yang tidak digunakan dalam perdagangan dengan omzet x40 akan diubah statusnya menjadi tidak aktif dan akan didebit dari akun Anda.",
-	"withdrawal-heading": "Permintaan Anda akan diproses dalam waktu 24 jam sejak Anda mengirimkannya.",
-	"withdrawal-content": "Jika pengajuan disampaikan di luar jam kerja departemen keuangan perusahaan, pengajuan tersebut akan diproses pada hari kerja berikutnya.",
-	"withdrawal-restricted-content": "Batas penarikan untuk <span class=\"open-act-button\">jenis akun</span> Anda telah terlampaui",
-	"withdrawal-amount-caption": "Jumlah pembayaran",
-	"withdrawal-type-caption": "Metode penarikan dana",
-	"withdrawal-button-caption": "Tarik dana",
-	"requisite-name-card": "Nomor kartu",
-	"requisite-name-phone": "Telepon",
-	"requisite-name-customer_purse": "Dompet pelanggan",
-	"withdrawal-request-sent": "Permintaan dimasukkan dalam antrean",
-	"withdrawal-request-sent-extra-info": "Anda dapat melacak status permintaan pada bagian \"Riwayat Transaksi\".",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "Visa/Mastercard",
-	"videohub": "Edukasi",
-	"asset-type-all": "Semua",
-	"asset-type-currency": "Mata uang",
-	"asset-type-crypto": "Kripto",
-	"asset-type-goods": "Barang",
-	"asset-type-countries": "Negara",
-	"asset-type-leaders": "Pemimpin",
-	"cashbox-withdrawal-info": "Diperlukan beberapa waktu untuk memproses permintaan. Biasanya diperlukan waktu hingga 24 jam untuk meninjau permintaan selama jam kerja oleh departemen keuangan. Kami dengan gembira melaporkan bahwa kami tidak membekukan saldo Anda selagi Anda menunggu permintaan penarikan disetujui. Dengan begitu, Anda dapat terus melakukan trading.",
-	"expiration-caption-16": "Dalam 24 jam",
-	"trends": "Tren",
-	"show-chart": "Tampilkan grafik",
-	"hide-chart": "Sembunyikan grafik",
-	"trend-active": "Aktif",
-	"trend-non-active": "Semua",
-	"trends-is-empty": "Tren sedang diperbarui",
-	"what-are-trends": "Apa itu tren?",
-	"what-are-trends-advice-content": "Tren adalah alat trading khusus agar Anda dapat secara cepat menemukan aset dengan potensi yang menguntungkan (dengan arah harga yang jelas) dan membuka perdagangan sesuai arah tren.",
-	"not-enough-money-for-trends-detailed": "Alat trading unik dari Binarium tersedia bagi pelanggan dengan saldo riil lebih dari {{@balance}}. Peluang menjanjikan:",
-	"get-access-to-trends": "Dapatkan akses ke berbagai tren",
-	"trends-features-one": "Lacak semua tren aset di pasar",
-	"trends-features-two": "Membuka perdagangan secara instan sesuai dengan arah tren saat tren itu muncul",
-	"month-0": "Jan",
-	"month-1": "Feb",
-	"month-2": "Mar",
-	"month-3": "Apr",
-	"month-4": "Mei",
-	"month-5": "Juni",
-	"month-6": "Juli",
-	"month-7": "Agu",
-	"month-8": "Sep",
-	"month-9": "Okt",
-	"month-10": "Nov",
-	"month-11": "Des",
-	"day-0": "Sen",
-	"day-1": "Sel",
-	"day-2": "Ra",
-	"day-3": "Ka",
-	"day-4": "Ju",
-	"day-5": "Sa",
-	"day-6": "Mi",
-	"trading-room": "Ruang trading",
-	"trading-room-entering-time": "Waktu masuk",
-	"trading-room-expiration": "Masa berlaku",
-	"trading-room-strength": "Kekuatan",
-	"trading-room-strike-price": "Harga kesepakatan",
-	"trading-room-is-empty": "Tidak ada sinyal. Periksa Ruang Trading nanti.",
-	"demo-stats-banner-header-caption": "Luar biasa!",
-	"demo-stats-banner-header-caption-2": "Selamat!",
-	"demo-stats-banner-you-earned-on-demo": "Anda telah menghasilkan uang di akun demo.",
-	"demo-stats-banner-total-deals-amount": "Total perdagangan",
-	"demo-stats-banner-successfull-deals-percentage": "Persentase perdagangan yang berhasil",
-	"demo-stats-banner-real-account-opening-request": "Buka akun riil untuk menarik penghasilan Anda",
-	"demo-stats-banner-open-real-account-button-caption": "Buka akun riil",
-	"demo-stats-banner-keep-trading-on-demo": "Tetap dalam akun demo",
-	"demo-stats-banner-you-have-done": "Anda memasang",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "perdagangan berturut-turut",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "trading yang profit secara berturut-turut",
-	"demo-stats-banner-earning-on-demo-account": "penghasilan di akun demo Anda",
-	"demo-stats-banner-closed-in-a-row-2": "perdagangan menguntungkan",
-	"tour-next-button-caption": "Lanjutkan",
-	"tour-reading-duration-caption": "Membaca selama 4 menit.",
-	"tour-slides-steps-count": "Langkah {{@currentSlide}} dari {{@totalSlidesCount}}",
-	"tour-slide-0-caption": "Selamat datang ke platform trading Binarium",
-	"tour-slide-0-content": "Peragaan singkat ini akan memperkenalkan prinsip dasar trading dan antarmuka platform Binarium.",
-	"tour-slide-0-content-1": "Baca dengan cermat semua kartu untuk mempelajari cara trading yang lebih efektif di platform.",
-	"tour-slide-0-content-2": "Peragaan singkat ini akan memperkenalkan prinsip dasar trading dan antarmuka platform Binarium.",
-	"tour-slide-0-content-3": "Menu utama ada di sebelah kiri. Misalnya, Anda dapat mengisi akun Anda pada bagian <span class=\"bold\">Bank</span>. Dan Anda dapat memesan perdagangan menggunakan trader terbaik di platform pada bagian <span class=\"bold\">Ruang trading</span>!",
-	"tour-slide-0-content-3-port": "Menu utama ada di sebelah kiri. Misalnya, Anda dapat melakukan deposit pada bagian <span class=\"bold\">Bank</span>. Dan Anda dapat melakukan perdagangan dengan bantuan trader terbaik di platform pada bagian <span class=\"bold\">Ruang trading</span>!",
-	"tour-slide-0-extra-info": "Baca dengan cermat semua kartu untuk mempelajari cara trading yang lebih efektif di platform.",
-	"tour-slide-1-caption": "Bagaimana cara menghasilkan uang di platform?",
-	"tour-slide-1-content": "<span class=\"bold\">Platform trading memungkinkan Anda melakukan trading</span> dengan melakukan investasi jangka pendek pada aset keuangan: kurs pasangan mata uang, mata uang kripto, komoditas, dan instrumen keuangan lainnya.",
-	"tour-slide-2-caption": "Apakah prinsip dasar di balik trading?",
-	"tour-slide-2-content-a": "Perdagangan adalah suatu prediksi tentang bagaimana harga suatu aset keuangan akan berubah selama jangka waktu tertentu. Investor melakukan perdagangan <span class=\"green\">jangka panjang</span> maupun <span class=\"red\">jangka pendek</span>.",
-	"tour-slide-2-content-b": "Jika prediksi Anda ternyata benar, Anda akan menerima pendapatan. Jika prediksi Anda salah, maka Anda akan kehilangan semua dana yang Anda investasikan.",
-	"tour-slide-3-caption": "Bagaimana cara melakukan trading di platform Binarium?",
-	"tour-slide-3-content": "<span class=\"bold\">Pilih aset</span> yang ingin Anda prekdisikan tren harganya.",
-	"tour-slide-4-caption": "Bagaimana cara melakukan trading di platform Binarium?",
-	"tour-slide-4-content": "<span class=\"bold\">Pilih besaran investasi Anda.</span>",
-	"tour-slide-5-caption": "Bagaimana cara melakukan trading di platform Binarium?",
-	"tour-slide-5-content": "<span class=\"bold\">Buka perdagangan</span> setelah Anda membuat prediksi bahwa harga akan<span class=\"green\">naik</span> atau <span class=\"red\">turun</span>. Tunggu sampai trading ditutup.",
-	"tour-slide-6-caption": "Semoga sukses dalam trading di platform Binarium",
-	"tour-slide-6-additional-caption": "Jika prediksi Anda benar, profit akan otomatis dikreditkan pada akun trading Anda.",
-	"tour-slide-6-a-trading-rules": "Ketentuan trading",
-	"tour-slide-6-a-card-0-caption": "Jumlah pendapatan yang akan Anda terima dari prediksi yang berhasil:",
-	"tour-slide-6-a-card-0-content-1": "hingga {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "dari jumlah investasi yang Anda akan terima dari prediksi yang berhasil.",
-	"tour-slide-6-a-card-1-caption": "besaran deposit minimum untuk trading.",
-	"tour-slide-6-a-card-1-content": "dari {{@minWithdrawal}}",
-	"tour-slide-6-a-card-2-caption": "rata-rata waktu yang diperlukan untuk menarik dana:",
-	"tour-slide-6-a-card-2-content": "30 menit",
-	"tour-slide-6-a-card-3-caption": "Deposit dana ke akun riil untuk mulai trading:",
-	"tour-slide-6-a-card-3-button-caption": "Deposit dana dan mulai trading",
-	"tour-slide-6-a-dont-show-again": "Tutup tur platform",
-	"tour-slide-6-b-trading-rules": "Ketentuan trading",
-	"tour-slide-6-b-card-0-caption": "Jumlah pendapatan yang akan Anda terima dari prediksi yang berhasil:",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">Hingga 90%</span> dari jumlah investasi Anda.",
-	"tour-slide-6-b-card-1-caption": "besaran deposit minimum untuk trading.",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "waktu rata-rata yang diperlukan untuk menarik dana.",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> menit",
-	"tour-slide-6-b-card-3-caption": "Pelajari cara trading tanpa risiko menggunakan akun demo",
-	"tour-slide-6-b-card-3-button-caption": "Trading menggunakan akun demo",
-	"tour-slide-6-b-dont-show-again": "Tutup tur platform",
-	"user-terms-caption": "Trading dengan sekali klik",
-	"what-is-trading-room": "Apa itu ruang trading?",
-	"what-is-trading-room-advice-content": "Ruang trading adalah suatu alat praktis yang memungkinkan Anda menyalin transaksi dari para trader terbaik di platform dengan sekali klik. Berkat alat ini, Anda dapat meningkatkan efisiensi perdagangan dan menghemat waktu.",
-	"not-enough-money-for-trading-room-detailed": "Trading dan hasilkan uang dengan para trader terbaik di platform Binarium menggunakan ruang trading. Isi saldo riil Anda sebesar {{@minBalance}} dan dapatkan manfaat berikut:",
-	"get-access-to-trading-room": "Akses ke ruang trading",
-	"have-access-to-trading-room": "Untuk mendapatkan akses ke \"Ruang Trading\", hubungi manajer Anda atau layanan dukungan.",
-	"trading-room-features-one": "Perhatikan transaksi-transaksi dari trader paling sukses di platform",
-	"trading-room-features-two": "Salin transaksi dan hasilkan profit",
-	"trading-room_1-title": "Trading bersama",
-	"trading-room_1-text": "Perhatikan transaksi-transaksi dari trader paling sukses di platform.",
-	"trading-room_2-title": "Manfaatkan pengalaman sukses orang lain",
-	"trading-room_2-text": "Salin perilaku trader lain dan hasilkan profit!",
-	"trading-room_refill": "Untuk mengakses \"Ruang Trading\", isi ulang saldo Anda pada",
-	"account_level": "Level akun",
-	"modal-confirm_title": "Konfirmasikan alamat email Anda",
-	"modal-confirm_text-1": "Kami sudah mengirimkan email dengan tautan konfirmasi kepada Anda.",
-	"modal-confirm_text-2": "Anda belum menerima email berisi tautan konfirmasi? Periksa folder \"Spam\" Anda. Kadang kala, pesan masuk ke sana. Atau minta agar pesan dikirimkan lagi kepada Anda.",
-	"modal-confirm_button": "Kirim pesan lagi",
-	"modal-confirm_error-1-1": "Email baru dapat dikirimkan kepada Anda dalam {@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami atau",
-	"modal-confirm_error-1-2": "hubungi layanan dukungan.",
-	"modal-confirm_support": "Hubungi bagian dukungan",
-	"timer_days": "hari",
-	"timer_hours": "jam",
-	"timer_minutes": "menit",
-	"timer_seconds": "detik",
-	"tournament_button": "Ikuti kontes",
-	"modal-oneclick_title": "Trading dengan sekali klik",
-	"modal-oneclick_text": "Harap perhatikan bahwa Anda dapat membuka perdagangan di platform hanya dengan sekali klik. Tidak ada konfirmasi tambahan.",
-	"modal-oneclick_button": "Terima dan lanjutkan",
-	"modal-tbalance_title": "Isi ulang akun Anda",
-	"modal-tbalance_text": "Dana di akun Anda tidak mencukupi. Isi ulang dana di akun Anda untuk mengikuti kontes.",
-	"modal-tbalance_button": "Lakukan deposit",
-	"modal-tech_title": "Kami akan segera menanggapi Anda!",
-	"modal-tech_text-1": "Kami terus-menerus meningkatkan platform perdagangan ini dan akan menyelesaikan pembaruan segera. Kami mohon maaf atas ketidaknyamanan Anda.",
-	"modal-tech_text-2": "Sisa waktu hingga pekerjaan selesai:",
-	"modal-tech_button": "Lanjutkan",
-	"modal-session_title": "Perhatian",
-	"modal-session_text-1": "Pasar saham tutup pada akhir pekan.",
-	"modal-session_text-2": "Platform trading dapat diakses",
-	"modal-session_text-3": "antara pukul 03.00 pada hari Senin hingga pukul 00.00 pada hari Jumat.",
-	"modal-session_text-4": "Sesi trading Anda akan dimulai dalam:",
-	"modal-session_button": "Lanjutkan",
-	"modal-tn_title": "Selamat datang di",
-	"modal-tn_text-1": "Trader dengan saldo terbanyak pada akhir kontes akan menjadi pemenang.",
-	"modal-tn_text-2": "Aset yang tersedia:",
-	"modal-tn_text-3": "Jenis transaksi yang tersedia:",
-	"modal-tn_button": "Mulai",
-	"modal-nickname_title": "Pilih nama panggilan",
-	"modal-nickname_text": "Untuk ikut serta dalam kontes, masukkan nama panggilan yang merepresentasikan Anda pada daftar peserta kontes. Anda dapat mengubahnya di pengaturan profil kapan saja.",
-	"modal-nickname_button": "Simpan dan lanjutkan",
-	"modal-nickname_placeholder": "Silakan masukkan nama panggilan Anda",
-	"modal-profile_title": "Informasi tambahan",
-	"modal-profile_text": "Berikan informasi tambahan untuk terus bekerja di platform.",
-	"modal-profile_name": "Nama depan",
-	"modal-profile_surname": "Nama belakang",
-	"modal-profile_phone": "Nomor telepon (dengan kode negara)",
-	"modal-profile_button": "Mulai trading",
-	"modal-profile_aside": "Keamanan data pribadi Anda dijamin.",
-	"form-error_required": "Bidang ini tidak boleh kosong",
-	"form-error_name-short": "Nama terlalu pendek.",
-	"form-error_name-format": "Hanya boleh menggunakan huruf",
-	"form-error_surname-short": "Nama belakang terlalu pendek.",
-	"form-error_surname-format": "Hanya boleh menggunakan huruf",
-	"form-error_phone-format": "Nomor harus dalam format internasional",
-	"srv-err_asset-is-disabled": "Aset dinonaktifkan",
-	"srv-err_asset-is-disabled-for-this-tournament": "Aset dinonaktifkan untuk turnamen ini",
-	"srv-err_binary-is-disabled-for-this-tournament": "Aset dinonaktifkan untuk turnamen ini",
-	"srv-err_turbo-is-disabled-for-this-tournament": "Aset dinonaktifkan untuk turnamen ini",
-	"tournament@btn.paid-participate": "Biaya pendaftaran",
-	"tournament@info.paid": "Turnamen berbayar",
-	"faq@title": "Pertanyaan dan jawaban",
-	"menu@faq": "T&J",
-	"menu@education": "Edukasi",
-	"menu@qa": "Pertanyaan dan jawaban",
-	"menu@strategies": "Strategi",
-	"menu@btn$back": "Kembali",
-	"cashbox@no-bonus": "Tidak menerima bonus",
-	"wallet-menu@real-title": "Dana riil",
-	"wallet-menu@bonus-title": "Dana bonus",
-	"wallet-menu@wager-title": "Turnover untuk menarik bonus",
-	"wallet-menu@wager-link": "Baca lebih lanjut tentang bonus",
-	"modal-bonus@title": "Anda menggunakan dana bonus",
-	"modal-bonus@text": "Ukuran perdagangan melebihi dana riil yang tersedia. Maka pada pembukaan transaksi, dana bonus Anda akan digunakan:",
-	"modal-bonus@deal-size": "Ukuran perdagangan",
-	"modal-bonus@real-size": "Dana riil",
-	"modal-bonus@bonus-size": "Dana bonus",
-	"modal-bonus@info": "Semua dana yang diterima sebagai bagian dari perdagangan akan dikreditkan ke akun bonus Anda.",
-	"modal-bonus@faq": "Peraturan penggunaan dana bonus",
-	"modal-bonus@btn-cancel": "Batalkan",
-	"modal-bonus@btn-continue": "Terima dan lanjutkan",
-	"modal-bonus@disable": "Jangan tampilkan pesan ini lagi",
-	"trends@restrict-title": "Insufficient funds in your account",
-	"trends@restrict-text": "To unlock the Trends section, your account balance must be at least",
-	"asset-menu@title": "Aset",
-	"asset-menu@available": "Aset yang dapat diperdagangkan",
-	"asset-menu@profitable": "Aset dengan profitibilitas yang ditingkatkan",
-	"asset-menu@interval": "men.",
-	"confirm-trade@header": "Konfirmasi trading",
-	"confirm-trade@timer": "Jendela menutup otomatis dalam {{@data}} d",
-	"confirm-trade@heading": "Bagus! Anda akan mengonfirmasi trading. Periksa detailnya berikut ini:",
-	"confirm-trade@asset": "Aset",
-	"confirm-trade@direction": "Arah",
-	"confirm-trade@investment": "Investasi",
-	"confirm-trade@price": "Harga saat ini",
-	"confirm-trade@profitability": "Profitabilitas",
-	"confirm-trade@payout": "Potensi pendapatan",
-	"confirm-trade@btn-cancel": "Batalkan",
-	"confirm-trade@btn-confirm": "Konfirmasi",
-	"plot@loading": "Memuat",
-	"plot@lock-time": "Kunci waktu",
-	"plot@expiration-time": "Masa kedaluwarsa",
-	"tr-empty@text": "Dalami dunia trading secara mendetail bersama para profesional. Tiru perdagangan dari para trader paling sukses di platform dan hasilkan lebih banyak uang.",
-	"tr-empty@business": "Ruang trading terbuka bagi trader dengan akun Bisnis dan di atasnya. Dua sesi trading 4-jam pada hari kerja. Sekitar 30 sinyal dari para trader profesional setiap hari. Jangan sia-siakan waktu Anda untuk mempelajari segala sesuatunya sendiri — trader terbaik di Binarium telah mempelajari semuanya untuk Anda.",
-	"tr-empty@vip": "Para klien VIP kami mendapatkan semua hak istimewa ruang trading, termasuk sinyal pribadi dan kerja sama secara individu dengan trader perusahaan yang akan menjawab semua pertanyaan Anda, menjelaskan tren pasar saat ini dan menyarankan bidang-bidang yang berpotensi tinggi. Ini adalah cara terbaik untuk medapatkan hasil yang terbaik dari trading.",
-	"tr-empty@open-btn": "info selengkapnya • masuk",
-	"tr-empty@deposit-btn": "buka pembayaran • masuk",
-	"tr-empty@vip-signals": "+ sinyal penting",
-	"hb@menu-btn": "Menu",
-	"ac-types@title": "Jenis akun",
-	"ac-types@label_depositSum": "Jumlah deposit",
-	"ac-types@label_tradeback": "Tradeback",
-	"ac-types@label_tradebackEnrolment": "Poin Tradeback",
-	"ac-types@label_assets": "Aset trading",
-	"ac-types@label_withdrawalCountLimit": "Permintaan penarikan, per hari",
-	"ac-types@label_withdrawalAmountLimit": "Batas penarikan, per bulan",
-	"ac-types@label_withdrawalDayAmountLimit": "Batas penarikan, per hari",
-	"ac-types@label_tradingRoom": "Ruang trading",
-	"ac-types@label_openDealsSum": "Jumlah trading terbuka maksimum (dalam satu waktu)",
-	"ac-types@value_real": "Dana riil",
-	"ac-types@value_bonus": "Bonus",
-	"ac-types@value_nolimit": "Tanpa batas",
-	"ac-types@btn": "tingkatkan",
-	"ac-types@self": "Akun Anda",
-	"ac-types@tradeback-hint": "Tradeback — pengembalian sebagian dana dari perdagangan yang merugi. Dikreditkan setiap hari Kamis pukul 12.00 (0.00 UTC)",
-	"video-tutorial@title": "Cara memulai trading di Binarium dalam 90 detik",
-	"video-tutorial@checkbox": "Jangan tampilkan video ini lagi",
-	"user-menu@account-types": "Jenis akun",
-	"withdrawal-error@amount-limit": "Batas penarikan telah terlampaui",
-	"withdrawal@limit-with-counter": "Batas penarikan dana telah terlampaui.<br><span class=\"open-act-button\">Jenis akun</span> Anda memungkinkan {{@limitCount}} permintaan yang totalnya {{@limitAmount}}.<br>Anda dapat membuat permintaan lain dalam {{@limitTime}}.",
-	"promo-gift@bonus": "bonus",
-	"promo-gift@freeSpins": "Perdagangan bebas risiko",
-	"promo-gift@tradeRoom": "ruang trading",
-	"promo-gift@tickets": "tiket",
-	"settings@quality-title": "Mutu grafik",
-	"settings@quality-hint": "Kelola beban perangkat Anda dengan mengubah pengaturan mutu grafis. Mutu standar membantu menghemat sumber daya dan memuat platform lebih cepat, walaupun ada sedikit penurunan mutu grafis.",
-	"settings@quality-option-base": "Dasar",
-	"settings@quality-option-average": "Biasa",
-	"settings@quality-option-best": "Tinggi",
-	"history@group$active": "Perdagangan aktif",
-	"history@group$finished": "Perdagangan yang selesai",
-	"st@level$all": "Semua",
-	"st@level$easy": "Sederhana",
-	"st@level$base": "Dasar",
-	"st@level$advanced": "Lanjutan",
-	"promo@btn$details": "Baca selengkapnya",
-	"promo@timer$name": "Promo berakhir dalam",
-	"promo@until": "hingga",
-	"wallet@btn$refill": "Tambah dana akun demo",
-	"tournament@prize-fund": "Dana hadiah",
-	"tournament@prize-places": "Posisi teratas",
-	"tournament@tab$restrictions": "Syarat dan Ketentuan",
-	"tournament@tab$rating": "Peringkat peserta",
-	"tournament@tab$current": "Saat Ini",
-	"tournament@tab$soon": "Segera hadir",
-	"tournament@timer$start": "Kontes dimulai dalam",
-	"tournament@timer$end": "Kontes berakhir dalam",
-	"section@title$bet": "Perdagangan",
-	"bet@tab$deposit": "Deposit",
-	"forecast@deal": "Perdagangan",
-	"forecast@deals": "Perdagangan",
-	"promo@days-short": "h.",
-	"settings@group$region": "Pengaturan wilayah",
-	"settings@group$design": "Desain",
-	"menu@account-type": "Jenis akun",
-	"menu@profile": "Profil pengguna",
-	"leaderboard@tournament": "Kontes",
-	"leaderboard$toggle@open": "Peringkat lengkap",
-	"leaderboard$toggle@close": "Tutup",
-	"disabled-timer@title": "Dibuka dalam",
-	"open-option$total$deals": "invest.",
-	"open-option$total$invest": "Total investasi",
-	"open-option$total$payout": "Total pembayaran",
-	"chat-button@text": "bantuan<br>online",
-	"accounts@popular": "Pilihan populer",
-	"settings@animation": "Animasi poin",
-	"settings@animation-disabled": "Nonaktif",
-	"settings@animation-enabled": "Aktif"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","Yth. Pengguna!"
+"error","Eror"
+"settings","Pengaturan"
+"settings-2","Pengaturan terminal"
+"regionalSettings","Pengaturan wilayah"
+"timezone","Zona waktu"
+"timezone-2","Zona Waktu"
+"language","Bahasa"
+"skin-theme","Tema"
+"ui-zoom","Zoom"
+"ui-zoom-2","Skala"
+"investment","Perdagangan"
+"payout","Pembayaran"
+"options","Opsi"
+"quote","Penawaran"
+"time","Waktu"
+"past","Closed"
+"active","Dibuka"
+"value","Nilai"
+"add","Tab baru"
+"add-new-chart","Tambah grafik baru"
+"charts-arrangement","Kisi grafik"
+"turbo-cap","1—5 mnt"
+"count-chart","{{@count}} grafik"
+"count-charts","{{@count}} grafik"
+"one-chart","1 grafik"
+"two-charts","2 grafik"
+"three-charts","3 grafik"
+"four-charts","4 grafik"
+"refill","Deposit"
+"wallets-types","Jenis akun"
+"history","Riwayat"
+"cashbox","Perbankan"
+"education","Edukasi"
+"education@category$videos","Educational <span>video</span>"
+"promos","Bonus"
+"trading-history","Riwayat trading"
+"section-under-construction","Bagian ini sedang diperbaiki"
+"count-purchase","{{@count}} perdagangan"
+"count-purchases","{{@count}} #{trades@trade?count}"
+"total-payout","Total pembayaran"
+"cancel","Batalkan"
+"apply","Terapkan"
+"period","Periode"
+"stochastic-smoothing","Penghalusan"
+"stochastic-overbought","Jenuh beli"
+"stochastic-oversold","Jenuh jual"
+"fast-stochastic-period","Periode garis cepat"
+"slow-stochastic-period","Periode garis lambat"
+"fast-stochastic-line-color","Warna garis cepat"
+"slow-stochastic-line-color","Warna garis lambat"
+"fast-stochastic-line-thickness","Ketebalan garis cepat"
+"fast-macd-period","Periode garis cepat"
+"slow-macd-period","Periode garis lambat"
+"signal-macd-period","Periode sinyal"
+"fast-macd-line-thickness","Ketebalan garis cepat"
+"signal_line_color","Warna garis sinyal"
+"oversold","Oversold"
+"macd_color","Warna"
+"line-thickness","Ketebalan garis"
+"line-color","Warna Garis"
+"line-offset","Pergeseran garis"
+"top-line-thickness","Ketebalan garis atas"
+"mid-line-thickness","Ketebalan garis tengah"
+"slow_period","Periode lambat"
+"fast_period","Periode cepat"
+"short_period","Periode pendek"
+"long_period","Periode panjang"
+"offset","Offset"
+"bottom-line-thickness","Ketebalan garis bawah"
+"bottom-line-period","Periode batas pemasukan"
+"top-line-color","Warna garis atas"
+"top-line-period","Periode pendapatan kotor"
+"mid-line-color","Warna garis tengah"
+"mid-line-period","Periode keuntungan kotor"
+"bottom-line-color","Warna garis bawah"
+"teeth-line-color","Warna garis gigi (merah)"
+"jaws-line-color","Warna garis rahang (biru)"
+"lips-line-color","Warna garis bibir (hijau)"
+"jaws-period","Periode rahang"
+"jaws-offset","Offset rahang"
+"teeth-period","Periode gigi (merah)"
+"teeth-offset","Offset gigi"
+"lips-period","Periode bibir (hijau)"
+"lips-offset","Offset bibir"
+"indice-lines-position","Posisi garis indikator"
+"major-line-thickness","Ketebalan garis utama"
+"top-signal-line-thickness","Ketebalan garis sinyal atas"
+"bottom-signal-line-thickness","Ketebalan garis sinyal bawah"
+"top-signal-line-color","Warna garis sinyal atas"
+"bottom-signal-line-color","Warna garis sinyal bawah"
+"fast-stoch-color","Warna stokastik cepat"
+"low-stoch-color","Warna stokastik lambat"
+"low-stoch-period","Periode stokastik lambat"
+"fast-stoch-line-thickness","Ketebalan garis stokastik cepat"
+"low-stoch-line-thickness","Ketebalan garis stokastik lambat"
+"small-period","Periode kecil"
+"big-period","Periode besar"
+"small-period-width","Lebar periode kecil"
+"big-period-width","Lebar periode besar"
+"signal-period-width","Lebar periode sinyal"
+"bars-color","Warna bar"
+"bars-color-maofmacd","Warna bar MA dari MACD"
+"smoothing-period","Periode penghalusan"
+"adx-minus-di-color","Warna -DI"
+"adx-plus-di-color","Warna +DI"
+"adx-line-color","Warna garis ADX"
+"sar-default-acceleration","Akselerasi baku"
+"acceleration-step","Langkah akselerasi"
+"max-acceleration","Akselerasi maks"
+"chikou-line-thickness","Ketebalan Chikou"
+"chikou_period","Rentang Chikou"
+"tenkan_period","Rentang Tenkan"
+"kijun_period","Rentang Kijun"
+"senkou_a_period","Rentang Senkou A"
+"senkou_b_period","Rentang Senkou B"
+"color","Warna"
+"chart-type","Jenis grafik"
+"chart-type-curve","Kurva"
+"chart-type-curve-area","Area kurva"
+"chart-type-candlesticks","Candlestick"
+"chart-type-bars","Bar"
+"bet-sum","Jumlah"
+"chart-controls-income-caption","Profitabilitas"
+"expiration-time","Masa kedaluwarsa"
+"wallet-refilling","Deposit"
+"real-wallet","Riil"
+"demo-wallet","Akun Demo"
+"can-deduce-profit","Anda dapat menarik profit"
+"all-assets-available","Semua aset tersedia"
+"all-features-available","Gunakan semua fitur platform"
+"get-bonuses-from-the-platform","Dapatkan bonus dari perusahaan"
+"participate-tournaments","Ikuti kontes"
+"can-switch-wallet-any-time","Anda dapat beralih di antara beberapa akun kapan pun."
+"cannot-deduce-profit","Anda tidak dapat menarik profit"
+"refill-wallet","Deposit"
+"choose-wallet-type","Jenis akun"
+"demo-wallet+wallet","Akun demo"
+"real-wallet+wallet","Akun riil"
+"choose-bet","Perdagangan"
+"added-items","Ditambahkan"
+"bollinger-lines","Bollinger Band"
+"ichi-cloud","Cloud Ichimoku"
+"alli-gator","Alli Gator"
+"graphics-analysys-tools","Alat Analisis"
+"new-items","Baru"
+"line-segment","Segmen garis"
+"ray","Ray"
+"hori-line","Garis horizontal"
+"vline","Garis vertikal"
+"free-hand","Menggambar bebas"
+"crossroad","Garis silang"
+"frame","Kerangka"
+"range","Rentang"
+"ellipse","Elips"
+"fibonacci-lines","Garis Fibonacci"
+"andrews-fork","Andrews` pitchfork"
+"graphic-tools","Alat grafis"
+"time-period","Periode waktu"
+"count-second","{{@count}} detik"
+"count-seconds","{{@count}} detik"
+"count-minute","{{@count}} menit"
+"count-minutes","{{@count}} menit"
+"count-hour","{{@count}} jam"
+"count-hours","{{@count}} jam"
+"lock-time","Kunci waktu"
+"user-profile","Profil pengguna"
+"user-profile-heading","Profil pengguna"
+"withdrawal","Penarikan"
+"support-service","Dukungan"
+"payment-history","Riwayat pembayaran"
+"exit","Keluar"
+"count-second-short","{{@count}} d"
+"count-seconds-short","{{@count}} d"
+"count-minute-short","{{@count}} b"
+"count-minutes-short","{{@count}} b"
+"count-hour-short","{{@count}} j"
+"count-hours-short","{{@count}} j"
+"count-day-short","{{@count}} h"
+"binary-cap","5+ min"
+"error-too-small-bet","Tidak bisa membuat taruhan sebesar {{@sum}}, taruhan minimum untuk mata uang {{@currency}} adalah {{@minbet}}"
+"error-too-big-bet","Tidak bisa membuat taruhan sebesar {{@sum}}, taruhan maksimum untuk mata uang {{@currency}} adalah {{@maxbet}}"
+"error-wrong-expiration","Masa kedaluwarsa salah {{@time}}"
+"not-enough-money","Dana di akun Anda tidak mencukupi."
+"option-closed-head","Opsi ditutup"
+"transaction-result","Hasil untuk {{@assetName}}"
+"internet-connection-trouble","Masalah koneksi"
+"lang-name-locale-en","Bahasa Inggris"
+"lang-name-locale-ru","Bahasa Rusia"
+"lang-name-locale-de","Bahasa Jerman"
+"lang-name-locale-tr","Bahasa Turki"
+"lang-name-locale-vi","Bahasa Vietnam"
+"lang-name-locale-uk","Bahasa Ukraina"
+"lang-name-locale-th","Bahasa Thailand"
+"lang-name-locale-it","Bahasa Italia"
+"lang-name-locale-pl","Bahasa Polandia"
+"lang-name-chinese","Bahasa Tiongkok (sederhana)"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","Anda menggunakan akun riil."
+"you-started-using-tment-wallet","Anda menggunakan akun kontes."
+"tournaments","Kontes"
+"currents","Saat Ini"
+"futures","Mendatang"
+"archive","Arsip"
+"days","Hari"
+"hours","Jam"
+"minutes","Menit"
+"prize-fond","Hadiah"
+"participate-price","Biaya pendaftaran"
+"prize-places","Posisi teratas"
+"tournament-participants-count","Peserta"
+"no-tournament-description","Tidak ada deskripsi kontes"
+"utc-info","(UTC{{@offset}})"
+"begin-time","Mulai"
+"deductions","Pengurangan"
+"reg-in-tournament-for","Daftar Kontes {{@price}}"
+"reg-in-tournament-for-free","Ikut dalam turnamen secara gratis"
+"choose-tournament-to-see-info","Pilih kontes"
+"has-reged-in-tournament","Anda sudah terdaftar"
+"wait-for-reg-in-tournament","Permintaan pendaftaran terkirim"
+"prize-places-low","{{@count}} Posisi teratas"
+"starting-balance","Saldo awal"
+"min-deal-size","Jumlah perdagangan minimum"
+"max-deal-size","Jumlah perdagangan maksimum"
+"max-simultaneously-open-deals","Batas trading terbuka"
+"max-amount-of-open-deals","Batas investasi"
+"available-options-types","Opsi tersedia"
+"tournament-option-type-turbo","Turbo"
+"tournament-option-type-binary","Biner"
+"tournament-option-type-both","Keduanya"
+"tournament-winning-rules","Trader dengan saldo terbanyak pada akhir turnamen akan menjadi pemenang."
+"available-assets","Aset yang tersedia"
+"available-options","Jenis transaksi yang tersedia"
+"greeting","Selamat datang"
+"cashbox-plus-bonus","bonus"
+"cashbox-input","Deposit"
+"cashbox-output","Penarikan"
+"cashbox-total","Bonus, promo, total"
+"bonus-terms-of-use","Ketentuan pengguna bonus"
+"enter-cashbox-input-value","Masukkan jumlah deposit"
+"enter-cashbox-output-value","Masukkan jumlah penarikan"
+"do-withdrawal","Penarikan"
+"amount-due","Jumlah"
+"will-recieve-to-account","Anda mendapat"
+"i-wanna-get-bonus","Dapatkan bonus"
+"enter-cashbox-card-type","Metode pembayaran"
+"finish-time","Selesai"
+"top-users","Papan peringkat"
+"member","Anggota"
+"balance","Saldo"
+"prize","Hadiah"
+"hint-split-view-button","Tata Letak"
+"hint-user-profile-button","Menu pengguna"
+"hint-asset-stat","Pilihan trader"
+"hint-sound-button","Suara"
+"hint-platform-time","Waktu platform"
+"hint-profitability","Profitabilitas"
+"hint-payout","Pembayaran"
+"hint-real-acc","Akun riil"
+"hint-demo-acc","Akun demo"
+"hint-tournament-acc","Akun kontes"
+"hint-settings","Pengaturan"
+"hint-support","Dukungan"
+"hint-graph-type","Jenis grafik"
+"hint-candle-interval","Interval candle"
+"hint-user-lines","Alat grafis"
+"hint-secondary-lines","Indikator"
+"hint-centerize","Harga saat ini"
+"hint-zoom-level","Jangka waktu"
+"tournament","Kontes"
+"loading","Memuat"
+"you-are-in-tournament","Anda sudah bergabung!"
+"repeat-tournament","Beli lagi {{@price}}"
+"unsupported-browser","Produk ada di tahap pengujian, saat ini kami menjamin operasi yang stabil pada peramban berikut: Google Chrome, Opera and Yandex Browser. Terima kasih atas pengertian Anda!"
+"account-is-for-educ","Ini hanya akun demo"
+"participate-in-demo-tments","Ikuti kontes demo"
+"use-real-money","Berdagang dengan uang riil"
+"participate-tments-with-real-money","Ikuti kontes dan menangkan hadiah"
+"native-deal-closed-body","Opsi untuk {{@assetName}} ditutup pada {{@closeTime}}. Profitnya {{@incomeValue}}"
+"tournaments-rules","Peraturan kontes"
+"tournaments-rules-2","Peraturan untuk mengikuti kontes."
+"get-trade-exp","Dapatkan pengalaman trading yang berharga"
+"tment-begins-in","Kontes dimulai dalam"
+"tment-ends-in","Kontes berakhir dalam"
+"tment-has-ended","Kontes sudah berakhir"
+"tment-just-ended","""{{@name}}"" baru berakhir"
+"tment-just-started","""{{@name}}"" baru dimulai"
+"tment-just-created","""{{@name}}"" baru dibuat"
+"read-more","Baca selengkapnya"
+"history-is-empty","Anda tak punya penawaran kedaluwarsa"
+"tournaments-current-is-empty","Tidak ada kontes yang aktif sekarang. Silakan ikuti umpan berita kami dan nantikan buletin."
+"tournaments-future-is-empty","Tidak ada jadwal kontes mendatang. Ikuti umpan berita kami dan nantikan buletin."
+"tournaments@current-empty","Tidak ada turnamen yang aktif saat ini. Tapi akan segera muncul. <br><br>Buka bilah ""Segera hadir"" pada menu di atas dan perhatikan terus email serta berita di platform."
+"tournaments-ended-is-empty","Tidak ada kontes yang berakhir"
+"upper-indicator-line","Garis indikator atas"
+"lower-indicator-line","Garis indikator bawah"
+"stoch-overbuy-value","Overbought"
+"stoch-overbuy-line-width","Lebar Overbought"
+"stoch-overbuy-line-color","Warna Overbought"
+"stoch-oversell-value","Jenuh jual"
+"stoch-oversell-line-width","Lebar Oversold"
+"stoch-oversell-line-color","Warna Oversold"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","Nilai ini tidak valid"
+"889954f14a3839c141bd8d5102094fbb","Nilai ini sudah digunakan"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","Nilai ini bukan alamat email yang valid"
+"bf447c1c-0266-4e10-9c6c-573df282e413","Nilai ini bukan alamat email yang valid"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","Nilai ini bukan alamat email yang valid"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","Bidang ini wajib diisi."
+"9ff3fdc4-b214-49db-8718-39c315e33d45","Nilai ini terlalu pendek. Nilainya harus mengandung {{@min}} karakter atau lebih."
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","Nilai ini terlalu panjang. Nilainya harus mengandung {{@limit}} karakter atau kurang."
+"478618a7-95ba-473d-9101-cabd45e49115","Nilai ini harus sama dengan {{@compared_value}}."
+"4dba5f9c79ae34be5884e1a3c8c45e92","Nama pengguna atau kata sandi salah"
+"3e5af93fb888b4aa77301a7603e113d5","Kata sandi salah"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","Nilai ini harus {{@limit}} atau kurang"
+"76454e69-502c-46c5-9643-f447d837c4d5","Nilai ini harus {{@limit}} atau lebih"
+"ad32d13f-c3d4-423b-909a-857b961eb720","Nilai ini tidak boleh kosong."
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","Nilai yang Anda pilih bukan pilihan yang valid."
+"853ff54c1a66d1a2379e0c46f8eb9ed4","Syarat {{@name}} tidak valid"
+"3ac1d32eb3c54e11ef9ea474da816ad6","Persyaratan  '{{@name}}' harus ditetapkan"
+"661d3bc6c153e42a3658855010678cbd","Syarat {{@names}} tidak diketahui"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","Anda tidak diperbolehkan mengubah status permintaan yang telah diproses"
+"2d2ba82dd886ba3b69da804675842ff5","Metode pembayaran salah"
+"3c55616c0a7de9c064e6c2d86fa72bc2","Masa kedaluwarsa tidak valid"
+"f029308ab5f1672de0b7615c4fa33386","Aset sedang ditutup"
+"10cf6f3e2d6a3532b77d924868cbfa62","Aset sedang ditutup"
+"64fc8bbac184ae9dab80c8f592d1a6f7","Anda telah melampaui batas jumlah perdagangan"
+"5561ccf1e94e6b9d88080bdbbcba1821","Dana tidak mencukupi"
+"f3a5b44d01097d966072b90187a16ec6","Pengguna tidak ada"
+"296ea5496bee3177c83ac27a1dc5bb10","Saldo kontes harus lebih kecil daripada saldo awal"
+"fc53df7c4944ebb53e8b3713126ae226","Jumlah perdagangan terbuka maksimum adalah {{@limit}}"
+"0f8e85ca21aa2e33752728cf5e843e35","Anda telah melampaui batas jumlah perdagangan yang tersedia"
+"cbce1334c90e82f44381abe99b98fe5c","Jumlah total dari opsi batasan terbuka telah terlampaui"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","Nama panggilan ini telah digunakan. Pilih nama yang lain."
+"promo-ends-in","Bonus berakhir pada"
+"your-promocode","Kode promo Anda"
+"from-value-to-value","Dari {{@fromValue}} — hingga {{@toValue}}"
+"deposit-sum","Jumlah deposit"
+"bonus-sum","Bonus"
+"promos-rules","Peraturan bonus"
+"promos-rules-2","Peraturan bonus"
+"participate-promo","Berpartisipasi dalam bonus"
+"promo-has-ended","Bonus sudah berakhir"
+"no-promos-description","Tidak ada deskripsi bonus"
+"promos-is-empty","No current promotions available. Please follow our latest news and watch out for future emails."
+"first-launch-disclaimer-content","Perhatian! Hanya Satu Kali Klik untuk membuka perdagangan. Tanpa konfirmasi."
+"accept","Terima"
+"trading-session-closed","Sesi trading ditutup"
+"special-offer","Penawaran spesial"
+"continue","Lanjutkan"
+"seconds","Detik"
+"trading-sess-starts-in","Sesi trading dimulai dalam"
+"trading-session-closed-info-0","Perhatian!"
+"trading-session-closed-info-1","Pasar saham tutup pada akhir pekan."
+"trading-session-closed-info-2","Trading di platform kami tersedia mulai pukul 03.00 pada hari Senin hingga pukul 00.00 pada hari Jumat."
+"trading-session-closed-info-3","Data pasar disediakan oleh Thompson Reuters."
+"asset","Aset"
+"additional-info","Informasi tambahan"
+"fill-profile-to-continue","Untuk melanjutkan pekerjaan Anda di platform, harap berikan informasi tambahan"
+"fill-username-heading","Kepada trader,"
+"fill-username-text","Untuk bergabung dalam turnamen, masukkan nama panggilan yang akan merepresentasikan Anda dalam daftar peserta turnamen. Anda dapat mengubahnya di pengaturan profil kapan pun."
+"fill-username-placeholder","Masukkan nama panggilan Anda"
+"save-and-continue","Simpan dan lanjutkan"
+"profile-name","Nama"
+"profile-surname","Nama belakang"
+"profile-telephone","Telepon"
+"start-trading","Mulai trading"
+"personal-data-safety","Keamanan data pribadi dijamin"
+"bonus","Bonus"
+"new-bonus","ke akun"
+"received-bonus","Beserta deposit yang dipilih, Anda akan menerima"
+"received-bonus-value","bonus sejumlah: {{@bonus}}"
+"mobile-received-bonus-value","+ bonus {{@bonus}}"
+"expires-in","Berakhir pada"
+"cannot-buy-option-try-later","Tidak dapat membuka perdagangan ini, coba lagi nanti."
+"notifications$demo-option-limit","Ingin membuka lebih dari 5 perdagangan sekaligus? Buka akun riil. Untuk melanjutkan penggunaan akun demo, tunggu sampai perdagangan selesai"
+"max-total-bet-limit-exceeded","Anda telah melampaui jumlah perdagangan yang diizinkan.
+ Jumlah perdagangan yang diizinkan {{@maxBet}}"
+"chart-opens-in","Aset akan tersedia dalam:"
+"hint-activate-tment-wallet","Tekan di sini untuk mulai menggunakan akun kontes"
+"largest-profit-banner-on-the-asset","pada aset"
+"largest-profit-banner-button-trade-caption","Perdagangan"
+"largest-profit-banner-button-trade-caption-2","Berdagang sekarang"
+"largest-profit-banner-text","Waktu terbaik untuk trading aset"
+"largest-profit-banner-text-2","Waktu yang sangat terpat untuk berdagang"
+"largest-profit-height-profit","Peningkatan profitabilitas"
+"largest-profit-height-profit-2","Profitabilitas tinggi hingga"
+"offer-expires-in","Penawaran berakhir dalam:"
+"offer-expires-in-2","Penawaran berakhir dalam:"
+"warning","Peringatan"
+"banner-tech-works-info-caption","Pembaruan teknis"
+"banner-tech-works-info-content","Kami selalu berupaya meningkatkan platform trading kami.
+ Saat ini, platform sedang diperbarui.
+ Kami mohon maaf atas ketidaknyamanannya."
+"confirm-email-content","Konfirmasikan alamat email Anda. Klik tombol berikut untuk mengirimkan ulang email dengan tautan konfirmasi."
+"confirm-email-caption","Aktivasi ulang akun"
+"reload","Muat ulang"
+"resend-confirmation","Kirim ulang"
+"resend-confirmation-again","Coba lagi"
+"confirmation-mail-sent","Terkirim"
+"banner-not-enough-funds-for-tment","Dana di akun Anda tidak mencukupi. Isi ulang akun Anda untuk mengikuti kontes."
+"tment-reenter-not-allowed","Anda tidak dapat melakukan pembelian tambahan jika masih ada transaksi terbuka."
+"fill-profile-wrong-phone","Nomor telepon tidak valid"
+"fill-profile-wrong-name","Nama tidak valid"
+"fill-profile-wrong-surname","Nama belakang tidak valid"
+"fill-user-wrong-promocode","Kode promo tidak valid"
+"wrong-promocode-max-sum","Maximum amount to activate promo code {{@sum}}"
+"wrong-promocode-min-sum","Jumlah minimum untuk mengaktifkan kode promo {{@sum}}"
+"wrong-withdrawal-min-sum","Jumlah minimum {{@sum}}"
+"wrong-withdrawal-max-sum","Jumlah penarikan maksimum {{@sum}}"
+"wrong-promocode-expired","Kedaluwarsa"
+"wrong-promocode-only-for-second-deposit","Tersedia hanya untuk deposit kedua dan berikutnya"
+"wrong-promocode-only-for-first-deposit","Hanya tersedia untuk deposit pertama"
+"wrong-promocode-used","Kode promo sudah ditukarkan"
+"fill-user-wrong-phone","Nomor telepon tidak valid"
+"fill-user-wrong-card","Nomor kartu tidak valid"
+"fill-user-wrong-customer_purse","Nomor rekening tidak valid"
+"fill-user-wrong-name","Nama tidak valid"
+"fill-user-wrong-surname","Nama belakang tidak valid"
+"please-rotate-device","Putar perangkat agar Anda dapat menggunakan terminal dengan mudah."
+"swipe-up-to-enter-fs","Geser ke atas untuk masuk ke mode layar penuh"
+"click-to-enter-fs","Ketuk di mana saja pada layar untuk beralih ke mode layar penuh"
+"reconnect","Hubungkan kembali"
+"reconnected","Terhubung kembali!"
+"free-reg","Pendaftaran gratis"
+"investments","perdagangan"
+"investments_short","invest."
+"investment_short","invest."
+"buy-time","Waktu beli"
+"total-investment","Total investasi"
+"total-income","Total pembayaran"
+"result","Hasil"
+"ur-income-would-be","Profit Anda"
+"create-account-for-free","Buat akun secara gratis"
+"resume-use-demo","Lanjutkan mode demo"
+"reg-request-message","Jika Anda trading di situs web kami, Anda bisa menghasilkan {{@income}} saat ini. Jangan sia-siakan waktu lagi, mulai trading!"
+"trade-without-restrictions","Trading tanpa batasan"
+"trade-without-restrictions-message","Jika Anda ingin membuka lebih dari 5 perdagangan, buka akun trading riil dan trading tanpa batas. Untuk tetap menggunakan akun demo, harap tunggu penawaran Anda saat ini berakhir."
+"use-real-wallet","Akun riil"
+"support","Dukungan"
+"search-asset","Cari aset"
+"error-sending-email-confirmation","Terjadi kesalahan saat mengirimkan email. Coba lagi nanti."
+"error-sending-email-confirmation-with-time","Email baru dapat dikirimkan kepada Anda dalam waktu {{@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami."
+"risk-free-trades","Perdagangan bebas risiko"
+"count-trades-for-bet","{{@count}} perdagangan untuk {{@sum}}"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","Putih"
+"Red","Merah"
+"Pink","Merah muda"
+"Purple","Ungu"
+"Deep Purple","Ungu Tua"
+"Indigo","Biru Nila"
+"Blue","Biru"
+"Cyan","Biru Kehijauan"
+"Green","Hijau"
+"Light Green","Hijau Muda"
+"Lime","Hijau Kekuningan"
+"Yellow","Kuning"
+"Amber","Kuning Kecokelatan"
+"Orange","Oranye"
+"tournament-accounts","Akun turnamen"
+"activate-tournament-wallet","Aktifkan dompet kontes"
+"deposit-using-agreements-header","Item bonus"
+"deposit-using-agreements-p1","Bonus adalah dana tambahan yang disediakan oleh perusahaan untuk meningkatkan potensi trading para trader."
+"deposit-using-agreements-p2","Saat melakukan deposit, jumlah uang bonus tertentu dapat dikreditkan ke akun Anda, besaran bonus tergantung pada besaran deposit Anda."
+"deposit-using-agreements-p3","Bonus tidak membatasi jumlah dana yang bisa Anda tarik: Anda bisa menarik profit beserta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus diterima di muka akan diubah ke statusnya menjadi tidak aktif dan akan didebit dari akun Anda."
+"choose-payment-method","Pilih metode deposit"
+"choose-payment-sum","Pilih jumlah deposit"
+"plus-value-bonus","+ bonus {{@value}}"
+"deposit-user-sum-value-caption","Ingin memilih jumlah Anda sendiri? Gunakan kolom masukan"
+"i-have-promocode","Saya punya kode promo"
+"requisiste-name-phone","Telepon"
+"no-bonus","tidak ada bonus"
+"refresh","Segarkan"
+"browser","Peramban"
+"make-a-deposit","Lakukan deposit"
+"cashbox-withdrawal-info-0-header","Bagaimana cara menarik dana dari akun saya?"
+"cashbox-withdrawal-info-0-content","Opsi yang tersedia adalah: kartu bank, dompet elektronik Qiwi/Yandex Money/WebMoney. Pemilik akun mikro hanya boleh memiliki satu aplikasi aktif untuk menarik dana."
+"cashbox-withdrawal-info-1-header","Berapakah jumlah minimum uang yang dapat ditarik dari akun?"
+"cashbox-withdrawal-info-1-content","Jumlah penarikan minimum — ₽300 atau $5 atau €5 atau A$5 atau ₴150. Jumlah penarikan maksimum dalam satu transaksi — ₽15.000 atau $200 atau €200 atau A$200 atau ₴6.000."
+"cashbox-withdrawal-info-2-header","Bagaimana cara menarik uang yang lebih besar dari ₽15.000 atau $200 atau €200 atau A$200, atau ₴6.000?"
+"cashbox-withdrawal-info-2-content","Pembatasan ini ditetapkan untuk mencegah penarikan akun secara cepat. Jumlah yang melampaui batas yang ditetapkan hanya dapat ditarik dalam jangka waktu yang lebih lama. Jika Anda perlu menarik dalam jumlah besar, Anda dapat memecah penarikan dana Anda dalam nominal $200 atau €200 atau A$200, atau tambahan ₽15.000 atau ₴6.000. Jumlah permintaan penarikan yang dapat dilakukan tidak dibatasi. Jika Anda ingin melakukan penarikan yang lebih besar dalam satu pembayaran, hubungi tim dukungan platform. Jika akun Anda tidak terverifikasi, mungkin diperlukan waktu hingga tiga hari kerja untuk memproses permintaan penarikan dana. Anda tidak dapat mengajukan lebih dari satu permintaan penarikan dana per hari."
+"cashbox-withdrawal-info-3-header","Seberapa cepat proses penarikan dana?"
+"cashbox-withdrawal-info-3-content-a","Diperlukan waktu satu jam untuk memproses permintaan, dengan asumsi bahwa permintaan tersebut diajukan selama jam kerja bagian keuangan platform dan akun Anda telah diverifikasi sesuai dengan persyaratan platform. "
+"cashbox-withdrawal-info-3-content-b","Jam kerja departemen keuangan adalah hari Senin hingga Jumat pukul 10.00 hingga 22.00 (GMT +2). Jika Anda mengajukan permintaan penarikan dana di luar jam kerja departemen keuangan atau pada hari libur, maka permintaan Anda akan diproses pada awal hari kerja berikutnya. Jika akun Anda belum diverifikasi, maka permintaan penarikan dana Anda akan diproses dalam waktu tiga hari kerja. Anda tidak dapat mengirimkan lebih dari satu permintaan penarikan dana per hari."
+"cashbox-withdrawal-info-4-header","Kebijakan penarikan"
+"cashbox-withdrawal-info-4-content-a","Klien harus menyatakan semua data yang diminta pada bagian ""Pengaturan Profil"" untuk memastikan bahwa permintaan mereka telah diproses sebagaimana mestinya. Jika telah ditentukan bahwa ada masukan data yang tidak akurat atau tidak lengkap, permintaan penarikan dana Anda dapat ditolak atau ditunda."
+"cashbox-withdrawal-info-4-content-b","Dana ditarik ke rekening bank yang sama (atau sistem pembayaran yang sama) yang digunakan untuk mendanai akun Anda. Jika tidak memungkinkan untuk menyelesaikan transaksi, maka Anda harus menghubungi layanan dukungan baik dengan cara memulai chat online atau mengirimkan permintaan dukungan ke support@binarium.com."
+"cashbox-withdrawal-info-5-header","Apakah saya harus menyediakan dokumen saat menarik dana? Jika ya, dokumen apa saja?"
+"cashbox-withdrawal-info-5-content-a","Harap lengkapi semua data pribadi Anda pada bagian ""Pengaturan Profil"" untuk memastikan penarikan yang cepat. Jika Anda menggunakan beberapa kartu bank atau detail pembayaran yang tidak cocok dengan data pribadi yang telah Anda berikan saat pendaftaran, Anda perlu menjalani seluruh proses otorisasi dan membuktikan bahwa kartu tersebut benar-benar milik Anda. Dana mungkin tidak dapat ditarik ke akun pihak ketiga. "
+"cashbox-withdrawal-info-5-content-b","Untuk menyelesaikan proses verifikasi, berikan salinan paspor dan bagian depan kartu bank Anda yang dipindai ke support@binarium.com sehingga nama depan dan belakang pemilik dapat terlihat. Jika kartu yang Anda miliki bukan kartu yang dicetak timbul, maka Anda harus mengirimkan salinan laporan bank yang dipindai yang menampilkan suatu transaksi dari kartu ini ke akun Binarium Anda sebagai tambahan untuk salinan paspor Anda. Perusahaan berhak untuk mensyaratkan dokumen pendukung tambahan jika data pemilik kartu dan akun trading tidak cocok."
+"cashbox-withdrawal-info-6-header","Dengan syarat apa yang memungkinkan penarikan dana bonus?"
+"cashbox-withdrawal-info-6-content-a","Bonus itu sendiri tidak dapat segera ditarik setelah ditambahkan. Pialang mengkreditkan uang ini pada akun Anda sebagai bonus untuk meningkatkan peluang trading Anda. Bunga yang Anda dapatkan dari hasil dari penggunakan dana bonus juga merupakan sebuah bonus, dan hanya tersedia untuk ditarik setelah omzet perdagangan yang diperlukan tercapai. Untuk menarik bonus itu sendiri, Anda harus mencapai omzet x40 dari jumlah bonus di akun. Jika Anda diberi bonus tanpa deposit, maka leverage dinaikkan menjadi 50, artinya, omset pada akun harus setara dengan bonus x50 dan jumlah penarikan maksimum tidak boleh melampaui jumlah bonus tanpa deposit yang telah ditambahkan. Hadiah uang tunai yang dimenangkan dalam kontes gratis dari perusahaan dianggap sebagai bonus dan siap untuk ditarik setelah mencapai omzet x40."
+"cashbox-withdrawal-info-6-content-b","Misalnya: Saat melakukan deposit, Anda memperoleh $150 sebagai bonus. Menurut aturan, Anda harus mencapai nilai total opsi yang dibeli senilai 30 x 150 = $4.500. Setelah nilai ini tercapai, Anda dapat menarik dana bonus. Dalam hal ini, transaksi yang menguntungkan dan tidak menguntungkan akan diperhitungkan. Transaksi yang dihentikan sebelum waktunya tidak termasuk dalam omset. Tidak ada batasan untuk penarikan profit."
+"cashbox-withdrawal-info-6-content-c","Jika Anda akan menarik sebagian deposit, bonus akan secara otomatis dikurangkan dari akun Anda."
+"cashbox-withdrawal-info-6-content-d","Jika Anda memiliki pertanyaan, hubungi layanan dukungan Binarium."
+"cashbox-withdrawal-info-7-header","Saya tidak dapat melakukan permintaan penarikan dana untuk akun saya. Apa yang mungkin salah?"
+"cashbox-withdrawal-info-7-content","Pertama, periksa apakah semua informasi pribadi Anda telah terdaftar di laman profil Anda pada bagian ""Profil"". Sekali lagi, pastikan Anda memasukkan semua informasi dengan benar pada saat Anda mengirimkan permintaan Anda. Karakter khusus seperti +, -, / dll. tidak valid. Jika semua informasi yang dimasukkan sudah benar, tetapi tetap ada masalah, hubungi layanan dukungan pelanggan kami melalui chat online atau di support@binarium.com."
+"deposit-info-1","Bonus adalah dana tambahan yang disediakan oleh perusahaan untuk meningkatkan potensi trading para trader"
+"deposit-info-2","Saat melakukan deposit, jumlah uang bonus tertentu dapat dikreditkan ke akun Anda, besaran bonus tergantung pada besaran deposit Anda."
+"deposit-info-3","Bonus tidak membatasi jumlah dana yang bisa Anda tarik: Anda bisa menarik profit beserta dana deposit Anda kapan saja. Harap diperhatikan bahwa saat menarik dana, semua dana bonus yang tidak digunakan dalam perdagangan dengan omzet x40 akan diubah statusnya menjadi tidak aktif dan akan didebit dari akun Anda."
+"withdrawal-heading","Permintaan Anda akan diproses dalam waktu 24 jam sejak Anda mengirimkannya."
+"withdrawal-content","Jika pengajuan disampaikan di luar jam kerja departemen keuangan perusahaan, pengajuan tersebut akan diproses pada hari kerja berikutnya."
+"withdrawal-restricted-content","Batas penarikan untuk <span class=""open-act-button"">jenis akun</span> Anda telah terlampaui"
+"withdrawal-amount-caption","Jumlah pembayaran"
+"withdrawal-type-caption","Metode penarikan dana"
+"withdrawal-button-caption","Tarik dana"
+"requisite-name-card","Nomor kartu"
+"requisite-name-phone","Telepon"
+"requisite-name-customer_purse","Dompet pelanggan"
+"withdrawal-request-sent","Permintaan dimasukkan dalam antrean"
+"withdrawal-request-sent-extra-info","Anda dapat melacak status permintaan pada bagian ""Riwayat Transaksi""."
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","Visa/Mastercard"
+"videohub","Edukasi"
+"asset-type-all","Semua"
+"asset-type-currency","Mata uang"
+"asset-type-crypto","Kripto"
+"asset-type-goods","Barang"
+"asset-type-countries","Negara"
+"asset-type-leaders","Pemimpin"
+"cashbox-withdrawal-info","Diperlukan beberapa waktu untuk memproses permintaan. Biasanya diperlukan waktu hingga 24 jam untuk meninjau permintaan selama jam kerja oleh departemen keuangan. Kami dengan gembira melaporkan bahwa kami tidak membekukan saldo Anda selagi Anda menunggu permintaan penarikan disetujui. Dengan begitu, Anda dapat terus melakukan trading."
+"expiration-caption-16","Dalam 24 jam"
+"trends","Tren"
+"show-chart","Tampilkan grafik"
+"hide-chart","Sembunyikan grafik"
+"trend-active","Aktif"
+"trend-non-active","Semua"
+"trends-is-empty","Tren sedang diperbarui"
+"what-are-trends","Apa itu tren?"
+"what-are-trends-advice-content","Tren adalah alat trading khusus agar Anda dapat secara cepat menemukan aset dengan potensi yang menguntungkan (dengan arah harga yang jelas) dan membuka perdagangan sesuai arah tren."
+"not-enough-money-for-trends-detailed","Alat trading unik dari Binarium tersedia bagi pelanggan dengan saldo riil lebih dari {{@balance}}. Peluang menjanjikan:"
+"get-access-to-trends","Dapatkan akses ke berbagai tren"
+"trends-features-one","Lacak semua tren aset di pasar"
+"trends-features-two","Membuka perdagangan secara instan sesuai dengan arah tren saat tren itu muncul"
+"month-0","Jan"
+"month-1","Feb"
+"month-2","Mar"
+"month-3","Apr"
+"month-4","Mei"
+"month-5","Juni"
+"month-6","Juli"
+"month-7","Agu"
+"month-8","Sep"
+"month-9","Okt"
+"month-10","Nov"
+"month-11","Des"
+"day-0","Sen"
+"day-1","Sel"
+"day-2","Ra"
+"day-3","Ka"
+"day-4","Ju"
+"day-5","Sa"
+"day-6","Mi"
+"trading-room","Ruang trading"
+"trading-room-entering-time","Waktu masuk"
+"trading-room-expiration","Masa berlaku"
+"trading-room-strength","Kekuatan"
+"trading-room-strike-price","Harga kesepakatan"
+"trading-room-is-empty","Tidak ada sinyal. Periksa Ruang Trading nanti."
+"demo-stats-banner-header-caption","Luar biasa!"
+"demo-stats-banner-header-caption-2","Selamat!"
+"demo-stats-banner-you-earned-on-demo","Anda telah menghasilkan uang di akun demo."
+"demo-stats-banner-total-deals-amount","Total perdagangan"
+"demo-stats-banner-successfull-deals-percentage","Persentase perdagangan yang berhasil"
+"demo-stats-banner-real-account-opening-request","Buka akun riil untuk menarik penghasilan Anda"
+"demo-stats-banner-open-real-account-button-caption","Buka akun riil"
+"demo-stats-banner-keep-trading-on-demo","Tetap dalam akun demo"
+"demo-stats-banner-you-have-done","Anda memasang"
+"demo-stats-banner-you-have-trades-closed-in-a-row","perdagangan berturut-turut"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","trading yang profit secara berturut-turut"
+"demo-stats-banner-earning-on-demo-account","penghasilan di akun demo Anda"
+"demo-stats-banner-closed-in-a-row-2","perdagangan menguntungkan"
+"tour-next-button-caption","Lanjutkan"
+"tour-reading-duration-caption","Membaca selama 4 menit."
+"tour-slides-steps-count","Langkah {{@currentSlide}} dari {{@totalSlidesCount}}"
+"tour-slide-0-caption","Selamat datang ke platform trading Binarium"
+"tour-slide-0-content","Peragaan singkat ini akan memperkenalkan prinsip dasar trading dan antarmuka platform Binarium."
+"tour-slide-0-content-1","Baca dengan cermat semua kartu untuk mempelajari cara trading yang lebih efektif di platform."
+"tour-slide-0-content-2","Peragaan singkat ini akan memperkenalkan prinsip dasar trading dan antarmuka platform Binarium."
+"tour-slide-0-content-3","Menu utama ada di sebelah kiri. Misalnya, Anda dapat mengisi akun Anda pada bagian <span class=""bold"">Bank</span>. Dan Anda dapat memesan perdagangan menggunakan trader terbaik di platform pada bagian <span class=""bold"">Ruang trading</span>!"
+"tour-slide-0-content-3-port","Menu utama ada di sebelah kiri. Misalnya, Anda dapat melakukan deposit pada bagian <span class=""bold"">Bank</span>. Dan Anda dapat melakukan perdagangan dengan bantuan trader terbaik di platform pada bagian <span class=""bold"">Ruang trading</span>!"
+"tour-slide-0-extra-info","Baca dengan cermat semua kartu untuk mempelajari cara trading yang lebih efektif di platform."
+"tour-slide-1-caption","Bagaimana cara menghasilkan uang di platform?"
+"tour-slide-1-content","<span class=""bold"">Platform trading memungkinkan Anda melakukan trading</span> dengan melakukan investasi jangka pendek pada aset keuangan: kurs pasangan mata uang, mata uang kripto, komoditas, dan instrumen keuangan lainnya."
+"tour-slide-2-caption","Apakah prinsip dasar di balik trading?"
+"tour-slide-2-content-a","Perdagangan adalah suatu prediksi tentang bagaimana harga suatu aset keuangan akan berubah selama jangka waktu tertentu. Investor melakukan perdagangan <span class=""green"">jangka panjang</span> maupun <span class=""red"">jangka pendek</span>."
+"tour-slide-2-content-b","Jika prediksi Anda ternyata benar, Anda akan menerima pendapatan. Jika prediksi Anda salah, maka Anda akan kehilangan semua dana yang Anda investasikan."
+"tour-slide-3-caption","Bagaimana cara melakukan trading di platform Binarium?"
+"tour-slide-3-content","<span class=""bold"">Pilih aset</span> yang ingin Anda prekdisikan tren harganya."
+"tour-slide-4-caption","Bagaimana cara melakukan trading di platform Binarium?"
+"tour-slide-4-content","<span class=""bold"">Pilih besaran investasi Anda.</span>"
+"tour-slide-5-caption","Bagaimana cara melakukan trading di platform Binarium?"
+"tour-slide-5-content","<span class=""bold"">Buka perdagangan</span> setelah Anda membuat prediksi bahwa harga akan<span class=""green"">naik</span> atau <span class=""red"">turun</span>. Tunggu sampai trading ditutup."
+"tour-slide-6-caption","Semoga sukses dalam trading di platform Binarium"
+"tour-slide-6-additional-caption","Jika prediksi Anda benar, profit akan otomatis dikreditkan pada akun trading Anda."
+"tour-slide-6-a-trading-rules","Ketentuan trading"
+"tour-slide-6-a-card-0-caption","Jumlah pendapatan yang akan Anda terima dari prediksi yang berhasil:"
+"tour-slide-6-a-card-0-content-1","hingga {{@maxProfit}}"
+"tour-slide-6-a-card-0-content-2","dari jumlah investasi yang Anda akan terima dari prediksi yang berhasil."
+"tour-slide-6-a-card-1-caption","besaran deposit minimum untuk trading."
+"tour-slide-6-a-card-1-content","dari {{@minWithdrawal}}"
+"tour-slide-6-a-card-2-caption","rata-rata waktu yang diperlukan untuk menarik dana:"
+"tour-slide-6-a-card-2-content","30 menit"
+"tour-slide-6-a-card-3-caption","Deposit dana ke akun riil untuk mulai trading:"
+"tour-slide-6-a-card-3-button-caption","Deposit dana dan mulai trading"
+"tour-slide-6-a-dont-show-again","Tutup tur platform"
+"tour-slide-6-b-trading-rules","Ketentuan trading"
+"tour-slide-6-b-card-0-caption","Jumlah pendapatan yang akan Anda terima dari prediksi yang berhasil:"
+"tour-slide-6-b-card-0-content","<span class=""big"">Hingga 90%</span> dari jumlah investasi Anda."
+"tour-slide-6-b-card-1-caption","besaran deposit minimum untuk trading."
+"tour-slide-6-b-card-1-content","<span class=""big"">{{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","waktu rata-rata yang diperlukan untuk menarik dana."
+"tour-slide-6-b-card-2-content","<span class=""big"">30</span> menit"
+"tour-slide-6-b-card-3-caption","Pelajari cara trading tanpa risiko menggunakan akun demo"
+"tour-slide-6-b-card-3-button-caption","Trading menggunakan akun demo"
+"tour-slide-6-b-dont-show-again","Tutup tur platform"
+"user-terms-caption","Trading dengan sekali klik"
+"what-is-trading-room","Apa itu ruang trading?"
+"what-is-trading-room-advice-content","Ruang trading adalah suatu alat praktis yang memungkinkan Anda menyalin transaksi dari para trader terbaik di platform dengan sekali klik. Berkat alat ini, Anda dapat meningkatkan efisiensi perdagangan dan menghemat waktu."
+"not-enough-money-for-trading-room-detailed","Trading dan hasilkan uang dengan para trader terbaik di platform Binarium menggunakan ruang trading. Isi saldo riil Anda sebesar {{@minBalance}} dan dapatkan manfaat berikut:"
+"get-access-to-trading-room","Akses ke ruang trading"
+"have-access-to-trading-room","Untuk mendapatkan akses ke ""Ruang Trading"", hubungi manajer Anda atau layanan dukungan."
+"trading-room-features-one","Perhatikan transaksi-transaksi dari trader paling sukses di platform"
+"trading-room-features-two","Salin transaksi dan hasilkan profit"
+"trading-room_1-title","Trading bersama"
+"trading-room_1-text","Perhatikan transaksi-transaksi dari trader paling sukses di platform."
+"trading-room_2-title","Manfaatkan pengalaman sukses orang lain"
+"trading-room_2-text","Salin perilaku trader lain dan hasilkan profit!"
+"trading-room_refill","Untuk mengakses ""Ruang Trading"", isi ulang saldo Anda pada"
+"account_level","Level akun"
+"modal-confirm_title","Konfirmasikan alamat email Anda"
+"modal-confirm_text-1","Kami sudah mengirimkan email dengan tautan konfirmasi kepada Anda."
+"modal-confirm_text-2","Anda belum menerima email berisi tautan konfirmasi? Periksa folder ""Spam"" Anda. Kadang kala, pesan masuk ke sana. Atau minta agar pesan dikirimkan lagi kepada Anda."
+"modal-confirm_button","Kirim pesan lagi"
+"modal-confirm_error-1-1","Email baru dapat dikirimkan kepada Anda dalam {@time}} menit. Untuk mengaktifkan akun Anda, periksa email Anda atau hubungi layanan dukungan kami atau"
+"modal-confirm_error-1-2","hubungi layanan dukungan."
+"modal-confirm_support","Hubungi bagian dukungan"
+"timer_days","hari"
+"timer_hours","jam"
+"timer_minutes","menit"
+"timer_seconds","detik"
+"tournament_button","Ikuti kontes"
+"modal-oneclick_title","Trading dengan sekali klik"
+"modal-oneclick_text","Harap perhatikan bahwa Anda dapat membuka perdagangan di platform hanya dengan sekali klik. Tidak ada konfirmasi tambahan."
+"modal-oneclick_button","Terima dan lanjutkan"
+"modal-tbalance_title","Isi ulang akun Anda"
+"modal-tbalance_text","Dana di akun Anda tidak mencukupi. Isi ulang dana di akun Anda untuk mengikuti kontes."
+"modal-tbalance_button","Lakukan deposit"
+"modal-tech_title","Kami akan segera menanggapi Anda!"
+"modal-tech_text-1","Kami terus-menerus meningkatkan platform perdagangan ini dan akan menyelesaikan pembaruan segera. Kami mohon maaf atas ketidaknyamanan Anda."
+"modal-tech_text-2","Sisa waktu hingga pekerjaan selesai:"
+"modal-tech_button","Lanjutkan"
+"modal-session_title","Perhatian"
+"modal-session_text-1","Pasar saham tutup pada akhir pekan."
+"modal-session_text-2","Platform trading dapat diakses"
+"modal-session_text-3","antara pukul 03.00 pada hari Senin hingga pukul 00.00 pada hari Jumat."
+"modal-session_text-4","Sesi trading Anda akan dimulai dalam:"
+"modal-session_button","Lanjutkan"
+"modal-tn_title","Selamat datang di"
+"modal-tn_text-1","Trader dengan saldo terbanyak pada akhir kontes akan menjadi pemenang."
+"modal-tn_text-2","Aset yang tersedia:"
+"modal-tn_text-3","Jenis transaksi yang tersedia:"
+"modal-tn_button","Mulai"
+"modal-nickname_title","Pilih nama panggilan"
+"modal-nickname_text","Untuk ikut serta dalam kontes, masukkan nama panggilan yang merepresentasikan Anda pada daftar peserta kontes. Anda dapat mengubahnya di pengaturan profil kapan saja."
+"modal-nickname_button","Simpan dan lanjutkan"
+"modal-nickname_placeholder","Silakan masukkan nama panggilan Anda"
+"modal-profile_title","Informasi tambahan"
+"modal-profile_text","Berikan informasi tambahan untuk terus bekerja di platform."
+"modal-profile_name","Nama depan"
+"modal-profile_surname","Nama belakang"
+"modal-profile_phone","Nomor telepon (dengan kode negara)"
+"modal-profile_button","Mulai trading"
+"modal-profile_aside","Keamanan data pribadi Anda dijamin."
+"form-error_required","Bidang ini tidak boleh kosong"
+"form-error_name-short","Nama terlalu pendek."
+"form-error_name-format","Hanya boleh menggunakan huruf"
+"form-error_surname-short","Nama belakang terlalu pendek."
+"form-error_surname-format","Hanya boleh menggunakan huruf"
+"form-error_phone-format","Nomor harus dalam format internasional"
+"srv-err_asset-is-disabled","Aset dinonaktifkan"
+"srv-err_asset-is-disabled-for-this-tournament","Aset dinonaktifkan untuk turnamen ini"
+"srv-err_binary-is-disabled-for-this-tournament","Aset dinonaktifkan untuk turnamen ini"
+"srv-err_turbo-is-disabled-for-this-tournament","Aset dinonaktifkan untuk turnamen ini"
+"tournament@btn.paid-participate","Biaya pendaftaran"
+"tournament@info.paid","Turnamen berbayar"
+"faq@title","Pertanyaan dan jawaban"
+"menu@faq","T&J"
+"menu@education","Edukasi"
+"menu@qa","Pertanyaan dan jawaban"
+"menu@strategies","Strategi"
+"menu@btn$back","Kembali"
+"cashbox@no-bonus","Tidak menerima bonus"
+"wallet-menu@real-title","Dana riil"
+"wallet-menu@bonus-title","Dana bonus"
+"wallet-menu@wager-title","Turnover untuk menarik bonus"
+"wallet-menu@wager-link","Baca lebih lanjut tentang bonus"
+"modal-bonus@title","Anda menggunakan dana bonus"
+"modal-bonus@text","Ukuran perdagangan melebihi dana riil yang tersedia. Maka pada pembukaan transaksi, dana bonus Anda akan digunakan:"
+"modal-bonus@deal-size","Ukuran perdagangan"
+"modal-bonus@real-size","Dana riil"
+"modal-bonus@bonus-size","Dana bonus"
+"modal-bonus@info","Semua dana yang diterima sebagai bagian dari perdagangan akan dikreditkan ke akun bonus Anda."
+"modal-bonus@faq","Peraturan penggunaan dana bonus"
+"modal-bonus@btn-cancel","Batalkan"
+"modal-bonus@btn-continue","Terima dan lanjutkan"
+"modal-bonus@disable","Jangan tampilkan pesan ini lagi"
+"trends@restrict-title","Insufficient funds in your account"
+"trends@restrict-text","To unlock the Trends section, your account balance must be at least"
+"asset-menu@title","Aset"
+"asset-menu@available","Aset yang dapat diperdagangkan"
+"asset-menu@profitable","Aset dengan profitibilitas yang ditingkatkan"
+"asset-menu@interval","men."
+"confirm-trade@header","Konfirmasi trading"
+"confirm-trade@timer","Jendela menutup otomatis dalam {{@data}} d"
+"confirm-trade@heading","Bagus! Anda akan mengonfirmasi trading. Periksa detailnya berikut ini:"
+"confirm-trade@asset","Aset"
+"confirm-trade@direction","Arah"
+"confirm-trade@investment","Investasi"
+"confirm-trade@price","Harga saat ini"
+"confirm-trade@profitability","Profitabilitas"
+"confirm-trade@payout","Potensi pendapatan"
+"confirm-trade@btn-cancel","Batalkan"
+"confirm-trade@btn-confirm","Konfirmasi"
+"plot@loading","Memuat"
+"plot@lock-time","Kunci waktu"
+"plot@expiration-time","Masa kedaluwarsa"
+"tr-empty@text","Dalami dunia trading secara mendetail bersama para profesional. Tiru perdagangan dari para trader paling sukses di platform dan hasilkan lebih banyak uang."
+"tr-empty@business","Ruang trading terbuka bagi trader dengan akun Bisnis dan di atasnya. Dua sesi trading 4-jam pada hari kerja. Sekitar 30 sinyal dari para trader profesional setiap hari. Jangan sia-siakan waktu Anda untuk mempelajari segala sesuatunya sendiri — trader terbaik di Binarium telah mempelajari semuanya untuk Anda."
+"tr-empty@vip","Para klien VIP kami mendapatkan semua hak istimewa ruang trading, termasuk sinyal pribadi dan kerja sama secara individu dengan trader perusahaan yang akan menjawab semua pertanyaan Anda, menjelaskan tren pasar saat ini dan menyarankan bidang-bidang yang berpotensi tinggi. Ini adalah cara terbaik untuk medapatkan hasil yang terbaik dari trading."
+"tr-empty@open-btn","info selengkapnya • masuk"
+"tr-empty@deposit-btn","buka pembayaran • masuk"
+"tr-empty@vip-signals","+ sinyal penting"
+"hb@menu-btn","Menu"
+"ac-types@title","Jenis akun"
+"ac-types@label_depositSum","Jumlah deposit"
+"ac-types@label_tradeback","Tradeback"
+"ac-types@label_tradebackEnrolment","Poin Tradeback"
+"ac-types@label_assets","Aset trading"
+"ac-types@label_withdrawalCountLimit","Permintaan penarikan, per hari"
+"ac-types@label_withdrawalAmountLimit","Batas penarikan, per bulan"
+"ac-types@label_withdrawalDayAmountLimit","Batas penarikan, per hari"
+"ac-types@label_tradingRoom","Ruang trading"
+"ac-types@label_openDealsSum","Jumlah trading terbuka maksimum (dalam satu waktu)"
+"ac-types@value_real","Dana riil"
+"ac-types@value_bonus","Bonus"
+"ac-types@value_nolimit","Tanpa batas"
+"ac-types@btn","tingkatkan"
+"ac-types@self","Akun Anda"
+"ac-types@tradeback-hint","Tradeback — pengembalian sebagian dana dari perdagangan yang merugi. Dikreditkan setiap hari Kamis pukul 12.00 (0.00 UTC)"
+"video-tutorial@title","Cara memulai trading di Binarium dalam 90 detik"
+"video-tutorial@checkbox","Jangan tampilkan video ini lagi"
+"user-menu@account-types","Jenis akun"
+"withdrawal-error@amount-limit","Batas penarikan telah terlampaui"
+"withdrawal@limit-with-counter","Batas penarikan dana telah terlampaui.<br><span class=""open-act-button"">Jenis akun</span> Anda memungkinkan {{@limitCount}} permintaan yang totalnya {{@limitAmount}}.<br>Anda dapat membuat permintaan lain dalam {{@limitTime}}."
+"promo-gift@bonus","bonus"
+"promo-gift@freeSpins","Perdagangan bebas risiko"
+"promo-gift@tradeRoom","ruang trading"
+"promo-gift@tickets","tiket"
+"settings@quality-title","Mutu grafik"
+"settings@quality-hint","Kelola beban perangkat Anda dengan mengubah pengaturan mutu grafis. Mutu standar membantu menghemat sumber daya dan memuat platform lebih cepat, walaupun ada sedikit penurunan mutu grafis."
+"settings@quality-option-base","Dasar"
+"settings@quality-option-average","Biasa"
+"settings@quality-option-best","Tinggi"
+"history@group$active","Perdagangan aktif"
+"history@group$finished","Perdagangan yang selesai"
+"st@level$all","Semua"
+"st@level$easy","Sederhana"
+"st@level$base","Dasar"
+"st@level$advanced","Lanjutan"
+"promo@btn$details","Baca selengkapnya"
+"promo@timer$name","Promo berakhir dalam"
+"promo@until","hingga"
+"wallet@btn$refill","Tambah dana akun demo"
+"tournament@prize-fund","Dana hadiah"
+"tournament@prize-places","Posisi teratas"
+"tournament@tab$restrictions","Syarat dan Ketentuan"
+"tournament@tab$rating","Peringkat peserta"
+"tournament@tab$current","Saat Ini"
+"tournament@tab$soon","Segera hadir"
+"tournament@timer$start","Kontes dimulai dalam"
+"tournament@timer$end","Kontes berakhir dalam"
+"section@title$bet","Perdagangan"
+"bet@tab$deposit","Deposit"
+"forecast@deal","Perdagangan"
+"forecast@deals","Perdagangan"
+"promo@days-short","h."
+"settings@group$region","Pengaturan wilayah"
+"settings@group$design","Desain"
+"menu@account-type","Jenis akun"
+"menu@profile","Profil pengguna"
+"leaderboard@tournament","Kontes"
+"leaderboard$toggle@open","Peringkat lengkap"
+"leaderboard$toggle@close","Tutup"
+"disabled-timer@title","Dibuka dalam"
+"open-option$total$deals","invest."
+"open-option$total$invest","Total investasi"
+"open-option$total$payout","Total pembayaran"
+"chat-button@text","bantuan<br>online"
+"accounts@popular","Pilihan populer"
+"settings@animation","Animasi poin"
+"settings@animation-disabled","Nonaktif"
+"settings@animation-enabled","Aktif"

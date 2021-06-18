@@ -1,806 +1,806 @@
-"{"
-""	"settings@animation-enabled: ""Habilitado"""
-""	"dearUser: ""Dear User!"","
-""	"error: ""Error"","
-""	"settings: ""Settings"","
-""	"settings-2: ""Terminal settings"","
-""	"regionalSettings: ""Region settings"","
-""	"timezone: ""Timezone"","
-""	"timezone-2: ""Time Zone"","
-""	"language: ""Language"","
-""	"skin-theme: ""Theme"","
-""	"ui-zoom: ""Zoom"","
-""	"ui-zoom-2: ""Scale"","
-""	"investment: ""Trade"","
-""	"payout: ""Payout"","
-""	"options: ""Options"","
-""	"quote: ""Quote"","
-""	"time: ""Time"","
-""	"past: ""Closed"","
-""	"active: ""Opened"","
-""	"value: ""Value"","
-""	"add: ""New tab"","
-""	"add-new-chart: ""Add new chart"","
-""	"charts-arrangement: ""Charts grid"","
-""	"turbo-cap: ""1—5 min"","
-""	"count-chart: ""{{@count}} chart"","
-""	"count-charts: ""{{@count}} charts"","
-""	"one-chart: ""1 chart"","
-""	"two-charts: ""2 charts"","
-""	"three-charts: ""3 charts"","
-""	"four-charts: ""4 charts"","
-""	"refill: ""Deposit"","
-""	"wallets-types: ""Account types"","
-""	"history: ""History"","
-""	"cashbox: ""Banking"","
-""	"education: ""Education"","
-""	"education@category$videos: ""Educational <span>video</span>"","
-""	"promos: ""Bonuses"","
-""	"trading-history: ""Trading history"","
-""	"section-under-construction: ""This section is under construction"","
-""	"count-purchase: ""{{@count}} trade"","
-""	"count-purchases: ""{{@count}} #{trades@trade?count}"","
-""	"total-payout: ""Total payout"","
-""	"cancel: ""Cancel"","
-""	"apply: ""Apply"","
-""	"period: ""Period"","
-""	"stochastic-smoothing: ""Smoothing"","
-""	"stochastic-overbought: ""Overbought"","
-""	"stochastic-oversold: ""Oversold"","
-""	"fast-stochastic-period: ""Fast line period"","
-""	"slow-stochastic-period: ""Slow line period"","
-""	"fast-stochastic-line-color: ""Fast line color"","
-""	"slow-stochastic-line-color: ""Slow line color"","
-""	"fast-stochastic-line-thickness: ""Fast line thickness"","
-""	"fast-macd-period: ""Fast line period"","
-""	"slow-macd-period: ""Slow line period"","
-""	"signal-macd-period: ""Signal period"","
-""	"fast-macd-line-thickness: ""Fast line thickness"","
-""	"signal_line_color: ""Signal line color"","
-""	"oversold: ""Oversold"","
-""	"macd_color: ""Colour"","
-""	"line-thickness: ""Line thickness"","
-""	"line-color: ""Line Color"","
-""	"line-offset: ""Line shift"","
-""	"top-line-thickness: ""Top line thickness"","
-""	"mid-line-thickness: ""Middle line thickness"","
-""	"slow_period: ""Slow period"","
-""	"fast_period: ""Fast period"","
-""	"short_period: ""Short period"","
-""	"long_period: ""Long period"","
-""	"offset: ""Offset"","
-""	"bottom-line-thickness: ""Bottom line thickness"","
-""	"bottom-line-period: ""Bottom-line period"","
-""	"top-line-color: ""Top line color"","
-""	"top-line-period: ""Top-line period"","
-""	"mid-line-color: ""Middle line color"","
-""	"mid-line-period: ""Middle-line period"","
-""	"bottom-line-color: ""Bottom line color"","
-""	"teeth-line-color: ""Teeth line color"","
-""	"jaws-line-color: ""Jaws line color"","
-""	"lips-line-color: ""Lips line color"","
-""	"jaws-period: ""Jaws period"","
-""	"jaws-offset: ""Jaws offset"","
-""	"teeth-period: ""Teeth period"","
-""	"teeth-offset: ""Teeth offset"","
-""	"lips-period: ""Lips period"","
-""	"lips-offset: ""Lips offset"","
-""	"indice-lines-position: ""Inicator lines position"","
-""	"major-line-thickness: ""Major line thickness"","
-""	"top-signal-line-thickness: ""Top signal line thickness"","
-""	"bottom-signal-line-thickness: ""Bottom signal line thickness"","
-""	"top-signal-line-color: ""Top signal line colour"","
-""	"bottom-signal-line-color: ""Bottom signal line coloru"","
-""	"fast-stoch-color: ""Fast stochastic colour"","
-""	"low-stoch-color: ""Low stochastic colour"","
-""	"low-stoch-period: ""Low stochastic period"","
-""	"fast-stoch-line-thickness: ""Fast stochastic line thickness"","
-""	"low-stoch-line-thickness: ""Low stochastic line thickness"","
-""	"small-period: ""Small period"","
-""	"big-period: ""Big period"","
-""	"small-period-width: ""Small period width"","
-""	"big-period-width: ""Big period width"","
-""	"signal-period-width: ""Signal period width"","
-""	"bars-color: ""Bar colour"","
-""	"bars-color-maofmacd: ""MA of MACD bar colour"","
-""	"smoothing-period: ""Smoothing period"","
-""	"adx-minus-di-color: ""-DI colour"","
-""	"adx-plus-di-color: ""+DI colour"","
-""	"adx-line-color: ""ADX line colour"","
-""	"sar-default-acceleration: ""Default acceleration"","
-""	"acceleration-step: ""Acceleration step"","
-""	"max-acceleration: ""Max acceleration"","
-""	"chikou-line-thickness: ""Chikou thickness"","
-""	"chikou_period: ""Chikou span"","
-""	"tenkan_period: ""Tenkan span"","
-""	"kijun_period: ""Kijun span"","
-""	"senkou_a_period: ""Senkou A span"","
-""	"senkou_b_period: ""Senkou B span"","
-""	"color: ""Colour"","
-""	"chart-type: ""Chart type"","
-""	"chart-type-curve: ""Curve"","
-""	"chart-type-curve-area: ""Curve area"","
-""	"chart-type-candlesticks: ""Candlesticks"","
-""	"chart-type-bars: ""Bars"","
-""	"bet-sum: ""Sum"","
-""	"chart-controls-income-caption: ""Profitability"","
-""	"expiration-time: ""Expiration time"","
-""	"wallet-refilling: ""Deposit"","
-""	"real-wallet: ""Real"","
-""	"demo-wallet: ""Demo Account"","
-""	"can-deduce-profit: ""You can withdraw the profit"","
-""	"all-assets-available: ""All assets are available"","
-""	"all-features-available: ""Use all features of the platform"","
-""	"get-bonuses-from-the-platform: ""Get bonuses from the company"","
-""	"participate-tournaments: ""Participate in contest"","
-""	"can-switch-wallet-any-time: ""You can switch between accounts at any time."","
-""	"cannot-deduce-profit: ""You cannot withdraw the profit"","
-""	"refill-wallet: ""Deposit"","
-""	"choose-wallet-type: ""Account type"","
-""	"demo-wallet+wallet: ""Demo account"","
-""	"real-wallet+wallet: ""Real account"","
-""	"choose-bet: ""Trade"","
-""	"added-items: ""Added"","
-""	"bollinger-lines: ""Bollinger Bands"","
-""	"ichi-cloud: ""Ichimoku Cloud"","
-""	"alli-gator: ""Alli Gator"","
-""	"graphics-analysys-tools: ""Analysis Tools"","
-""	"new-items: ""New"","
-""	"line-segment: ""Line segment"","
-""	"ray: ""Ray"","
-""	"hori-line: ""Horizontal line"","
-""	"vline: ""Vertical line"","
-""	"free-hand: ""Free hand"","
-""	"crossroad: ""Crossroads"","
-""	"frame: ""Frame"","
-""	"range: ""Range"","
-""	"ellipse: ""Ellipse"","
-""	"fibonacci-lines: ""Fibonacci lines"","
-""	"andrews-fork: ""Andrews` pitchfork"","
-""	"graphic-tools: ""Graphical tools"","
-""	"time-period: ""Time period"","
-""	"count-second: ""{{@count}} second"","
-""	"count-seconds: ""{{@count}} seconds"","
-""	"count-minute: ""{{@count}} minute"","
-""	"count-minutes: ""{{@count}} minutes"","
-""	"count-hour: ""{{@count}} hour"","
-""	"count-hours: ""{{@count}} hours"","
-""	"lock-time: ""Lock time"","
-""	"user-profile: ""User profile"","
-""	"user-profile-heading: ""User profile"","
-""	"withdrawal: ""Withdrawal"","
-""	"support-service: ""Support"","
-""	"payment-history: ""Payment history"","
-""	"exit: ""Log Out"","
-""	"count-second-short: ""{{@count}} s"","
-""	"count-seconds-short: ""{{@count}} s"","
-""	"count-minute-short: ""{{@count}} m"","
-""	"count-minutes-short: ""{{@count}} m"","
-""	"count-hour-short: ""{{@count}} h"","
-""	"count-hours-short: ""{{@count}} h"","
-""	"count-day-short: ""{{@count}} d"","
-""	"binary-cap: ""5+ min"","
-""	"error-too-small-bet: ""Impossible to make a bet equal to {{@sum}}, the minimum bet for the currency {{@currency}} is {{@minbet}}"","
-""	"error-too-big-bet: ""It is impossible to make a bet equal to {{@sum}}, the maximum bet for the currency {{@currency}} is {{@maxbet}}"","
-""	"error-wrong-expiration: ""Wrong expiration time {{@time}}"","
-""	"not-enough-money: ""You have insufficient funds in your account."","
-""	"option-closed-head: ""Option closed"","
-""	"transaction-result: ""Result for {{@assetName}}"","
-""	"internet-connection-trouble: ""Connection problem"","
-""	"lang-name-locale-en: ""English"","
-""	"lang-name-locale-ru: ""Russian"","
-""	"lang-name-locale-de: ""German"","
-""	"lang-name-locale-tr: ""Turkish"","
-""	"lang-name-locale-vi: ""Vietnamese"","
-""	"lang-name-locale-uk: ""Ukrainian"","
-""	"lang-name-locale-th: ""Thai"","
-""	"lang-name-locale-it: ""Italian"","
-""	"lang-name-locale-pl: ""Polish"","
-""	"lang-name-chinese: ""Chinese (simplified)"","
-""	"timezone-info: ""(UTC+{{@offset}}) {{@country}}"","
-""	"you-started-using-real-wallet: ""You are using a real account."","
-""	"you-started-using-tment-wallet: ""You are using a contest account."","
-""	"tournaments: ""Contests"","
-""	"currents: ""Current"","
-""	"futures: ""Upcoming"","
-""	"archive: ""Archive"","
-""	"days: ""Days"","
-""	"hours: ""Hours"","
-""	"minutes: ""Minutes"","
-""	"prize-fond: ""Prize"","
-""	"participate-price: ""Entry fee"","
-""	"prize-places: ""Top places"","
-""	"tournament-participants-count: ""Participants"","
-""	"no-tournament-description: ""No contest description"","
-""	"utc-info: ""(UTC{{@offset}})"","
-""	"begin-time: ""Begins"","
-""	"deductions: ""Deduction"","
-""	"reg-in-tournament-for: ""Join the Contest {{@price}}"","
-""	"reg-in-tournament-for-free: ""Join the tournament for free"","
-""	"choose-tournament-to-see-info: ""Please select a contest"","
-""	"has-reged-in-tournament: ""You are registered"","
-""	"wait-for-reg-in-tournament: ""Registration request sent"","
-""	"prize-places-low: ""{{@count}} Top places"","
-""	"starting-balance: ""Starting balance"","
-""	"min-deal-size: ""Minimum trade amount"","
-""	"max-deal-size: ""Maximum trade amount"","
-""	"max-simultaneously-open-deals: ""Open trade limit"","
-""	"max-amount-of-open-deals: ""Investment limit"","
-""	"available-options-types: ""Available options"","
-""	"tournament-option-type-turbo: ""Turbo"","
-""	"tournament-option-type-binary: ""Binary"","
-""	"tournament-option-type-both: ""Both"","
-""	"tournament-winning-rules: ""Trader with the highest balance at the end of the tournament is the winner."","
-""	"available-assets: ""Available assets"","
-""	"available-options: ""Available types of transactions"","
-""	"greeting: ""Welcome"","
-""	"cashbox-plus-bonus: ""bonus"","
-""	"cashbox-input: ""Deposit"","
-""	"cashbox-output: ""Withdrawal"","
-""	"cashbox-total: ""Bonuses, promos, total"","
-""	"bonus-terms-of-use: ""Bonus terms of user"","
-""	"enter-cashbox-input-value: ""Enter deposit amount"","
-""	"enter-cashbox-output-value: ""Enter withdrawal amount"","
-""	"do-withdrawal: ""Withdrawal"","
-""	"amount-due: ""Amount"","
-""	"will-recieve-to-account: ""You get"","
-""	"i-wanna-get-bonus: ""Get bonus"","
-""	"enter-cashbox-card-type: ""Payment method"","
-""	"finish-time: ""Finish"","
-""	"top-users: ""Leaderboard"","
-""	"member: ""Member"","
-""	"balance: ""Balance"","
-""	"prize: ""Prize"","
-""	"hint-split-view-button: ""Layout"","
-""	"hint-user-profile-button: ""User menu"","
-""	"hint-asset-stat: ""Traders choice"","
-""	"hint-sound-button: ""Sound"","
-""	"hint-platform-time: ""Platform time"","
-""	"hint-profitability: ""Profitability"","
-""	"hint-payout: ""Payout"","
-""	"hint-real-acc: ""Real account"","
-""	"hint-demo-acc: ""Demo account"","
-""	"hint-tournament-acc: ""Contest account"","
-""	"hint-settings: ""Settings"","
-""	"hint-support: ""Support"","
-""	"hint-graph-type: ""Chart type"","
-""	"hint-candle-interval: ""Candle interval"","
-""	"hint-user-lines: ""Graphical tools"","
-""	"hint-secondary-lines: ""Indicators"","
-""	"hint-centerize: ""Current price"","
-""	"hint-zoom-level: ""Timeframe"","
-""	"tournament: ""Contest"","
-""	"loading: ""Loading"","
-""	"you-are-in-tournament: ""You are in!"","
-""	"repeat-tournament: ""Rebuy {{@price}}"","
-""	"unsupported-browser: ""The product is at the testing stage, at the moment we guarantee stable operation in these browsers: Google Chrome, Opera and Yandex Browser. Thank you for understanding!"","
-""	"account-is-for-educ: ""This is only a demo account"","
-""	"participate-in-demo-tments: ""Participate in demo contests"","
-""	"use-real-money: ""Trade with real money"","
-""	"participate-tments-with-real-money: ""Participate in contests and win prizes"","
-""	"native-deal-closed-body: ""Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}"","
-""	"tournaments-rules: ""Contest rules"","
-""	"tournaments-rules-2: ""Rules for participating in the contest."","
-""	"get-trade-exp: ""Get valuable trading experience"","
-""	"tment-begins-in: ""Contest starts in"","
-""	"tment-ends-in: ""Contest ends in"","
-""	"tment-has-ended: ""Contest has ended"","
-""	"tment-just-ended: ""\"{{@name}}\" just ended"","
-""	"tment-just-started: ""\"{{@name}}\" just started"","
-""	"tment-just-created: ""\"{{@name}}\" just created"","
-""	"read-more: ""Read more"","
-""	"history-is-empty: ""You have no expired deals"","
-""	"tournaments-current-is-empty: ""There are no active contests right now. Please follow our news feed and watch for newsletters."","
-""	"tournaments-future-is-empty: ""There are no future contests that are scheduled. Please follow our news feed and watch for newsletters."","
-""	"tournaments@current-empty: ""No active tournaments right now. But they're just about to pop up.<br><br>Check the \"Coming soon\" tab in the menu above and keep an eye on the platform's news and e-mails."","
-""	"tournaments-ended-is-empty: ""No ended contests"","
-""	"upper-indicator-line: ""Upper indicator line"","
-""	"lower-indicator-line: ""Lower indicator line"","
-""	"stoch-overbuy-value: ""Overbought"","
-""	"stoch-overbuy-line-width: ""Overbought width"","
-""	"stoch-overbuy-line-color: ""Overbought colour"","
-""	"stoch-oversell-value: ""Oversold"","
-""	"stoch-oversell-line-width: ""Oversold width"","
-""	"stoch-oversell-line-color: ""Oversold colour"","
-""	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3: ""This value is not valid"","
-""	"889954f14a3839c141bd8d5102094fbb: ""This value is already used"","
-""	"bd79c0ab-ddba-46cc-a703-a7a4b08de310: ""This value is not a valid email address"","
-""	"bf447c1c-0266-4e10-9c6c-573df282e413: ""This value is not a valid email address"","
-""	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1: ""This value is not a valid email address"","
-""	"c1051bb4-d103-4f74-8988-acbcafc7fdc3: ""This field is required."","
-""	"9ff3fdc4-b214-49db-8718-39c315e33d45: ""This value is too short. It should have  {{@min}}  characters or more."","
-""	"d94b19cc-114f-4f44-9cc4-4138e80a87b9: ""This value is too long. It should have {{@limit}}  characters or less."","
-""	"478618a7-95ba-473d-9101-cabd45e49115: ""This value should be equal to {{@compared_value}}."","
-""	"4dba5f9c79ae34be5884e1a3c8c45e92: ""Incorrect username or password"","
-""	"3e5af93fb888b4aa77301a7603e113d5: ""Incorrect password"","
-""	"2d28afcb-e32e-45fb-a815-01c431a86a69: ""This value should be {{@limit}} or less"","
-""	"76454e69-502c-46c5-9643-f447d837c4d5: ""This value should be {{@limit}} or more"","
-""	"ad32d13f-c3d4-423b-909a-857b961eb720: ""This value should not be null."","
-""	"8e179f1b-97aa-4560-a02f-2a8b42e49df7: ""The value you selected is not a valid choice."","
-""	"853ff54c1a66d1a2379e0c46f8eb9ed4: ""Invalid requisite {{@name}}"","
-""	"3ac1d32eb3c54e11ef9ea474da816ad6: ""Requisites  {{@name}} should be set"","
-""	"661d3bc6c153e42a3658855010678cbd: ""Unknown requisites {{@names}}"","
-""	"51fd5caf0ad30e6acb3a75b8b7f6d060: ""You are not allowed to change the status of processed request"","
-""	"2d2ba82dd886ba3b69da804675842ff5: ""Bad payment method"","
-""	"3c55616c0a7de9c064e6c2d86fa72bc2: ""Invalid expiry time"","
-""	"f029308ab5f1672de0b7615c4fa33386: ""Asset is currently closed"","
-""	"10cf6f3e2d6a3532b77d924868cbfa62: ""Asset is currently closed"","
-""	"64fc8bbac184ae9dab80c8f592d1a6f7: ""You have exceeded available trade amount limit"","
-""	"5561ccf1e94e6b9d88080bdbbcba1821: ""Insufficient funds"","
-""	"f3a5b44d01097d966072b90187a16ec6: ""User not exists"","
-""	"296ea5496bee3177c83ac27a1dc5bb10: ""Contest balance should be less than start balance"","
-""	"fc53df7c4944ebb53e8b3713126ae226: ""Maximum open trades count is {{@limit}}"","
-""	"0f8e85ca21aa2e33752728cf5e843e35: ""You have exceeded available trade amount limit"","
-""	"cbce1334c90e82f44381abe99b98fe5c: ""Total count of open options of limit is exceeded"","
-""	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f: ""This nickname is already taken. Please select another one."","
-""	"promo-ends-in: ""Bonus ends in"","
-""	"your-promocode: ""Your promocode"","
-""	"from-value-to-value: ""From {{@fromValue}} — to {{@toValue}}"","
-""	"deposit-sum: ""Deposit sum"","
-""	"bonus-sum: ""Bonus"","
-""	"promos-rules: ""Bonuses rules"","
-""	"promos-rules-2: ""Bonuses rules"","
-""	"participate-promo: ""Participate in the bonus"","
-""	"promo-has-ended: ""Bonus has ended"","
-""	"no-promos-description: ""No bonus description"","
-""	"promos-is-empty: ""No current promotions available. Please follow our latest news and watch out for future emails."","
-""	"first-launch-disclaimer-content: ""Pay attention! It takes One Click to open up a trade. Without a confirmation."","
-""	"accept: ""Accept"","
-""	"trading-session-closed: ""Trading session is closed"","
-""	"special-offer: ""Special offer"","
-""	"continue: ""Continue"","
-""	"seconds: ""Seconds"","
-""	"trading-sess-starts-in: ""Trading session starts in"","
-""	"trading-session-closed-info-0: ""Pay attention!"","
-""	"trading-session-closed-info-1: ""Stock markets are closed on weekends."","
-""	"trading-session-closed-info-2: ""Trading on our platform is available from 03:00 Monday till 00:00 Friday."","
-""	"trading-session-closed-info-3: ""Market data provided by Thompson Reuters."","
-""	"asset: ""Asset"","
-""	"additional-info: ""Additional information"","
-""	"fill-profile-to-continue: ""To continue your work on the platform, please, provide additional information"","
-""	"fill-username-heading: ""Dear trader,"","
-""	"fill-username-text: ""To participate in the tournament, enter the nickname that will represent you on the list of tournament participants. You can change it at any time in your profile’s settings."","
-""	"fill-username-placeholder: ""Please enter your nickname"","
-""	"save-and-continue: ""Save and continue"","
-""	"profile-name: ""Name"","
-""	"profile-surname: ""Surname"","
-""	"profile-telephone: ""Telephone"","
-""	"start-trading: ""Start trading"","
-""	"personal-data-safety: ""Safety of personal data is guaranteed"","
-""	"bonus: ""Bonus"","
-""	"new-bonus: ""to the account"","
-""	"received-bonus: ""Together with the selected deposit you will receive"","
-""	"received-bonus-value: ""a bonus in the amount of: {{@bonus}}"","
-""	"mobile-received-bonus-value: ""+ bonus {{@bonus}}"","
-""	"expires-in: ""Expires in"","
-""	"cannot-buy-option-try-later: ""Unable to open this trade, please try again later."","
-""	"notifications$demo-option-limit: ""Want to open more than 5 trades at once? Open a real account. To continue using your demo account, wait until the trade is complete"","
-""	"max-total-bet-limit-exceeded: ""You have exceeded allowed trade amount.\n Allowed trade amount is {{@maxBet}}"","
-""	"chart-opens-in: ""Asset will be available in:"","
-""	"hint-activate-tment-wallet: ""Press here to start using the contest account"","
-""	"largest-profit-banner-on-the-asset: ""on the asset"","
-""	"largest-profit-banner-button-trade-caption: ""Trade"","
-""	"largest-profit-banner-button-trade-caption-2: ""Trade now"","
-""	"largest-profit-banner-text: ""The best time to trade an asset"","
-""	"largest-profit-banner-text-2: ""It's a great time to trade"","
-""	"largest-profit-height-profit: ""Increased profitability"","
-""	"largest-profit-height-profit-2: ""High profitability up to"","
-""	"offer-expires-in: ""The offer expires in:"","
-""	"offer-expires-in-2: ""Offer expires in:"","
-""	"warning: ""Warning"","
-""	"banner-tech-works-info-caption: ""Technical updates"","
-""	"banner-tech-works-info-content: ""We always work to improve our trading platform.\n At the moment platform is being updated.\n We are sorry for any inconvenience."","
-""	"confirm-email-content: ""Please confirm your email address. Click the button below to resend an email with a confirmation link."","
-""	"confirm-email-caption: ""Account reactivation"","
-""	"reload: ""Reload"","
-""	"resend-confirmation: ""Resend"","
-""	"resend-confirmation-again: ""Try again"","
-""	"confirmation-mail-sent: ""Sent"","
-""	"banner-not-enough-funds-for-tment: ""You have insufficient funds on your account. Please top up your account to participate in the contest."","
-""	"tment-reenter-not-allowed: ""You cannot make additional purchases while there are open transactions."","
-""	"fill-profile-wrong-phone: ""Invalid phone number"","
-""	"fill-profile-wrong-name: ""Invalid name"","
-""	"fill-profile-wrong-surname: ""Invalid surname"","
-""	"fill-user-wrong-promocode: ""Invalid promo code"","
-""	"wrong-promocode-max-sum: ""Maximum amount to activate promo code {{@sum}}"","
-""	"wrong-promocode-min-sum: ""Minimum amount to activate promo code {{@sum}}"","
-""	"wrong-withdrawal-min-sum: ""Minimum sum {{@sum}}"","
-""	"wrong-withdrawal-max-sum: ""Maximum withdrawal amount {{@sum}}"","
-""	"wrong-promocode-expired: ""Expired"","
-""	"wrong-promocode-only-for-second-deposit: ""Available only for the second and subsequent deposits"","
-""	"wrong-promocode-only-for-first-deposit: ""Available only for the first deposit"","
-""	"wrong-promocode-used: ""The promo code was already redeemed"","
-""	"fill-user-wrong-phone: ""Invalid phone number"","
-""	"fill-user-wrong-card: ""Invalid card number"","
-""	"fill-user-wrong-customer_purse: ""Invalid account number"","
-""	"fill-user-wrong-name: ""Invalid name"","
-""	"fill-user-wrong-surname: ""Invalid surname"","
-""	"please-rotate-device: ""Turn the device over so that you can easily use the terminal."","
-""	"swipe-up-to-enter-fs: ""Swipe up to enter fullscreen mode"","
-""	"click-to-enter-fs: ""Tap anywhere on the screen to switch to full-screen mode"","
-""	"reconnect: ""Reconnect"","
-""	"reconnected: ""Reconnected!"","
-""	"free-reg: ""Free registration"","
-""	"investments: ""trades"","
-""	"investments_short: ""invest."","
-""	"investment_short: ""invest."","
-""	"buy-time: ""Buy time"","
-""	"total-investment: ""Total investment"","
-""	"total-income: ""Total payout"","
-""	"result: ""Result"","
-""	"ur-income-would-be: ""Your profit"","
-""	"create-account-for-free: ""Create account for free"","
-""	"resume-use-demo: ""Continue demo mode"","
-""	"reg-request-message: ""If you would have traded on our website, you could have earned {{@income}} by now. Don’t lose any more time, start trading!"","
-""	"trade-without-restrictions: ""Trade without restrictions"","
-""	"trade-without-restrictions-message: ""If you wish to open more than 5 trades at once, open a real trading account and trade with no limits. To keep using demo account, please wait for your current deals to expire."","
-""	"use-real-wallet: ""Real account"","
-""	"support: ""Support"","
-""	"search-asset: ""Search asset"","
-""	"error-sending-email-confirmation: ""An error occurred while sending mail. Please try again later."","
-""	"error-sending-email-confirmation-with-time: ""A new e-mail can be sent to you in {{@time}} minutes. To activate your account, please check your email or contact our support service."","
-""	"risk-free-trades: ""Risk free trades"","
-""	"count-trades-for-bet: ""{{@count}} trades for {{@sum}}"","
-""	"count-x-bet: ""{{@count}}×{{@bet}}"","
-""	"White: ""White"","
-""	"Red: ""Red"","
-""	"Pink: ""Pink"","
-""	"Purple: ""Purple"","
-""	"Deep Purple: ""Deep Purple"","
-""	"Indigo: ""Indigo"","
-""	"Blue: ""Blue"","
-""	"Cyan: ""Cyan"","
-""	"Green: ""Green"","
-""	"Light Green: ""Light Green"","
-""	"Lime: ""Lime"","
-""	"Yellow: ""Yellow"","
-""	"Amber: ""Amber"","
-""	"Orange: ""Orange"","
-""	"tournament-accounts: ""Tournament accounts"","
-""	"activate-tournament-wallet: ""Activate contest wallet"","
-""	"deposit-using-agreements-header: ""Bonus items"","
-""	"deposit-using-agreements-p1: ""Bonus is additional funds that are provided by the company to increase the trading potential of traders."","
-""	"deposit-using-agreements-p2: ""When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit."","
-""	"deposit-using-agreements-p3: ""The bonus does not limit the amount of funds that you can withdraw: you can withdraw your profits together with the amount of your deposit at any time. Please note that when withdrawing funds, all unearned bonus funds will be assigned inactive status and will be debited from your account."","
-""	"choose-payment-method: ""Choose a method of deposit"","
-""	"choose-payment-sum: ""Select the amount of deposit"","
-""	"plus-value-bonus: ""+ {{@value}} bonus"","
-""	"deposit-user-sum-value-caption: ""Want to pick up you own amount? Use the input field"","
-""	"i-have-promocode: ""I have promo code"","
-""	"requisiste-name-phone: ""Phone"","
-""	"no-bonus: ""no bonus"","
-""	"refresh: ""Refresh"","
-""	"browser: ""Browser"","
-""	"make-a-deposit: ""Make a deposit"","
-""	"cashbox-withdrawal-info-0-header: ""How can I withdraw funds from my account?"","
-""	"cashbox-withdrawal-info-0-content: ""Available options are: bank card, Qiwi/Yandex Money/WebMoney e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds."","
-""	"cashbox-withdrawal-info-1-header: ""What is the minimum amount of money that can be withdrawn from the account?"","
-""	"cashbox-withdrawal-info-1-content: ""Minimum withdrawal amount — ₽300 or $5 or €5 or A$5 or ₴150. Maximum withdrawal amount for a single transaction — ₽15,000 or $200 or €200 or A$200 or ₴6,000."","
-""	"cashbox-withdrawal-info-2-header: ""How do I withdraw an amount that is greater than ₽15,000 or $200 or €200 or A$200, or ₴6,000?"","
-""	"cashbox-withdrawal-info-2-content: ""This restriction has been set to prevent rapid account withdrawals. Amounts that exceed the established limit may only be withdrawn over the longer period of time. If you need to withdraw a greater amount, you can split your funds withdrawals into $200 or €200 or A$200, or ₽15,000 or ₴6,000 increments. You are not limited in the number of withdrawal requests that you can make. If you would like to make a larger withdrawal in a single payment, then please contact the platform support team. If your account is not verified, then it may take up to three business days to process your funds withdrawal request. You may not submit more than one funds withdrawal request per day."","
-""	"cashbox-withdrawal-info-3-header: ""How's quick the withdrawal of funds?"","
-""	"cashbox-withdrawal-info-3-content-a: ""It takes one hour to process a request, assuming that the request is submitted during the business hours of the platform finance department and your account has been verified in accordance with the platform requirements. "","
-""	"cashbox-withdrawal-info-3-content-b: ""The business hours of the finance department are Monday through Friday 10:00 AM to 10:00 PM (GMT +2). If you submit a funds withdrawal request outside of the business hours of the finance department or on a holiday, then your request will be processed at the beginning of the next business day. If your account is unverified, then your funds withdrawal request will be processed within three business days. You may not submit more than one funds withdrawal request per day."","
-""	"cashbox-withdrawal-info-4-header: ""A withdrawal policy"","
-""	"cashbox-withdrawal-info-4-content-a: ""The client must indicate all of the requested data in the \"Profile Settings\" section in order to ensure that their request is duly processed. If it is determined that inaccurate or incomplete data was entered, your funds withdrawal request may be rejected or delayed."","
-""	"cashbox-withdrawal-info-4-content-b: ""Funds are withdrawn to the same bank account (or the same payment system) that was used to fund your account. If it is not possible to complete the transaction, then you should contact the support service by either initiating an online chat or sending a support request to support@binarium.com."","
-""	"cashbox-withdrawal-info-5-header: ""Do I need to provide documents when I withdraw funds? If I do, then which ones?"","
-""	"cashbox-withdrawal-info-5-content-a: ""Please provide all of your personal data in the \"Profile Settings\" section in order to ensure rapid withdrawals. If you use several bank cards or the payment details do not match the ones that you provided during registration, you will need to undergo a full authorization process and prove that the cards actually belong to you. Funds may not be withdrawn to third-party accounts. "","
-""	"cashbox-withdrawal-info-5-content-b: ""To complete the verification process, please send a scan of your passport and the front side of your bank card to support@binarium.com so that the first and last names of the owner can be seen. If you own not an embossed card, then you must send a scan of your bank statement displaying a transaction from this card to your Binarium account in addition to the copy of your passport. The company reserves the right to require additional supporting documents if the cardholder and trading account data do not match."","
-""	"cashbox-withdrawal-info-6-header: ""On what conditions is it possible to withdraw bonus funds?"","
-""	"cashbox-withdrawal-info-6-content-a: ""The bonus itself may not be withdrawn immediately after it has been accrued. The broker credits this money to your account as a bonus to increase your trading opportunities. The interest that you earn using the bonus funds also constitutes a bonus, and it is available for withdrawal only after the necessary trade turnover is achieved. In order to withdraw the bonus itself, you need to achieve a x40 turnover of the bonus amount in the account. If you were given a no deposit bonus, then the leverage is increased to 50, that is, the turnover on the account should be equal to the bonus x50 and the maximum withdrawal amount may not exceed the amount of the no deposit bonus that has been added. Cash prizes that are won in the company's free contests are considered bonuses that are only available for withdrawal after achieving a x40 turnover."","
-""	"cashbox-withdrawal-info-6-content-b: ""Example. When you made a deposit, you accrued $150 as a bonus. According to the rules, you need to achieve a total value of purchased options of 30 x 150 = $4,500. After this value is achieved, you can withdraw the bonus funds. In this case, both profitable and unprofitable transactions are taken into account. Prematurely terminated transactions are not included in the turnover. There are no restrictions on the withdrawal of profits."","
-""	"cashbox-withdrawal-info-6-content-c: ""If you are going to withdraw the part of the deposit, then the bonus is automatically deducted from your account."","
-""	"cashbox-withdrawal-info-6-content-d: ""If you have any questions, then please contact the Binarium support service."","
-""	"cashbox-withdrawal-info-7-header: ""I am not able to create a funds withdrawal request for my account. What could be wrong?"","
-""	"cashbox-withdrawal-info-7-content: ""First, check whether all of your personal information is listed on your profile page in the \"Profile\" section. Once again, make sure that you entered all the information correctly at the time that you submit your request. Special characters like +, -, / etc are invalid. If all of the entered information is correct, but the problem persists, please contact our customer support service via online chat or at support@binarium.com."","
-""	"deposit-info-1: ""Bonus is additional funds that are provided by the company to increase the trading potential of traders"","
-""	"deposit-info-2: ""When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit."","
-""	"deposit-info-3: ""The bonus does not limit the amount of funds that you can withdraw: you can withdraw your profits at any time as well as the amount of your deposit. Please note that when withdrawing funds, all bonus funds that were not used in trades with a x40 turnover will be assigned inactive status and will be debited from your account."","
-""	"withdrawal-heading: ""Your request will be processed within 24 hours from the time when you submit it."","
-""	"withdrawal-content: ""If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day."","
-""	"withdrawal-restricted-content: ""The withdrawal limit for your <span class=\"open-act-button\">account type</span> has been exceeded"","
-""	"withdrawal-amount-caption: ""Amount of payment"","
-""	"withdrawal-type-caption: ""Funds withdrawal method"","
-""	"withdrawal-button-caption: ""Withdraw funds"","
-""	"requisite-name-card: ""Card number"","
-""	"requisite-name-phone: ""Phone"","
-""	"requisite-name-customer_purse: ""Customer purse"","
-""	"withdrawal-request-sent: ""The request is placed in the queue"","
-""	"withdrawal-request-sent-extra-info: ""You can track the request status in the “Transaction History” section."","
-""	"withdrawal-method-qiwi_ecom: ""Qiwi"","
-""	"withdrawal-method-qiwi: ""Qiwi"","
-""	"withdrawal-method-yandex_money_ecom: ""Yandex Money"","
-""	"withdrawal-method-webmoney_1gp: ""WebMoney"","
-""	"withdrawal-method-card: ""Visa/Mastercard"","
-""	"videohub: ""Education"","
-""	"asset-type-all: ""All"","
-""	"asset-type-currency: ""Currency"","
-""	"asset-type-crypto: ""Crypto"","
-""	"asset-type-goods: ""Goods"","
-""	"asset-type-countries: ""Countries"","
-""	"asset-type-leaders: ""Leaders"","
-""	"cashbox-withdrawal-info: ""It will take some time to process a request. Usually it takes up to 24 hours for the finance department to review request during business hours. We are happy to report that we do not freeze your balance while you wait for the withdrawal request to be approved. That way, you can continue trading."","
-""	"expiration-caption-16: ""In 24 hours"","
-""	"trends: ""Trends"","
-""	"show-chart: ""Show chart"","
-""	"hide-chart: ""Hide chart"","
-""	"trend-active: ""Active"","
-""	"trend-non-active: ""All"","
-""	"trends-is-empty: ""Trends is being updated"","
-""	"what-are-trends: ""What are trends?"","
-""	"what-are-trends-advice-content: ""Trends are a special trading tool that allow you to quickly find an asset with profitable potential (with a pronounced price direction) and to open a trade in the direction of the trend."","
-""	"not-enough-money-for-trends-detailed: ""A unique trading tool from Binarium is available for customers with a real balance over {{@balance}}. Promising opportunities:"","
-""	"get-access-to-trends: ""Get access to trends"","
-""	"trends-features-one: ""Track all asset trends on the market"","
-""	"trends-features-two: ""Instantly open trades in the direction of the trend when it appears"","
-""	"month-0: ""Jan"","
-""	"month-1: ""Feb"","
-""	"month-2: ""Mar"","
-""	"month-3: ""Apr"","
-""	"month-4: ""May"","
-""	"month-5: ""June"","
-""	"month-6: ""July"","
-""	"month-7: ""Aug"","
-""	"month-8: ""Sept"","
-""	"month-9: ""Oct"","
-""	"month-10: ""Nov"","
-""	"month-11: ""Dec"","
-""	"day-0: ""Mon"","
-""	"day-1: ""Tu"","
-""	"day-2: ""Wed"","
-""	"day-3: ""Th"","
-""	"day-4: ""Fri"","
-""	"day-5: ""Sat"","
-""	"day-6: ""Sun"","
-""	"trading-room: ""Trading room"","
-""	"trading-room-entering-time: ""Entering time"","
-""	"trading-room-expiration: ""Expiration"","
-""	"trading-room-strength: ""Strength"","
-""	"trading-room-strike-price: ""Strike price"","
-""	"trading-room-is-empty: ""No signals available. Please check the Trading Room shortly."","
-""	"demo-stats-banner-header-caption: ""Excellent!"","
-""	"demo-stats-banner-header-caption-2: ""Congratulations!"","
-""	"demo-stats-banner-you-earned-on-demo: ""You've earned money in a demo account."","
-""	"demo-stats-banner-total-deals-amount: ""Total trades"","
-""	"demo-stats-banner-successfull-deals-percentage: ""Percentage of successful trades"","
-""	"demo-stats-banner-real-account-opening-request: ""Open a real account to withdraw your earnings"","
-""	"demo-stats-banner-open-real-account-button-caption: ""Open a real account"","
-""	"demo-stats-banner-keep-trading-on-demo: ""Stay in demo account"","
-""	"demo-stats-banner-you-have-done: ""You have placed"","
-""	"demo-stats-banner-you-have-trades-closed-in-a-row: ""trades in a row"","
-""	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully: ""profitable trades in a row"","
-""	"demo-stats-banner-earning-on-demo-account: ""earnings in your demo account"","
-""	"demo-stats-banner-closed-in-a-row-2: ""profitable trades"","
-""	"tour-next-button-caption: ""Continue"","
-""	"tour-reading-duration-caption: ""Reading for 4 minutes."","
-""	"tour-slides-steps-count: ""Step {{@currentSlide}} of {{@totalSlidesCount}}"","
-""	"tour-slide-0-caption: ""Welcome to the Binarium trading platform"","
-""	"tour-slide-0-content: ""This brief demonstration will introduce you to the basic principles of trading and the Binarium platform interface."","
-""	"tour-slide-0-content-1: ""Read through all of the cards to learn how to trade more effectively on the platform."","
-""	"tour-slide-0-content-2: ""This brief demonstration will introduce you to the basic principles of trading and the Binarium platform interface."","
-""	"tour-slide-0-content-3: ""The main menu is on the left. For example, you can refill your account in the <span class=\"bold\">Bank</span> section. And you can order trades using the best traders on the platform in the <span class=\"bold\">Trading room</span> section!"","
-""	"tour-slide-0-content-3-port: ""The main menu is at the top left. For example, you can make deposits in the <span class=\"bold\">Bank</span> section. And you can make trades with help from the platform's best traders in the <span class=\"bold\">Trading room</span> section!"","
-""	"tour-slide-0-extra-info: ""Read through all of the cards to learn how to trade more effectively on the platform."","
-""	"tour-slide-1-caption: ""How do you earn money on the platform?"","
-""	"tour-slide-1-content: ""<span class=\"bold\">The trading platform allows you to place trades</span> by making short-term investments in financial assets: forex currency pairs, cryptocurrencies, commodities, and other financial instruments."","
-""	"tour-slide-2-caption: ""What is the basic principle behind making a trade?"","
-""	"tour-slide-2-content-a: ""A trade is a prediction about how the price of a financial asset will change over a particular period of time. Investors make either <span class=\"green\">long</span> or <span class=\"red\">short</span> trades."","
-""	"tour-slide-2-content-b: ""If your prediction turns out to be true, you will receive income. If you are wrong, then you will lose all of the funds that you have invested."","
-""	"tour-slide-3-caption: ""How do you place trades on the Binarium platform?"","
-""	"tour-slide-3-content: ""<span class=\"bold\">Select an asset</span> whose price trend you would like to predict."","
-""	"tour-slide-4-caption: ""How do you place trades on the Binarium platform?"","
-""	"tour-slide-4-content: ""<span class=\"bold\">Select the size of your investment.</span>"","
-""	"tour-slide-5-caption: ""How do you place trades on the Binarium platform?"","
-""	"tour-slide-5-content: ""<span class=\"bold\">Open a trade</span> after you make a prediction that the price will<span class=\"green\">increase</span> or <span class=\"red\">decrease</span>. Wait until the trade closes."","
-""	"tour-slide-6-caption: ""Good luck trading on the Binarium platform"","
-""	"tour-slide-6-additional-caption: ""If your prediction was correct, your profit will be automatically credited to your trading account."","
-""	"tour-slide-6-a-trading-rules: ""Trading conditions"","
-""	"tour-slide-6-a-card-0-caption: ""The amount of income that you will receive from making a successful prediction:"","
-""	"tour-slide-6-a-card-0-content-1: ""up to {{@maxProfit}}"","
-""	"tour-slide-6-a-card-0-content-2: ""of the amount of your investment you will receive from making a successful prediction."","
-""	"tour-slide-6-a-card-1-caption: ""minimum deposit size for trading."","
-""	"tour-slide-6-a-card-1-content: ""from {{@minWithdrawal}}"","
-""	"tour-slide-6-a-card-2-caption: ""average time needed to withdraw funds:"","
-""	"tour-slide-6-a-card-2-content: ""30 minutes"","
-""	"tour-slide-6-a-card-3-caption: ""Deposit funds into a real account in order to start trading:"","
-""	"tour-slide-6-a-card-3-button-caption: ""Deposit funds and start trading"","
-""	"tour-slide-6-a-dont-show-again: ""Dismiss the platform tour"","
-""	"tour-slide-6-b-trading-rules: ""Trading conditions"","
-""	"tour-slide-6-b-card-0-caption: ""The amount of income that you will receive from making a successful prediction:"","
-""	"tour-slide-6-b-card-0-content: ""<span class=\"big\">Up to 90%</span> of the amount of your investment."","
-""	"tour-slide-6-b-card-1-caption: ""minimum deposit size for trading."","
-""	"tour-slide-6-b-card-1-content: ""<span class=\"big\">{{@minWithdrawal}}</span>"","
-""	"tour-slide-6-b-card-2-caption: ""average time needed to withdraw funds."","
-""	"tour-slide-6-b-card-2-content: ""<span class=\"big\">30</span> minutes"","
-""	"tour-slide-6-b-card-3-caption: ""Learn how to trade without risk using a demo account"","
-""	"tour-slide-6-b-card-3-button-caption: ""Trade using a demo account"","
-""	"tour-slide-6-b-dont-show-again: ""Dismiss the platform tour"","
-""	"user-terms-caption: ""Trade in one click"","
-""	"what-is-trading-room: ""What is a trading room?"","
-""	"what-is-trading-room-advice-content: ""A trading room is a handy tool that allows you to copy the transactions of the best traders of the platform in one click. You can increase the efficiency of your trades and save time thanks to this tool."","
-""	"not-enough-money-for-trading-room-detailed: ""Trade and earn money with the best traders on the Binarium platform using the trading room. Top up your real balance to {{@minBalance}} and receive the following benefits:"","
-""	"get-access-to-trading-room: ""Access to the trading room"","
-""	"have-access-to-trading-room: ""To get access to the “Trading Room”, contact your manager or the support service."","
-""	"trading-room-features-one: ""Keep an eye out for transactions of the most successful trader of the platform"","
-""	"trading-room-features-two: ""Copy transactions and make profit"","
-""	"trading-room_1-title: ""Trade together"","
-""	"trading-room_1-text: ""Keep an eye out for transactions of the most successful trader of the platform."","
-""	"trading-room_2-title: ""Take advantage of others' successful experience"","
-""	"trading-room_2-text: ""Copy the behavior of other traders and make a profit!"","
-""	"trading-room_refill: ""To access the \"Trading room\", refill your balance to"","
-""	"account_level: ""Account level"","
-""	"modal-confirm_title: ""Confirm your e-mail address"","
-""	"modal-confirm_text-1: ""We sent you an e-mail with a confirmation link."","
-""	"modal-confirm_text-2: ""Didn't receive an e-mail with a confirmation link? Please check your \"Spam\" folder. Sometimes messages end up there. Or request the message again."","
-""	"modal-confirm_button: ""Send the message again"","
-""	"modal-confirm_error-1-1: ""A new e-mail can be sent to you in {{@time}} minutes. To activate your account, please check your email or contact our support service or"","
-""	"modal-confirm_error-1-2: ""contact the support service."","
-""	"modal-confirm_support: ""Contact support"","
-""	"timer_days: ""days"","
-""	"timer_hours: ""hours"","
-""	"timer_minutes: ""minutes"","
-""	"timer_seconds: ""seconds"","
-""	"tournament_button: ""Participate in the contest"","
-""	"modal-oneclick_title: ""Trade in one click"","
-""	"modal-oneclick_text: ""Please note that you can open trades on the platform in just one click. There is no additional confirmation."","
-""	"modal-oneclick_button: ""Accept and continue"","
-""	"modal-tbalance_title: ""Refill your account"","
-""	"modal-tbalance_text: ""You do not have sufficient funds in the account. Please refill your account in order to participate in the contest."","
-""	"modal-tbalance_button: ""Make a deposit"","
-""	"modal-tech_title: ""We'll get back to you soon!"","
-""	"modal-tech_text-1: ""We are constantly improving the trading platform and will complete updates very soon. We apologize for any inconveniences."","
-""	"modal-tech_text-2: ""Time remaining until work finishes:"","
-""	"modal-tech_button: ""Continue"","
-""	"modal-session_title: ""Pay attention"","
-""	"modal-session_text-1: ""Stock markets are closed on the weekend."","
-""	"modal-session_text-2: ""The trading platform is accessible"","
-""	"modal-session_text-3: ""between 3:00 AM on Monday and 12:00 AM on Friday."","
-""	"modal-session_text-4: ""You trading session will begin in:"","
-""	"modal-session_button: ""Continue"","
-""	"modal-tn_title: ""Welcome to"","
-""	"modal-tn_text-1: ""The trader with the highest balance at the end of the contest is the winner."","
-""	"modal-tn_text-2: ""Available assets:"","
-""	"modal-tn_text-3: ""Available types of transactions:"","
-""	"modal-tn_button: ""Start"","
-""	"modal-nickname_title: ""Select a nickname"","
-""	"modal-nickname_text: ""To participate in the contest, enter the nickname that will represent you in the list of contest participants. You can change it at any time in your profile settings."","
-""	"modal-nickname_button: ""Save and continue"","
-""	"modal-nickname_placeholder: ""Please enter your nickname"","
-""	"modal-profile_title: ""Additional information"","
-""	"modal-profile_text: ""Please provide additional information to continue working on the platform."","
-""	"modal-profile_name: ""First name"","
-""	"modal-profile_surname: ""Last name"","
-""	"modal-profile_phone: ""Phone number (with country code)"","
-""	"modal-profile_button: ""Start trading"","
-""	"modal-profile_aside: ""The safety of your personal data is guaranteed."","
-""	"form-error_required: ""The field can't be empty"","
-""	"form-error_name-short: ""The name is too short."","
-""	"form-error_name-format: ""Only letters allowed"","
-""	"form-error_surname-short: ""The last name is too short."","
-""	"form-error_surname-format: ""Only letters allowed"","
-""	"form-error_phone-format: ""The number must be in international format"","
-""	"srv-err_asset-is-disabled: ""Asset is disabled"","
-""	"srv-err_asset-is-disabled-for-this-tournament: ""Asset is disabled for this tournament"","
-""	"srv-err_binary-is-disabled-for-this-tournament: ""Asset is disabled for this tournament"","
-""	"srv-err_turbo-is-disabled-for-this-tournament: ""Asset is disabled for this tournament"","
-""	"tournament@btn.paid-participate: ""Entry fee"","
-""	"tournament@info.paid: ""Paid tournament"","
-""	"faq@title: ""Questions and answers"","
-""	"menu@faq: ""FAQ"","
-""	"menu@education: ""Education"","
-""	"menu@qa: ""Questions and answers"","
-""	"menu@strategies: ""Strategies"","
-""	"menu@btn$back: ""Back"","
-""	"cashbox@no-bonus: ""Don't receive bonus"","
-""	"wallet-menu@real-title: ""Real funds"","
-""	"wallet-menu@bonus-title: ""Bonus funds"","
-""	"wallet-menu@wager-title: ""Turnover to withdraw bonus"","
-""	"wallet-menu@wager-link: ""Read more about bonuses"","
-""	"modal-bonus@title: ""You are using bonus funds"","
-""	"modal-bonus@text: ""The trade size exceeds your available real funds. So in opening the transaction, your bonus funds will be used:"","
-""	"modal-bonus@deal-size: ""Trade size"","
-""	"modal-bonus@real-size: ""Real funds"","
-""	"modal-bonus@bonus-size: ""Bonus funds"","
-""	"modal-bonus@info: ""All funds received as part of the trade will be credited to your bonus account."","
-""	"modal-bonus@faq: ""Bonus fund usage rules"","
-""	"modal-bonus@btn-cancel: ""Cancel"","
-""	"modal-bonus@btn-continue: ""Accept and continue"","
-""	"modal-bonus@disable: ""Don't show this message anymore"","
-""	"trends@restrict-title: ""Insufficient funds in your account"","
-""	"trends@restrict-text: ""To unlock the Trends section, your account balance must be at least"","
-""	"asset-menu@title: ""Assets"","
-""	"asset-menu@available: ""Assets available to trade"","
-""	"asset-menu@profitable: ""Assets with increased profitability"","
-""	"asset-menu@interval: ""min."","
-""	"confirm-trade@header: ""Trade confirmation"","
-""	"confirm-trade@timer: ""Window auto-close in {{@data}} s"","
-""	"confirm-trade@heading: ""Great! You are about to confirm the trade. Please check details below:"","
-""	"confirm-trade@asset: ""Asset"","
-""	"confirm-trade@direction: ""Direction"","
-""	"confirm-trade@investment: ""Investment"","
-""	"confirm-trade@price: ""Current price"","
-""	"confirm-trade@profitability: ""Profitability"","
-""	"confirm-trade@payout: ""Potential payout"","
-""	"confirm-trade@btn-cancel: ""Cancel"","
-""	"confirm-trade@btn-confirm: ""Confirm"","
-""	"plot@loading: ""Loading"","
-""	"plot@lock-time: ""Lock time"","
-""	"plot@expiration-time: ""Expiration time"","
-""	"tr-empty@text: ""Dive into the detailed world of trading with the pros. Copy trades of the platform's most successful traders and earn more."","
-""	"tr-empty@business: ""The trading room is open for traders with Business accounts and above. Two 4-hour trading sessions on weekdays. Around 30 signals from professional traders every day. Don't waste your time learning things on your own — Binarium's best traders have already done the work for you."","
-""	"tr-empty@vip: ""Our VIP clients get all the privileges of the trading room, including personal signals and individual cooperation with a company trader who will answer all your questions, explain the current market trends and suggest areas with the highest potential. This is the best way to earn the most trading."","
-""	"tr-empty@open-btn: ""more info • log in"","
-""	"tr-empty@deposit-btn: ""go to payment • log in"","
-""	"tr-empty@vip-signals: ""+ valuable signals"","
-""	"hb@menu-btn: ""Menu"","
-""	"ac-types@title: ""Account type"","
-""	"ac-types@label_depositSum: ""Deposit amount"","
-""	"ac-types@label_tradeback: ""Tradeback"","
-""	"ac-types@label_tradebackEnrolment: ""Tradeback points"","
-""	"ac-types@label_assets: ""Trading assets"","
-""	"ac-types@label_withdrawalCountLimit: ""Withdrawal requests, per day"","
-""	"ac-types@label_withdrawalAmountLimit: ""Withdrawal limit, per month"","
-""	"ac-types@label_withdrawalDayAmountLimit: ""Withdrawal limit, per day"","
-""	"ac-types@label_tradingRoom: ""Trading room"","
-""	"ac-types@label_openDealsSum: ""Max number of open trades (at one time)"","
-""	"ac-types@value_real: ""Real funds"","
-""	"ac-types@value_bonus: ""Bonus"","
-""	"ac-types@value_nolimit: ""No limit"","
-""	"ac-types@btn: ""increase"","
-""	"ac-types@self: ""Your account"","
-""	"ac-types@tradeback-hint: ""Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"","
-""	"video-tutorial@title: ""How to start trading on Binarium in 90 seconds"","
-""	"video-tutorial@checkbox: ""Don't show this video anymore"","
-""	"user-menu@account-types: ""Account types"","
-""	"withdrawal-error@amount-limit: ""The withdrawal limit has been exceeded"","
-""	"withdrawal@limit-with-counter: ""The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{@limitCount}} requests totaling {{@limitAmount}}.<br>You can make another request in {{@limitTime}}."","
-""	"promo-gift@bonus: ""bonus"","
-""	"promo-gift@freeSpins: ""Risk free trades"","
-""	"promo-gift@tradeRoom: ""trading room"","
-""	"promo-gift@tickets: ""tickets"","
-""	"settings@quality-title: ""Graphics quality"","
-""	"settings@quality-hint: ""Manage the load on your device by changing graphics quality settings. Standard quality helps save on resources and load the platform faster, although there will be a small decrease in graphics quality."","
-""	"settings@quality-option-base: ""Base"","
-""	"settings@quality-option-average: ""Average"","
-""	"settings@quality-option-best: ""High"","
-""	"history@group$active: ""Active trades"","
-""	"history@group$finished: ""Completed trades"","
-""	"st@level$all: ""All"","
-""	"st@level$easy: ""Simple"","
-""	"st@level$base: ""Basic"","
-""	"st@level$advanced: ""Advanced"","
-""	"promo@btn$details: ""Read more"","
-""	"promo@timer$name: ""Promo ends in"","
-""	"promo@until: ""until"","
-""	"wallet@btn$refill: ""Top up demo account"","
-""	"tournament@prize-fund: ""Prize fund"","
-""	"tournament@prize-places: ""Top places"","
-""	"tournament@tab$restrictions: ""Terms and Conditions"","
-""	"tournament@tab$rating: ""Participant ranking"","
-""	"tournament@tab$current: ""Current"","
-""	"tournament@tab$soon: ""Coming soon"","
-""	"tournament@timer$start: ""Contest starts in"","
-""	"tournament@timer$end: ""Contest ends in"","
-""	"section@title$bet: ""Trading"","
-""	"bet@tab$deposit: ""Deposit"","
-""	"forecast@deal: ""Trade"","
-""	"forecast@deals: ""Trades"","
-""	"promo@days-short: ""d."","
-""	"settings@group$region: ""Region settings"","
-""	"settings@group$design: ""Design"","
-""	"menu@account-type: ""Account type"","
-""	"menu@profile: ""User profile"","
-""	"leaderboard@tournament: ""Contest"","
-""	"leaderboard$toggle@open: ""Full ranking"","
-""	"leaderboard$toggle@close: ""Close"","
-""	"disabled-timer@title: ""Opens in"","
-""	"open-option$total$deals: ""invest."","
-""	"open-option$total$invest: ""Total invest."","
-""	"open-option$total$payout: ""Total payout"","
-""	"chat-button@text: ""online<br>help"","
-""	"accounts@popular: ""Popular choice"","
-""	"settings@animation: ""Points animation"","
-""	"settings@animation-disabled: ""Disabled"","
-""	"settings@animation-enabled: ""Enabled"""
-"}"
+{
+	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
+	"dearUser": "¡Querido/a usuario/a!",
+	"error": "Error",
+	"settings": "Ajustes",
+	"settings-2": "Ajustes del terminal",
+	"regionalSettings": "Ajustes de región",
+	"timezone": "Huso horario",
+	"timezone-2": "Zona horaria",
+	"language": "Idioma",
+	"skin-theme": "Tema",
+	"ui-zoom": "Zoom",
+	"ui-zoom-2": "Escala",
+	"investment": "Operar",
+	"payout": "Pago",
+	"options": "Opciones",
+	"quote": "Cotización",
+	"time": "Hora",
+	"past": "Cerrados",
+	"active": "Abierto",
+	"value": "Valor",
+	"add": "Nueva pestaña",
+	"add-new-chart": "Agregar gráfico nuevo",
+	"charts-arrangement": "Cuadro de gráficos",
+	"turbo-cap": "1 a 5 min",
+	"count-chart": "{{@count}} gráfico",
+	"count-charts": "{{@count}} gráficos",
+	"one-chart": "1 gráfico",
+	"two-charts": "2 gráficos",
+	"three-charts": "3 gráficos",
+	"four-charts": "4 gráficos",
+	"refill": "Depósito",
+	"wallets-types": "Tipos de cuenta",
+	"history": "Historial",
+	"cashbox": "Banca",
+	"education": "Educación",
+	"education@category$videos": "Educational <span>video</span>",
+	"promos": "Bonos",
+	"trading-history": "Historial de trading",
+	"section-under-construction": "Esta sección está en construcción",
+	"count-purchase": "{{@count}} operaciones",
+	"count-purchases": "{{@count}} #{trades@trade?count}",
+	"total-payout": "Pago total",
+	"cancel": "Cancelar",
+	"apply": "Aplicar",
+	"period": "Período",
+	"stochastic-smoothing": "Suavizado",
+	"stochastic-overbought": "Sobrecomprado",
+	"stochastic-oversold": "Sobrevendido",
+	"fast-stochastic-period": "Periodo de la línea rápida",
+	"slow-stochastic-period": "Período de la línea lenta",
+	"fast-stochastic-line-color": "Color de la línea rápida",
+	"slow-stochastic-line-color": "Color de la línea lenta",
+	"fast-stochastic-line-thickness": "Grosor de la línea rápida",
+	"fast-macd-period": "Periodo de la línea rápida",
+	"slow-macd-period": "Período de la línea lenta",
+	"signal-macd-period": "Período de la señal",
+	"fast-macd-line-thickness": "Grosor de la línea rápida",
+	"signal_line_color": "Color de la línea de la señal",
+	"oversold": "Sobrevendido",
+	"macd_color": "Color",
+	"line-thickness": "Grosor de la línea",
+	"line-color": "Color de la línea",
+	"line-offset": "Cambio de la línea",
+	"top-line-thickness": "Grosor de la línea superior",
+	"mid-line-thickness": "Grosor de la línea del medio",
+	"slow_period": "Período lento",
+	"fast_period": "Período rápido",
+	"short_period": "Período corto",
+	"long_period": "Período largo",
+	"offset": "Desplazamiento",
+	"bottom-line-thickness": "Grosor de la línea inferior",
+	"bottom-line-period": "Período de la línea inferior",
+	"top-line-color": "Color de la línea superior",
+	"top-line-period": "Período de la línea superior",
+	"mid-line-color": "Color de la línea del medio",
+	"mid-line-period": "Período de la línea del medio",
+	"bottom-line-color": "Color de la línea inferior",
+	"teeth-line-color": "Color de la línea de dientes",
+	"jaws-line-color": "Color de la línea de la mandíbula",
+	"lips-line-color": "Color de la línea de los labios",
+	"jaws-period": "Período de la mandíbula",
+	"jaws-offset": "Compensación de la mandíbula",
+	"teeth-period": "Período de los dientes",
+	"teeth-offset": "Compensación de los dientes",
+	"lips-period": "Período de los labios",
+	"lips-offset": "Compensación de los labios",
+	"indice-lines-position": "Posición de líneas de indicación",
+	"major-line-thickness": "Grosor de la línea más grande",
+	"top-signal-line-thickness": "Grosor de la línea de señal superior",
+	"bottom-signal-line-thickness": "Grosor de la línea de señal inferior",
+	"top-signal-line-color": "Color de la línea de señal superior",
+	"bottom-signal-line-color": "Color de la línea de señal inferior",
+	"fast-stoch-color": "Color del estocástico rápido",
+	"low-stoch-color": "Color del estocástico bajo",
+	"low-stoch-period": "Período del estocástico bajo",
+	"fast-stoch-line-thickness": "Grosor de la línea del estocástico rápido",
+	"low-stoch-line-thickness": "Grosor de la línea del estocástico bajo",
+	"small-period": "Punto pequeño",
+	"big-period": "Punto grande",
+	"small-period-width": "Ancho del punto pequeño",
+	"big-period-width": "Ancho del punto grande",
+	"signal-period-width": "Ancho del punto de señal",
+	"bars-color": "Color de la barra",
+	"bars-color-maofmacd": "MA del color de la barra MACD",
+	"smoothing-period": "Período de suavizado",
+	"adx-minus-di-color": "Color -DI",
+	"adx-plus-di-color": "Color +DI",
+	"adx-line-color": "Color de la línea ADX",
+	"sar-default-acceleration": "Aceleración por defecto",
+	"acceleration-step": "Paso de aceleración",
+	"max-acceleration": "Aceleración máxima",
+	"chikou-line-thickness": "Grosor de Chikou",
+	"chikou_period": "Chikou span",
+	"tenkan_period": "Tenkan span",
+	"kijun_period": "Kijun span",
+	"senkou_a_period": "Senkou A span",
+	"senkou_b_period": "Senkou B span",
+	"color": "Color",
+	"chart-type": "Tipo de gráfico",
+	"chart-type-curve": "Curva",
+	"chart-type-curve-area": "Área de curva",
+	"chart-type-candlesticks": "Gráfico de velas",
+	"chart-type-bars": "Barras",
+	"bet-sum": "Importe",
+	"chart-controls-income-caption": "Rentabilidad",
+	"expiration-time": "Hora de caducidad",
+	"wallet-refilling": "Depósito",
+	"real-wallet": "Real",
+	"demo-wallet": "Cuenta de demostración",
+	"can-deduce-profit": "Puede retirar la ganancia",
+	"all-assets-available": "Todos los activos están disponibles",
+	"all-features-available": "Todas las funciones de la plataforma",
+	"get-bonuses-from-the-platform": "Obtenga bonificaciones de la empresa",
+	"participate-tournaments": "Participe en concursos",
+	"can-switch-wallet-any-time": "Puede cambiar de cuenta en cualquier momento.",
+	"cannot-deduce-profit": "No puede retirar la ganancia",
+	"refill-wallet": "Depósito",
+	"choose-wallet-type": "Tipo de cuenta",
+	"demo-wallet+wallet": "Cuenta de demostración",
+	"real-wallet+wallet": "Cuenta real",
+	"choose-bet": "Operar",
+	"added-items": "Añadidos",
+	"bollinger-lines": "Bandas de Bollinger",
+	"ichi-cloud": "Nube Ichimoku",
+	"alli-gator": "Alli Gator",
+	"graphics-analysys-tools": "Herramientas de análisis",
+	"new-items": "Nuevo",
+	"line-segment": "Segmento de línea",
+	"ray": "Rayo",
+	"hori-line": "Línea horizontal",
+	"vline": "Línea vertical",
+	"free-hand": "Trazo libre",
+	"crossroad": "Intersección",
+	"frame": "Marco",
+	"range": "Rango",
+	"ellipse": "Elipse",
+	"fibonacci-lines": "Líneas de Fibonacci",
+	"andrews-fork": "Tridente de Andrews",
+	"graphic-tools": "Herramientas gráficas",
+	"time-period": "Período de tiempo",
+	"count-second": "{{@count}} segundo",
+	"count-seconds": "{{@count}} segundos",
+	"count-minute": "{{@count}} minuto",
+	"count-minutes": "{{@count}} minutos",
+	"count-hour": "{{@count}} hora",
+	"count-hours": "{{@count}} horas",
+	"lock-time": "Hora de bloqueo",
+	"user-profile": "Perfil de usuario",
+	"user-profile-heading": "Perfil de usuario",
+	"withdrawal": "Retiro",
+	"support-service": "Soporte",
+	"payment-history": "Historial de pagos",
+	"exit": "Cerrar la sesión",
+	"count-second-short": "{{@count}} s",
+	"count-seconds-short": "{{@count}} s",
+	"count-minute-short": "{{@count}} m",
+	"count-minutes-short": "{{@count}} m",
+	"count-hour-short": "{{@count}} h",
+	"count-hours-short": "{{@count}} h",
+	"count-day-short": "{{@count}} d",
+	"binary-cap": "5 min o +",
+	"error-too-small-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta mínima para la moneda {{@currency}} es {{@minbet}}",
+	"error-too-big-bet": "Es imposible hacer una apuesta igual a {{@sum}}, la apuesta máxima para la moneda {{@currency}} es {{@maxbet}}",
+	"error-wrong-expiration": "Hora de caducidad incorrecta {{@time}}",
+	"not-enough-money": "No tiene fondos suficientes en su cuenta.",
+	"option-closed-head": "Opción cerrada",
+	"transaction-result": "Resultado para {{@assetName}}",
+	"internet-connection-trouble": "Problema de conexión",
+	"lang-name-locale-en": "Inglés",
+	"lang-name-locale-ru": "Ruso",
+	"lang-name-locale-de": "Alemán",
+	"lang-name-locale-tr": "Turco",
+	"lang-name-locale-vi": "Vietnamita",
+	"lang-name-locale-uk": "Ucraniano",
+	"lang-name-locale-th": "Tailandés",
+	"lang-name-locale-it": "Italiano",
+	"lang-name-locale-pl": "Polaco",
+	"lang-name-chinese": "Chino (simplificado)",
+	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
+	"you-started-using-real-wallet": "Usted está usando una cuenta real.",
+	"you-started-using-tment-wallet": "Usted está usando una cuenta de concurso.",
+	"tournaments": "Concursos",
+	"currents": "Actuales",
+	"futures": "Próximos",
+	"archive": "Archivo",
+	"days": "Días",
+	"hours": "Horas",
+	"minutes": "Minutos",
+	"prize-fond": "Premio",
+	"participate-price": "Precio de la inscripción",
+	"prize-places": "Posiciones más altas",
+	"tournament-participants-count": "Participantes",
+	"no-tournament-description": "No hay descripción del concurso",
+	"utc-info": "(UTC{{@offset}})",
+	"begin-time": "Comienza",
+	"deductions": "Deducción",
+	"reg-in-tournament-for": "Únase al concurso {{@price}}",
+	"reg-in-tournament-for-free": "Únase al torneo gratis",
+	"choose-tournament-to-see-info": "Por favor, seleccione un concurso",
+	"has-reged-in-tournament": "Ya se ha registrado",
+	"wait-for-reg-in-tournament": "Solicitud de registro enviada",
+	"prize-places-low": "{{@count}} posiciones más altas",
+	"starting-balance": "Saldo de comienzo",
+	"min-deal-size": "Cantidad mínima para operar",
+	"max-deal-size": "Cantidad máxima para operar",
+	"max-simultaneously-open-deals": "Límite de operación abierta",
+	"max-amount-of-open-deals": "Límite de inversión",
+	"available-options-types": "Opciones disponibles",
+	"tournament-option-type-turbo": "Turbo",
+	"tournament-option-type-binary": "Binarios",
+	"tournament-option-type-both": "Ambos",
+	"tournament-winning-rules": "El trader con el saldo más alto al final de la competencia es el ganador.",
+	"available-assets": "Activos disponibles",
+	"available-options": "Tipos de transacciones disponibles",
+	"greeting": "Bienvenido/a",
+	"cashbox-plus-bonus": "bonificación",
+	"cashbox-input": "Depósito",
+	"cashbox-output": "Retiro",
+	"cashbox-total": "Bonificaciones, promociones, total",
+	"bonus-terms-of-use": "Términos de bonificación del usuario",
+	"enter-cashbox-input-value": "Ingrese la cantidad a depositar",
+	"enter-cashbox-output-value": "Ingrese la cantidad a retirar",
+	"do-withdrawal": "Retiro",
+	"amount-due": "Importe",
+	"will-recieve-to-account": "Obtenga",
+	"i-wanna-get-bonus": "Obtenga una bonificación",
+	"enter-cashbox-card-type": "Método de pago",
+	"finish-time": "Termina",
+	"top-users": "Tabla de posiciones",
+	"member": "Miembro",
+	"balance": "Saldo",
+	"prize": "Premio",
+	"hint-split-view-button": "Formato",
+	"hint-user-profile-button": "Menú del usuario",
+	"hint-asset-stat": "Elección de los traders",
+	"hint-sound-button": "Sonido",
+	"hint-platform-time": "Hora de la plataforma",
+	"hint-profitability": "Rentabilidad",
+	"hint-payout": "Pago",
+	"hint-real-acc": "Cuenta real",
+	"hint-demo-acc": "Cuenta de demostración",
+	"hint-tournament-acc": "Cuenta de concurso",
+	"hint-settings": "Ajustes",
+	"hint-support": "Soporte",
+	"hint-graph-type": "Tipo de gráfico",
+	"hint-candle-interval": "Intervalo de velas",
+	"hint-user-lines": "Herramientas gráficas",
+	"hint-secondary-lines": "Indicadores",
+	"hint-centerize": "Precio actual",
+	"hint-zoom-level": "Marco de tiempo",
+	"tournament": "Concurso",
+	"loading": "Cargando",
+	"you-are-in-tournament": "¡Ya está participando!",
+	"repeat-tournament": "Recomprar a {{@price}}",
+	"unsupported-browser": "El producto se encuentra en fase de prueba, por el momento garantizamos un funcionamiento estable en estos navegadores: Google Chrome, Opera y Yandex Browser. ¡Gracias por su comprensión!",
+	"account-is-for-educ": "Esta es solo una cuenta de demostración",
+	"participate-in-demo-tments": "Participe en concursos de demostración",
+	"use-real-money": "Opere con dinero real",
+	"participate-tments-with-real-money": "Participe en concursos y gane premios",
+	"native-deal-closed-body": "Opción para {{@assetName}} cerrada a las {{@closeTime}}. La ganancia es {{@incomeValue}}",
+	"tournaments-rules": "Reglas del concurso",
+	"tournaments-rules-2": "Reglas para participar del concurso.",
+	"get-trade-exp": "Obtenga experiencia valiosa de trading",
+	"tment-begins-in": "El concurso comienza en",
+	"tment-ends-in": "El concurso finaliza en",
+	"tment-has-ended": "El concurso ha finalizado",
+	"tment-just-ended": "\"{{@name}}\" acaba de finalizar",
+	"tment-just-started": "\"{{@name}}\" acaba de comenzar",
+	"tment-just-created": "\"{{@name}}\" acaba de crearse",
+	"read-more": "Leer más",
+	"history-is-empty": "No tiene acuerdos caducados",
+	"tournaments-current-is-empty": "No hay concursos activos en este momento. Por favor, siga nuestras noticias y nuestros boletines.",
+	"tournaments-future-is-empty": "No hay concursos futuros programados. Por favor, siga nuestras noticias y nuestros boletines.",
+	"tournaments@current-empty": "No hay torneos activos en este momento. Pero están a punto de comenzar.<br><br>Preste atención a la pestaña \"Próximamente\" del menú de arriba para estar al tanto de las noticias y correos electrónicos de la plataforma.",
+	"tournaments-ended-is-empty": "No hay concursos finalizados",
+	"upper-indicator-line": "Línea indicadora superior",
+	"lower-indicator-line": "Línea indicadora inferior",
+	"stoch-overbuy-value": "Sobrecomprado",
+	"stoch-overbuy-line-width": "Ancho de sobrecomprado",
+	"stoch-overbuy-line-color": "Color de sobrecomprado",
+	"stoch-oversell-value": "Sobrevendido",
+	"stoch-oversell-line-width": "Ancho de sobrevendido",
+	"stoch-oversell-line-color": "Color de sobrevendido",
+	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "Este valor no es válido",
+	"889954f14a3839c141bd8d5102094fbb": "Este valor ya está en uso",
+	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "Este valor contiene una dirección de correo electrónico inválida",
+	"bf447c1c-0266-4e10-9c6c-573df282e413": "Este valor contiene una dirección de correo electrónico inválida",
+	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "Este valor contiene una dirección de correo electrónico inválida",
+	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "Este campo es obligatorio.",
+	"9ff3fdc4-b214-49db-8718-39c315e33d45": "Este valor es demasiado corto. Debe tener {{@min}} caracteres o más.",
+	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "Este valor es demasiado largo. Debe tener {{@limit}} caracteres o menos.",
+	"478618a7-95ba-473d-9101-cabd45e49115": "Este valor debe ser igual a {{@compared_value}}.",
+	"4dba5f9c79ae34be5884e1a3c8c45e92": "Nombre de usuario o contraseña incorrectos",
+	"3e5af93fb888b4aa77301a7603e113d5": "Contraseña incorrecta",
+	"2d28afcb-e32e-45fb-a815-01c431a86a69": "Este valor debe ser {{@limit}} o menos",
+	"76454e69-502c-46c5-9643-f447d837c4d5": "Este valor debe ser {{@limit}} o superior",
+	"ad32d13f-c3d4-423b-909a-857b961eb720": "Este valor no debe estar vacío.",
+	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "El valor que ha seleccionado no es una opción válida.",
+	"853ff54c1a66d1a2379e0c46f8eb9ed4": "Requisito inválido {{@name}}",
+	"3ac1d32eb3c54e11ef9ea474da816ad6": "Se deben establecer los requisitos {{@name}}",
+	"661d3bc6c153e42a3658855010678cbd": "Requisitos desconocidos {{@names}}",
+	"51fd5caf0ad30e6acb3a75b8b7f6d060": "No tiene permiso para cambiar el estado de la solicitud procesada",
+	"2d2ba82dd886ba3b69da804675842ff5": "Método de pago incorrecto",
+	"3c55616c0a7de9c064e6c2d86fa72bc2": "Hora de caducidad inválida",
+	"f029308ab5f1672de0b7615c4fa33386": "El activo está cerrado",
+	"10cf6f3e2d6a3532b77d924868cbfa62": "El activo está cerrado",
+	"64fc8bbac184ae9dab80c8f592d1a6f7": "Ha superado el límite de operación disponible",
+	"5561ccf1e94e6b9d88080bdbbcba1821": "Fondos insuficientes",
+	"f3a5b44d01097d966072b90187a16ec6": "El usuario no existe",
+	"296ea5496bee3177c83ac27a1dc5bb10": "El saldo de concurso debe ser menor al saldo de comienzo",
+	"fc53df7c4944ebb53e8b3713126ae226": "El conteo de operaciones abiertas máximas es de {{@limit}}",
+	"0f8e85ca21aa2e33752728cf5e843e35": "Ha superado el límite de operación disponible",
+	"cbce1334c90e82f44381abe99b98fe5c": "Ha superado el límite del conteo total de opciones abiertas",
+	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Este apodo no está disponible. Por favor elija otro.",
+	"promo-ends-in": "La bonificación finaliza en",
+	"your-promocode": "Su código promocional",
+	"from-value-to-value": "Desde {{@fromValue}} — hasta {{@toValue}}",
+	"deposit-sum": "Monto del depósito",
+	"bonus-sum": "Bonificación",
+	"promos-rules": "Reglas de bonificaciones",
+	"promos-rules-2": "Reglas de bonificaciones",
+	"participate-promo": "Participe para una bonificación",
+	"promo-has-ended": "La bonificación ha finalizado",
+	"no-promos-description": "No hay descripción de la bonificación",
+	"promos-is-empty": "No hay promociones disponibles actualmente. Por favor, siga nuestras últimas noticias y lea nuestros futuros correos electrónicos.",
+	"first-launch-disclaimer-content": "¡Cuidado! Solo toma un clic abrir abrir una operación. No requiere confirmación.",
+	"accept": "Aceptar",
+	"trading-session-closed": "La sesión de trading se ha cerrado",
+	"special-offer": "Oferta especial",
+	"continue": "Continuar",
+	"seconds": "Segundos",
+	"trading-sess-starts-in": "La sesión de trading comienza en",
+	"trading-session-closed-info-0": "¡Cuidado!",
+	"trading-session-closed-info-1": "Los mercados de valores están cerrados los fines de semana.",
+	"trading-session-closed-info-2": "Se puede hacer trading en nuestra plataforma desde el lunes a las 3am hasta las 12am del viernes.",
+	"trading-session-closed-info-3": "Datos del mercado provistos por Thompson Reuters.",
+	"asset": "Activo",
+	"additional-info": "Información adicional",
+	"fill-profile-to-continue": "Para continuar operando en la plataforma, brinde la información adicional",
+	"fill-username-heading": "Querido trader:",
+	"fill-username-text": "Para participar en la competencia, introduzca el apodo que lo representará en la lista de participantes de la competencia. Puede cambiarla en cualquier momento en los ajustes de su perfil.",
+	"fill-username-placeholder": "Ingrese su apodo",
+	"save-and-continue": "Guardar y continuar",
+	"profile-name": "Nombre",
+	"profile-surname": "Apellido",
+	"profile-telephone": "Teléfono",
+	"start-trading": "Comenzar a operar",
+	"personal-data-safety": "Se garantiza la seguridad de los datos personales",
+	"bonus": "Bonificación",
+	"new-bonus": "a la cuenta",
+	"received-bonus": "Junto con el depósito seleccionado, recibirá",
+	"received-bonus-value": "una bonificación de: {{@bonus}}",
+	"mobile-received-bonus-value": "+ bonificación {{@bonus}}",
+	"expires-in": "Caduca en",
+	"cannot-buy-option-try-later": "No se puede abrir esta operación, inténtelo de nuevo más tarde.",
+	"notifications$demo-option-limit": "¿Quiere abrir más de 5 operaciones a la vez? Abra una cuenta real. Para seguir usando su cuenta de demostración, espere a que se complete la operación.",
+	"max-total-bet-limit-exceeded": "Ha superado el importe de operación permitido.\n El importe de operación permitido es de {{@maxBet}}",
+	"chart-opens-in": "El activo estará disponible en:",
+	"hint-activate-tment-wallet": "Presione aquí para usar la cuenta de concurso",
+	"largest-profit-banner-on-the-asset": "en el activo",
+	"largest-profit-banner-button-trade-caption": "Operar",
+	"largest-profit-banner-button-trade-caption-2": "Operar ahora",
+	"largest-profit-banner-text": "El mejor momento para operar con un activo",
+	"largest-profit-banner-text-2": "Es un excelente momento para hacer trading",
+	"largest-profit-height-profit": "Rentabilidad aumentada",
+	"largest-profit-height-profit-2": "Alta rentabilidad hasta",
+	"offer-expires-in": "La oferta caduca en:",
+	"offer-expires-in-2": "La oferta caduca en:",
+	"warning": "Advertencia",
+	"banner-tech-works-info-caption": "Actualizaciones técnicas",
+	"banner-tech-works-info-content": "Siempre trabajamos para mejorar nuestra plataforma de operaciones.\n Actualmente se está actualizando la plataforma.\n Disculpe las molestias.",
+	"confirm-email-content": "Por favor, confirme su dirección de correo electrónico. Haga clic en el botón de abajo para reenviar un correo electrónico con un enlace de confirmación.",
+	"confirm-email-caption": "Reactivación de la cuenta",
+	"reload": "Volver a cargar",
+	"resend-confirmation": "Volver a enviar",
+	"resend-confirmation-again": "Intentar de nuevo",
+	"confirmation-mail-sent": "Enviado",
+	"banner-not-enough-funds-for-tment": "No tiene fondos suficientes en su cuenta. Recargue su cuenta para participar en el concurso.",
+	"tment-reenter-not-allowed": "No puede realizar compras adicionales mientras haya transacciones abiertas.",
+	"fill-profile-wrong-phone": "Número de teléfono inválido",
+	"fill-profile-wrong-name": "Nombre inválido",
+	"fill-profile-wrong-surname": "Apellido inválido",
+	"fill-user-wrong-promocode": "Código promocional inválido",
+	"wrong-promocode-max-sum": "Cantidad máxima para activar el código promocional {{@sum}}",
+	"wrong-promocode-min-sum": "Cantidad mínima para activar el código promocional {{@sum}}",
+	"wrong-withdrawal-min-sum": "Monto mínimo {{@sum}}",
+	"wrong-withdrawal-max-sum": "Monto máximo de retiro {{@sum}}",
+	"wrong-promocode-expired": "Expirado",
+	"wrong-promocode-only-for-second-deposit": "Disponible solo a partir del segundo depósito",
+	"wrong-promocode-only-for-first-deposit": "Disponible solo para el primer depósito",
+	"wrong-promocode-used": "El código promocional ya ha sido utilizado",
+	"fill-user-wrong-phone": "Número de teléfono inválido",
+	"fill-user-wrong-card": "Número de tarjeta inválido",
+	"fill-user-wrong-customer_purse": "Número de cuenta inválida",
+	"fill-user-wrong-name": "Nombre inválido",
+	"fill-user-wrong-surname": "Apellido inválido",
+	"please-rotate-device": "Gira el dispositivo para poder usar el terminal con facilidad.",
+	"swipe-up-to-enter-fs": "Deslice hacia arriba para el modo de pantalla completa",
+	"click-to-enter-fs": "Toque en cualquier lugar de la pantalla para cambiar a la pantalla completa",
+	"reconnect": "Reconectar",
+	"reconnected": "¡Reconectado!",
+	"free-reg": "Registro gratis",
+	"investments": "operaciones",
+	"investments_short": "invers.",
+	"investment_short": "invers.",
+	"buy-time": "Tiempo de compra",
+	"total-investment": "Inversión total",
+	"total-income": "Pago total",
+	"result": "Resultado",
+	"ur-income-would-be": "Su ganancia",
+	"create-account-for-free": "Cree una cuenta gratis",
+	"resume-use-demo": "Continuar en el modo de demostración",
+	"reg-request-message": "Si usted hubiera operado en nuestro sitio web, ya podría haber ganado {{@ingresos}}. No pierda más tiempo, ¡empiece a operar!",
+	"trade-without-restrictions": "Opere sin restricciones",
+	"trade-without-restrictions-message": "Si desea abrir más de 5 operaciones a la vez, abra una cuenta real de operaciones y opere sin límites. Para seguir usando la cuenta de demostración, espere a que sus acuerdos actuales caduquen.",
+	"use-real-wallet": "Cuenta real",
+	"support": "Soporte",
+	"search-asset": "Buscar un activo",
+	"error-sending-email-confirmation": "Se ha producido un error al enviar el correo. Por favor, inténtelo de nuevo más tarde.",
+	"error-sending-email-confirmation-with-time": "Podemos enviarle un nuevo correo electrónico en {{@time}} minutos. Para activar su cuenta, consulte su correo electrónico o póngase en contacto con nuestro Soporte.",
+	"risk-free-trades": "Operaciones sin riesgos",
+	"count-trades-for-bet": "{{@count}} operaciones para {{@sum}}",
+	"count-x-bet": "{{@count}}×{{@bet}}",
+	"White": "Blanco",
+	"Red": "Rojo",
+	"Pink": "Rosa",
+	"Purple": "Violeta",
+	"Deep Purple": "Púrpura",
+	"Indigo": "Índigo",
+	"Blue": "Azul",
+	"Cyan": "Cian",
+	"Green": "Verde",
+	"Light Green": "Verde claro",
+	"Lime": "Verde lima",
+	"Yellow": "Amarillo",
+	"Amber": "Ámbar",
+	"Orange": "Naranja",
+	"tournament-accounts": "Cuentas de torneo",
+	"activate-tournament-wallet": "Activar monedero de concurso",
+	"deposit-using-agreements-header": "Artículos de bonificación",
+	"deposit-using-agreements-p1": "Una bonificación son fondos adicionales que la empresa proporciona para aumentar el potencial de trading de los inversores.",
+	"deposit-using-agreements-p2": "Al hacer un depósito, una cierta cantidad de dinero de bonificación puede ser acreditada a su cuenta, el tamaño de la bonificación depende del tamaño de su depósito.",
+	"deposit-using-agreements-p3": "La bonificación no limita los fondos que puede retirar: puede retirar sus ganancias junto con el importe de su depósito en cualquier momento. Tenga en cuenta que, al retirar fondos, se asignará el estado inactivo a todos los fondos de bonificación aún no obtenidos, y se debitarán de su cuenta.",
+	"choose-payment-method": "Elija un método de pago",
+	"choose-payment-sum": "Seleccione la cantidad de depósito",
+	"plus-value-bonus": "Bonificación de + {{@value}}",
+	"deposit-user-sum-value-caption": "¿Quiere elegir su propio importe? Utilice el campo de entrada",
+	"i-have-promocode": "Tengo un código promocional",
+	"requisiste-name-phone": "Teléfono",
+	"no-bonus": "sin bonificaciones",
+	"refresh": "Refrescar",
+	"browser": "Navegador",
+	"make-a-deposit": "Hacer un depósito",
+	"cashbox-withdrawal-info-0-header": "¿Cómo puedo retirar fondos de mi cuenta?",
+	"cashbox-withdrawal-info-0-content": "Las opciones disponibles son: tarjeta bancaria o monederos electrónicos Qiwi/Yandex Money/WebMoney. Los dueños de microcuentas pueden tener solo una aplicación activa para el retiro de fondos.",
+	"cashbox-withdrawal-info-1-header": "¿Cuál es el importe mínimo de dinero que se puede retirar de la cuenta?",
+	"cashbox-withdrawal-info-1-content": "Importe mínimo de retiro: ₽300 o $5 o €5, A$5 o ₴150. Importe máximo de retiro para una única transacción: ₽15.000 o $200, €200, A$200 o ₴6.000.",
+	"cashbox-withdrawal-info-2-header": "¿Cómo retiro un importe mayor a ₽15.000 o $200, €200, A$200 o ₴6.000?",
+	"cashbox-withdrawal-info-2-content": "Esta restricción tiene como fin evitar retiros rápidos de las cuentas. Los importes que superan el límite establecido solo podrán retirarse durante un período de tiempo mayor. Si necesita retirar un importe mayor, puede dividir sus retiros en importes de $200, €200, A4200, ₽15.000 o ₴6.000. No hay límite en la cantidad de solicitudes de retiro que puede hacer. Si quisiera un retiro por un monto mayor en un único pago, por favor contacte al equipo de soporte de la plataforma. Si su cuenta no está verificada, podría tomar hasta 3 días hábiles procesar su solicitud de retiro de fondos. No puede enviar más de una solicitud de retiro de fondos por día.",
+	"cashbox-withdrawal-info-3-header": "¿Qué tan rápido se ejecuta el retiro de fondos?",
+	"cashbox-withdrawal-info-3-content-a": "Procesar una solicitud toma una hora, asumiendo que la solicitud se envíe en el horario de trabajo del departamento financiero de la plataforma y que su cuenta haya sido verificada de acuerdo con los requisitos de la plataforma. ",
+	"cashbox-withdrawal-info-3-content-b": "El horario de trabajo del departamento financiero es de lunes a viernes de 10:00 a 22:00 (GMT +2). Si envía una solicitud de retiro de fondos por fuera del horario de trabajo del departamento financiero o en un día festivo no laborable, entonces su solicitud se procesará al inicio del siguiente día laborable. Si su cuenta no ha sido verificada, entonces su solicitud de retiro de fondos se procesará en un plazo de tres días hábiles. No puede enviar más de una solicitud de retiro de fondos por día.",
+	"cashbox-withdrawal-info-4-header": "Política de retiro",
+	"cashbox-withdrawal-info-4-content-a": "El cliente deberá completar todos los datos solicitados en la sección \"Ajustes de perfil\" para que podamos garantizar el correcto procesamiento de su solicitud. Si se determinara que se ingresaron datos inexactos o incompletos, su solicitud de retiro de fondos podría ser rechazada o demorada.",
+	"cashbox-withdrawal-info-4-content-b": "Los fondos se retiran hacia la misma cuenta bancaria (o el mismo sistema de pagos) usada para cargar fondos en su cuenta. Si no es posible completar la transacción, deberá contactar al Soporte ya sea iniciando un chat en línea o enviando una solicitud de asistencia a support@binarium.com.",
+	"cashbox-withdrawal-info-5-header": "¿Necesito proporcionar documentos cuando retire fondos? De ser así, ¿cuáles?",
+	"cashbox-withdrawal-info-5-content-a": "Por favor, complete todos sus datos personales en la sección \"Ajustes de perfil\" para poder garantizarle retiros en tiempo y forma. Si usa varias tarjetas bancarias o los detalles de pago no coinciden con los que indicó al momento de registrarse, deberá pasar por un proceso completo de autorización y demostrar que las tarjetas efectivamente le pertenecen. No se podrán retirar fondos a cuentas de terceros. ",
+	"cashbox-withdrawal-info-5-content-b": "Para completar el proceso de verificación, envíenos imágenes escaneadas de su pasaporte y del anverso de su tarjeta bancaria, en las que se puedan ver el nombre y apellido del titular, a support@binarium.com. Si no posee una tarjeta con el texto en relieve, entonces deberá enviar una imagen escaneada de su estado de cuenta bancario donde se vea una transacción de esta tarjeta a su cuenta de Binarium además de la copia de su pasaporte. La empresa se reserva el derecho de solicitar documentos complementarios adicionales si el titular de la tarjeta no coincide con los datos de la cuenta de trading.",
+	"cashbox-withdrawal-info-6-header": "¿Cuáles son las condiciones para retirar los fondos de bonificación?",
+	"cashbox-withdrawal-info-6-content-a": "La bonificación en sí misma no podrá retirarse inmediatamente después de haberse asignado. El agente acredita este dinero a su cuenta como bonificación para aumentar sus oportunidades de operar. El interés que gane usando estos fondos de bonificación también constituyen una bonificación, y estarán disponibles para retirar recién después de que se logre el monto comercial necesario. Para retirar la bonificación, deberá alcanzar un volumen de operaciones de 40 veces la cantidad de la bonificación en la cuenta. Si recibió una bonificación que no requiere depósito, entonces se incrementa a 50 veces, es decir que el volumen de operaciones en la cuenta debe ser igual a 50 veces la bonificación y la cantidad máxima de retiro no puede exceder la cantidad de la bonificación que no requiere depósito añadida. Los premios en efectivo de los concursos gratuitos de la empresa son bonificaciones que están disponibles para ser retirados después de alcanzar un volumen de operaciones de 40 veces dicho premio.",
+	"cashbox-withdrawal-info-6-content-b": "Por ejemplo, cuando hizo un depósito, acumuló 150 dólares como bonificación. De acuerdo con las reglas, es necesario que el valor total de las opciones compradas sea de 30 x $150 = $4500. Una vez alcanzado este valor, puede retirar los fondos de bonificación. En este caso, se tienen en cuenta tanto las transacciones rentables como las no rentables. Las transacciones canceladas de forma prematura no se incluyen en el volumen de operaciones. No hay restricciones al retiro de ganancias.",
+	"cashbox-withdrawal-info-6-content-c": "Si va a retirar la parte del depósito, la bonificación se deducirá automáticamente de su cuenta.",
+	"cashbox-withdrawal-info-6-content-d": "Si tiene cualquier duda, no dude en contactar al Soporte de Binarium.",
+	"cashbox-withdrawal-info-7-header": "No puedo crear una solicitud de retiro de fondos de mi cuenta. ¿En qué me estoy equivocando?",
+	"cashbox-withdrawal-info-7-content": "Primero, compruebe que su perfil incluya toda su información personal en la sección \"Perfil\". Una vez más, asegúrese de que haya introducido toda la información correctamente al enviar la solicitud. Los símbolos como +, -, /, etc son inválidos. Si toda la información introducida es correcta, pero el problema persiste, contáctese con nuestro Soporte a través del chat en línea o escriba a support@binarium.com.",
+	"deposit-info-1": "Una bonificación son fondos adicionales que la empresa proporciona para aumentar el potencial de trading de los traders",
+	"deposit-info-2": "Al hacer un depósito, una cierta cantidad de dinero de bonificación puede ser acreditada a su cuenta, el tamaño de la bonificación depende del tamaño de su depósito.",
+	"deposit-info-3": "La bonificación no limita los fondos que puede retirar: puede retirar sus ganancias en cualquier momento, así como el importe de su depósito. Tenga en cuenta que, al retirar fondos, se asignará el estado inactivo a todos los fondos de bonificación que aún no se usaron en operaciones de 40 veces la bonificación.",
+	"withdrawal-heading": "Su solicitud se procesarán en un plazo de 24 horas a partir del momento en que la envía.",
+	"withdrawal-content": "Si la solicitud se emitió fuera de las horas de trabajo del departamento financiero de la empresa, se procesará en el próximo día laborable.",
+	"withdrawal-restricted-content": "Se ha superado el límite de retiro de su <span class=\"open-act-button\">tipo de cuenta</span>",
+	"withdrawal-amount-caption": "Importe de pago",
+	"withdrawal-type-caption": "Método de retiro de fondos",
+	"withdrawal-button-caption": "Retirar fondos",
+	"requisite-name-card": "Número de tarjeta",
+	"requisite-name-phone": "Teléfono",
+	"requisite-name-customer_purse": "Monedero del cliente",
+	"withdrawal-request-sent": "La solicitud se ha puesto en cola",
+	"withdrawal-request-sent-extra-info": "Puede hacer el seguimiento del estado en la sección \"Historial de transacciones\".",
+	"withdrawal-method-qiwi_ecom": "Qiwi",
+	"withdrawal-method-qiwi": "Qiwi",
+	"withdrawal-method-yandex_money_ecom": "Yandex Money",
+	"withdrawal-method-webmoney_1gp": "WebMoney",
+	"withdrawal-method-card": "Visa/Mastercard",
+	"videohub": "Educación",
+	"asset-type-all": "Todos",
+	"asset-type-currency": "Moneda",
+	"asset-type-crypto": "Cripto",
+	"asset-type-goods": "Bienes",
+	"asset-type-countries": "Países",
+	"asset-type-leaders": "Líderes",
+	"cashbox-withdrawal-info": "Procesar una solicitud tomará algún tiempo. Usualmente toma hasta 24 horas que el departamento financiero verifique su solicitud en horario laborable. Nos complace informarle que no congelamos su saldo mientras espera la aprobación de su solicitud de retiro. Así, podrá continuar operando.",
+	"expiration-caption-16": "En 24 horas",
+	"trends": "Tendencias",
+	"show-chart": "Mostrar gráfico",
+	"hide-chart": "Ocultar gráfico",
+	"trend-active": "Activas",
+	"trend-non-active": "Todos",
+	"trends-is-empty": "Las tendencias se están actualizando",
+	"what-are-trends": "¿Qué son las tendencias?",
+	"what-are-trends-advice-content": "Las tendencias son una herramienta especial que le permite encontrar rápidamente un activo con un potencial de rentabilidad (con una dirección de precio pronunciada) y abrir una operación en la dirección de la tendencia.",
+	"not-enough-money-for-trends-detailed": "Una herramienta única de Binarium está disponible para los clientes con un saldo real superior a {{@balance}}. Oportunidades prometedoras:",
+	"get-access-to-trends": "Acceda a las tendencias",
+	"trends-features-one": "Realice el seguimiento de todas las tendencias de los activos del mercado",
+	"trends-features-two": "Abra operaciones instantáneamente en la dirección de la tendencia cuando aparezca",
+	"month-0": "Ene",
+	"month-1": "Feb",
+	"month-2": "Mar",
+	"month-3": "Abr",
+	"month-4": "May",
+	"month-5": "Jun",
+	"month-6": "Jul",
+	"month-7": "Ago",
+	"month-8": "Set",
+	"month-9": "Oct",
+	"month-10": "Nov",
+	"month-11": "Dic",
+	"day-0": "Lun",
+	"day-1": "Mar",
+	"day-2": "Mié",
+	"day-3": "Jue",
+	"day-4": "Vie",
+	"day-5": "Sáb",
+	"day-6": "Dom",
+	"trading-room": "Salón de trading",
+	"trading-room-entering-time": "Hora de ingreso",
+	"trading-room-expiration": "Caducidad",
+	"trading-room-strength": "Fuerza",
+	"trading-room-strike-price": "Precio de ejercicio",
+	"trading-room-is-empty": "No hay señales disponibles. Por favor vuelva a consultar el salón de trading en breve.",
+	"demo-stats-banner-header-caption": "¡Excelente!",
+	"demo-stats-banner-header-caption-2": "¡Felicitaciones!",
+	"demo-stats-banner-you-earned-on-demo": "Ha ganado dinero en una cuenta de demostración.",
+	"demo-stats-banner-total-deals-amount": "Operaciones totales",
+	"demo-stats-banner-successfull-deals-percentage": "Porcentaje de operaciones exitosas",
+	"demo-stats-banner-real-account-opening-request": "Abra una cuenta real para retirar sus ganancias",
+	"demo-stats-banner-open-real-account-button-caption": "Abrir una cuenta real",
+	"demo-stats-banner-keep-trading-on-demo": "Seguir en la cuenta de demostración",
+	"demo-stats-banner-you-have-done": "Ha efectuado",
+	"demo-stats-banner-you-have-trades-closed-in-a-row": "operaciones seguidas",
+	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "operaciones rentables seguidas",
+	"demo-stats-banner-earning-on-demo-account": "ganancias en su cuenta de demostración",
+	"demo-stats-banner-closed-in-a-row-2": "operaciones rentables",
+	"tour-next-button-caption": "Continuar",
+	"tour-reading-duration-caption": "Lectura de 4 minutos.",
+	"tour-slides-steps-count": "Paso {{@currentSlide}} de {{@totalSlidesCount}}",
+	"tour-slide-0-caption": "Bienvenido a la plataforma de trading Binarium",
+	"tour-slide-0-content": "Esta breve demostración le presentará los principios básicos del trading y la interfaz de la plataforma Binarium.",
+	"tour-slide-0-content-1": "Lea todo para aprender a operar más eficazmente en la plataforma.",
+	"tour-slide-0-content-2": "Esta breve demostración le presentará los principios básicos del trading y la interfaz de la plataforma Binarium.",
+	"tour-slide-0-content-3": "El menú principal está a la izquierda. Por ejemplo, puede ir a la sección <span class=\"bold\">Banco</span> para cargar más dinero en su cuenta. Y en la sección <span class=\"bold\">Salón de trading</span> podrá solicitar operaciones usando a los mejores traders de la plataforma.",
+	"tour-slide-0-content-3-port": "El menú principal está arriba a la izquierda. Por ejemplo, puede ir a la sección <span class=\"bold\">Banco</span> para hacer depósitos. Y en la sección <span class=\"bold\">Salón de trading</span> podrá hacer operaciones con la ayuda de los mejores traders de la plataforma.",
+	"tour-slide-0-extra-info": "Lea todo para aprender a operar más eficazmente en la plataforma.",
+	"tour-slide-1-caption": "¿Cómo se hace dinero en la plataforma?",
+	"tour-slide-1-content": "<span class=\"bold\">La plataforma de trading le permite realizar operaciones </span> a partir inversiones a corto plazo en activos financieros: pares de divisas, criptomonedas, materias primas y otros instrumentos financieros.",
+	"tour-slide-2-caption": "¿Cuál es el principio básico detrás de una operación?",
+	"tour-slide-2-content-a": "<span class=\"bold\">Una operación es una predicción de cómo cambiará el precio de un activo financiero</span> a lo largo de un período de tiempo determinado. Los inversores realizan operaciones <span class=\"green\">a largo plazo</span> o a <span class=\"red\">corto plazo</span>.",
+	"tour-slide-2-content-b": "Si su predicción resulta ser cierta, recibirá ingresos. Si se equivoca, entonces perderá todos los fondos que ha invertido.",
+	"tour-slide-3-caption": "¿Cómo se hacen operaciones en la plataforma Binarium?",
+	"tour-slide-3-content": "<span class=\"bold\">Seleccione un activo </span> cuya tendencia de precio quiera predecir.",
+	"tour-slide-4-caption": "¿Cómo se hacen operaciones en la plataforma Binarium?",
+	"tour-slide-4-content": "<span class=\"bold\">Seleccione el tamaño de su inversión.</span>",
+	"tour-slide-5-caption": "¿Cómo se hacen operaciones en la plataforma Binarium?",
+	"tour-slide-5-content": "<span class=\"bold\">Abra una operación</span> y haga una predicción sobre que el precio va a <span class=\"green\">aumentar</span> o<span class=\"red\">disminuir</span>. Espere a que la operación se cierre.",
+	"tour-slide-6-caption": "¡Buena suerte con sus operaciones en la plataforma Binarium!",
+	"tour-slide-6-additional-caption": "Si su predicción fue correcta, sus ganancias serán automáticamente acreditadas a su cuenta de trading.",
+	"tour-slide-6-a-trading-rules": "Condiciones de trading",
+	"tour-slide-6-a-card-0-caption": "La cantidad de ingresos que usted recibirá al hacer una predicción exitosa:",
+	"tour-slide-6-a-card-0-content-1": "hasta {{@maxProfit}}",
+	"tour-slide-6-a-card-0-content-2": "de la cantidad de su inversión que recibirá por hacer una predicción exitosa.",
+	"tour-slide-6-a-card-1-caption": "depósito mínimo para operar.",
+	"tour-slide-6-a-card-1-content": "a partir de {{@minWithdrawal}}",
+	"tour-slide-6-a-card-2-caption": "tiempo promedio necesario para retirar fondos:",
+	"tour-slide-6-a-card-2-content": "30 minutos",
+	"tour-slide-6-a-card-3-caption": "Deposite fondos en una cuenta real para comenzar a operar:",
+	"tour-slide-6-a-card-3-button-caption": "Deposite fondos y comience a operar",
+	"tour-slide-6-a-dont-show-again": "Ignorar la visita introductoria a la plataforma",
+	"tour-slide-6-b-trading-rules": "Condiciones de trading",
+	"tour-slide-6-b-card-0-caption": "La cantidad de ingresos que usted recibirá al hacer una predicción exitosa:",
+	"tour-slide-6-b-card-0-content": "<span class=\"big\">Hasta un 90%</span> del monto de su inversión.",
+	"tour-slide-6-b-card-1-caption": "depósito mínimo para operar.",
+	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
+	"tour-slide-6-b-card-2-caption": "tiempo promedio necesario para retirar fondos.",
+	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> minutos",
+	"tour-slide-6-b-card-3-caption": "Aprenda cómo operar sin riesgos, usando una cuenta de demostración",
+	"tour-slide-6-b-card-3-button-caption": "Opere con una cuenta de demostración",
+	"tour-slide-6-b-dont-show-again": "Ignorar la visita introductoria a la plataforma",
+	"user-terms-caption": "Opere con un clic",
+	"what-is-trading-room": "¿Qué es un salón de trading?",
+	"what-is-trading-room-advice-content": "Un salón de trading es una herramienta muy útil que le permite copiar las transacciones de los mejores operadores de la plataforma en un solo clic. Gracias a esta herramienta, podrá aumentar la eficiencia de sus operaciones y ahorrar tiempo.",
+	"not-enough-money-for-trading-room-detailed": "Opere y gane dinero con los mejores traders de la plataforma Binarium con el salón de trading. Recargue su saldo real a {{@minBalance}} y obtenga los siguientes beneficios:",
+	"get-access-to-trading-room": "Acceso al salón de trading",
+	"have-access-to-trading-room": "Para acceder al \"Salón de Trading\", contacte a su administrador o al Soporte.",
+	"trading-room-features-one": "Esté atento a las transacciones del trader más exitoso de la plataforma",
+	"trading-room-features-two": "Copie transacciones y obtenga ganancias",
+	"trading-room_1-title": "Operaciones conjuntas",
+	"trading-room_1-text": "Esté atento a las transacciones del trader más exitoso de la plataforma.",
+	"trading-room_2-title": "Aproveche la experiencia exitosa de otros",
+	"trading-room_2-text": "¡Copie el comportamiento de otros traders para obtener ganancias!",
+	"trading-room_refill": "Para acceder al \"Salón de trading\", cargue su saldo a",
+	"account_level": "Nivel de la cuenta",
+	"modal-confirm_title": "Confirme su correo electrónico",
+	"modal-confirm_text-1": "Le enviamos un correo electrónico con el enlace de confirmación.",
+	"modal-confirm_text-2": "¿No recibió un correo electrónico con el enlace de confirmación? Revise su carpeta de spam. A veces los mensajes terminan allí. O vuelva a solicitar el mensaje.",
+	"modal-confirm_button": "Volver a enviar el mensaje",
+	"modal-confirm_error-1-1": "Podemos enviarle un nuevo correo electrónico en {{@time}} minutos. Para activar su cuenta, revise su correo electrónico o póngase en contacto con nuestro Soporte o",
+	"modal-confirm_error-1-2": "contacte con nuestro Soporte.",
+	"modal-confirm_support": "Contacte al soporte",
+	"timer_days": "días",
+	"timer_hours": "horas",
+	"timer_minutes": "minutos",
+	"timer_seconds": "segundos",
+	"tournament_button": "Participe del concurso",
+	"modal-oneclick_title": "Opere con un clic",
+	"modal-oneclick_text": "Tenga en cuenta que puede abrir operaciones en la plataforma con solo un clic. No se requiere de confirmación adicional.",
+	"modal-oneclick_button": "Aceptar y continuar",
+	"modal-tbalance_title": "Recargue su cuenta",
+	"modal-tbalance_text": "No tiene fondos suficientes en la cuenta. Recargue su cuenta para participar en el concurso.",
+	"modal-tbalance_button": "Hacer un depósito",
+	"modal-tech_title": "¡Le responderemos a la brevedad!",
+	"modal-tech_text-1": "Estamos mejorando la plataforma de trading constantemente y completaremos actualizaciones muy pronto. Lamentamos cualquier inconveniente.",
+	"modal-tech_text-2": "Tiempo restante hasta que finalice el trabajo:",
+	"modal-tech_button": "Continuar",
+	"modal-session_title": "Tenga cuidado",
+	"modal-session_text-1": "Los mercados de valores están cerrados los fines de semana.",
+	"modal-session_text-2": "La plataforma de trading está accesible",
+	"modal-session_text-3": "entre las 3:00 AM del lunes y las 12:00 AM del viernes.",
+	"modal-session_text-4": "Su sesión de trading comenzará en:",
+	"modal-session_button": "Continuar",
+	"modal-tn_title": "Bienvenido/a a",
+	"modal-tn_text-1": "El trader con el saldo más alto al final del concurso es el ganador.",
+	"modal-tn_text-2": "Activos disponibles:",
+	"modal-tn_text-3": "Tipos de transacciones disponibles:",
+	"modal-tn_button": "Comenzar",
+	"modal-nickname_title": "Elija un apodo",
+	"modal-nickname_text": "Para participar del concurso, introduzca el apodo que lo representará en la lista de participantes del concurso. Puede cambiarla en cualquier momento en los ajustes de su perfil.",
+	"modal-nickname_button": "Guardar y continuar",
+	"modal-nickname_placeholder": "Ingrese su apodo",
+	"modal-profile_title": "Información adicional",
+	"modal-profile_text": "Por favor ingrese información adicional para seguir operando con la plataforma.",
+	"modal-profile_name": "Nombre",
+	"modal-profile_surname": "Apellido",
+	"modal-profile_phone": "Número de teléfono (con el código de país)",
+	"modal-profile_button": "Comenzar a operar",
+	"modal-profile_aside": "Garantizamos la seguridad de sus datos personales.",
+	"form-error_required": "El campo no puede estar vacío",
+	"form-error_name-short": "El nombre es demasiado corto.",
+	"form-error_name-format": "Solo se permiten letras",
+	"form-error_surname-short": "El apellido es demasiado corto.",
+	"form-error_surname-format": "Solo se permiten letras",
+	"form-error_phone-format": "El número debe estar en un formato internacional",
+	"srv-err_asset-is-disabled": "Activo deshabilitado",
+	"srv-err_asset-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
+	"srv-err_binary-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
+	"srv-err_turbo-is-disabled-for-this-tournament": "Activo deshabilitado para este torneo",
+	"tournament@btn.paid-participate": "Precio de la inscripción",
+	"tournament@info.paid": "Torneo pago",
+	"faq@title": "Preguntas y respuestas",
+	"menu@faq": "FAQ",
+	"menu@education": "Educación",
+	"menu@qa": "Preguntas y respuestas",
+	"menu@strategies": "Estrategias",
+	"menu@btn$back": "Volver",
+	"cashbox@no-bonus": "No recibir bonificación",
+	"wallet-menu@real-title": "Fondos reales",
+	"wallet-menu@bonus-title": "Fondos de bonificación",
+	"wallet-menu@wager-title": "Monto de transacciones para retirar la bonificación",
+	"wallet-menu@wager-link": "Leer más acerca de las bonificaciones",
+	"modal-bonus@title": "Está usando fondos de bonificación",
+	"modal-bonus@text": "La cantidad de la transacción es mayor a sus fondos reales disponibles. Por lo tanto, se usarán sus fondos de bonificación para abrir la transacción:",
+	"modal-bonus@deal-size": "Cantidad de la transacción",
+	"modal-bonus@real-size": "Fondos reales",
+	"modal-bonus@bonus-size": "Fondos de bonificación",
+	"modal-bonus@info": "Todos los fondos recibidos como parte de la transacción se acreditarán a su cuenta de bonificación.",
+	"modal-bonus@faq": "Reglas de uso de los fondos de bonificación",
+	"modal-bonus@btn-cancel": "Cancelar",
+	"modal-bonus@btn-continue": "Aceptar y continuar",
+	"modal-bonus@disable": "No volver a mostrar este mensaje",
+	"trends@restrict-title": "No tiene fondos suficientes en su cuenta",
+	"trends@restrict-text": "Para desbloquear la sección Tendencias, el saldo de su cuenta debe ser de al menos",
+	"asset-menu@title": "Activos",
+	"asset-menu@available": "Activos disponibles para operar",
+	"asset-menu@profitable": "Activos con rentabilidad aumentada",
+	"asset-menu@interval": "min.",
+	"confirm-trade@header": "Confirmación de operación",
+	"confirm-trade@timer": "La ventana se cerrará automáticamente en {{@data}} s",
+	"confirm-trade@heading": "¡Excelente! Ya está por confirmar la operación. Revise los detalles a continuación:",
+	"confirm-trade@asset": "Activo",
+	"confirm-trade@direction": "Dirección",
+	"confirm-trade@investment": "Inversión",
+	"confirm-trade@price": "Precio actual",
+	"confirm-trade@profitability": "Rentabilidad",
+	"confirm-trade@payout": "Pago potencial",
+	"confirm-trade@btn-cancel": "Cancelar",
+	"confirm-trade@btn-confirm": "Confirmar",
+	"plot@loading": "Cargando",
+	"plot@lock-time": "Hora de bloqueo",
+	"plot@expiration-time": "Hora de caducidad",
+	"tr-empty@text": "Descubre los detalles del mundo del trading con los profesionales. Copie transacciones de los traders más exitosos de la plataforma y gane más.",
+	"tr-empty@business": "El salón de trading está abierto para los traders que tengan cuentas \"Business\" y superiores. Dos sesiones de trading de 4 horas los días laborables. Aproximadamente 30 señales de traders profesionales cada día. No malgaste su tiempo aprendiendo por su cuenta: los mejores traders de Binarium ya han hecho el trabajo duro por usted.",
+	"tr-empty@vip": "Nuestros clientes VIP obtienen todos los privilegios del salón de trading, incluyendo señales personales y cooperación individual con un trader de la empresa que contestará todas sus preguntas, le explicará las últimas tendencias del mercado y le sugerirá las áreas que tienen el mayor potencial. Esta es la mejor forma de maximizar sus ganancias.",
+	"tr-empty@open-btn": "más información • iniciar sesión",
+	"tr-empty@deposit-btn": "ir a pagos • iniciar sesión",
+	"tr-empty@vip-signals": "+ señales valiosas",
+	"hb@menu-btn": "Menú",
+	"ac-types@title": "Tipo de cuenta",
+	"ac-types@label_depositSum": "Cantidad del depósito",
+	"ac-types@label_tradeback": "Tradeback",
+	"ac-types@label_tradebackEnrolment": "Puntos de tradeback",
+	"ac-types@label_assets": "Activos de trading",
+	"ac-types@label_withdrawalCountLimit": "Solicitudes de retiro diarias",
+	"ac-types@label_withdrawalAmountLimit": "Límite de retiros mensuales",
+	"ac-types@label_withdrawalDayAmountLimit": "Límite de retiros diarios",
+	"ac-types@label_tradingRoom": "Salón de trading",
+	"ac-types@label_openDealsSum": "Cantidad máxima de operaciones abiertas a la vez",
+	"ac-types@value_real": "Fondos reales",
+	"ac-types@value_bonus": "Bonificación",
+	"ac-types@value_nolimit": "Sin límite",
+	"ac-types@btn": "aumentar",
+	"ac-types@self": "Su cuenta",
+	"ac-types@tradeback-hint": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)",
+	"video-tutorial@title": "Cómo comenzar a operar en Binarium en 90 segundos",
+	"video-tutorial@checkbox": "No volver a mostrar este video",
+	"user-menu@account-types": "Tipos de cuenta",
+	"withdrawal-error@amount-limit": "Se ha superado el límite permitido para retiros",
+	"withdrawal@limit-with-counter": "Ha excedido el límite retiro de fondos.<br>Su <span class=\"open-act-button\">tipo de cuenta</span> permite {{@limitCount}} solicitudes, por un total de {{@limitAmount}}.<br>Puede realizar otra solicitud en {{@limitTime}}.",
+	"promo-gift@bonus": "bonificación",
+	"promo-gift@freeSpins": "Operaciones sin riesgo",
+	"promo-gift@tradeRoom": "salón de trading",
+	"promo-gift@tickets": "boletos",
+	"settings@quality-title": "Calidad de gráficos",
+	"settings@quality-hint": "Cambie los ajustes de calidad gráfica para administrar la carga de su dispositivo. La calidad estándar ayuda a ahorrar recursos y cargar la plataforma más rápido, si bien notará una leve pérdida de calidad gráfica.",
+	"settings@quality-option-base": "Básica",
+	"settings@quality-option-average": "Media",
+	"settings@quality-option-best": "Alta",
+	"history@group$active": "Operaciones activas",
+	"history@group$finished": "Operaciones completadas",
+	"st@level$all": "Todos",
+	"st@level$easy": "Simple",
+	"st@level$base": "Básica",
+	"st@level$advanced": "Avanzada",
+	"promo@btn$details": "Leer más",
+	"promo@timer$name": "La promoción termina en",
+	"promo@until": "hasta",
+	"wallet@btn$refill": "Recargar cuenta de demostración",
+	"tournament@prize-fund": "Fondo de premios",
+	"tournament@prize-places": "Primeras posiciones",
+	"tournament@tab$restrictions": "Términos y condiciones",
+	"tournament@tab$rating": "Clasificación de participantes",
+	"tournament@tab$current": "Actual",
+	"tournament@tab$soon": "Próximamente",
+	"tournament@timer$start": "El concurso comienza en",
+	"tournament@timer$end": "El concurso finaliza en",
+	"section@title$bet": "Trading",
+	"bet@tab$deposit": "Depósito",
+	"forecast@deal": "Operar",
+	"forecast@deals": "Operaciones",
+	"promo@days-short": "d.",
+	"settings@group$region": "Ajustes de región",
+	"settings@group$design": "Diseño",
+	"menu@account-type": "Tipo de cuenta",
+	"menu@profile": "Perfil de usuario",
+	"leaderboard@tournament": "Concurso",
+	"leaderboard$toggle@open": "Clasificación completa",
+	"leaderboard$toggle@close": "Cerrar",
+	"disabled-timer@title": "Abre en",
+	"open-option$total$deals": "invers.",
+	"open-option$total$invest": "Invers. total",
+	"open-option$total$payout": "Pago total",
+	"chat-button@text": "ayuda<br>en línea",
+	"accounts@popular": "Opción popular",
+	"settings@animation": "Animación de puntuación",
+	"settings@animation-disabled": "Deshabilitado",
+	"settings@animation-enabled": "Habilitado"
+}

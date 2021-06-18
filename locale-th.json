@@ -1,806 +1,808 @@
-{
-	"@PLURAL": "ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))",
-	"dearUser": "สวัสดี ผู้ใช้งานที่รัก!",
-	"error": "ข้อผิดพลาด",
-	"settings": "การตั้งค่า",
-	"settings-2": "การตั้งค่าเทอร์มินอล",
-	"regionalSettings": "การตั้งค่าภูมิภาค",
-	"timezone": "เขตเวลา",
-	"timezone-2": "เขตเวลา",
-	"language": "ภาษา",
-	"skin-theme": "ธีม",
-	"ui-zoom": "ซูม",
-	"ui-zoom-2": "มาตราส่วน",
-	"investment": "การซื้อขาย",
-	"payout": "การจ่ายเงิน",
-	"options": "ออปชัน",
-	"quote": "ข้อมูลราคา",
-	"time": "เวลา",
-	"past": "ที่ปิดแล้ว",
-	"active": "เปิด",
-	"value": "มูลค่า",
-	"add": "แถบใหม่",
-	"add-new-chart": "เพิ่มกราฟใหม่",
-	"charts-arrangement": "ตารางกราฟ",
-	"turbo-cap": "1-5 นาที",
-	"count-chart": "{{@count}} กราฟ",
-	"count-charts": "{{@count}} กราฟ",
-	"one-chart": "1 กราฟ",
-	"two-charts": "2 กราฟ",
-	"three-charts": "3 กราฟ",
-	"four-charts": "4 กราฟ",
-	"refill": "การฝากเงิน",
-	"wallets-types": "ประเภทบัญชี",
-	"history": "ประวัติ",
-	"cashbox": "ธนาคาร",
-	"education": "การศึกษา",
-	"education@category$videos": "<span>วีดีโอการเรียนรู้</span>",
-	"promos": "โบนัส",
-	"trading-history": "ประวัติการซื้อขาย",
-	"section-under-construction": "ส่วนนี้กำลังสร้าง",
-	"count-purchase": "{{@count}} การซื้อขาย",
-	"count-purchases": "{{@count}} #{trades@trade?count}",
-	"total-payout": "เงินที่จ่ายทั้งหมด",
-	"cancel": "ยกเลิก",
-	"apply": "นำไปใช้",
-	"period": "รอบระยะเวลา",
-	"stochastic-smoothing": "Smoothing",
-	"stochastic-overbought": "การซื้อมากเกินไป",
-	"stochastic-oversold": "การขายมากเกินไป",
-	"fast-stochastic-period": "ระยะเวลาของเส้นแบบเร็ว",
-	"slow-stochastic-period": "ระยะเวลาของเส้นแบบช้า",
-	"fast-stochastic-line-color": "สีของเส้นแบบเร็ว",
-	"slow-stochastic-line-color": "สีของเส้นแบบช้า",
-	"fast-stochastic-line-thickness": "ความหนาของเส้นแบบเร็ว",
-	"fast-macd-period": "ระยะเวลาของเส้นแบบเร็ว",
-	"slow-macd-period": "ระยะเวลาของเส้นแบบช้า",
-	"signal-macd-period": "ระยะเวลาสัญญาณ",
-	"fast-macd-line-thickness": "ความหนาของเส้นแบบเร็ว",
-	"signal_line_color": "สีของเส้นสัญญาณ",
-	"oversold": "การขายมากเกินไป",
-	"macd_color": "สี",
-	"line-thickness": "ความหนาของเส้น",
-	"line-color": "สีเส้น",
-	"line-offset": "เลื่อนบรรทัด",
-	"top-line-thickness": "ความหนาของเส้นบนสุด",
-	"mid-line-thickness": "ความหนาของเส้นกลาง",
-	"slow_period": "แสดงระยะเวลา",
-	"fast_period": "ระยะเวลาแบบเร็ว",
-	"short_period": "ระยะเวลาแบบสั้น",
-	"long_period": "ระยะเวลาแบบยาว",
-	"offset": "ส่วนชดเชย",
-	"bottom-line-thickness": "ความหนาของเส้นล่าง",
-	"bottom-line-period": "ระยะเวลาเส้นด้านล่าง",
-	"top-line-color": "สีของเส้นบนสุด",
-	"top-line-period": "ระยะเวลาเส้นด้านบน",
-	"mid-line-color": "สีของเส้นกลาง",
-	"mid-line-period": "ระยะเวลาเส้นกลาง",
-	"bottom-line-color": "สีของเส้นล่าง",
-	"teeth-line-color": "สีของเส้นฟัน",
-	"jaws-line-color": "สีของเส้นกราม",
-	"lips-line-color": "สีของเส้นริมฝีปาก",
-	"jaws-period": "รอบกราม",
-	"jaws-offset": "ส่วนชดเชยกราม",
-	"teeth-period": "รอบฟัน",
-	"teeth-offset": "ส่วนชดเชยฟัน",
-	"lips-period": "รอบริมฝีปาก",
-	"lips-offset": "ส่วนชดเชยริมฝีปาก",
-	"indice-lines-position": "ตำแหน่งเส้นตัวชี้วัด",
-	"major-line-thickness": "ความหนาของเส้นหลัก",
-	"top-signal-line-thickness": "ความหนาของเส้นสัญญาณบนสุด",
-	"bottom-signal-line-thickness": "ความหนาของเส้นสัญญาณล่าง",
-	"top-signal-line-color": "สีเส้นสัญญาณบนสุด",
-	"bottom-signal-line-color": "สีเส้นสัญญาณล่าง",
-	"fast-stoch-color": "สีของสโตแคสติกแบบเร็ว",
-	"low-stoch-color": "สีของสโตแคสติกแบบช้า",
-	"low-stoch-period": "รอบสโตแคสติกแบบช้า",
-	"fast-stoch-line-thickness": "ความหนาของเส้นสโตแคสติกแบบเร็ว",
-	"low-stoch-line-thickness": "ความหนาของเส้นสโตแคสติกแบบช้า",
-	"small-period": "รอบเล็ก",
-	"big-period": "รอบใหญ่",
-	"small-period-width": "ความกว้างของรอบเล็ก",
-	"big-period-width": "ความกว้างของรอบใหญ่",
-	"signal-period-width": "ความกว้างของรอบสัญญาณ",
-	"bars-color": "สีแถบ",
-	"bars-color-maofmacd": "สีแถบ MA ของ MACD",
-	"smoothing-period": "รอบการปรับเรียบ",
-	"adx-minus-di-color": "สี -DI",
-	"adx-plus-di-color": "สี +DI",
-	"adx-line-color": "สีเส้น ADX",
-	"sar-default-acceleration": "ความเร่งเริ่มต้น",
-	"acceleration-step": "ขั้นของความเร่ง",
-	"max-acceleration": "ความเร่งสูงสุด",
-	"chikou-line-thickness": "Chikou ความหนา",
-	"chikou_period": "Chikou ระยะเวลา",
-	"tenkan_period": "Tenkan ระยะเวลา",
-	"kijun_period": "Kijun ระยะเวลา",
-	"senkou_a_period": "Senkou A ระยะเวลา",
-	"senkou_b_period": "Senkou B ระยะเวลา",
-	"color": "สี",
-	"chart-type": "ประเภทกราฟ",
-	"chart-type-curve": "เส้นโค้ง",
-	"chart-type-curve-area": "พื้นที่โค้ง",
-	"chart-type-candlesticks": "แท่งเทียน",
-	"chart-type-bars": "แท่ง",
-	"bet-sum": "ผลรวม",
-	"chart-controls-income-caption": "ความสามารถในการทำกำไร",
-	"expiration-time": "เวลาหมดอายุ",
-	"wallet-refilling": "การฝากเงิน",
-	"real-wallet": "จริง",
-	"demo-wallet": "บัญชีทดลอง",
-	"can-deduce-profit": "คุณสามารถถอนกำไรออกมาได้",
-	"all-assets-available": "สินทรัพย์ทั้งหมดมีให้ใช้ได้",
-	"all-features-available": "ใช้คุณสมบัติทั้งหมดของแพลตฟอร์ม",
-	"get-bonuses-from-the-platform": "ได้รับโบนัสจากบริษัท",
-	"participate-tournaments": "เข้าร่วมการแข่งขัน",
-	"can-switch-wallet-any-time": "คุณสามารถสลับระหว่างบัญชีได้ตลอดเวลา",
-	"cannot-deduce-profit": "คุณไม่สามารถถอนกำไรออกมาได้",
-	"refill-wallet": "การฝากเงิน",
-	"choose-wallet-type": "ประเภทบัญชี",
-	"demo-wallet+wallet": "บัญชีสาธิต",
-	"real-wallet+wallet": "บัญชีจริง",
-	"choose-bet": "การซื้อขาย",
-	"added-items": "เพิ่มแล้ว",
-	"bollinger-lines": "โบลินเจอร์ แบนด์",
-	"ichi-cloud": "อิชิโกมุ คราวด์",
-	"alli-gator": "Alli Gator",
-	"graphics-analysys-tools": "เครื่องมือวิเคราะห์",
-	"new-items": "ใหม่",
-	"line-segment": "ภาคส่วนของเส้น",
-	"ray": "รังสี",
-	"hori-line": "เส้นแนวนอน",
-	"vline": "เส้นแนวตั้ง",
-	"free-hand": "การวาดเส้นอิสระ",
-	"crossroad": "จุดตัด",
-	"frame": "กรอบ",
-	"range": "ช่วง",
-	"ellipse": "วงรี",
-	"fibonacci-lines": "เส้นฟีโบนัชชี",
-	"andrews-fork": "ส้อมของแอนดรูว์",
-	"graphic-tools": "เครื่องมือกราฟ",
-	"time-period": "รอบระยะเวลา",
-	"count-second": "{{@count}} วินาที",
-	"count-seconds": "{{@count}} วินาที",
-	"count-minute": "{{@count}} นาที",
-	"count-minutes": "{{@count}} นาที",
-	"count-hour": "{{@count}} ชั่วโมง",
-	"count-hours": "{{@count}} ชั่วโมง",
-	"lock-time": "เวลาล็อก",
-	"user-profile": "โปรไฟล์ผู้ใช้งาน",
-	"user-profile-heading": "โปรไฟล์ผู้ใช้งาน",
-	"withdrawal": "การถอนเงิน",
-	"support-service": "ความช่วยเหลือ",
-	"payment-history": "ประวัติการชำระเงิน",
-	"exit": "ออกจากระบบ",
-	"count-second-short": "{{@count}} วินาที",
-	"count-seconds-short": "{{@count}} วินาที",
-	"count-minute-short": "{{@count}} นาที",
-	"count-minutes-short": "{{@count}} นาที",
-	"count-hour-short": "{{@count}} ชม.",
-	"count-hours-short": "{{@count}} ชม.",
-	"count-day-short": "{{@count}} วัน",
-	"binary-cap": "มากกว่า 5 นาที",
-	"error-too-small-bet": "ไม่สามารถวางเดิมพันเท่ากับ {{@sum}} ได้ จำนวนเงินเดิมพันขั้นต่ำของสกุลเงิน {{@currency}} คือ {{@minbet}}",
-	"error-too-big-bet": "ไม่สามารถวางเดิมพันเท่ากับ {{@sum}} ได้ จำนวนเงินเดิมพันสูงสุดของสกุลเงิน {{@currency}} คือ {{@maxbet}}",
-	"error-wrong-expiration": "เวลาหมดอายุไม่ถูกต้อง {{@time}}",
-	"not-enough-money": "คุณมีเงินไม่เพียงพอในบัญชีของคุณ",
-	"option-closed-head": "ออปชันปิดแล้ว",
-	"transaction-result": "ผลลัพธ์สำหรับ {{@assetName}}",
-	"internet-connection-trouble": "ปัญหาการเชื่อมต่อ",
-	"lang-name-locale-en": "อังกฤษ",
-	"lang-name-locale-ru": "รัสเซีย",
-	"lang-name-locale-de": "เยอรมัน",
-	"lang-name-locale-tr": "ตุรกี",
-	"lang-name-locale-vi": "เวียดนาม",
-	"lang-name-locale-uk": "ยูเครน",
-	"lang-name-locale-th": "ไทย",
-	"lang-name-locale-it": "อิตาลี",
-	"lang-name-locale-pl": "โปแลนด์",
-	"lang-name-chinese": "จีน (ตัวย่อ)",
-	"timezone-info": "(UTC+{{@offset}}) {{@country}}",
-	"you-started-using-real-wallet": "คุณกำลังใช้งานบัญชีจริง",
-	"you-started-using-tment-wallet": "คุณกำลังใช้งานบัญชีแข่งขัน",
-	"tournaments": "การแข่งขัน",
-	"currents": "ปัจจุบัน",
-	"futures": "ที่จะมาถึง",
-	"archive": "ที่เก็บถาวร",
-	"days": "วัน",
-	"hours": "ชั่วโมง",
-	"minutes": "นาที",
-	"prize-fond": "รางวัล",
-	"participate-price": "ค่าธรรมเนียมการเข้าร่วม",
-	"prize-places": "อันดับสูงสุด",
-	"tournament-participants-count": "ผู้เข้าร่วม",
-	"no-tournament-description": "ไม่มีคำอธิบายการแข่งขัน",
-	"utc-info": "(UTC{{@offset}})",
-	"begin-time": "เริ่มต้น",
-	"deductions": "การหัก",
-	"reg-in-tournament-for": "เข้าร่วม การแข่งขัน {{@price}}",
-	"reg-in-tournament-for-free": "เข้าร่วมการแข่งขันฟรี",
-	"choose-tournament-to-see-info": "กรุณาเลือกการแข่งขัน",
-	"has-reged-in-tournament": "คุณลงทะเบียนแล้ว",
-	"wait-for-reg-in-tournament": "ส่งคำขอลงทะเบียนแล้ว",
-	"prize-places-low": "{{@count}} อันดับสูงสุด",
-	"starting-balance": "ยอดเริ่มต้น",
-	"min-deal-size": "ปริมาณการซื้อขายขั้นต่ำ",
-	"max-deal-size": "ปริมาณการซื้อขายสูงสุด",
-	"max-simultaneously-open-deals": "ขีดจำกัดการซื้อขายที่เปิด",
-	"max-amount-of-open-deals": "ขีดจำกัดการลงทุน",
-	"available-options-types": "ออปชันที่มี",
-	"tournament-option-type-turbo": "เทอร์โบ",
-	"tournament-option-type-binary": "ไบนารี",
-	"tournament-option-type-both": "ทั้งคู่",
-	"tournament-winning-rules": "เทรดเดอร์ที่มียอดสูงสุดเมื่อตอนจบทัวร์นาเมนต์จะเป็นผู้ชนะ",
-	"available-assets": "สินทรัพย์ที่มี",
-	"available-options": "ประเภทของธุรกรรมที่มี",
-	"greeting": "ยินดีต้อนรับ",
-	"cashbox-plus-bonus": "โบนัส",
-	"cashbox-input": "การฝากเงิน",
-	"cashbox-output": "การถอนเงิน",
-	"cashbox-total": "โบนัส, โปรโมชั่น, ทั้งหมด",
-	"bonus-terms-of-use": "เงื่อนไขโบนัสของผู้ใช้งาน",
-	"enter-cashbox-input-value": "ใส่จำนวนเงินฝาก",
-	"enter-cashbox-output-value": "ใส่จำนวนเงินที่จะถอน",
-	"do-withdrawal": "การถอนเงิน",
-	"amount-due": "จำนวน",
-	"will-recieve-to-account": "คุณได้รับ",
-	"i-wanna-get-bonus": "รับโบนัส",
-	"enter-cashbox-card-type": "วิธีการชำระเงิน",
-	"finish-time": "เสร็จสิ้น",
-	"top-users": "ลีดเดอร์บอร์ด",
-	"member": "สมาชิก",
-	"balance": "ยอดเงิน",
-	"prize": "รางวัล",
-	"hint-split-view-button": "แผนผัง",
-	"hint-user-profile-button": "เมนูผู้ใช้งาน",
-	"hint-asset-stat": "ตัวเลือกของเทรดเดอร์",
-	"hint-sound-button": "เสียง",
-	"hint-platform-time": "เวลาแพลตฟอร์ม",
-	"hint-profitability": "ความสามารถในการทำกำไร",
-	"hint-payout": "การจ่ายเงิน",
-	"hint-real-acc": "บัญชีจริง",
-	"hint-demo-acc": "บัญชีสาธิต",
-	"hint-tournament-acc": "บัญชีการแข่งขัน",
-	"hint-settings": "การตั้งค่า",
-	"hint-support": "ความช่วยเหลือ",
-	"hint-graph-type": "ประเภทกราฟ",
-	"hint-candle-interval": "ช่วงห่างของแท่งเทียน",
-	"hint-user-lines": "เครื่องมือกราฟ",
-	"hint-secondary-lines": "ตัวชี้วัด",
-	"hint-centerize": "ราคาปัจจุบัน",
-	"hint-zoom-level": "กรอบเวลา",
-	"tournament": "การแข่งขัน",
-	"loading": "กำลังโหลด",
-	"you-are-in-tournament": "คุณเข้ามาแล้ว!",
-	"repeat-tournament": "ซื้อซ้ำ {{@price}}",
-	"unsupported-browser": "ผลิตภัณฑ์กำลังอยู่ในขั้นทดลอง ในขณะนี้เรารับประกันการทำงานที่เสถียร ในเบราว์เซอร์เหล่านี้: Google Chrome, Opera และ Yandex Browser ขอขอบคุณในความเข้าใจของคุณ!",
-	"account-is-for-educ": "นี่เป็นบัญชีสาธิตเท่านั้น",
-	"participate-in-demo-tments": "เข้าร่วมการแข่งขันสาธิต",
-	"use-real-money": "ซื้อขายด้วยเงินจริง",
-	"participate-tments-with-real-money": "เข้าร่วมการแข่งขัน แล้วเอาชนะรางวัล",
-	"native-deal-closed-body": "ออปชันสำหรับ {{@assetName}} ปิดที่ {{@closeTime}} กำไรคือ {{@incomeValue}}",
-	"tournaments-rules": "กฎการแข่งขัน",
-	"tournaments-rules-2": "กฎการเข้าร่วมในการแข่งขัน",
-	"get-trade-exp": "รับประสบการณ์การซื้อขายอันมีค่า",
-	"tment-begins-in": "การแข่งขันเริ่มต้นใน",
-	"tment-ends-in": "การแข่งขันจบลงใน",
-	"tment-has-ended": "การแข่งขันจบลงแล้ว",
-	"tment-just-ended": "\"{{@name}}\" เพิ่งจบลง",
-	"tment-just-started": "\"{{@name}}\" เพิ่งเริ่มต้น",
-	"tment-just-created": "\"{{@name}}\" เพิ่งสร้างขึ้น",
-	"read-more": "อ่านเพิ่มเติม",
-	"history-is-empty": "คุณไม่มีการซื้อขายที่หมดอายุ",
-	"tournaments-current-is-empty": "ไม่มีการแข่งขันที่ดำเนินการอยู่ กรุณาติดตามฟีดข่าวของเรา แล้วคอยรับชมข่าวสาร",
-	"tournaments-future-is-empty": "ไม่มีกำหนดการแข่งขันในอนาคต กรุณาติดตามฟีดข่าวของเรา แล้วคอยรับชมข่าวสาร",
-	"tournaments@current-empty": "ไม่มีการแข่งขันในขณะนี้ ตรวจสอบการแข่งขันที่กำลังจะเกิดขึ้น <br><br>โดยคลิกที่ \"เร็วๆนี้\" ตรงแถบเมนูด้านบน สามารถติดตามข่าวสารบนแพลตฟอร์มและอีเมล",
-	"tournaments-ended-is-empty": "ไม่มีการแข่งขันที่จบลงแล้ว",
-	"upper-indicator-line": "เส้นตัวชี้วัดส่วนบน",
-	"lower-indicator-line": "เส้นตัวชี้วัดส่วนล่าง",
-	"stoch-overbuy-value": "การซื้อมากเกินไป",
-	"stoch-overbuy-line-width": "ความกว้างการซื้อมากเกินไป",
-	"stoch-overbuy-line-color": "สีการซื้อมากเกินไป",
-	"stoch-oversell-value": "การขายมากเกินไป",
-	"stoch-oversell-line-width": "ความกว้างการขายมากเกินไป",
-	"stoch-oversell-line-color": "สีการขายมากเกินไป",
-	"de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "ค่านี้ไม่ถูกต้อง",
-	"889954f14a3839c141bd8d5102094fbb": "ค่านี้ใช้ไปแล้ว",
-	"bd79c0ab-ddba-46cc-a703-a7a4b08de310": "ค่านี้ไม่ใช่อีเมลที่ถูกต้อง",
-	"bf447c1c-0266-4e10-9c6c-573df282e413": "ค่านี้ไม่ใช่อีเมลที่ถูกต้อง",
-	"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "ค่านี้ไม่ใช่อีเมลที่ถูกต้อง",
-	"c1051bb4-d103-4f74-8988-acbcafc7fdc3": "ช่องนี้จำเป็นต้องกรอก",
-	"9ff3fdc4-b214-49db-8718-39c315e33d45": "ค่านี้สั้นเกินไป ควรมี  {{@min}}  ตัวอักษรหรือมากกว่า",
-	"d94b19cc-114f-4f44-9cc4-4138e80a87b9": "ค่านี้ยาวเกินไป ควรมี  {{@limit}}  ตัวอักษรหรือน้อยกว่า",
-	"478618a7-95ba-473d-9101-cabd45e49115": "ค่านี้ควรเท่ากับ {{@compared_value}}",
-	"4dba5f9c79ae34be5884e1a3c8c45e92": "ชื่อผู้ใช้งานหรือรหัสผ่านไม่ถูกต้อง",
-	"3e5af93fb888b4aa77301a7603e113d5": "รหัสผ่านไม่ถูกต้อง",
-	"2d28afcb-e32e-45fb-a815-01c431a86a69": "ค่านี้ควรเป็น {{@limit}} หรือน้อยกว่า",
-	"76454e69-502c-46c5-9643-f447d837c4d5": "ค่านี้ควรเป็น {{@limit}} หรือมากกว่า",
-	"ad32d13f-c3d4-423b-909a-857b961eb720": "ค่านี้ไม่ควรเป็นค่าว่าง",
-	"8e179f1b-97aa-4560-a02f-2a8b42e49df7": "ค่าที่คุณเลือกไม่ใช่ตัวเลือกที่ถูกต้อง",
-	"853ff54c1a66d1a2379e0c46f8eb9ed4": "ปัจจัยที่จำเป็น {{@name}} ไม่ถูกต้อง",
-	"3ac1d32eb3c54e11ef9ea474da816ad6": "ปัจจัยที่จำเป็น {{@name}} ควรมีการตั้งค่า",
-	"661d3bc6c153e42a3658855010678cbd": "ไม่รู้จักปัจจัยที่จำเป็น {{@names}}",
-	"51fd5caf0ad30e6acb3a75b8b7f6d060": "คุณไม่ได้รับอนุญาต ให้เปลี่ยนแปลงสถานะคำร้องขอที่ประมวลผล",
-	"2d2ba82dd886ba3b69da804675842ff5": "วิธีการชำระเงินที่ไม่ดี",
-	"3c55616c0a7de9c064e6c2d86fa72bc2": "เวลาหมดอายุไม่ถูกต้อง",
-	"f029308ab5f1672de0b7615c4fa33386": "สินทรัพย์ปิดอยู่ในขณะนี้",
-	"10cf6f3e2d6a3532b77d924868cbfa62": "สินทรัพย์ปิดอยู่ในขณะนี้",
-	"64fc8bbac184ae9dab80c8f592d1a6f7": "คุณถึงขีดจำกัดจำนวนการซื้อขายที่ทำได้แล้ว",
-	"5561ccf1e94e6b9d88080bdbbcba1821": "เงินไม่เพียงพอ",
-	"f3a5b44d01097d966072b90187a16ec6": "ผู้ใช้งานไม่มีอยู่",
-	"296ea5496bee3177c83ac27a1dc5bb10": "ยอดการแข่งขันควรน้อยกว่ายอดเริ่มต้น",
-	"fc53df7c4944ebb53e8b3713126ae226": "จำนวนการซื้อขายสูงสุดของบัญชีคือ {{@limit}}",
-	"0f8e85ca21aa2e33752728cf5e843e35": "คุณถึงขีดจำกัดจำนวนการซื้อขายที่ทำได้แล้ว",
-	"cbce1334c90e82f44381abe99b98fe5c": "เกินขีดจำกัดของจำนวนออปชันเปิดทั้งหมด",
-	"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "ชื่อเล่นนี้มีการใช้ไปแล้ว กรุณาเลือกชื่ออื่น",
-	"promo-ends-in": "โบนัสสิ้นสุดใน",
-	"your-promocode": "รหัสโปรโมชั่นของคุณ",
-	"from-value-to-value": "ตั้งแต่ {{@fromValue}} — ถึง {{@toValue}}",
-	"deposit-sum": "มัดจำ",
-	"bonus-sum": "โบนัส",
-	"promos-rules": "กฎโบนัส",
-	"promos-rules-2": "กฎโบนัส",
-	"participate-promo": "เข้าร่วมในโบนัส",
-	"promo-has-ended": "โบนัสได้สิ้นสุดลง",
-	"no-promos-description": "ไม่มีคำอธิบายของโบนัส",
-	"promos-is-empty": "ไม่มีโปรโมชั่นในขณะนี้ กรุณาติดตามข่าวสารล่าสุดของเรา และคอยติดตามอีเมลที่จะส่งให้ต่อไป",
-	"first-launch-disclaimer-content": "โปรดทราบ! ใช้เพียง คลิกเดียว เพื่อเปิดการซื้อขาย โดยไม่ต้องมีการยืนยัน",
-	"accept": "ยอมรับ",
-	"trading-session-closed": "เซสชันการซื้อขายปิดแล้ว",
-	"special-offer": "ข้อเสนอพิเศษ",
-	"continue": "ดำเนินการต่อ",
-	"seconds": "วินาที",
-	"trading-sess-starts-in": "เซสชันการซื้อขายเริ่มต้นใน",
-	"trading-session-closed-info-0": "โปรดทราบ!",
-	"trading-session-closed-info-1": "ตลาดหุ้นปิดในวันหยุดสุดสัปดาห์",
-	"trading-session-closed-info-2": "การซื้อขายบนแพลตฟอร์มของเรา ทำได้ตั้งแต่ 03:00 วันจันทร์ จนถึง 00:00 วันศุกร์",
-	"trading-session-closed-info-3": "ข้อมูลตลาดจัดหาโดย ทอมสันรอยเตอร์",
-	"asset": "สินทรัพย์",
-	"additional-info": "ข้อมูลเพิ่มเติม",
-	"fill-profile-to-continue": "เพื่อดำเนินการงานของคุณบนแพลตฟอร์มต่อ กรุณาให้ข้อมูลเพิ่มเติม",
-	"fill-username-heading": "เรียน ท่านเทรดเดอร์,",
-	"fill-username-text": "ในการเข้าร่วมทัวร์นาเมนต์นั้น ให้ใส่ชื่อเล่นที่จะแสดงแทนตัวคุณในรายชื่อผู้เข้าร่วมทัวร์นาเมนต์ คุณสามารถเปลี่ยนแปลงได้ตลอดเวลา ในการตั้งค่าโปรไฟล์ของคุณ",
-	"fill-username-placeholder": "กรุณาใส่ชื่อเล่นของคุณ",
-	"save-and-continue": "บันทึกและดำเนินการต่อ",
-	"profile-name": "ชื่อ",
-	"profile-surname": "นามสกุล",
-	"profile-telephone": "โทรศัพท์",
-	"start-trading": "เริ่มการซื้อขาย",
-	"personal-data-safety": "ขอรับประกันความปลอดภัยของข้อมูลส่วนบุคคล",
-	"bonus": "โบนัส",
-	"new-bonus": "ไปยังบัญชี",
-	"received-bonus": "พร้อมกับเงินฝากที่เลือก คุณจะได้รับ",
-	"received-bonus-value": "โบนัสเป็นจำนวน: {{@bonus}}",
-	"mobile-received-bonus-value": "+ โบนัส {{@bonus}}",
-	"expires-in": "หมดอายุใน",
-	"cannot-buy-option-try-later": "ไม่สามารถเปิดการซื้อขายนี้ได้ กรุณาลองอีกครั้งภายหลัง",
-	"notifications$demo-option-limit": "ต้องการเปิดมากกว่า 5 การซื้อขายในคราวเดียวใช่หรือไม่? เปิดบัญชีจริง ในการที่จะใช้งานบัญชีสาธิตของคุณต่อ ให้รอคอยจนกว่าการซื้อขายเสร็จสมบูรณ์เสียก่อน",
-	"max-total-bet-limit-exceeded": "คุณถึงจำนวนการซื้อขายที่ได้รับอนุญาตแล้ว\n จำนวนการซื้อขายที่ได้รับอนุญาตคือ {{@maxBet}}",
-	"chart-opens-in": "สินทรัพย์จะมีให้ใช้ได้ใน:",
-	"hint-activate-tment-wallet": "กดที่นี่ เพื่อเริ่มต้นใช้งานบัญชีการแข่งขัน",
-	"largest-profit-banner-on-the-asset": "ในสินทรัพย์",
-	"largest-profit-banner-button-trade-caption": "การซื้อขาย",
-	"largest-profit-banner-button-trade-caption-2": "การซื้อขายตอนนี้",
-	"largest-profit-banner-text": "เวลาที่ดีที่สุดในการซื้อขายสินทรัพย์",
-	"largest-profit-banner-text-2": "นี่คือช่วงเวลาที่ดีในการซื้อขาย",
-	"largest-profit-height-profit": "ความสามารถในการทำกำไรที่เพิ่มขึ้น",
-	"largest-profit-height-profit-2": "ความสามารถในการทำกำไรที่สูงซึ่งสูงสุดถึง",
-	"offer-expires-in": "ข้อเสนอหมดอายุภายใน:",
-	"offer-expires-in-2": "ข้อเสนอหมดอายุภายใน:",
-	"warning": "คำเตือน",
-	"banner-tech-works-info-caption": "การอัปเดตทางเทคนิค",
-	"banner-tech-works-info-content": "เราทำงานเพื่อปรับปรุงแพลตฟอร์มการซื้อขายของเราให้ดียิ่งขึ้นอยู่เสมอ\n ขณะนี้แพลตฟอร์มกำลังอัปเดต\n เราต้องขออภัยในความไม่สะดวกใด ๆ ที่เกิดขึ้น",
-	"confirm-email-content": "กรุณายืนยันอีเมลของคุณ คลิกปุ่มด้านล่าง เพื่อส่งอีเมลที่มีลิงก์ยืนยันอีกครั้ง",
-	"confirm-email-caption": "เปิดใช้งานบัญชีอีกครั้ง",
-	"reload": "โหลดซ้ำ",
-	"resend-confirmation": "ส่งซ้ำ",
-	"resend-confirmation-again": "ลองอีกครั้ง",
-	"confirmation-mail-sent": "ส่งแล้ว",
-	"banner-not-enough-funds-for-tment": "คุณมีเงินไม่เพียงพอในบัญชีของคุณ กรุณาเติมเงินบัญชีของคุณ เพื่อเข้าร่วมการแข่งขัน",
-	"tment-reenter-not-allowed": "คุณไม่สามารถซื้อเพิ่มเติมในขณะที่มีธุรกรรมที่เปิดอยู่",
-	"fill-profile-wrong-phone": "หมายเลขโทรศัพท์ไม่ถูกต้อง",
-	"fill-profile-wrong-name": "ชื่อไม่ถูกต้อง",
-	"fill-profile-wrong-surname": "นามสกุลไม่ถูกต้อง",
-	"fill-user-wrong-promocode": "รหัสโปรโมชั่นไม่ถูกต้อง",
-	"wrong-promocode-max-sum": "จำนวนสูงสุดที่จะเปิดใช้งานรหัสโปรโมชั่น {{@sum}}",
-	"wrong-promocode-min-sum": "จำนวนขั้นต่ำที่จะเปิดใช้งานรหัสโปรโมชั่น {{@sum}}",
-	"wrong-withdrawal-min-sum": "เงินขั้นต่ำ {{@sum}}",
-	"wrong-withdrawal-max-sum": "จำนวนเงินที่ถอนสูงสุด {{@sum}}",
-	"wrong-promocode-expired": "หมดอายุ",
-	"wrong-promocode-only-for-second-deposit": "มีให้ใช้ได้ สำหรับการฝากครั้งที่สอง และครั้งต่อ ๆ ไปเท่านั้น",
-	"wrong-promocode-only-for-first-deposit": "มีให้ใช้ได้ สำหรับการฝากครั้งแรกเท่านั้น",
-	"wrong-promocode-used": "รหัสโปรโมชั่นถูกแลกไปแล้ว",
-	"fill-user-wrong-phone": "หมายเลขโทรศัพท์ไม่ถูกต้อง",
-	"fill-user-wrong-card": "หมายเลขบัตรไม่ถูกต้อง",
-	"fill-user-wrong-customer_purse": "หมายเลขบัญชีไม่ถูกต้อง",
-	"fill-user-wrong-name": "ชื่อไม่ถูกต้อง",
-	"fill-user-wrong-surname": "นามสกุลไม่ถูกต้อง",
-	"please-rotate-device": "พลิกอุปกรณ์เพื่อที่คุณจะสามารถใช้เทอร์มินอลได้ง่าย ๆ",
-	"swipe-up-to-enter-fs": "ปัดนิ้วขึ้นเพื่อเข้าสู่โหมดเต็มหน้าจอ",
-	"click-to-enter-fs": "แตะที่ใดก็ได้บนหน้าจอ เพื่อสลับไปเป็นโหมดเต็มจอ",
-	"reconnect": "เชื่อมต่อใหม่",
-	"reconnected": "เชื่อมต่ออีกครั้งแล้ว!",
-	"free-reg": "ลงทะเบียนฟรี",
-	"investments": "การซื้อขาย",
-	"investments_short": "ลงทุน",
-	"investment_short": "ลงทุน",
-	"buy-time": "ซื้อเวลา",
-	"total-investment": "ลงทุนทั้งหมด",
-	"total-income": "เงินที่จ่ายทั้งหมด",
-	"result": "ผลลัพธ์",
-	"ur-income-would-be": "กำไรของคุณ",
-	"create-account-for-free": "สร้างบัญชีได้ฟรี",
-	"resume-use-demo": "ดำเนินการต่อในโหมดสาธิต",
-	"reg-request-message": "หากคุณได้ซื้อขายบนเว็บไซต์ของเรา เราจะสามารถทำเงินได้ {{@income}} แล้วตอนนี้ อย่ามัวเสียเวลาอีกเลย เริ่มต้นซื้อขายกันเถอะ!",
-	"trade-without-restrictions": "ซื้อขายโดยไร้ข้อจำกัด",
-	"trade-without-restrictions-message": "หากคุณต้องการเปิดมากกว่า 5 การซื้อขายในคราวเดียว ให้เปิดบัญชีการซื้อขายจริง แล้วซื้อขายแบบไม่มีขีดจำกัด ในการที่จะยังคงใช้งานบัญชีสาธิตอยู่นั้น กรุณารอให้การซื้อขายปัจจุบันของคุณหมดอายุลงเสียก่อน",
-	"use-real-wallet": "บัญชีจริง",
-	"support": "ความช่วยเหลือ",
-	"search-asset": "ค้นหาสินทรัพย์",
-	"error-sending-email-confirmation": "เกิดขึ้นผิดพลาดขึ้นในขณะส่งอีเมล กรุณาลองอีกครั้งภายหลัง",
-	"error-sending-email-confirmation-with-time": "อีเมลใหม่จะส่งถึงคุณใน {{@time}} นาที ในการเปิดใช้งานบัญชีของคุณ กรุณาตรวจสอบอีเมลของคุณ หรือติดต่อฝ่ายบริการลูกค้าของเรา",
-	"risk-free-trades": "การซื้อขายที่ปลอดความเสี่ยง",
-	"count-trades-for-bet": "{{@count}} การซื้อขายสำหรับ {{@sum}}",
-	"count-x-bet": "{{@count}}×{{@bet}}",
-	"White": "สีขาว",
-	"Red": "สีแดง",
-	"Pink": "สีชมพู",
-	"Purple": "สีม่วง",
-	"Deep Purple": "สีม่วงเข้ม",
-	"Indigo": "สีคราม",
-	"Blue": "สีน้ำเงิน",
-	"Cyan": "สีเขียวแกมน้ำเงิน",
-	"Green": "สีเขียว",
-	"Light Green": "สีเขียวอ่อน",
-	"Lime": "สีเขียวมะนาว",
-	"Yellow": "สีเหลือง",
-	"Amber": "สีเหลืองอำพัน",
-	"Orange": "สีส้ม",
-	"tournament-accounts": "บัญชีทัวร์นาเมนต์",
-	"activate-tournament-wallet": "เปิดใช้งานกระเป๋าสตางค์การแข่งขัน",
-	"deposit-using-agreements-header": "รายการโบนัส",
-	"deposit-using-agreements-p1": "โบนัส คือเงินเพิ่มเติม ที่จัดให้โดยบริษัท เพื่อเพิ่มโอกาสในการซื้อขาย ให้กับเทรดเดอร์",
-	"deposit-using-agreements-p2": "เมื่อมีการฝากเงิน เงินโบนัสจำนวนหนึ่ง อาจจะเติมเข้าไปยังบัญชีของคุณ ปริมาณของโบนัสขึ้นอยู่กับ ปริมาณของเงินที่ฝาก",
-	"deposit-using-agreements-p3": "โบนัสไม่ได้จำกัดเงินที่คุณสามารถถอนออกไปได้: คุณสามารถถอนกำไรของคุณ พร้อมด้วยจำนวนเงินฝากของคุณออกไปได้ตลอดเวลา โปรดทราบว่า เวลาที่ถอนเงินออกไป เงินโบนัสที่ได้ทั้งหมดจะได้รับสถานะเป็นไม่ใช้งาน และจะถูกหักออกจากบัญชีของคุณ",
-	"choose-payment-method": "เลือกวิธีการฝากเงิน",
-	"choose-payment-sum": "เลือกจำนวนเงินฝาก",
-	"plus-value-bonus": "+ {{@value}} โบนัส",
-	"deposit-user-sum-value-caption": "ต้องการเลือกจำนวนของคุณเองหรือไม่? ใช้ช่องอินพุตสิ",
-	"i-have-promocode": "ฉันมีรหัสโปรโมชั่น",
-	"requisiste-name-phone": "โทรศัพท์",
-	"no-bonus": "ไม่มีโบนัส",
-	"refresh": "รีเฟรช",
-	"browser": "เบราว์เซอร์",
-	"make-a-deposit": "ฝากเงิน",
-	"cashbox-withdrawal-info-0-header": "ฉันจะถอนเงินออกมา จากบัญชีของฉันได้อย่างไร?",
-	"cashbox-withdrawal-info-0-content": "ตัวเลือกที่ใช้ได้คือ: บัตรธนาคาร, กระเป๋าสตางค์อิเล็กทรอนิกส์ Qiwi/Yandex Money/WebMoney เจ้าของบัญชีไมโคร สามารถมีการสมัคร ที่ใช้งานสำหรับการถอนเงินออกมา ได้เพียงหนึ่งเดียวเท่านั้น",
-	"cashbox-withdrawal-info-1-header": "จำนวนเงินขั้นต่ำ ที่จะถอนออกมาจากบัญชีได้ เป็นเท่าใด?",
-	"cashbox-withdrawal-info-1-content": "จำนวนเงินที่ถอนขั้นต่ำ — ₽300 หรือ $5 หรือ €5 หรือ A$5 หรือ ₴150 จำนวนเงินที่ถอนสูงสุดสำหรับหนึ่งธุรกรรม — ₽15,000 หรือ $200 หรือ €200 หรือ A$200 หรือ ₴6,000",
-	"cashbox-withdrawal-info-2-header": "ฉันจะถอนเงินจำนวนที่มากกว่า ₽15,000 หรือ $200 หรือ €200 หรือ A$200 หรือ ₴6,000 ได้อย่างไร?",
-	"cashbox-withdrawal-info-2-content": "ข้อจำกัดนี้ถูกตั้งขึ้นเพื่อป้องกันการถอนเงินที่รวดเร็วในเวลาสั้น ๆ จำนวนที่เกินขีดจำกัดที่ตั้งไว้สามารถถอนออกไปได้ หลังจากผ่านไปช่วงระยะเวลาหนึ่ง หากคุณจำเป็นต้องถอนเงินจำนวนที่มากขึ้น คุณสามารถแบ่งจำนวนเงินที่ถอนของคุณออกเป็นจำนวนเท่าของ $200 หรือ €200 หรือ A$200 หรือ ₽15,000 หรือ ₴6,000 ได้ คุณจะไม่ถูกจำกัดในเรื่องจำนวนครั้งของคำขอถอนเงินที่คุณสามารถดำเนินการได้ หากคุณต้องการถอนเงินจำนวนที่มากขึ้นในการชำระเงินครั้งเดียว ก็โปรดติดต่อทีมช่วยเหลือแพลตฟอร์ม หากบัญชีของคุณยังไม่ได้รับการยืนยัน ก็อาจใช้เวลาสูงสุดถึงสามวันทำการ เพื่อประมวลผลคำขอถอนเงินของคุณ คุณไม่สามารถยื่นคำขอถอนเงินได้มากกว่าหนึ่งครั้งต่อวัน",
-	"cashbox-withdrawal-info-3-header": "การถอนเงินรวดเร็วเพียงใด?",
-	"cashbox-withdrawal-info-3-content-a": "จะใช้เวลาหนึ่งชั่วโมงในการประมวลผลคำร้องขอ หากมีการยื่นคำร้องขอเข้ามาในระหว่างชั่วโมงทำการของแผนกการเงินแพลตฟอร์ม และบัญชีของคุณได้รับการยืนยันแล้ว ตามความต้องการของแพลตฟอร์ม ",
-	"cashbox-withdrawal-info-3-content-b": "ชั่วโมงทำการของแผนกการเงินคือ วันจันทร์ถึงวันศุกร์ 10:00 น. ถึง 22:00 น. (GMT +2) หากคุณยื่นคำขอถอนเงินเข้ามานอกชั่วโมงทำการของแผนกการเงิน หรือในวันหยุด คำร้องขอของคุณก็จะได้รับการประมวลผลเมื่อเริ่มวันทำการถัดไป หากบัญชีของคุณยังไม่ได้รับการยืนยัน คำขอถอนเงินของคุณก็จะได้รับการประมวลผลภายในสามวันทำการ คุณไม่สามารถยื่นคำขอถอนเงินได้มากกว่าหนึ่งครั้งต่อวัน",
-	"cashbox-withdrawal-info-4-header": "นโยบายการถอนเงิน",
-	"cashbox-withdrawal-info-4-content-a": "ลูกค้าต้องระบุข้อมูลที่ร้องขอทั้งหมดในส่วน \"การตั้งค่าโปรไฟล์\" เพื่อที่จะให้แน่ใจได้ว่า คำร้องขอของตนจะได้รับการประมวลผลอย่างเหมาะสม หากพบว่ามีการใส่ข้อมูลที่ไม่ถูกต้องหรือไม่สมบูรณ์ คำขอถอนเงินของคุณอาจได้รับการปฏิเสธหรือทำให้ล่าช้าออกไป",
-	"cashbox-withdrawal-info-4-content-b": "เงินจะถอนออกไปยังบัญชีธนาคารเดียวกัน (หรือระบบการชำระเงินเดียวกัน) กับที่ใช้เพื่อเติมเงินบัญชีของคุณ หากธุรกรรมไม่สามารถดำเนินการให้สมบูรณ์ได้ คุณควรติดต่อบริการช่วยเหลือ โดยการเรียกใช้แชทออนไลน์ หรือส่งคำขอความช่วยเหลือไปที่ thailand@binarium.com",
-	"cashbox-withdrawal-info-5-header": "ฉันต้องจัดเตรียมเอกสารอะไรให้หรือไม่ เวลาที่ถอนเงิน? หากจำเป็นต้องทำ มีอะไรบ้าง?",
-	"cashbox-withdrawal-info-5-content-a": "กรุณาจัดเตรียมข้อมูลส่วนบุคคลของคุณทั้งหมดในส่วน \"การตั้งค่าโปรไฟล์\" เพื่อให้มีการถอนเงินได้อย่างรวดเร็ว หากคุณใช้บัตรธนาคารหลายใบ หรือรายละเอียดการชำระเงินไม่ตรงกันกับสิ่งที่คุณได้ให้ไว้ในระหว่างการลงทะเบียน คุณจะต้องดำเนินการกระบวนการตรวจสอบสิทธิ์เต็มรูปแบบ และพิสูจน์ว่า บัตรต่าง ๆ นั้นเป็นของคุณจริง ๆ เงินไม่สามารถถอนออกไปยังบัญชีบุคคลที่สามได้ ",
-	"cashbox-withdrawal-info-5-content-b": "ในการดำเนินการกระบวนการตรวจสอบยืนยันให้เสร็จสมบูรณ์นั้น กรุณาส่งภาพสแกนของหนังสือเดินทาง และด้านหน้าของบัตรธนาคารไปยัง thailand@binarium.com โดยที่สามารถเห็นชื่อและนามสกุลของเจ้าของได้ หากคุณไม่ได้เป็นเจ้าของบัตร คุณก็ต้องส่งภาพสแกนของ รายการเดินบัญชีย้อนหลังของธนาคาร ที่แสดงธุรกรรมจากบัตรใบนี้กับบัญชี Binarium มาให้นอกเหนือจากสำเนาหนังสือเดินทาง บริษัทขอสงวนสิทธิ์ ในการร้องขอเอกสารเพิ่มเติม ในกรณีที่ข้อมูลของผู้ถือบัตร และบัญชีการซื้อขายไม่ตรงกัน",
-	"cashbox-withdrawal-info-6-header": "ในเงื่อนไขใดที่เป็นไปได้ ที่จะถอนเงินโบนัสออกมา?",
-	"cashbox-withdrawal-info-6-content-a": "ตัวโบนัสเองไม่สามารถถอนออกมาได้ทันทีหลังจากที่ได้รับ โบรกเกอร์นำเงินจำนวนนี้เข้าไปยังบัญชีของคุณเป็นโบนัส ก็เพื่อเพิ่มโอกาสในการซื้อขายของคุณ ผลประโยชน์ที่คุณได้มาโดยใช้เงินโบนัส ก็ถือเป็นโบนัสเช่นกัน และสามารถถอนได้ก็ต่อเมื่อ ได้ตามปริมาณการซื้อขายที่จำเป็นแล้ว ในการถอนเงินโบนัสออกมานั้น คุณจำเป็นต้องได้ปริมาณการซื้อขาย x40 ของจำนวนเงินโบนัสในบัญชี หากคุณได้โบนัสโดยไม่เงินฝาก ตัวคูณก็จะเพิ่มเป็น 50 ซึ่งปริมาณการซื้อขายในบัญชี ก็ควรเท่ากับ x50 ของโบนัส และจำนวนสูงสุดในการถอน ไม่สามารถเกินจำนวนโบนัสที่ไม่ฝากเงินที่เพิ่มเข้าไปให้ได้ รางวัลเงินสดจากการแข่งขันฟรีของบริษัท ก็คือโบนัส ซึ่งถอนได้หลังจากได้ปริมาณการซื้อขาย x40 แล้ว",
-	"cashbox-withdrawal-info-6-content-b": "ตัวอย่าง เมื่อคุณฝากเงิน คุณได้ $150 เป็นโบนัส ตามกฎแล้ว คุณจำเป็นต้องได้มูลค่ารวม ของออปชันที่ซื้อเป็น 30 x 150 = $4,500 หลังจากได้ตามมูลค่านี้แล้ว คุณก็สามารถถอนเงินโบนัสออกมาได้ ในกรณีนี้ ทั้งธุรกรรมที่ทำกำไรและไม่ทำกำไร จะนับรวมหมด การซื้อขายที่ยุติไปก่อนที่จะจบ จะไม่นับรวมเป็นปริมาณการซื้อขายด้วย ไม่มีข้อจำกัดในการถอนเงินในส่วนกำไร",
-	"cashbox-withdrawal-info-6-content-c": "หากคุณกำลังจะถอนบางส่วนของเงินฝากออกมา เงินโบนัสก็จะถูกหักออกไปโดยอัตโนมัติ จากบัญชีของคุณ",
-	"cashbox-withdrawal-info-6-content-d": "หากคุณมีคำถามใด ๆ กรุณาติดต่อฝ่ายบริการลูกค้าของ Binarium",
-	"cashbox-withdrawal-info-7-header": "ฉันไม่สามารถสร้างคำขอถอนเงินสำหรับบัญชีของฉันได้ จะมีอะไรผิดพลาดได้บ้าง?",
-	"cashbox-withdrawal-info-7-content": "ก่อนอื่น ตรวจสอบดูว่า ข้อมูลส่วนบุคคลของคุณทั้งหมด แสดงอยู่ในหน้าโปรไฟล์ของคุณในส่วน \"โปรไฟล์\" หรือไม่ และอีกครั้ง ที่ต้องดูให้แน่ใจว่า คุณได้ใส่ข้อมูลทั้งหมดอย่างถูกต้องแล้วตอนที่คุณยื่นคำร้องขอของคุณเข้ามา ตัวอักขระพิเศษอย่างเช่น +, -, / ฯลฯ นั้นไม่ถูกต้อง หากข้อมูลที่ใส่มาทั้งหมดถูกต้องแล้ว แต่ปัญหายังคงอยู่ กรุณาติดต่อฝ่ายบริการลูกค้า ผ่านทางแชทออนไลน์ หรือที่ thailand@binarium.com",
-	"deposit-info-1": "โบนัส คือเงินเพิ่มเติมที่บริษัทจัดให้ เพื่อเพิ่มศักยภาพในการซื้อขายของเทรดเดอร์",
-	"deposit-info-2": "เมื่อมีการฝากเงิน อาจมีเงินโบนัสจำนวนหนึ่งเติมเข้าไปยังบัญชีของคุณ ปริมาณของโบนัสขึ้นอยู่กับปริมาณเงินฝากของคุณ",
-	"deposit-info-3": "โบนัสไม่ได้จำกัดเงินที่คุณสามารถถอนออกไปได้: คุณสามารถถอนกำไรของคุณ รวมถึงจำนวนเงินฝากของคุณออกไปได้ตลอดเวลา โปรดทราบว่า เวลาที่ถอนเงินออกไป เงินโบนัสที่ไม่ได้ใช้ในการซื้อขายด้วยปริมาณการซื้อขาย x40 จะได้รับสถานะเป็นไม่ใช้งาน และจะถูกหักออกจากบัญชีของคุณ",
-	"withdrawal-heading": "คำร้องขอของคุณจะได้รับการประมวลผลภายใน 24 ชั่วโมง นับตั้งแต่เวลาที่คุณยื่นเข้ามา",
-	"withdrawal-content": "หากมีการสมัครนอกเวลาทำการของฝ่ายการเงินของบริษัท ก็จะได้รับการประมวลผลภายในวันทำการถัดไป",
-	"withdrawal-restricted-content": "เกินขีดจำกัดการถอนเงินของ <span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณแล้ว",
-	"withdrawal-amount-caption": "จำนวนของการชำระเงิน",
-	"withdrawal-type-caption": "วิธีการถอนเงิน",
-	"withdrawal-button-caption": "การถอนเงิน",
-	"requisite-name-card": "หมายเลขบัตร",
-	"requisite-name-phone": "โทรศัพท์",
-	"requisite-name-customer_purse": "กระเป๋าสตางค์ลูกค้า",
-	"withdrawal-request-sent": "คำร้องขอได้รับการนำเข้าคิวแล้ว",
-	"withdrawal-request-sent-extra-info": "คุณสามารถติดตามสถานะคำร้องขอได้ ในส่วน “ประวัติธุรกรรม”",
-	"withdrawal-method-qiwi_ecom": "Qiwi",
-	"withdrawal-method-qiwi": "Qiwi",
-	"withdrawal-method-yandex_money_ecom": "Yandex Money",
-	"withdrawal-method-webmoney_1gp": "WebMoney",
-	"withdrawal-method-card": "วีซ่า/มาสเตอร์การ์ด",
-	"videohub": "การศึกษา",
-	"asset-type-all": "ทั้งหมด",
-	"asset-type-currency": "สกุลเงิน",
-	"asset-type-crypto": "สกุลเงินดิจิทัล",
-	"asset-type-goods": "สินค้า",
-	"asset-type-countries": "ประเทศ",
-	"asset-type-leaders": "ผู้นำ",
-	"cashbox-withdrawal-info": "จะต้องใช้เวลาสักระยะหนึ่ง ในการประมวลผลคำร้องขอ โดยปกติจะใช้เวลาสูงสุดถึง 24 ชั่วโมง เพื่อให้แผนกการเงินตรวจดูคำร้องขอในระหว่างเวลาทำการ เรายินดีที่จะรายงานให้ทราบว่า เราไม่ได้แช่แข็งยอดคงเหลือของคุณไว้ ในระหว่างที่คุณรอคอยคำขอถอนเงินให้อนุมัติอยู่ ซึ่งโดยวิธีดังกล่าว ทำให้คุณสามารถดำเนินการซื้อขายต่อไปได้",
-	"expiration-caption-16": "ใน 24 ชั่วโมง",
-	"trends": "แนวโน้ม",
-	"show-chart": "แสดงกราฟ",
-	"hide-chart": "ซ่อนกราฟ",
-	"trend-active": "ใช้งานอยู่",
-	"trend-non-active": "ทั้งหมด",
-	"trends-is-empty": "แนวโน้ม กำลังได้รับการปรับปรุง",
-	"what-are-trends": "แนวโน้ม คืออะไร?",
-	"what-are-trends-advice-content": "แนวโน้ม เป็นเครื่องมือการซื้อขายพิเศษ ที่ให้คุณค้นหาได้อย่างรวดเร็ว ในสินทรัพย์ที่มีโอกาสได้กำไร (ที่มีทิศทางราคาโดดเด่น) แล้วเปิดการซื้อขาย ในทิศทางของแนวโน้มดังกล่าว",
-	"not-enough-money-for-trends-detailed": "เครื่องมือการซื้อขายที่เป็นเอกลักษณ์เฉพาะไม่เหมือนใครจาก Binarium พร้อมให้บริการลูกค้า ด้วยยอดเงินจริงกว่า {{@balance}} โอกาสที่จะประสบความสำเร็จ:",
-	"get-access-to-trends": "เข้าถึงแนวโน้ม",
-	"trends-features-one": "ติดตามแนวโน้มสินทรัพย์ทั้งหมดในตลาด",
-	"trends-features-two": "เปิดการซื้อขายโดยทันทีในทิศทางของแนวโน้มเมื่อมีปรากฏขึ้น",
-	"month-0": "ม.ค.",
-	"month-1": "ก.พ.",
-	"month-2": "มี.ค.",
-	"month-3": "เม.ย.",
-	"month-4": "พ.ค.",
-	"month-5": "มิ.ย.",
-	"month-6": "ก.ค.",
-	"month-7": "ส.ค.",
-	"month-8": "ก.ย.",
-	"month-9": "ต.ค.",
-	"month-10": "พ.ย.",
-	"month-11": "ธ.ค.",
-	"day-0": "จ.",
-	"day-1": "อ.",
-	"day-2": "พ.",
-	"day-3": "พฤ.",
-	"day-4": "ศ.",
-	"day-5": "ส.",
-	"day-6": "อา.",
-	"trading-room": "ห้องซื้อขาย",
-	"trading-room-entering-time": "การใส่เวลา",
-	"trading-room-expiration": "หมดอายุ",
-	"trading-room-strength": "ปริมาณและมูลค่า",
-	"trading-room-strike-price": "ราคาใช้สิทธิ",
-	"trading-room-is-empty": "ไม่มีสัญญาณอยู่ กรุณาตรวจสอบ ห้องซื้อขาย ในไม่ช้านี้",
-	"demo-stats-banner-header-caption": "ยอดเยี่ยม!",
-	"demo-stats-banner-header-caption-2": "ขอแสดงความยินดี!",
-	"demo-stats-banner-you-earned-on-demo": "คุณได้เงินในบัญชีสาธิต",
-	"demo-stats-banner-total-deals-amount": "การซื้อขายทั้งหมด",
-	"demo-stats-banner-successfull-deals-percentage": "เปอร์เซ็นต์ของการซื้อขายที่สำเร็จ",
-	"demo-stats-banner-real-account-opening-request": "เปิดบัญชีจริงเพื่อถอนกำไรของคุณ",
-	"demo-stats-banner-open-real-account-button-caption": "เปิดบัญชีจริง",
-	"demo-stats-banner-keep-trading-on-demo": "อยู่ในบัญชีทดลอง",
-	"demo-stats-banner-you-have-done": "คุณได้ดำเนินการ",
-	"demo-stats-banner-you-have-trades-closed-in-a-row": "การซื้อขายต่อเนื่องกัน",
-	"demo-stats-banner-you-have-trades-closed-in-a-row-successfully": "การซื้อขายที่ทำกำไรต่อเนื่องกัน",
-	"demo-stats-banner-earning-on-demo-account": "เงินได้ในบัญชีทดลองของคุณ",
-	"demo-stats-banner-closed-in-a-row-2": "การซื้อขายที่ให้ผลกำไร",
-	"tour-next-button-caption": "ดำเนินการต่อ",
-	"tour-reading-duration-caption": "อ่านเป็นเวลา 4 นาที",
-	"tour-slides-steps-count": "ขั้น {{@currentSlide}} จาก {{@totalSlidesCount}}",
-	"tour-slide-0-caption": "ยินดีต้อนรับสู่ แพลตฟอร์มการซื้อขาย Binarium",
-	"tour-slide-0-content": "การสาธิตโดยสังเขปนี้ จะแนะนำคุณเรื่อง หลักการพื้นฐานของการซื้อขาย และแพลตฟอร์ม Binarium",
-	"tour-slide-0-content-1": "อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น",
-	"tour-slide-0-content-2": "การสาธิตโดยสังเขปนี้ จะแนะนำคุณเรื่อง หลักการพื้นฐานของการซื้อขาย และแพลตฟอร์ม Binarium",
-	"tour-slide-0-content-3": "เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินบัญชีของคุณได้ในส่วน <span class=\"bold\">ธนาคาร</span> และคุณสามารถสั่งการซื้อขาย โดยใช้เทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ในส่วน <span class=\"bold\">ห้องซื้อขาย</span>!",
-	"tour-slide-0-content-3-port": "เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินได้ ในส่วน <span class=\"bold\">ธนาคาร</span> และคุณสามารถซื้อขาย ด้วยความช่วยเหลือจากเทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ ในส่วน <span class=\"bold\">ห้องซื้อขาย</span>!",
-	"tour-slide-0-extra-info": "อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น",
-	"tour-slide-1-caption": "คุณจะทำเงินบนแพลตฟอร์มได้อย่างไร?",
-	"tour-slide-1-content": "<span class=\"bold\">แพลตฟอร์มการซื้อขายจะให้คุณวางคำสั่งซื้อขายได้</span> โดยการลงทุนระยะสั้น ในสินทรัพย์ทางการเงิน: คู่สกุลเงินแลกเปลี่ยน, สกุลเงินดิจิทัล, สินค้าโภคภัณฑ์, และตราสารทางการเงินอื่น ๆ",
-	"tour-slide-2-caption": "อะไรคือหลักการพื้นฐาน ที่อยู่เบื้องหลังการซื้อขาย?",
-	"tour-slide-2-content-a": "<span class=\"bold\">การซื้อขายเป็นการคาดการณ์ว่า ราคาของสินทรัพย์ทางการเงินจะเปลี่ยนแปลงไปอย่างไร</span> ในรอบระยะเวลาใดเวลาหนึ่ง นักลงทุนจะเปิด <span class=\"green\">สถานะซื้อ</span> หรือ <span class=\"red\">สถานะขาย</span>",
-	"tour-slide-2-content-b": "หากการคาดการณ์ของคุณเป็นจริง คุณจะได้รับเงิน หากคุณพลาด คุณก็จะสูญเสียเงินทั้งหมด ที่ได้ลงทุนไป",
-	"tour-slide-3-caption": "คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?",
-	"tour-slide-3-content": "<span class=\"bold\">เลือกสินทรัพย์</span> ที่คุณต้องการคาดการณ์แนวโน้มราคา",
-	"tour-slide-4-caption": "คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?",
-	"tour-slide-4-content": "<span class=\"bold\">เลือกขนาดการลงทุนของคุณ</span>",
-	"tour-slide-5-caption": "คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?",
-	"tour-slide-5-content": "<span class=\"bold\">เปิดการซื้อขาย</span> หลังจากที่คุณคาดการณ์ว่า ราคาจะ <span class=\"green\">เพิ่มขึ้น</span> หรือ <span class=\"red\">ลดลง</span> แล้ว ให้รอจนกว่าการซื้อขายจะปิด",
-	"tour-slide-6-caption": "ขอให้โชคดี ในการซื้อขายบนแพลตฟอร์ม Binarium",
-	"tour-slide-6-additional-caption": "หากการคาดการณ์ของคุณถูกต้อง กำไรของคุณจะเข้าไปยังบัญชีการซื้อขายของคุณโดยอัตโนมัติ",
-	"tour-slide-6-a-trading-rules": "เงื่อนไขการซื้อขาย",
-	"tour-slide-6-a-card-0-caption": "จำนวนรายได้ที่คุณจะได้รับ จากการคาดการณ์ที่ประสบความสำเร็จ:",
-	"tour-slide-6-a-card-0-content-1": "สูงสุดถึง {{@maxProfit}}",
-	"tour-slide-6-a-card-0-content-2": "ของจำนวนเงินลงทุนของคุณ ที่คุณจะได้รับจากการคาดการณ์ที่ประสบความสำเร็จ",
-	"tour-slide-6-a-card-1-caption": "ปริมาณเงินฝากขั้นต่ำสำหรับการซื้อขาย",
-	"tour-slide-6-a-card-1-content": "ตั้งแต่ {{@minWithdrawal}}",
-	"tour-slide-6-a-card-2-caption": "เวลาเฉลี่ยที่ต้องใช้ในการถอนเงิน:",
-	"tour-slide-6-a-card-2-content": "30 นาที",
-	"tour-slide-6-a-card-3-caption": "ฝากเงินเข้าไปยังบัญชีจริง เพื่อที่จะเริ่มต้นการซื้อขาย:",
-	"tour-slide-6-a-card-3-button-caption": "ฝากเงินแล้วเริ่มต้นซื้อขาย",
-	"tour-slide-6-a-dont-show-again": "ให้การทัวร์แพลตฟอร์มออกไป",
-	"tour-slide-6-b-trading-rules": "เงื่อนไขการซื้อขาย",
-	"tour-slide-6-b-card-0-caption": "จำนวนรายได้ที่คุณจะได้รับ จากการคาดการณ์ที่ประสบความสำเร็จ:",
-	"tour-slide-6-b-card-0-content": "<span class=\"big\">สูงสุดถึง 90%</span> ของจำนวนเงินลงทุนของคุณ.",
-	"tour-slide-6-b-card-1-caption": "ปริมาณเงินฝากขั้นต่ำสำหรับการซื้อขาย.",
-	"tour-slide-6-b-card-1-content": "<span class=\"big\">{{@minWithdrawal}}</span>",
-	"tour-slide-6-b-card-2-caption": "เวลาเฉลี่ยที่ต้องใช้ในการถอนเงิน.",
-	"tour-slide-6-b-card-2-content": "<span class=\"big\">30</span> นาที",
-	"tour-slide-6-b-card-3-caption": "เรียนรู้วิธีการซื้อขาย โดยปราศจากความเสี่ยง โดยใช้บัญชีสาธิต",
-	"tour-slide-6-b-card-3-button-caption": "ซื้อขายโดยใช้บัญชีสาธิต",
-	"tour-slide-6-b-dont-show-again": "ให้การทัวร์แพลตฟอร์มออกไป",
-	"user-terms-caption": "ซื้อขายในคลิกเดียว",
-	"what-is-trading-room": "ห้องซื้อขายคืออะไร?",
-	"what-is-trading-room-advice-content": "ห้องซื้อขายคือเครื่องมือที่เป็นประโยชน์ ที่ช่วยให้คุณลอกเลียนแบบธุรกรรมของเทรดเดอร์ที่ดีที่สุดของแพลตฟอร์มได้ในคลิกเดียว คุณสามารถเพิ่มประสิทธิภาพในการซื้อขายของคุณ และประหยัดเวลายิ่งขึ้นได้จากเครื่องมือนี้",
-	"not-enough-money-for-trading-room-detailed": "ซื้อขายแล้วทำเงินไปพร้อมกับเทรดเดอร์ที่ดีที่สุดของแพลตฟอร์ม Binarium โดยใช้ห้องซื้อขาย เติมเงินจริงของคุณลงใน {{@minBalance}} แล้วรับผลประโยชน์ดังต่อไปนี้:",
-	"get-access-to-trading-room": "เข้าถึงห้องซื้อขาย",
-	"have-access-to-trading-room": "ในการเข้าถึง “ห้องซื้อขาย” ให้ติดต่อผู้จัดการของคุณ หรือฝ่ายบริการลูกค้า",
-	"trading-room-features-one": "จับตาดูธุรกรรมของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม",
-	"trading-room-features-two": "ลอกเลียนแบบธุรกรรมแล้วทำกำไร",
-	"trading-room_1-title": "ซื้อขายไปด้วยกัน",
-	"trading-room_1-text": "จับตาดูธุรกรรมของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม",
-	"trading-room_2-title": "ใช้ประโยชน์จากประสบการณ์ที่ประสบความสำเร็จของผู้อื่น",
-	"trading-room_2-text": "คัดลอกพฤติกรรมของเทรดเดอร์รายอื่น ๆ แล้วทำกำไร!",
-	"trading-room_refill": "ในการเข้าถึง \"ห้องซื้อขาย\" ให้เติมเงินยอดคงเหลือของคุณ",
-	"account_level": "ระดับบัญชี",
-	"modal-confirm_title": "ยืนยันอีเมลของคุณ",
-	"modal-confirm_text-1": "เราส่งอีเมลล์พร้อมลิ้งค์ยืนยันให้คุณ",
-	"modal-confirm_text-2": "ไม่ได้รับอีเมลพร้อมลิงก์ยืนยันใช่หรือไม่ โปรดตรวจสอบโฟลเดอร์ \"จดหมายขยะ\" ของคุณ บางครั้งข้อความอาจจะอยู่ที่นั่น หรือขอลิ้งค์ยืนยันอีกครั้ง",
-	"modal-confirm_button": "ส่งข้อความอีกครั้ง",
-	"modal-confirm_error-1-1": "อีเมลใหม่จะส่งถึงคุณใน {{@time}} นาที ในการเปิดใช้งานบัญชีของคุณ กรุณาตรวจสอบอีเมลของคุณ หรือติดต่อฝ่ายบริการลูกค้าของเรา หรือ",
-	"modal-confirm_error-1-2": "ติดต่อฝ่ายบริการลูกค้า",
-	"modal-confirm_support": "ติดต่อฝ่ายสนับสนุนลูกค้า",
-	"timer_days": "วัน",
-	"timer_hours": "ชั่วโมง",
-	"timer_minutes": "นาที",
-	"timer_seconds": "วินาที",
-	"tournament_button": "เข้าร่วมการแข่งขัน",
-	"modal-oneclick_title": "ซื้อขายในคลิกเดียว",
-	"modal-oneclick_text": "โปรดทราบว่า คุณสามารถเปิดการซื้อขายบนแพลตฟอร์มได้เพียงในคลิกเดียว ไม่มีการยืนยันเพิ่มเติมอีก",
-	"modal-oneclick_button": "ยอมรับและดำเนินการต่อ",
-	"modal-tbalance_title": "เติมเงินบัญชีของคุณ",
-	"modal-tbalance_text": "คุณมีเงินในบัญชีไม่เพียงพอ กรุณาเติมเงินบัญชีของคุณ เพื่อเข้าร่วมการแข่งขัน",
-	"modal-tbalance_button": "ฝากเงิน",
-	"modal-tech_title": "พวกเราจะกลับมาใหม่เร็วๆนี้",
-	"modal-tech_text-1": "เรากำลังปรับปรุงแพลตฟอร์มการซื้อขายชั่วคราวและจะอัปเดตให้เสร็จสมบูรณ์เร็วที่สุด ขออภัยในความไม่สะดวก",
-	"modal-tech_text-2": "เวลาที่เหลือจนกว่าจะเสร็จ",
-	"modal-tech_button": "ดำเนินการต่อ",
-	"modal-session_title": "โปรดให้ความใส่ใจ",
-	"modal-session_text-1": "ตลาดหุ้นปิดในวันหยุดสุดสัปดาห์",
-	"modal-session_text-2": "แพลตฟอร์มการซื้อขายสามารถเข้าถึงได้",
-	"modal-session_text-3": "ตั้งแต่ 3:00 น. วันจันทร์ จนถึง 0:00 น. วันศุกร์",
-	"modal-session_text-4": "เซสชันซื้อขายของคุณจะเริ่มใน:",
-	"modal-session_button": "ดำเนินการต่อ",
-	"modal-tn_title": "ยินดีต้อนรับสู่",
-	"modal-tn_text-1": "เทรดเดอร์ที่มียอดสูงสุดเมื่อตอนจบการแข่งขันจะเป็นผู้ชนะ",
-	"modal-tn_text-2": "สินทรัพย์ที่มี:",
-	"modal-tn_text-3": "ประเภทของธุรกรรมที่มี:",
-	"modal-tn_button": "เริ่ม",
-	"modal-nickname_title": "เลือกชื่อเล่น",
-	"modal-nickname_text": "ในการเข้าร่วมการแข่งขันนั้น ให้ใส่ชื่อเล่นที่จะแสดงแทนตัวคุณในรายชื่อผู้เข้าร่วมการแข่งขัน คุณสามารถเปลี่ยนแปลงได้ตลอดเวลา ในการตั้งค่าโปรไฟล์ของคุณ",
-	"modal-nickname_button": "บันทึกและดำเนินการต่อ",
-	"modal-nickname_placeholder": "กรุณาใส่ชื่อเล่น",
-	"modal-profile_title": "ข้อมูลเพิ่มเติม",
-	"modal-profile_text": "กรุณาให้ข้อมูลเพิ่มเติม เพื่อทำงานบนแพลตฟอร์มต่อไป",
-	"modal-profile_name": "ชื่อ",
-	"modal-profile_surname": "นามสกุล",
-	"modal-profile_phone": "หมายเลขโทรศัพท์ (พร้อมรหัสประเทศ)",
-	"modal-profile_button": "เริ่มการซื้อขาย",
-	"modal-profile_aside": "ขอรับประกันความปลอดภัยของข้อมูลส่วนบุคคลของคุณ",
-	"form-error_required": "ช่องไม่สามารถว่างเปล่าได้",
-	"form-error_name-short": "ชื่อสั้นเกินไป",
-	"form-error_name-format": "เฉพาะตัวอักษร",
-	"form-error_surname-short": "นามสกุลสั้นเกินไป",
-	"form-error_surname-format": "เฉพาะตัวอักษร",
-	"form-error_phone-format": "หมายเลขต้องอยู่ในรูปแบบของสากล",
-	"srv-err_asset-is-disabled": "สินทรัพย์ถูกปิดใช้งาน",
-	"srv-err_asset-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
-	"srv-err_binary-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
-	"srv-err_turbo-is-disabled-for-this-tournament": "สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้",
-	"tournament@btn.paid-participate": "ค่าธรรมเนียมการเข้าร่วม",
-	"tournament@info.paid": "ทัวร์นาเมนต์ที่ต้องชำระเงิน",
-	"faq@title": "คำถามและคำตอบ",
-	"menu@faq": "FAQ",
-	"menu@education": "การศึกษา",
-	"menu@qa": "คำถามและคำตอบ",
-	"menu@strategies": "กลยุทธ์",
-	"menu@btn$back": "ย้อนกลับ",
-	"cashbox@no-bonus": "ไม่รับโบนัส",
-	"wallet-menu@real-title": "เงินจริง",
-	"wallet-menu@bonus-title": "เงินโบนัส",
-	"wallet-menu@wager-title": "ปริมาณการซื้อขายในการถอนโบนัส",
-	"wallet-menu@wager-link": "อ่านเพิ่มเติมเกี่ยวกับโบนัส",
-	"modal-bonus@title": "คุณกำลังใช้เงินโบนัส",
-	"modal-bonus@text": "ขนาดการซื้อขายเกินเงินจริงของคุณที่มีอยู่ ดังนั้นในการเปิดธุรกรรม เงินโบนัสของคุณจะนำมาใช้:",
-	"modal-bonus@deal-size": "ขนาดการซื้อขาย",
-	"modal-bonus@real-size": "เงินจริง",
-	"modal-bonus@bonus-size": "เงินโบนัส",
-	"modal-bonus@info": "เงินทั้งหมดที่ได้รับเป็นส่วนหนึ่งของการซื้อขาย จะได้รับการนำเข้าไปยังบัญชีโบนัสของคุณ",
-	"modal-bonus@faq": "กฎการใช้เงินโบนัส",
-	"modal-bonus@btn-cancel": "ยกเลิก",
-	"modal-bonus@btn-continue": "ยอมรับและดำเนินการต่อ",
-	"modal-bonus@disable": "ไม่ต้องแสดงข้อความนี้อีกต่อไป",
-	"trends@restrict-title": "เงินไม่เพียงพอในบัญชีของคุณ",
-	"trends@restrict-text": "ในการปลดล็อกส่วน แนวโน้ม ยอดบัญชีของคุณจะต้องเป็นอย่างน้อย",
-	"asset-menu@title": "สินทรัพย์",
-	"asset-menu@available": "มีสินทรัพย์ให้ซื้อขาย",
-	"asset-menu@profitable": "สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น",
-	"asset-menu@interval": "นาที",
-	"confirm-trade@header": "การยืนยันการซื้อขาย",
-	"confirm-trade@timer": "หน้าต่างจะปิดอัตโนมัติใน {{@data}} วิฯ",
-	"confirm-trade@heading": "เยี่ยม! คุณกำลังจะยืนยันการซื้อขาย กรุณาตรวจสอบรายละเอียดด้านล่าง:",
-	"confirm-trade@asset": "สินทรัพย์",
-	"confirm-trade@direction": "ทิศทาง",
-	"confirm-trade@investment": "การลงทุน",
-	"confirm-trade@price": "ราคาปัจจุบัน",
-	"confirm-trade@profitability": "ความสามารถในการทำกำไร",
-	"confirm-trade@payout": "การจ่ายเงินที่เป็นไปได้",
-	"confirm-trade@btn-cancel": "ยกเลิก",
-	"confirm-trade@btn-confirm": "ยืนยัน",
-	"plot@loading": "กำลังโหลด",
-	"plot@lock-time": "เวลาล็อก",
-	"plot@expiration-time": "เวลาหมดอายุ",
-	"tr-empty@text": "ดำดิ่งลงสู่โลกแห่งการซื้อขายแบบละเอียดกับมือโปร เลียนแบบการซื้อขายของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม และทำเงินได้มากขึ้น",
-	"tr-empty@business": "ห้องซื้อขายเปิดสำหรับเทรดเดอร์ที่มีบัญชีธุรกิจขึ้นไป เซสชันซื้อขายแบบ 4 ชั่วโมงสองเซสชันในวันทำการ ได้สัญญาณจากเทรดเดอร์มืออาชีพประมาณ 30 สัญญาณทุกวัน อย่าเสียเวลาของคุณไปเรียนในสิ่งต่าง ๆ ด้วยตัวคุณเอง — เทรดเดอร์ที่ดีที่สุดของ Binarium ได้ทำงานเหล่านั้นให้คุณเรียบร้อยแล้ว",
-	"tr-empty@vip": "ลูกค้าวีไอพีของเรามีอภิสิทธิ์ทุกอย่างในห้องซื้อขาย รวมถึงสัญญาณส่วนตัว และความร่วมมือเฉพาะรายกับเทรดเดอร์ของบริษัท ผู้ที่จะตอบทุกคำถามของคุณ อธิบายแนวโน้มการตลาดในปัจจุบัน และแนะนำพื้นที่ที่มีศักยภาพสูงที่สุดให้ นี่เป็นวิธีที่ดีที่สุดในการทำเงินจากการซื้อขายได้มากที่สุด",
-	"tr-empty@open-btn": "ข้อมูลเพิ่มเติม • เข้าสู่ระบบ",
-	"tr-empty@deposit-btn": "ไปที่การชำระเงิน • เข้าสู่ระบบ",
-	"tr-empty@vip-signals": "+ สัญญาณที่มีค่า",
-	"hb@menu-btn": "เมนู",
-	"ac-types@title": "ประเภทบัญชี",
-	"ac-types@label_depositSum": "จำนวนเงินที่ฝาก",
-	"ac-types@label_tradeback": "Tradeback",
-	"ac-types@label_tradebackEnrolment": "คะแนน Tradeback",
-	"ac-types@label_assets": "สินทรัพย์ที่ซื้อขาย",
-	"ac-types@label_withdrawalCountLimit": "คำร้องขอถอนเงิน ต่อวัน",
-	"ac-types@label_withdrawalAmountLimit": "ขีดจำกัดการถอนเงิน ต่อเดือน",
-	"ac-types@label_withdrawalDayAmountLimit": "ขีดจำกัดการถอนเงิน ต่อวัน",
-	"ac-types@label_tradingRoom": "ห้องซื้อขาย",
-	"ac-types@label_openDealsSum": "จำนวนสูงสุดของการซื้อขายที่เปิด (ในหนึ่งครั้ง)",
-	"ac-types@value_real": "เงินจริง",
-	"ac-types@value_bonus": "โบนัส",
-	"ac-types@value_nolimit": "ไม่จำกัด",
-	"ac-types@btn": "เพิ่ม",
-	"ac-types@self": "บัญชีของคุณ",
-	"ac-types@tradeback-hint": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)",
-	"video-tutorial@title": "วิธีเริ่มซื้อขายกับ Binarium ใน 90 วินาที",
-	"video-tutorial@checkbox": "ไม่ต้องแสดงวิดีโอนี้อีกต่อไป",
-	"user-menu@account-types": "ประเภทบัญชี",
-	"withdrawal-error@amount-limit": "เกินขีดจำกัดการถอนเงินแล้ว",
-	"withdrawal@limit-with-counter": "เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}",
-	"promo-gift@bonus": "โบนัส",
-	"promo-gift@freeSpins": "การซื้อขายที่ปลอดความเสี่ยง",
-	"promo-gift@tradeRoom": "ห้องซื้อขาย",
-	"promo-gift@tickets": "ตั๋ว",
-	"settings@quality-title": "คุณภาพของกราฟิก",
-	"settings@quality-hint": "จัดการภาระงานบนอุปกรณ์ของคุณ โดยการเปลี่ยนการตั้งค่าคุณภาพกราฟิก คุณภาพมาตรฐานจะช่วยประหยัดทรัพยากร และโหลดแพลตฟอร์มได้เร็วขึ้น แต่คุณภาพกราฟิกจะลดลงเล็กน้อย",
-	"settings@quality-option-base": "พื้นฐาน",
-	"settings@quality-option-average": "ปานกลาง",
-	"settings@quality-option-best": "สูง",
-	"history@group$active": "การซื้อ-ขาย กำลังเคลื่อนไหว",
-	"history@group$finished": "การซื้อขายสำเสร็จ",
-	"st@level$all": "ทั้งหมด",
-	"st@level$easy": "เรียบง่าย",
-	"st@level$base": "พื้นฐาน",
-	"st@level$advanced": "ขั้นสูง",
-	"promo@btn$details": "อ่านเพิ่มเติม",
-	"promo@timer$name": "โปรโมชั่นสิ้นสุดใน",
-	"promo@until": "จนกระทั่ง",
-	"wallet@btn$refill": "เติมเงินในบัญชีทดลอง",
-	"tournament@prize-fund": "เงินรางวัลสะสม",
-	"tournament@prize-places": "อันดับสูงสุด",
-	"tournament@tab$restrictions": "ข้อกำหนดและเงื่อนไข",
-	"tournament@tab$rating": "อันดับผู้เข้าร่วม",
-	"tournament@tab$current": "ปัจจุบัน",
-	"tournament@tab$soon": "เร็วๆนี้",
-	"tournament@timer$start": "การแข่งขันเริ่มต้นใน",
-	"tournament@timer$end": "การแข่งขันจบลงใน",
-	"section@title$bet": "การซื้อขาย",
-	"bet@tab$deposit": "ฝากเงิน",
-	"forecast@deal": "การซื้อขาย",
-	"forecast@deals": "การซื้อขาย",
-	"promo@days-short": "วัน",
-	"settings@group$region": "การตั้งค่าภูมิภาค",
-	"settings@group$design": "ออกแบบ",
-	"menu@account-type": "ประเภทบัญชี",
-	"menu@profile": "โปรไฟล์ผู้ใช้งาน",
-	"leaderboard@tournament": "การแข่งขัน",
-	"leaderboard$toggle@open": "อันดับทั้งหมด",
-	"leaderboard$toggle@close": "ปิด",
-	"disabled-timer@title": "เปิดใน",
-	"open-option$total$deals": "ลงทุน",
-	"open-option$total$invest": "ลงทุนทั้งหมด.",
-	"open-option$total$payout": "เงินที่จ่ายทั้งหมด",
-	"chat-button@text": "ช่วยเหลือ<br>ออนไลน์",
-	"accounts@popular": "ตัวเลือกยอดนิยม",
-	"settings@animation": "จุดภาพเคลื่อนไหว",
-	"settings@animation-disabled": "ปิดการใช้งาน",
-	"settings@animation-enabled": "เปิดการใช้งาน"
-}
+"Identifier","Source String/Translation"
+"@PLURAL","ends(1)#ends(range(2,4))#or(ends(range(5, 19)), ends(0))"
+"dearUser","สวัสดี ผู้ใช้งานที่รัก!"
+"error","ข้อผิดพลาด"
+"settings","การตั้งค่า"
+"settings-2","การตั้งค่าเทอร์มินอล"
+"regionalSettings","การตั้งค่าภูมิภาค"
+"timezone","เขตเวลา"
+"timezone-2","เขตเวลา"
+"language","ภาษา"
+"skin-theme","ธีม"
+"ui-zoom","ซูม"
+"ui-zoom-2","มาตราส่วน"
+"investment","การซื้อขาย"
+"payout","การจ่ายเงิน"
+"options","ออปชัน"
+"quote","ข้อมูลราคา"
+"time","เวลา"
+"past","ที่ปิดแล้ว"
+"active","เปิด"
+"value","มูลค่า"
+"add","แถบใหม่"
+"add-new-chart","เพิ่มกราฟใหม่"
+"charts-arrangement","ตารางกราฟ"
+"turbo-cap","1-5 นาที"
+"count-chart","{{@count}} กราฟ"
+"count-charts","{{@count}} กราฟ"
+"one-chart","1 กราฟ"
+"two-charts","2 กราฟ"
+"three-charts","3 กราฟ"
+"four-charts","4 กราฟ"
+"refill","การฝากเงิน"
+"wallets-types","ประเภทบัญชี"
+"history","ประวัติ"
+"cashbox","ธนาคาร"
+"education","การศึกษา"
+"education@category$videos","<span>วีดีโอการเรียนรู้</span>"
+"promos","โบนัส"
+"trading-history","ประวัติการซื้อขาย"
+"section-under-construction","ส่วนนี้กำลังสร้าง"
+"count-purchase","{{@count}} การซื้อขาย"
+"count-purchases","{{@count}} #{trades@trade?count}"
+"total-payout","เงินที่จ่ายทั้งหมด"
+"cancel","ยกเลิก"
+"apply","นำไปใช้"
+"period","รอบระยะเวลา"
+"stochastic-smoothing","Smoothing"
+"stochastic-overbought","การซื้อมากเกินไป"
+"stochastic-oversold","การขายมากเกินไป"
+"fast-stochastic-period","ระยะเวลาของเส้นแบบเร็ว"
+"slow-stochastic-period","ระยะเวลาของเส้นแบบช้า"
+"fast-stochastic-line-color","สีของเส้นแบบเร็ว"
+"slow-stochastic-line-color","สีของเส้นแบบช้า"
+"fast-stochastic-line-thickness","ความหนาของเส้นแบบเร็ว"
+"fast-macd-period","ระยะเวลาของเส้นแบบเร็ว"
+"slow-macd-period","ระยะเวลาของเส้นแบบช้า"
+"signal-macd-period","ระยะเวลาสัญญาณ"
+"fast-macd-line-thickness","ความหนาของเส้นแบบเร็ว"
+"signal_line_color","สีของเส้นสัญญาณ"
+"oversold","การขายมากเกินไป"
+"macd_color","สี"
+"line-thickness","ความหนาของเส้น"
+"line-color","สีเส้น"
+"line-offset","เลื่อนบรรทัด"
+"top-line-thickness","ความหนาของเส้นบนสุด"
+"mid-line-thickness","ความหนาของเส้นกลาง"
+"slow_period","แสดงระยะเวลา"
+"fast_period","ระยะเวลาแบบเร็ว"
+"short_period","ระยะเวลาแบบสั้น"
+"long_period","ระยะเวลาแบบยาว"
+"offset","ส่วนชดเชย"
+"bottom-line-thickness","ความหนาของเส้นล่าง"
+"bottom-line-period","ระยะเวลาเส้นด้านล่าง"
+"top-line-color","สีของเส้นบนสุด"
+"top-line-period","ระยะเวลาเส้นด้านบน"
+"mid-line-color","สีของเส้นกลาง"
+"mid-line-period","ระยะเวลาเส้นกลาง"
+"bottom-line-color","สีของเส้นล่าง"
+"teeth-line-color","สีของเส้นฟัน"
+"jaws-line-color","สีของเส้นกราม"
+"lips-line-color","สีของเส้นริมฝีปาก"
+"jaws-period","รอบกราม"
+"jaws-offset","ส่วนชดเชยกราม"
+"teeth-period","รอบฟัน"
+"teeth-offset","ส่วนชดเชยฟัน"
+"lips-period","รอบริมฝีปาก"
+"lips-offset","ส่วนชดเชยริมฝีปาก"
+"indice-lines-position","ตำแหน่งเส้นตัวชี้วัด"
+"major-line-thickness","ความหนาของเส้นหลัก"
+"top-signal-line-thickness","ความหนาของเส้นสัญญาณบนสุด"
+"bottom-signal-line-thickness","ความหนาของเส้นสัญญาณล่าง"
+"top-signal-line-color","สีเส้นสัญญาณบนสุด"
+"bottom-signal-line-color","สีเส้นสัญญาณล่าง"
+"fast-stoch-color","สีของสโตแคสติกแบบเร็ว"
+"low-stoch-color","สีของสโตแคสติกแบบช้า"
+"low-stoch-period","รอบสโตแคสติกแบบช้า"
+"fast-stoch-line-thickness","ความหนาของเส้นสโตแคสติกแบบเร็ว"
+"low-stoch-line-thickness","ความหนาของเส้นสโตแคสติกแบบช้า"
+"small-period","รอบเล็ก"
+"big-period","รอบใหญ่"
+"small-period-width","ความกว้างของรอบเล็ก"
+"big-period-width","ความกว้างของรอบใหญ่"
+"signal-period-width","ความกว้างของรอบสัญญาณ"
+"bars-color","สีแถบ"
+"bars-color-maofmacd","สีแถบ MA ของ MACD"
+"smoothing-period","รอบการปรับเรียบ"
+"adx-minus-di-color","สี -DI"
+"adx-plus-di-color","สี +DI"
+"adx-line-color","สีเส้น ADX"
+"sar-default-acceleration","ความเร่งเริ่มต้น"
+"acceleration-step","ขั้นของความเร่ง"
+"max-acceleration","ความเร่งสูงสุด"
+"chikou-line-thickness","Chikou ความหนา"
+"chikou_period","Chikou ระยะเวลา"
+"tenkan_period","Tenkan ระยะเวลา"
+"kijun_period","Kijun ระยะเวลา"
+"senkou_a_period","Senkou A ระยะเวลา"
+"senkou_b_period","Senkou B ระยะเวลา"
+"color","สี"
+"chart-type","ประเภทกราฟ"
+"chart-type-curve","เส้นโค้ง"
+"chart-type-curve-area","พื้นที่โค้ง"
+"chart-type-candlesticks","แท่งเทียน"
+"chart-type-bars","แท่ง"
+"bet-sum","ผลรวม"
+"chart-controls-income-caption","ความสามารถในการทำกำไร"
+"expiration-time","เวลาหมดอายุ"
+"wallet-refilling","การฝากเงิน"
+"real-wallet","จริง"
+"demo-wallet","บัญชีทดลอง"
+"can-deduce-profit","คุณสามารถถอนกำไรออกมาได้"
+"all-assets-available","สินทรัพย์ทั้งหมดมีให้ใช้ได้"
+"all-features-available","ใช้คุณสมบัติทั้งหมดของแพลตฟอร์ม"
+"get-bonuses-from-the-platform","ได้รับโบนัสจากบริษัท"
+"participate-tournaments","เข้าร่วมการแข่งขัน"
+"can-switch-wallet-any-time","คุณสามารถสลับระหว่างบัญชีได้ตลอดเวลา"
+"cannot-deduce-profit","คุณไม่สามารถถอนกำไรออกมาได้"
+"refill-wallet","การฝากเงิน"
+"choose-wallet-type","ประเภทบัญชี"
+"demo-wallet+wallet","บัญชีสาธิต"
+"real-wallet+wallet","บัญชีจริง"
+"choose-bet","การซื้อขาย"
+"added-items","เพิ่มแล้ว"
+"bollinger-lines","โบลินเจอร์ แบนด์"
+"ichi-cloud","อิชิโกมุ คราวด์"
+"alli-gator","Alli Gator"
+"graphics-analysys-tools","เครื่องมือวิเคราะห์"
+"new-items","ใหม่"
+"line-segment","ภาคส่วนของเส้น"
+"ray","รังสี"
+"hori-line","เส้นแนวนอน"
+"vline","เส้นแนวตั้ง"
+"free-hand","การวาดเส้นอิสระ"
+"crossroad","จุดตัด"
+"frame","กรอบ"
+"range","ช่วง"
+"ellipse","วงรี"
+"fibonacci-lines","เส้นฟีโบนัชชี"
+"andrews-fork","ส้อมของแอนดรูว์"
+"graphic-tools","เครื่องมือกราฟ"
+"time-period","รอบระยะเวลา"
+"count-second","{{@count}} วินาที"
+"count-seconds","{{@count}} วินาที"
+"count-minute","{{@count}} นาที"
+"count-minutes","{{@count}} นาที"
+"count-hour","{{@count}} ชั่วโมง"
+"count-hours","{{@count}} ชั่วโมง"
+"lock-time","เวลาล็อก"
+"user-profile","โปรไฟล์ผู้ใช้งาน"
+"user-profile-heading","โปรไฟล์ผู้ใช้งาน"
+"withdrawal","การถอนเงิน"
+"support-service","ความช่วยเหลือ"
+"payment-history","ประวัติการชำระเงิน"
+"exit","ออกจากระบบ"
+"count-second-short","{{@count}} วินาที"
+"count-seconds-short","{{@count}} วินาที"
+"count-minute-short","{{@count}} นาที"
+"count-minutes-short","{{@count}} นาที"
+"count-hour-short","{{@count}} ชม."
+"count-hours-short","{{@count}} ชม."
+"count-day-short","{{@count}} วัน"
+"binary-cap","มากกว่า 5 นาที"
+"error-too-small-bet","ไม่สามารถวางเดิมพันเท่ากับ {{@sum}} ได้ จำนวนเงินเดิมพันขั้นต่ำของสกุลเงิน {{@currency}} คือ {{@minbet}}"
+"error-too-big-bet","ไม่สามารถวางเดิมพันเท่ากับ {{@sum}} ได้ จำนวนเงินเดิมพันสูงสุดของสกุลเงิน {{@currency}} คือ {{@maxbet}}"
+"error-wrong-expiration","เวลาหมดอายุไม่ถูกต้อง {{@time}}"
+"not-enough-money","คุณมีเงินไม่เพียงพอในบัญชีของคุณ"
+"option-closed-head","ออปชันปิดแล้ว"
+"transaction-result","ผลลัพธ์สำหรับ {{@assetName}}"
+"internet-connection-trouble","ปัญหาการเชื่อมต่อ"
+"lang-name-locale-en","อังกฤษ"
+"lang-name-locale-ru","รัสเซีย"
+"lang-name-locale-de","เยอรมัน"
+"lang-name-locale-tr","ตุรกี"
+"lang-name-locale-vi","เวียดนาม"
+"lang-name-locale-uk","ยูเครน"
+"lang-name-locale-th","ไทย"
+"lang-name-locale-it","อิตาลี"
+"lang-name-locale-pl","โปแลนด์"
+"lang-name-chinese","จีน (ตัวย่อ)"
+"timezone-info","(UTC+{{@offset}}) {{@country}}"
+"you-started-using-real-wallet","คุณกำลังใช้งานบัญชีจริง"
+"you-started-using-tment-wallet","คุณกำลังใช้งานบัญชีแข่งขัน"
+"tournaments","การแข่งขัน"
+"currents","ปัจจุบัน"
+"futures","ที่จะมาถึง"
+"archive","ที่เก็บถาวร"
+"days","วัน"
+"hours","ชั่วโมง"
+"minutes","นาที"
+"prize-fond","รางวัล"
+"participate-price","ค่าธรรมเนียมการเข้าร่วม"
+"prize-places","อันดับสูงสุด"
+"tournament-participants-count","ผู้เข้าร่วม"
+"no-tournament-description","ไม่มีคำอธิบายการแข่งขัน"
+"utc-info","(UTC{{@offset}})"
+"begin-time","เริ่มต้น"
+"deductions","การหัก"
+"reg-in-tournament-for","เข้าร่วม การแข่งขัน {{@price}}"
+"reg-in-tournament-for-free","เข้าร่วมการแข่งขันฟรี"
+"choose-tournament-to-see-info","กรุณาเลือกการแข่งขัน"
+"has-reged-in-tournament","คุณลงทะเบียนแล้ว"
+"wait-for-reg-in-tournament","ส่งคำขอลงทะเบียนแล้ว"
+"prize-places-low","{{@count}} อันดับสูงสุด"
+"starting-balance","ยอดเริ่มต้น"
+"min-deal-size","ปริมาณการซื้อขายขั้นต่ำ"
+"max-deal-size","ปริมาณการซื้อขายสูงสุด"
+"max-simultaneously-open-deals","ขีดจำกัดการซื้อขายที่เปิด"
+"max-amount-of-open-deals","ขีดจำกัดการลงทุน"
+"available-options-types","ออปชันที่มี"
+"tournament-option-type-turbo","เทอร์โบ"
+"tournament-option-type-binary","ไบนารี"
+"tournament-option-type-both","ทั้งคู่"
+"tournament-winning-rules","เทรดเดอร์ที่มียอดสูงสุดเมื่อตอนจบทัวร์นาเมนต์จะเป็นผู้ชนะ"
+"available-assets","สินทรัพย์ที่มี"
+"available-options","ประเภทของธุรกรรมที่มี"
+"greeting","ยินดีต้อนรับ"
+"cashbox-plus-bonus","โบนัส"
+"cashbox-input","การฝากเงิน"
+"cashbox-output","การถอนเงิน"
+"cashbox-total","โบนัส, โปรโมชั่น, ทั้งหมด"
+"bonus-terms-of-use","เงื่อนไขโบนัสของผู้ใช้งาน"
+"enter-cashbox-input-value","ใส่จำนวนเงินฝาก"
+"enter-cashbox-output-value","ใส่จำนวนเงินที่จะถอน"
+"do-withdrawal","การถอนเงิน"
+"amount-due","จำนวน"
+"will-recieve-to-account","คุณได้รับ"
+"i-wanna-get-bonus","รับโบนัส"
+"enter-cashbox-card-type","วิธีการชำระเงิน"
+"finish-time","เสร็จสิ้น"
+"top-users","ลีดเดอร์บอร์ด"
+"member","สมาชิก"
+"balance","ยอดเงิน"
+"prize","รางวัล"
+"hint-split-view-button","แผนผัง"
+"hint-user-profile-button","เมนูผู้ใช้งาน"
+"hint-asset-stat","ตัวเลือกของเทรดเดอร์"
+"hint-sound-button","เสียง"
+"hint-platform-time","เวลาแพลตฟอร์ม"
+"hint-profitability","ความสามารถในการทำกำไร"
+"hint-payout","การจ่ายเงิน"
+"hint-real-acc","บัญชีจริง"
+"hint-demo-acc","บัญชีสาธิต"
+"hint-tournament-acc","บัญชีการแข่งขัน"
+"hint-settings","การตั้งค่า"
+"hint-support","ความช่วยเหลือ"
+"hint-graph-type","ประเภทกราฟ"
+"hint-candle-interval","ช่วงห่างของแท่งเทียน"
+"hint-user-lines","เครื่องมือกราฟ"
+"hint-secondary-lines","ตัวชี้วัด"
+"hint-centerize","ราคาปัจจุบัน"
+"hint-zoom-level","กรอบเวลา"
+"tournament","การแข่งขัน"
+"loading","กำลังโหลด"
+"you-are-in-tournament","คุณเข้ามาแล้ว!"
+"repeat-tournament","ซื้อซ้ำ {{@price}}"
+"unsupported-browser","ผลิตภัณฑ์กำลังอยู่ในขั้นทดลอง ในขณะนี้เรารับประกันการทำงานที่เสถียร ในเบราว์เซอร์เหล่านี้: Google Chrome, Opera และ Yandex Browser ขอขอบคุณในความเข้าใจของคุณ!"
+"account-is-for-educ","นี่เป็นบัญชีสาธิตเท่านั้น"
+"participate-in-demo-tments","เข้าร่วมการแข่งขันสาธิต"
+"use-real-money","ซื้อขายด้วยเงินจริง"
+"participate-tments-with-real-money","เข้าร่วมการแข่งขัน แล้วเอาชนะรางวัล"
+"native-deal-closed-body","ออปชันสำหรับ {{@assetName}} ปิดที่ {{@closeTime}} กำไรคือ {{@incomeValue}}"
+"tournaments-rules","กฎการแข่งขัน"
+"tournaments-rules-2","กฎการเข้าร่วมในการแข่งขัน"
+"get-trade-exp","รับประสบการณ์การซื้อขายอันมีค่า"
+"tment-begins-in","การแข่งขันเริ่มต้นใน"
+"tment-ends-in","การแข่งขันจบลงใน"
+"tment-has-ended","การแข่งขันจบลงแล้ว"
+"tment-just-ended","""{{@name}}"" เพิ่งจบลง"
+"tment-just-started","""{{@name}}"" เพิ่งเริ่มต้น"
+"tment-just-created","""{{@name}}"" เพิ่งสร้างขึ้น"
+"read-more","อ่านเพิ่มเติม"
+"history-is-empty","คุณไม่มีการซื้อขายที่หมดอายุ"
+"tournaments-current-is-empty","ไม่มีการแข่งขันที่ดำเนินการอยู่ กรุณาติดตามฟีดข่าวของเรา แล้วคอยรับชมข่าวสาร"
+"tournaments-future-is-empty","ไม่มีกำหนดการแข่งขันในอนาคต กรุณาติดตามฟีดข่าวของเรา แล้วคอยรับชมข่าวสาร"
+"tournaments@current-empty","ไม่มีการแข่งขันในขณะนี้ ตรวจสอบการแข่งขันที่กำลังจะเกิดขึ้น <br><br>โดยคลิกที่ ""เร็วๆนี้"" ตรงแถบเมนูด้านบน สามารถติดตามข่าวสารบนแพลตฟอร์มและอีเมล"
+"tournaments-ended-is-empty","ไม่มีการแข่งขันที่จบลงแล้ว"
+"upper-indicator-line","เส้นตัวชี้วัดส่วนบน"
+"lower-indicator-line","เส้นตัวชี้วัดส่วนล่าง"
+"stoch-overbuy-value","การซื้อมากเกินไป"
+"stoch-overbuy-line-width","ความกว้างการซื้อมากเกินไป"
+"stoch-overbuy-line-color","สีการซื้อมากเกินไป"
+"stoch-oversell-value","การขายมากเกินไป"
+"stoch-oversell-line-width","ความกว้างการขายมากเกินไป"
+"stoch-oversell-line-color","สีการขายมากเกินไป"
+"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","ค่านี้ไม่ถูกต้อง"
+"889954f14a3839c141bd8d5102094fbb","ค่านี้ใช้ไปแล้ว"
+"bd79c0ab-ddba-46cc-a703-a7a4b08de310","ค่านี้ไม่ใช่อีเมลที่ถูกต้อง"
+"bf447c1c-0266-4e10-9c6c-573df282e413","ค่านี้ไม่ใช่อีเมลที่ถูกต้อง"
+"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","ค่านี้ไม่ใช่อีเมลที่ถูกต้อง"
+"c1051bb4-d103-4f74-8988-acbcafc7fdc3","ช่องนี้จำเป็นต้องกรอก"
+"9ff3fdc4-b214-49db-8718-39c315e33d45","ค่านี้สั้นเกินไป ควรมี  {{@min}}  ตัวอักษรหรือมากกว่า"
+"d94b19cc-114f-4f44-9cc4-4138e80a87b9","ค่านี้ยาวเกินไป ควรมี  {{@limit}}  ตัวอักษรหรือน้อยกว่า"
+"478618a7-95ba-473d-9101-cabd45e49115","ค่านี้ควรเท่ากับ {{@compared_value}}"
+"4dba5f9c79ae34be5884e1a3c8c45e92","ชื่อผู้ใช้งานหรือรหัสผ่านไม่ถูกต้อง"
+"3e5af93fb888b4aa77301a7603e113d5","รหัสผ่านไม่ถูกต้อง"
+"2d28afcb-e32e-45fb-a815-01c431a86a69","ค่านี้ควรเป็น {{@limit}} หรือน้อยกว่า"
+"76454e69-502c-46c5-9643-f447d837c4d5","ค่านี้ควรเป็น {{@limit}} หรือมากกว่า"
+"ad32d13f-c3d4-423b-909a-857b961eb720","ค่านี้ไม่ควรเป็นค่าว่าง"
+"8e179f1b-97aa-4560-a02f-2a8b42e49df7","ค่าที่คุณเลือกไม่ใช่ตัวเลือกที่ถูกต้อง"
+"853ff54c1a66d1a2379e0c46f8eb9ed4","ปัจจัยที่จำเป็น {{@name}} ไม่ถูกต้อง"
+"3ac1d32eb3c54e11ef9ea474da816ad6","ปัจจัยที่จำเป็น {{@name}} ควรมีการตั้งค่า"
+"661d3bc6c153e42a3658855010678cbd","ไม่รู้จักปัจจัยที่จำเป็น {{@names}}"
+"51fd5caf0ad30e6acb3a75b8b7f6d060","คุณไม่ได้รับอนุญาต ให้เปลี่ยนแปลงสถานะคำร้องขอที่ประมวลผล"
+"2d2ba82dd886ba3b69da804675842ff5","วิธีการชำระเงินที่ไม่ดี"
+"3c55616c0a7de9c064e6c2d86fa72bc2","เวลาหมดอายุไม่ถูกต้อง"
+"f029308ab5f1672de0b7615c4fa33386","สินทรัพย์ปิดอยู่ในขณะนี้"
+"10cf6f3e2d6a3532b77d924868cbfa62","สินทรัพย์ปิดอยู่ในขณะนี้"
+"64fc8bbac184ae9dab80c8f592d1a6f7","คุณถึงขีดจำกัดจำนวนการซื้อขายที่ทำได้แล้ว"
+"5561ccf1e94e6b9d88080bdbbcba1821","เงินไม่เพียงพอ"
+"f3a5b44d01097d966072b90187a16ec6","ผู้ใช้งานไม่มีอยู่"
+"296ea5496bee3177c83ac27a1dc5bb10","ยอดการแข่งขันควรน้อยกว่ายอดเริ่มต้น"
+"fc53df7c4944ebb53e8b3713126ae226","จำนวนการซื้อขายสูงสุดของบัญชีคือ {{@limit}}"
+"0f8e85ca21aa2e33752728cf5e843e35","คุณถึงขีดจำกัดจำนวนการซื้อขายที่ทำได้แล้ว"
+"cbce1334c90e82f44381abe99b98fe5c","เกินขีดจำกัดของจำนวนออปชันเปิดทั้งหมด"
+"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","ชื่อเล่นนี้มีการใช้ไปแล้ว กรุณาเลือกชื่ออื่น"
+"promo-ends-in","โบนัสสิ้นสุดใน"
+"your-promocode","รหัสโปรโมชั่นของคุณ"
+"from-value-to-value","ตั้งแต่ {{@fromValue}} — ถึง {{@toValue}}"
+"deposit-sum","มัดจำ"
+"bonus-sum","โบนัส"
+"promos-rules","กฎโบนัส"
+"promos-rules-2","กฎโบนัส"
+"participate-promo","เข้าร่วมในโบนัส"
+"promo-has-ended","โบนัสได้สิ้นสุดลง"
+"no-promos-description","ไม่มีคำอธิบายของโบนัส"
+"promos-is-empty","ไม่มีโปรโมชั่นในขณะนี้ กรุณาติดตามข่าวสารล่าสุดของเรา และคอยติดตามอีเมลที่จะส่งให้ต่อไป"
+"first-launch-disclaimer-content","โปรดทราบ! ใช้เพียง คลิกเดียว เพื่อเปิดการซื้อขาย โดยไม่ต้องมีการยืนยัน"
+"accept","ยอมรับ"
+"trading-session-closed","เซสชันการซื้อขายปิดแล้ว"
+"special-offer","ข้อเสนอพิเศษ"
+"continue","ดำเนินการต่อ"
+"seconds","วินาที"
+"trading-sess-starts-in","เซสชันการซื้อขายเริ่มต้นใน"
+"trading-session-closed-info-0","โปรดทราบ!"
+"trading-session-closed-info-1","ตลาดหุ้นปิดในวันหยุดสุดสัปดาห์"
+"trading-session-closed-info-2","การซื้อขายบนแพลตฟอร์มของเรา ทำได้ตั้งแต่ 03:00 วันจันทร์ จนถึง 00:00 วันศุกร์"
+"trading-session-closed-info-3","ข้อมูลตลาดจัดหาโดย ทอมสันรอยเตอร์"
+"asset","สินทรัพย์"
+"additional-info","ข้อมูลเพิ่มเติม"
+"fill-profile-to-continue","เพื่อดำเนินการงานของคุณบนแพลตฟอร์มต่อ กรุณาให้ข้อมูลเพิ่มเติม"
+"fill-username-heading","เรียน ท่านเทรดเดอร์,"
+"fill-username-text","ในการเข้าร่วมทัวร์นาเมนต์นั้น ให้ใส่ชื่อเล่นที่จะแสดงแทนตัวคุณในรายชื่อผู้เข้าร่วมทัวร์นาเมนต์ คุณสามารถเปลี่ยนแปลงได้ตลอดเวลา ในการตั้งค่าโปรไฟล์ของคุณ"
+"fill-username-placeholder","กรุณาใส่ชื่อเล่นของคุณ"
+"save-and-continue","บันทึกและดำเนินการต่อ"
+"profile-name","ชื่อ"
+"profile-surname","นามสกุล"
+"profile-telephone","โทรศัพท์"
+"start-trading","เริ่มการซื้อขาย"
+"personal-data-safety","ขอรับประกันความปลอดภัยของข้อมูลส่วนบุคคล"
+"bonus","โบนัส"
+"new-bonus","ไปยังบัญชี"
+"received-bonus","พร้อมกับเงินฝากที่เลือก คุณจะได้รับ"
+"received-bonus-value","โบนัสเป็นจำนวน: {{@bonus}}"
+"mobile-received-bonus-value","+ โบนัส {{@bonus}}"
+"expires-in","หมดอายุใน"
+"cannot-buy-option-try-later","ไม่สามารถเปิดการซื้อขายนี้ได้ กรุณาลองอีกครั้งภายหลัง"
+"notifications$demo-option-limit","ต้องการเปิดมากกว่า 5 การซื้อขายในคราวเดียวใช่หรือไม่? เปิดบัญชีจริง ในการที่จะใช้งานบัญชีสาธิตของคุณต่อ ให้รอคอยจนกว่าการซื้อขายเสร็จสมบูรณ์เสียก่อน"
+"max-total-bet-limit-exceeded","คุณถึงจำนวนการซื้อขายที่ได้รับอนุญาตแล้ว
+ จำนวนการซื้อขายที่ได้รับอนุญาตคือ {{@maxBet}}"
+"chart-opens-in","สินทรัพย์จะมีให้ใช้ได้ใน:"
+"hint-activate-tment-wallet","กดที่นี่ เพื่อเริ่มต้นใช้งานบัญชีการแข่งขัน"
+"largest-profit-banner-on-the-asset","ในสินทรัพย์"
+"largest-profit-banner-button-trade-caption","การซื้อขาย"
+"largest-profit-banner-button-trade-caption-2","การซื้อขายตอนนี้"
+"largest-profit-banner-text","เวลาที่ดีที่สุดในการซื้อขายสินทรัพย์"
+"largest-profit-banner-text-2","นี่คือช่วงเวลาที่ดีในการซื้อขาย"
+"largest-profit-height-profit","ความสามารถในการทำกำไรที่เพิ่มขึ้น"
+"largest-profit-height-profit-2","ความสามารถในการทำกำไรที่สูงซึ่งสูงสุดถึง"
+"offer-expires-in","ข้อเสนอหมดอายุภายใน:"
+"offer-expires-in-2","ข้อเสนอหมดอายุภายใน:"
+"warning","คำเตือน"
+"banner-tech-works-info-caption","การอัปเดตทางเทคนิค"
+"banner-tech-works-info-content","เราทำงานเพื่อปรับปรุงแพลตฟอร์มการซื้อขายของเราให้ดียิ่งขึ้นอยู่เสมอ
+ ขณะนี้แพลตฟอร์มกำลังอัปเดต
+ เราต้องขออภัยในความไม่สะดวกใด ๆ ที่เกิดขึ้น"
+"confirm-email-content","กรุณายืนยันอีเมลของคุณ คลิกปุ่มด้านล่าง เพื่อส่งอีเมลที่มีลิงก์ยืนยันอีกครั้ง"
+"confirm-email-caption","เปิดใช้งานบัญชีอีกครั้ง"
+"reload","โหลดซ้ำ"
+"resend-confirmation","ส่งซ้ำ"
+"resend-confirmation-again","ลองอีกครั้ง"
+"confirmation-mail-sent","ส่งแล้ว"
+"banner-not-enough-funds-for-tment","คุณมีเงินไม่เพียงพอในบัญชีของคุณ กรุณาเติมเงินบัญชีของคุณ เพื่อเข้าร่วมการแข่งขัน"
+"tment-reenter-not-allowed","คุณไม่สามารถซื้อเพิ่มเติมในขณะที่มีธุรกรรมที่เปิดอยู่"
+"fill-profile-wrong-phone","หมายเลขโทรศัพท์ไม่ถูกต้อง"
+"fill-profile-wrong-name","ชื่อไม่ถูกต้อง"
+"fill-profile-wrong-surname","นามสกุลไม่ถูกต้อง"
+"fill-user-wrong-promocode","รหัสโปรโมชั่นไม่ถูกต้อง"
+"wrong-promocode-max-sum","จำนวนสูงสุดที่จะเปิดใช้งานรหัสโปรโมชั่น {{@sum}}"
+"wrong-promocode-min-sum","จำนวนขั้นต่ำที่จะเปิดใช้งานรหัสโปรโมชั่น {{@sum}}"
+"wrong-withdrawal-min-sum","เงินขั้นต่ำ {{@sum}}"
+"wrong-withdrawal-max-sum","จำนวนเงินที่ถอนสูงสุด {{@sum}}"
+"wrong-promocode-expired","หมดอายุ"
+"wrong-promocode-only-for-second-deposit","มีให้ใช้ได้ สำหรับการฝากครั้งที่สอง และครั้งต่อ ๆ ไปเท่านั้น"
+"wrong-promocode-only-for-first-deposit","มีให้ใช้ได้ สำหรับการฝากครั้งแรกเท่านั้น"
+"wrong-promocode-used","รหัสโปรโมชั่นถูกแลกไปแล้ว"
+"fill-user-wrong-phone","หมายเลขโทรศัพท์ไม่ถูกต้อง"
+"fill-user-wrong-card","หมายเลขบัตรไม่ถูกต้อง"
+"fill-user-wrong-customer_purse","หมายเลขบัญชีไม่ถูกต้อง"
+"fill-user-wrong-name","ชื่อไม่ถูกต้อง"
+"fill-user-wrong-surname","นามสกุลไม่ถูกต้อง"
+"please-rotate-device","พลิกอุปกรณ์เพื่อที่คุณจะสามารถใช้เทอร์มินอลได้ง่าย ๆ"
+"swipe-up-to-enter-fs","ปัดนิ้วขึ้นเพื่อเข้าสู่โหมดเต็มหน้าจอ"
+"click-to-enter-fs","แตะที่ใดก็ได้บนหน้าจอ เพื่อสลับไปเป็นโหมดเต็มจอ"
+"reconnect","เชื่อมต่อใหม่"
+"reconnected","เชื่อมต่ออีกครั้งแล้ว!"
+"free-reg","ลงทะเบียนฟรี"
+"investments","การซื้อขาย"
+"investments_short","ลงทุน"
+"investment_short","ลงทุน"
+"buy-time","ซื้อเวลา"
+"total-investment","ลงทุนทั้งหมด"
+"total-income","เงินที่จ่ายทั้งหมด"
+"result","ผลลัพธ์"
+"ur-income-would-be","กำไรของคุณ"
+"create-account-for-free","สร้างบัญชีได้ฟรี"
+"resume-use-demo","ดำเนินการต่อในโหมดสาธิต"
+"reg-request-message","หากคุณได้ซื้อขายบนเว็บไซต์ของเรา เราจะสามารถทำเงินได้ {{@income}} แล้วตอนนี้ อย่ามัวเสียเวลาอีกเลย เริ่มต้นซื้อขายกันเถอะ!"
+"trade-without-restrictions","ซื้อขายโดยไร้ข้อจำกัด"
+"trade-without-restrictions-message","หากคุณต้องการเปิดมากกว่า 5 การซื้อขายในคราวเดียว ให้เปิดบัญชีการซื้อขายจริง แล้วซื้อขายแบบไม่มีขีดจำกัด ในการที่จะยังคงใช้งานบัญชีสาธิตอยู่นั้น กรุณารอให้การซื้อขายปัจจุบันของคุณหมดอายุลงเสียก่อน"
+"use-real-wallet","บัญชีจริง"
+"support","ความช่วยเหลือ"
+"search-asset","ค้นหาสินทรัพย์"
+"error-sending-email-confirmation","เกิดขึ้นผิดพลาดขึ้นในขณะส่งอีเมล กรุณาลองอีกครั้งภายหลัง"
+"error-sending-email-confirmation-with-time","อีเมลใหม่จะส่งถึงคุณใน {{@time}} นาที ในการเปิดใช้งานบัญชีของคุณ กรุณาตรวจสอบอีเมลของคุณ หรือติดต่อฝ่ายบริการลูกค้าของเรา"
+"risk-free-trades","การซื้อขายที่ปลอดความเสี่ยง"
+"count-trades-for-bet","{{@count}} การซื้อขายสำหรับ {{@sum}}"
+"count-x-bet","{{@count}}×{{@bet}}"
+"White","สีขาว"
+"Red","สีแดง"
+"Pink","สีชมพู"
+"Purple","สีม่วง"
+"Deep Purple","สีม่วงเข้ม"
+"Indigo","สีคราม"
+"Blue","สีน้ำเงิน"
+"Cyan","สีเขียวแกมน้ำเงิน"
+"Green","สีเขียว"
+"Light Green","สีเขียวอ่อน"
+"Lime","สีเขียวมะนาว"
+"Yellow","สีเหลือง"
+"Amber","สีเหลืองอำพัน"
+"Orange","สีส้ม"
+"tournament-accounts","บัญชีทัวร์นาเมนต์"
+"activate-tournament-wallet","เปิดใช้งานกระเป๋าสตางค์การแข่งขัน"
+"deposit-using-agreements-header","รายการโบนัส"
+"deposit-using-agreements-p1","โบนัส คือเงินเพิ่มเติม ที่จัดให้โดยบริษัท เพื่อเพิ่มโอกาสในการซื้อขาย ให้กับเทรดเดอร์"
+"deposit-using-agreements-p2","เมื่อมีการฝากเงิน เงินโบนัสจำนวนหนึ่ง อาจจะเติมเข้าไปยังบัญชีของคุณ ปริมาณของโบนัสขึ้นอยู่กับ ปริมาณของเงินที่ฝาก"
+"deposit-using-agreements-p3","โบนัสไม่ได้จำกัดเงินที่คุณสามารถถอนออกไปได้: คุณสามารถถอนกำไรของคุณ พร้อมด้วยจำนวนเงินฝากของคุณออกไปได้ตลอดเวลา โปรดทราบว่า เวลาที่ถอนเงินออกไป เงินโบนัสที่ได้ทั้งหมดจะได้รับสถานะเป็นไม่ใช้งาน และจะถูกหักออกจากบัญชีของคุณ"
+"choose-payment-method","เลือกวิธีการฝากเงิน"
+"choose-payment-sum","เลือกจำนวนเงินฝาก"
+"plus-value-bonus","+ {{@value}} โบนัส"
+"deposit-user-sum-value-caption","ต้องการเลือกจำนวนของคุณเองหรือไม่? ใช้ช่องอินพุตสิ"
+"i-have-promocode","ฉันมีรหัสโปรโมชั่น"
+"requisiste-name-phone","โทรศัพท์"
+"no-bonus","ไม่มีโบนัส"
+"refresh","รีเฟรช"
+"browser","เบราว์เซอร์"
+"make-a-deposit","ฝากเงิน"
+"cashbox-withdrawal-info-0-header","ฉันจะถอนเงินออกมา จากบัญชีของฉันได้อย่างไร?"
+"cashbox-withdrawal-info-0-content","ตัวเลือกที่ใช้ได้คือ: บัตรธนาคาร, กระเป๋าสตางค์อิเล็กทรอนิกส์ Qiwi/Yandex Money/WebMoney เจ้าของบัญชีไมโคร สามารถมีการสมัคร ที่ใช้งานสำหรับการถอนเงินออกมา ได้เพียงหนึ่งเดียวเท่านั้น"
+"cashbox-withdrawal-info-1-header","จำนวนเงินขั้นต่ำ ที่จะถอนออกมาจากบัญชีได้ เป็นเท่าใด?"
+"cashbox-withdrawal-info-1-content","จำนวนเงินที่ถอนขั้นต่ำ — ₽300 หรือ $5 หรือ €5 หรือ A$5 หรือ ₴150 จำนวนเงินที่ถอนสูงสุดสำหรับหนึ่งธุรกรรม — ₽15,000 หรือ $200 หรือ €200 หรือ A$200 หรือ ₴6,000"
+"cashbox-withdrawal-info-2-header","ฉันจะถอนเงินจำนวนที่มากกว่า ₽15,000 หรือ $200 หรือ €200 หรือ A$200 หรือ ₴6,000 ได้อย่างไร?"
+"cashbox-withdrawal-info-2-content","ข้อจำกัดนี้ถูกตั้งขึ้นเพื่อป้องกันการถอนเงินที่รวดเร็วในเวลาสั้น ๆ จำนวนที่เกินขีดจำกัดที่ตั้งไว้สามารถถอนออกไปได้ หลังจากผ่านไปช่วงระยะเวลาหนึ่ง หากคุณจำเป็นต้องถอนเงินจำนวนที่มากขึ้น คุณสามารถแบ่งจำนวนเงินที่ถอนของคุณออกเป็นจำนวนเท่าของ $200 หรือ €200 หรือ A$200 หรือ ₽15,000 หรือ ₴6,000 ได้ คุณจะไม่ถูกจำกัดในเรื่องจำนวนครั้งของคำขอถอนเงินที่คุณสามารถดำเนินการได้ หากคุณต้องการถอนเงินจำนวนที่มากขึ้นในการชำระเงินครั้งเดียว ก็โปรดติดต่อทีมช่วยเหลือแพลตฟอร์ม หากบัญชีของคุณยังไม่ได้รับการยืนยัน ก็อาจใช้เวลาสูงสุดถึงสามวันทำการ เพื่อประมวลผลคำขอถอนเงินของคุณ คุณไม่สามารถยื่นคำขอถอนเงินได้มากกว่าหนึ่งครั้งต่อวัน"
+"cashbox-withdrawal-info-3-header","การถอนเงินรวดเร็วเพียงใด?"
+"cashbox-withdrawal-info-3-content-a","จะใช้เวลาหนึ่งชั่วโมงในการประมวลผลคำร้องขอ หากมีการยื่นคำร้องขอเข้ามาในระหว่างชั่วโมงทำการของแผนกการเงินแพลตฟอร์ม และบัญชีของคุณได้รับการยืนยันแล้ว ตามความต้องการของแพลตฟอร์ม "
+"cashbox-withdrawal-info-3-content-b","ชั่วโมงทำการของแผนกการเงินคือ วันจันทร์ถึงวันศุกร์ 10:00 น. ถึง 22:00 น. (GMT +2) หากคุณยื่นคำขอถอนเงินเข้ามานอกชั่วโมงทำการของแผนกการเงิน หรือในวันหยุด คำร้องขอของคุณก็จะได้รับการประมวลผลเมื่อเริ่มวันทำการถัดไป หากบัญชีของคุณยังไม่ได้รับการยืนยัน คำขอถอนเงินของคุณก็จะได้รับการประมวลผลภายในสามวันทำการ คุณไม่สามารถยื่นคำขอถอนเงินได้มากกว่าหนึ่งครั้งต่อวัน"
+"cashbox-withdrawal-info-4-header","นโยบายการถอนเงิน"
+"cashbox-withdrawal-info-4-content-a","ลูกค้าต้องระบุข้อมูลที่ร้องขอทั้งหมดในส่วน ""การตั้งค่าโปรไฟล์"" เพื่อที่จะให้แน่ใจได้ว่า คำร้องขอของตนจะได้รับการประมวลผลอย่างเหมาะสม หากพบว่ามีการใส่ข้อมูลที่ไม่ถูกต้องหรือไม่สมบูรณ์ คำขอถอนเงินของคุณอาจได้รับการปฏิเสธหรือทำให้ล่าช้าออกไป"
+"cashbox-withdrawal-info-4-content-b","เงินจะถอนออกไปยังบัญชีธนาคารเดียวกัน (หรือระบบการชำระเงินเดียวกัน) กับที่ใช้เพื่อเติมเงินบัญชีของคุณ หากธุรกรรมไม่สามารถดำเนินการให้สมบูรณ์ได้ คุณควรติดต่อบริการช่วยเหลือ โดยการเรียกใช้แชทออนไลน์ หรือส่งคำขอความช่วยเหลือไปที่ thailand@binarium.com"
+"cashbox-withdrawal-info-5-header","ฉันต้องจัดเตรียมเอกสารอะไรให้หรือไม่ เวลาที่ถอนเงิน? หากจำเป็นต้องทำ มีอะไรบ้าง?"
+"cashbox-withdrawal-info-5-content-a","กรุณาจัดเตรียมข้อมูลส่วนบุคคลของคุณทั้งหมดในส่วน ""การตั้งค่าโปรไฟล์"" เพื่อให้มีการถอนเงินได้อย่างรวดเร็ว หากคุณใช้บัตรธนาคารหลายใบ หรือรายละเอียดการชำระเงินไม่ตรงกันกับสิ่งที่คุณได้ให้ไว้ในระหว่างการลงทะเบียน คุณจะต้องดำเนินการกระบวนการตรวจสอบสิทธิ์เต็มรูปแบบ และพิสูจน์ว่า บัตรต่าง ๆ นั้นเป็นของคุณจริง ๆ เงินไม่สามารถถอนออกไปยังบัญชีบุคคลที่สามได้ "
+"cashbox-withdrawal-info-5-content-b","ในการดำเนินการกระบวนการตรวจสอบยืนยันให้เสร็จสมบูรณ์นั้น กรุณาส่งภาพสแกนของหนังสือเดินทาง และด้านหน้าของบัตรธนาคารไปยัง thailand@binarium.com โดยที่สามารถเห็นชื่อและนามสกุลของเจ้าของได้ หากคุณไม่ได้เป็นเจ้าของบัตร คุณก็ต้องส่งภาพสแกนของ รายการเดินบัญชีย้อนหลังของธนาคาร ที่แสดงธุรกรรมจากบัตรใบนี้กับบัญชี Binarium มาให้นอกเหนือจากสำเนาหนังสือเดินทาง บริษัทขอสงวนสิทธิ์ ในการร้องขอเอกสารเพิ่มเติม ในกรณีที่ข้อมูลของผู้ถือบัตร และบัญชีการซื้อขายไม่ตรงกัน"
+"cashbox-withdrawal-info-6-header","ในเงื่อนไขใดที่เป็นไปได้ ที่จะถอนเงินโบนัสออกมา?"
+"cashbox-withdrawal-info-6-content-a","ตัวโบนัสเองไม่สามารถถอนออกมาได้ทันทีหลังจากที่ได้รับ โบรกเกอร์นำเงินจำนวนนี้เข้าไปยังบัญชีของคุณเป็นโบนัส ก็เพื่อเพิ่มโอกาสในการซื้อขายของคุณ ผลประโยชน์ที่คุณได้มาโดยใช้เงินโบนัส ก็ถือเป็นโบนัสเช่นกัน และสามารถถอนได้ก็ต่อเมื่อ ได้ตามปริมาณการซื้อขายที่จำเป็นแล้ว ในการถอนเงินโบนัสออกมานั้น คุณจำเป็นต้องได้ปริมาณการซื้อขาย x40 ของจำนวนเงินโบนัสในบัญชี หากคุณได้โบนัสโดยไม่เงินฝาก ตัวคูณก็จะเพิ่มเป็น 50 ซึ่งปริมาณการซื้อขายในบัญชี ก็ควรเท่ากับ x50 ของโบนัส และจำนวนสูงสุดในการถอน ไม่สามารถเกินจำนวนโบนัสที่ไม่ฝากเงินที่เพิ่มเข้าไปให้ได้ รางวัลเงินสดจากการแข่งขันฟรีของบริษัท ก็คือโบนัส ซึ่งถอนได้หลังจากได้ปริมาณการซื้อขาย x40 แล้ว"
+"cashbox-withdrawal-info-6-content-b","ตัวอย่าง เมื่อคุณฝากเงิน คุณได้ $150 เป็นโบนัส ตามกฎแล้ว คุณจำเป็นต้องได้มูลค่ารวม ของออปชันที่ซื้อเป็น 30 x 150 = $4,500 หลังจากได้ตามมูลค่านี้แล้ว คุณก็สามารถถอนเงินโบนัสออกมาได้ ในกรณีนี้ ทั้งธุรกรรมที่ทำกำไรและไม่ทำกำไร จะนับรวมหมด การซื้อขายที่ยุติไปก่อนที่จะจบ จะไม่นับรวมเป็นปริมาณการซื้อขายด้วย ไม่มีข้อจำกัดในการถอนเงินในส่วนกำไร"
+"cashbox-withdrawal-info-6-content-c","หากคุณกำลังจะถอนบางส่วนของเงินฝากออกมา เงินโบนัสก็จะถูกหักออกไปโดยอัตโนมัติ จากบัญชีของคุณ"
+"cashbox-withdrawal-info-6-content-d","หากคุณมีคำถามใด ๆ กรุณาติดต่อฝ่ายบริการลูกค้าของ Binarium"
+"cashbox-withdrawal-info-7-header","ฉันไม่สามารถสร้างคำขอถอนเงินสำหรับบัญชีของฉันได้ จะมีอะไรผิดพลาดได้บ้าง?"
+"cashbox-withdrawal-info-7-content","ก่อนอื่น ตรวจสอบดูว่า ข้อมูลส่วนบุคคลของคุณทั้งหมด แสดงอยู่ในหน้าโปรไฟล์ของคุณในส่วน ""โปรไฟล์"" หรือไม่ และอีกครั้ง ที่ต้องดูให้แน่ใจว่า คุณได้ใส่ข้อมูลทั้งหมดอย่างถูกต้องแล้วตอนที่คุณยื่นคำร้องขอของคุณเข้ามา ตัวอักขระพิเศษอย่างเช่น +, -, / ฯลฯ นั้นไม่ถูกต้อง หากข้อมูลที่ใส่มาทั้งหมดถูกต้องแล้ว แต่ปัญหายังคงอยู่ กรุณาติดต่อฝ่ายบริการลูกค้า ผ่านทางแชทออนไลน์ หรือที่ thailand@binarium.com"
+"deposit-info-1","โบนัส คือเงินเพิ่มเติมที่บริษัทจัดให้ เพื่อเพิ่มศักยภาพในการซื้อขายของเทรดเดอร์"
+"deposit-info-2","เมื่อมีการฝากเงิน อาจมีเงินโบนัสจำนวนหนึ่งเติมเข้าไปยังบัญชีของคุณ ปริมาณของโบนัสขึ้นอยู่กับปริมาณเงินฝากของคุณ"
+"deposit-info-3","โบนัสไม่ได้จำกัดเงินที่คุณสามารถถอนออกไปได้: คุณสามารถถอนกำไรของคุณ รวมถึงจำนวนเงินฝากของคุณออกไปได้ตลอดเวลา โปรดทราบว่า เวลาที่ถอนเงินออกไป เงินโบนัสที่ไม่ได้ใช้ในการซื้อขายด้วยปริมาณการซื้อขาย x40 จะได้รับสถานะเป็นไม่ใช้งาน และจะถูกหักออกจากบัญชีของคุณ"
+"withdrawal-heading","คำร้องขอของคุณจะได้รับการประมวลผลภายใน 24 ชั่วโมง นับตั้งแต่เวลาที่คุณยื่นเข้ามา"
+"withdrawal-content","หากมีการสมัครนอกเวลาทำการของฝ่ายการเงินของบริษัท ก็จะได้รับการประมวลผลภายในวันทำการถัดไป"
+"withdrawal-restricted-content","เกินขีดจำกัดการถอนเงินของ <span class=""open-act-button"">ประเภทบัญชี</span> ของคุณแล้ว"
+"withdrawal-amount-caption","จำนวนของการชำระเงิน"
+"withdrawal-type-caption","วิธีการถอนเงิน"
+"withdrawal-button-caption","การถอนเงิน"
+"requisite-name-card","หมายเลขบัตร"
+"requisite-name-phone","โทรศัพท์"
+"requisite-name-customer_purse","กระเป๋าสตางค์ลูกค้า"
+"withdrawal-request-sent","คำร้องขอได้รับการนำเข้าคิวแล้ว"
+"withdrawal-request-sent-extra-info","คุณสามารถติดตามสถานะคำร้องขอได้ ในส่วน “ประวัติธุรกรรม”"
+"withdrawal-method-qiwi_ecom","Qiwi"
+"withdrawal-method-qiwi","Qiwi"
+"withdrawal-method-yandex_money_ecom","Yandex Money"
+"withdrawal-method-webmoney_1gp","WebMoney"
+"withdrawal-method-card","วีซ่า/มาสเตอร์การ์ด"
+"videohub","การศึกษา"
+"asset-type-all","ทั้งหมด"
+"asset-type-currency","สกุลเงิน"
+"asset-type-crypto","สกุลเงินดิจิทัล"
+"asset-type-goods","สินค้า"
+"asset-type-countries","ประเทศ"
+"asset-type-leaders","ผู้นำ"
+"cashbox-withdrawal-info","จะต้องใช้เวลาสักระยะหนึ่ง ในการประมวลผลคำร้องขอ โดยปกติจะใช้เวลาสูงสุดถึง 24 ชั่วโมง เพื่อให้แผนกการเงินตรวจดูคำร้องขอในระหว่างเวลาทำการ เรายินดีที่จะรายงานให้ทราบว่า เราไม่ได้แช่แข็งยอดคงเหลือของคุณไว้ ในระหว่างที่คุณรอคอยคำขอถอนเงินให้อนุมัติอยู่ ซึ่งโดยวิธีดังกล่าว ทำให้คุณสามารถดำเนินการซื้อขายต่อไปได้"
+"expiration-caption-16","ใน 24 ชั่วโมง"
+"trends","แนวโน้ม"
+"show-chart","แสดงกราฟ"
+"hide-chart","ซ่อนกราฟ"
+"trend-active","ใช้งานอยู่"
+"trend-non-active","ทั้งหมด"
+"trends-is-empty","แนวโน้ม กำลังได้รับการปรับปรุง"
+"what-are-trends","แนวโน้ม คืออะไร?"
+"what-are-trends-advice-content","แนวโน้ม เป็นเครื่องมือการซื้อขายพิเศษ ที่ให้คุณค้นหาได้อย่างรวดเร็ว ในสินทรัพย์ที่มีโอกาสได้กำไร (ที่มีทิศทางราคาโดดเด่น) แล้วเปิดการซื้อขาย ในทิศทางของแนวโน้มดังกล่าว"
+"not-enough-money-for-trends-detailed","เครื่องมือการซื้อขายที่เป็นเอกลักษณ์เฉพาะไม่เหมือนใครจาก Binarium พร้อมให้บริการลูกค้า ด้วยยอดเงินจริงกว่า {{@balance}} โอกาสที่จะประสบความสำเร็จ:"
+"get-access-to-trends","เข้าถึงแนวโน้ม"
+"trends-features-one","ติดตามแนวโน้มสินทรัพย์ทั้งหมดในตลาด"
+"trends-features-two","เปิดการซื้อขายโดยทันทีในทิศทางของแนวโน้มเมื่อมีปรากฏขึ้น"
+"month-0","ม.ค."
+"month-1","ก.พ."
+"month-2","มี.ค."
+"month-3","เม.ย."
+"month-4","พ.ค."
+"month-5","มิ.ย."
+"month-6","ก.ค."
+"month-7","ส.ค."
+"month-8","ก.ย."
+"month-9","ต.ค."
+"month-10","พ.ย."
+"month-11","ธ.ค."
+"day-0","จ."
+"day-1","อ."
+"day-2","พ."
+"day-3","พฤ."
+"day-4","ศ."
+"day-5","ส."
+"day-6","อา."
+"trading-room","ห้องซื้อขาย"
+"trading-room-entering-time","การใส่เวลา"
+"trading-room-expiration","หมดอายุ"
+"trading-room-strength","ปริมาณและมูลค่า"
+"trading-room-strike-price","ราคาใช้สิทธิ"
+"trading-room-is-empty","ไม่มีสัญญาณอยู่ กรุณาตรวจสอบ ห้องซื้อขาย ในไม่ช้านี้"
+"demo-stats-banner-header-caption","ยอดเยี่ยม!"
+"demo-stats-banner-header-caption-2","ขอแสดงความยินดี!"
+"demo-stats-banner-you-earned-on-demo","คุณได้เงินในบัญชีสาธิต"
+"demo-stats-banner-total-deals-amount","การซื้อขายทั้งหมด"
+"demo-stats-banner-successfull-deals-percentage","เปอร์เซ็นต์ของการซื้อขายที่สำเร็จ"
+"demo-stats-banner-real-account-opening-request","เปิดบัญชีจริงเพื่อถอนกำไรของคุณ"
+"demo-stats-banner-open-real-account-button-caption","เปิดบัญชีจริง"
+"demo-stats-banner-keep-trading-on-demo","อยู่ในบัญชีทดลอง"
+"demo-stats-banner-you-have-done","คุณได้ดำเนินการ"
+"demo-stats-banner-you-have-trades-closed-in-a-row","การซื้อขายต่อเนื่องกัน"
+"demo-stats-banner-you-have-trades-closed-in-a-row-successfully","การซื้อขายที่ทำกำไรต่อเนื่องกัน"
+"demo-stats-banner-earning-on-demo-account","เงินได้ในบัญชีทดลองของคุณ"
+"demo-stats-banner-closed-in-a-row-2","การซื้อขายที่ให้ผลกำไร"
+"tour-next-button-caption","ดำเนินการต่อ"
+"tour-reading-duration-caption","อ่านเป็นเวลา 4 นาที"
+"tour-slides-steps-count","ขั้น {{@currentSlide}} จาก {{@totalSlidesCount}}"
+"tour-slide-0-caption","ยินดีต้อนรับสู่ แพลตฟอร์มการซื้อขาย Binarium"
+"tour-slide-0-content","การสาธิตโดยสังเขปนี้ จะแนะนำคุณเรื่อง หลักการพื้นฐานของการซื้อขาย และแพลตฟอร์ม Binarium"
+"tour-slide-0-content-1","อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น"
+"tour-slide-0-content-2","การสาธิตโดยสังเขปนี้ จะแนะนำคุณเรื่อง หลักการพื้นฐานของการซื้อขาย และแพลตฟอร์ม Binarium"
+"tour-slide-0-content-3","เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินบัญชีของคุณได้ในส่วน <span class=""bold"">ธนาคาร</span> และคุณสามารถสั่งการซื้อขาย โดยใช้เทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ในส่วน <span class=""bold"">ห้องซื้อขาย</span>!"
+"tour-slide-0-content-3-port","เมนูหลักอยู่ทางด้านซ้าย ตัวอย่างเช่น คุณสามารถเติมเงินได้ ในส่วน <span class=""bold"">ธนาคาร</span> และคุณสามารถซื้อขาย ด้วยความช่วยเหลือจากเทรดเดอร์ที่ดีที่สุดในแพลตฟอร์มได้ ในส่วน <span class=""bold"">ห้องซื้อขาย</span>!"
+"tour-slide-0-extra-info","อ่านบัตรทุกใบให้หมด เพื่อเรียนรู้วิธีในการซื้อขายบนแพลตฟอร์ม ให้มีประสิทธิภาพยิ่งขึ้น"
+"tour-slide-1-caption","คุณจะทำเงินบนแพลตฟอร์มได้อย่างไร?"
+"tour-slide-1-content","<span class=""bold"">แพลตฟอร์มการซื้อขายจะให้คุณวางคำสั่งซื้อขายได้</span> โดยการลงทุนระยะสั้น ในสินทรัพย์ทางการเงิน: คู่สกุลเงินแลกเปลี่ยน, สกุลเงินดิจิทัล, สินค้าโภคภัณฑ์, และตราสารทางการเงินอื่น ๆ"
+"tour-slide-2-caption","อะไรคือหลักการพื้นฐาน ที่อยู่เบื้องหลังการซื้อขาย?"
+"tour-slide-2-content-a","<span class=""bold"">การซื้อขายเป็นการคาดการณ์ว่า ราคาของสินทรัพย์ทางการเงินจะเปลี่ยนแปลงไปอย่างไร</span> ในรอบระยะเวลาใดเวลาหนึ่ง นักลงทุนจะเปิด <span class=""green"">สถานะซื้อ</span> หรือ <span class=""red"">สถานะขาย</span>"
+"tour-slide-2-content-b","หากการคาดการณ์ของคุณเป็นจริง คุณจะได้รับเงิน หากคุณพลาด คุณก็จะสูญเสียเงินทั้งหมด ที่ได้ลงทุนไป"
+"tour-slide-3-caption","คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?"
+"tour-slide-3-content","<span class=""bold"">เลือกสินทรัพย์</span> ที่คุณต้องการคาดการณ์แนวโน้มราคา"
+"tour-slide-4-caption","คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?"
+"tour-slide-4-content","<span class=""bold"">เลือกขนาดการลงทุนของคุณ</span>"
+"tour-slide-5-caption","คุณจะวางคำสั่งซื้อขาย บนแพลตฟอร์ม Binarium ได้อย่างไร?"
+"tour-slide-5-content","<span class=""bold"">เปิดการซื้อขาย</span> หลังจากที่คุณคาดการณ์ว่า ราคาจะ <span class=""green"">เพิ่มขึ้น</span> หรือ <span class=""red"">ลดลง</span> แล้ว ให้รอจนกว่าการซื้อขายจะปิด"
+"tour-slide-6-caption","ขอให้โชคดี ในการซื้อขายบนแพลตฟอร์ม Binarium"
+"tour-slide-6-additional-caption","หากการคาดการณ์ของคุณถูกต้อง กำไรของคุณจะเข้าไปยังบัญชีการซื้อขายของคุณโดยอัตโนมัติ"
+"tour-slide-6-a-trading-rules","เงื่อนไขการซื้อขาย"
+"tour-slide-6-a-card-0-caption","จำนวนรายได้ที่คุณจะได้รับ จากการคาดการณ์ที่ประสบความสำเร็จ:"
+"tour-slide-6-a-card-0-content-1","สูงสุดถึง {{@maxProfit}}"
+"tour-slide-6-a-card-0-content-2","ของจำนวนเงินลงทุนของคุณ ที่คุณจะได้รับจากการคาดการณ์ที่ประสบความสำเร็จ"
+"tour-slide-6-a-card-1-caption","ปริมาณเงินฝากขั้นต่ำสำหรับการซื้อขาย"
+"tour-slide-6-a-card-1-content","ตั้งแต่ {{@minWithdrawal}}"
+"tour-slide-6-a-card-2-caption","เวลาเฉลี่ยที่ต้องใช้ในการถอนเงิน:"
+"tour-slide-6-a-card-2-content","30 นาที"
+"tour-slide-6-a-card-3-caption","ฝากเงินเข้าไปยังบัญชีจริง เพื่อที่จะเริ่มต้นการซื้อขาย:"
+"tour-slide-6-a-card-3-button-caption","ฝากเงินแล้วเริ่มต้นซื้อขาย"
+"tour-slide-6-a-dont-show-again","ให้การทัวร์แพลตฟอร์มออกไป"
+"tour-slide-6-b-trading-rules","เงื่อนไขการซื้อขาย"
+"tour-slide-6-b-card-0-caption","จำนวนรายได้ที่คุณจะได้รับ จากการคาดการณ์ที่ประสบความสำเร็จ:"
+"tour-slide-6-b-card-0-content","<span class=""big"">สูงสุดถึง 90%</span> ของจำนวนเงินลงทุนของคุณ."
+"tour-slide-6-b-card-1-caption","ปริมาณเงินฝากขั้นต่ำสำหรับการซื้อขาย."
+"tour-slide-6-b-card-1-content","<span class=""big"">{{@minWithdrawal}}</span>"
+"tour-slide-6-b-card-2-caption","เวลาเฉลี่ยที่ต้องใช้ในการถอนเงิน."
+"tour-slide-6-b-card-2-content","<span class=""big"">30</span> นาที"
+"tour-slide-6-b-card-3-caption","เรียนรู้วิธีการซื้อขาย โดยปราศจากความเสี่ยง โดยใช้บัญชีสาธิต"
+"tour-slide-6-b-card-3-button-caption","ซื้อขายโดยใช้บัญชีสาธิต"
+"tour-slide-6-b-dont-show-again","ให้การทัวร์แพลตฟอร์มออกไป"
+"user-terms-caption","ซื้อขายในคลิกเดียว"
+"what-is-trading-room","ห้องซื้อขายคืออะไร?"
+"what-is-trading-room-advice-content","ห้องซื้อขายคือเครื่องมือที่เป็นประโยชน์ ที่ช่วยให้คุณลอกเลียนแบบธุรกรรมของเทรดเดอร์ที่ดีที่สุดของแพลตฟอร์มได้ในคลิกเดียว คุณสามารถเพิ่มประสิทธิภาพในการซื้อขายของคุณ และประหยัดเวลายิ่งขึ้นได้จากเครื่องมือนี้"
+"not-enough-money-for-trading-room-detailed","ซื้อขายแล้วทำเงินไปพร้อมกับเทรดเดอร์ที่ดีที่สุดของแพลตฟอร์ม Binarium โดยใช้ห้องซื้อขาย เติมเงินจริงของคุณลงใน {{@minBalance}} แล้วรับผลประโยชน์ดังต่อไปนี้:"
+"get-access-to-trading-room","เข้าถึงห้องซื้อขาย"
+"have-access-to-trading-room","ในการเข้าถึง “ห้องซื้อขาย” ให้ติดต่อผู้จัดการของคุณ หรือฝ่ายบริการลูกค้า"
+"trading-room-features-one","จับตาดูธุรกรรมของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม"
+"trading-room-features-two","ลอกเลียนแบบธุรกรรมแล้วทำกำไร"
+"trading-room_1-title","ซื้อขายไปด้วยกัน"
+"trading-room_1-text","จับตาดูธุรกรรมของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม"
+"trading-room_2-title","ใช้ประโยชน์จากประสบการณ์ที่ประสบความสำเร็จของผู้อื่น"
+"trading-room_2-text","คัดลอกพฤติกรรมของเทรดเดอร์รายอื่น ๆ แล้วทำกำไร!"
+"trading-room_refill","ในการเข้าถึง ""ห้องซื้อขาย"" ให้เติมเงินยอดคงเหลือของคุณ"
+"account_level","ระดับบัญชี"
+"modal-confirm_title","ยืนยันอีเมลของคุณ"
+"modal-confirm_text-1","เราส่งอีเมลล์พร้อมลิ้งค์ยืนยันให้คุณ"
+"modal-confirm_text-2","ไม่ได้รับอีเมลพร้อมลิงก์ยืนยันใช่หรือไม่ โปรดตรวจสอบโฟลเดอร์ ""จดหมายขยะ"" ของคุณ บางครั้งข้อความอาจจะอยู่ที่นั่น หรือขอลิ้งค์ยืนยันอีกครั้ง"
+"modal-confirm_button","ส่งข้อความอีกครั้ง"
+"modal-confirm_error-1-1","อีเมลใหม่จะส่งถึงคุณใน {{@time}} นาที ในการเปิดใช้งานบัญชีของคุณ กรุณาตรวจสอบอีเมลของคุณ หรือติดต่อฝ่ายบริการลูกค้าของเรา หรือ"
+"modal-confirm_error-1-2","ติดต่อฝ่ายบริการลูกค้า"
+"modal-confirm_support","ติดต่อฝ่ายสนับสนุนลูกค้า"
+"timer_days","วัน"
+"timer_hours","ชั่วโมง"
+"timer_minutes","นาที"
+"timer_seconds","วินาที"
+"tournament_button","เข้าร่วมการแข่งขัน"
+"modal-oneclick_title","ซื้อขายในคลิกเดียว"
+"modal-oneclick_text","โปรดทราบว่า คุณสามารถเปิดการซื้อขายบนแพลตฟอร์มได้เพียงในคลิกเดียว ไม่มีการยืนยันเพิ่มเติมอีก"
+"modal-oneclick_button","ยอมรับและดำเนินการต่อ"
+"modal-tbalance_title","เติมเงินบัญชีของคุณ"
+"modal-tbalance_text","คุณมีเงินในบัญชีไม่เพียงพอ กรุณาเติมเงินบัญชีของคุณ เพื่อเข้าร่วมการแข่งขัน"
+"modal-tbalance_button","ฝากเงิน"
+"modal-tech_title","พวกเราจะกลับมาใหม่เร็วๆนี้"
+"modal-tech_text-1","เรากำลังปรับปรุงแพลตฟอร์มการซื้อขายชั่วคราวและจะอัปเดตให้เสร็จสมบูรณ์เร็วที่สุด ขออภัยในความไม่สะดวก"
+"modal-tech_text-2","เวลาที่เหลือจนกว่าจะเสร็จ"
+"modal-tech_button","ดำเนินการต่อ"
+"modal-session_title","โปรดให้ความใส่ใจ"
+"modal-session_text-1","ตลาดหุ้นปิดในวันหยุดสุดสัปดาห์"
+"modal-session_text-2","แพลตฟอร์มการซื้อขายสามารถเข้าถึงได้"
+"modal-session_text-3","ตั้งแต่ 3:00 น. วันจันทร์ จนถึง 0:00 น. วันศุกร์"
+"modal-session_text-4","เซสชันซื้อขายของคุณจะเริ่มใน:"
+"modal-session_button","ดำเนินการต่อ"
+"modal-tn_title","ยินดีต้อนรับสู่"
+"modal-tn_text-1","เทรดเดอร์ที่มียอดสูงสุดเมื่อตอนจบการแข่งขันจะเป็นผู้ชนะ"
+"modal-tn_text-2","สินทรัพย์ที่มี:"
+"modal-tn_text-3","ประเภทของธุรกรรมที่มี:"
+"modal-tn_button","เริ่ม"
+"modal-nickname_title","เลือกชื่อเล่น"
+"modal-nickname_text","ในการเข้าร่วมการแข่งขันนั้น ให้ใส่ชื่อเล่นที่จะแสดงแทนตัวคุณในรายชื่อผู้เข้าร่วมการแข่งขัน คุณสามารถเปลี่ยนแปลงได้ตลอดเวลา ในการตั้งค่าโปรไฟล์ของคุณ"
+"modal-nickname_button","บันทึกและดำเนินการต่อ"
+"modal-nickname_placeholder","กรุณาใส่ชื่อเล่น"
+"modal-profile_title","ข้อมูลเพิ่มเติม"
+"modal-profile_text","กรุณาให้ข้อมูลเพิ่มเติม เพื่อทำงานบนแพลตฟอร์มต่อไป"
+"modal-profile_name","ชื่อ"
+"modal-profile_surname","นามสกุล"
+"modal-profile_phone","หมายเลขโทรศัพท์ (พร้อมรหัสประเทศ)"
+"modal-profile_button","เริ่มการซื้อขาย"
+"modal-profile_aside","ขอรับประกันความปลอดภัยของข้อมูลส่วนบุคคลของคุณ"
+"form-error_required","ช่องไม่สามารถว่างเปล่าได้"
+"form-error_name-short","ชื่อสั้นเกินไป"
+"form-error_name-format","เฉพาะตัวอักษร"
+"form-error_surname-short","นามสกุลสั้นเกินไป"
+"form-error_surname-format","เฉพาะตัวอักษร"
+"form-error_phone-format","หมายเลขต้องอยู่ในรูปแบบของสากล"
+"srv-err_asset-is-disabled","สินทรัพย์ถูกปิดใช้งาน"
+"srv-err_asset-is-disabled-for-this-tournament","สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้"
+"srv-err_binary-is-disabled-for-this-tournament","สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้"
+"srv-err_turbo-is-disabled-for-this-tournament","สินทรัพย์ถูกปิดใช้งานสำหรับทัวร์นาเมนต์นี้"
+"tournament@btn.paid-participate","ค่าธรรมเนียมการเข้าร่วม"
+"tournament@info.paid","ทัวร์นาเมนต์ที่ต้องชำระเงิน"
+"faq@title","คำถามและคำตอบ"
+"menu@faq","FAQ"
+"menu@education","การศึกษา"
+"menu@qa","คำถามและคำตอบ"
+"menu@strategies","กลยุทธ์"
+"menu@btn$back","ย้อนกลับ"
+"cashbox@no-bonus","ไม่รับโบนัส"
+"wallet-menu@real-title","เงินจริง"
+"wallet-menu@bonus-title","เงินโบนัส"
+"wallet-menu@wager-title","ปริมาณการซื้อขายในการถอนโบนัส"
+"wallet-menu@wager-link","อ่านเพิ่มเติมเกี่ยวกับโบนัส"
+"modal-bonus@title","คุณกำลังใช้เงินโบนัส"
+"modal-bonus@text","ขนาดการซื้อขายเกินเงินจริงของคุณที่มีอยู่ ดังนั้นในการเปิดธุรกรรม เงินโบนัสของคุณจะนำมาใช้:"
+"modal-bonus@deal-size","ขนาดการซื้อขาย"
+"modal-bonus@real-size","เงินจริง"
+"modal-bonus@bonus-size","เงินโบนัส"
+"modal-bonus@info","เงินทั้งหมดที่ได้รับเป็นส่วนหนึ่งของการซื้อขาย จะได้รับการนำเข้าไปยังบัญชีโบนัสของคุณ"
+"modal-bonus@faq","กฎการใช้เงินโบนัส"
+"modal-bonus@btn-cancel","ยกเลิก"
+"modal-bonus@btn-continue","ยอมรับและดำเนินการต่อ"
+"modal-bonus@disable","ไม่ต้องแสดงข้อความนี้อีกต่อไป"
+"trends@restrict-title","เงินไม่เพียงพอในบัญชีของคุณ"
+"trends@restrict-text","ในการปลดล็อกส่วน แนวโน้ม ยอดบัญชีของคุณจะต้องเป็นอย่างน้อย"
+"asset-menu@title","สินทรัพย์"
+"asset-menu@available","มีสินทรัพย์ให้ซื้อขาย"
+"asset-menu@profitable","สินทรัพย์ที่มีความสามารถในการทำกำไรได้มากขึ้น"
+"asset-menu@interval","นาที"
+"confirm-trade@header","การยืนยันการซื้อขาย"
+"confirm-trade@timer","หน้าต่างจะปิดอัตโนมัติใน {{@data}} วิฯ"
+"confirm-trade@heading","เยี่ยม! คุณกำลังจะยืนยันการซื้อขาย กรุณาตรวจสอบรายละเอียดด้านล่าง:"
+"confirm-trade@asset","สินทรัพย์"
+"confirm-trade@direction","ทิศทาง"
+"confirm-trade@investment","การลงทุน"
+"confirm-trade@price","ราคาปัจจุบัน"
+"confirm-trade@profitability","ความสามารถในการทำกำไร"
+"confirm-trade@payout","การจ่ายเงินที่เป็นไปได้"
+"confirm-trade@btn-cancel","ยกเลิก"
+"confirm-trade@btn-confirm","ยืนยัน"
+"plot@loading","กำลังโหลด"
+"plot@lock-time","เวลาล็อก"
+"plot@expiration-time","เวลาหมดอายุ"
+"tr-empty@text","ดำดิ่งลงสู่โลกแห่งการซื้อขายแบบละเอียดกับมือโปร เลียนแบบการซื้อขายของเทรดเดอร์ที่ประสบความสำเร็จมากที่สุดของแพลตฟอร์ม และทำเงินได้มากขึ้น"
+"tr-empty@business","ห้องซื้อขายเปิดสำหรับเทรดเดอร์ที่มีบัญชีธุรกิจขึ้นไป เซสชันซื้อขายแบบ 4 ชั่วโมงสองเซสชันในวันทำการ ได้สัญญาณจากเทรดเดอร์มืออาชีพประมาณ 30 สัญญาณทุกวัน อย่าเสียเวลาของคุณไปเรียนในสิ่งต่าง ๆ ด้วยตัวคุณเอง — เทรดเดอร์ที่ดีที่สุดของ Binarium ได้ทำงานเหล่านั้นให้คุณเรียบร้อยแล้ว"
+"tr-empty@vip","ลูกค้าวีไอพีของเรามีอภิสิทธิ์ทุกอย่างในห้องซื้อขาย รวมถึงสัญญาณส่วนตัว และความร่วมมือเฉพาะรายกับเทรดเดอร์ของบริษัท ผู้ที่จะตอบทุกคำถามของคุณ อธิบายแนวโน้มการตลาดในปัจจุบัน และแนะนำพื้นที่ที่มีศักยภาพสูงที่สุดให้ นี่เป็นวิธีที่ดีที่สุดในการทำเงินจากการซื้อขายได้มากที่สุด"
+"tr-empty@open-btn","ข้อมูลเพิ่มเติม • เข้าสู่ระบบ"
+"tr-empty@deposit-btn","ไปที่การชำระเงิน • เข้าสู่ระบบ"
+"tr-empty@vip-signals","+ สัญญาณที่มีค่า"
+"hb@menu-btn","เมนู"
+"ac-types@title","ประเภทบัญชี"
+"ac-types@label_depositSum","จำนวนเงินที่ฝาก"
+"ac-types@label_tradeback","Tradeback"
+"ac-types@label_tradebackEnrolment","คะแนน Tradeback"
+"ac-types@label_assets","สินทรัพย์ที่ซื้อขาย"
+"ac-types@label_withdrawalCountLimit","คำร้องขอถอนเงิน ต่อวัน"
+"ac-types@label_withdrawalAmountLimit","ขีดจำกัดการถอนเงิน ต่อเดือน"
+"ac-types@label_withdrawalDayAmountLimit","ขีดจำกัดการถอนเงิน ต่อวัน"
+"ac-types@label_tradingRoom","ห้องซื้อขาย"
+"ac-types@label_openDealsSum","จำนวนสูงสุดของการซื้อขายที่เปิด (ในหนึ่งครั้ง)"
+"ac-types@value_real","เงินจริง"
+"ac-types@value_bonus","โบนัส"
+"ac-types@value_nolimit","ไม่จำกัด"
+"ac-types@btn","เพิ่ม"
+"ac-types@self","บัญชีของคุณ"
+"ac-types@tradeback-hint","Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)"
+"video-tutorial@title","วิธีเริ่มซื้อขายกับ Binarium ใน 90 วินาที"
+"video-tutorial@checkbox","ไม่ต้องแสดงวิดีโอนี้อีกต่อไป"
+"user-menu@account-types","ประเภทบัญชี"
+"withdrawal-error@amount-limit","เกินขีดจำกัดการถอนเงินแล้ว"
+"withdrawal@limit-with-counter","เกิดขีดจำกัดการถอนเงินแล้ว<br><span class=""open-act-button"">ประเภทบัญชี</span> ของคุณอนุญาตให้มีได้ {{@limitCount}} คำร้องขอ รวมทั้งสิ้นเป็นจำนวน {{@limitAmount}}<br>คุณสามารถทำคำร้องขออีกได้ใน {{@limitTime}}"
+"promo-gift@bonus","โบนัส"
+"promo-gift@freeSpins","การซื้อขายที่ปลอดความเสี่ยง"
+"promo-gift@tradeRoom","ห้องซื้อขาย"
+"promo-gift@tickets","ตั๋ว"
+"settings@quality-title","คุณภาพของกราฟิก"
+"settings@quality-hint","จัดการภาระงานบนอุปกรณ์ของคุณ โดยการเปลี่ยนการตั้งค่าคุณภาพกราฟิก คุณภาพมาตรฐานจะช่วยประหยัดทรัพยากร และโหลดแพลตฟอร์มได้เร็วขึ้น แต่คุณภาพกราฟิกจะลดลงเล็กน้อย"
+"settings@quality-option-base","พื้นฐาน"
+"settings@quality-option-average","ปานกลาง"
+"settings@quality-option-best","สูง"
+"history@group$active","การซื้อ-ขาย กำลังเคลื่อนไหว"
+"history@group$finished","การซื้อขายสำเสร็จ"
+"st@level$all","ทั้งหมด"
+"st@level$easy","เรียบง่าย"
+"st@level$base","พื้นฐาน"
+"st@level$advanced","ขั้นสูง"
+"promo@btn$details","อ่านเพิ่มเติม"
+"promo@timer$name","โปรโมชั่นสิ้นสุดใน"
+"promo@until","จนกระทั่ง"
+"wallet@btn$refill","เติมเงินในบัญชีทดลอง"
+"tournament@prize-fund","เงินรางวัลสะสม"
+"tournament@prize-places","อันดับสูงสุด"
+"tournament@tab$restrictions","ข้อกำหนดและเงื่อนไข"
+"tournament@tab$rating","อันดับผู้เข้าร่วม"
+"tournament@tab$current","ปัจจุบัน"
+"tournament@tab$soon","เร็วๆนี้"
+"tournament@timer$start","การแข่งขันเริ่มต้นใน"
+"tournament@timer$end","การแข่งขันจบลงใน"
+"section@title$bet","การซื้อขาย"
+"bet@tab$deposit","ฝากเงิน"
+"forecast@deal","การซื้อขาย"
+"forecast@deals","การซื้อขาย"
+"promo@days-short","วัน"
+"settings@group$region","การตั้งค่าภูมิภาค"
+"settings@group$design","ออกแบบ"
+"menu@account-type","ประเภทบัญชี"
+"menu@profile","โปรไฟล์ผู้ใช้งาน"
+"leaderboard@tournament","การแข่งขัน"
+"leaderboard$toggle@open","อันดับทั้งหมด"
+"leaderboard$toggle@close","ปิด"
+"disabled-timer@title","เปิดใน"
+"open-option$total$deals","ลงทุน"
+"open-option$total$invest","ลงทุนทั้งหมด."
+"open-option$total$payout","เงินที่จ่ายทั้งหมด"
+"chat-button@text","ช่วยเหลือ<br>ออนไลน์"
+"accounts@popular","ตัวเลือกยอดนิยม"
+"settings@animation","จุดภาพเคลื่อนไหว"
+"settings@animation-disabled","ปิดการใช้งาน"
+"settings@animation-enabled","เปิดการใช้งาน"

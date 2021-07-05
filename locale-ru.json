@@ -22,7 +22,6 @@
 	"add": "Новая вкладка",
 	"add-new-chart": "Добавить новый график",
 	"charts-arrangement": "Расположение графиков",
-
 	"count-chart": "{{@count}} график",
 	"count-charts": "{{@count}} графика",
 	"one-chart": "1 график",

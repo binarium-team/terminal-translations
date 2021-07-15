@@ -782,5 +782,6 @@
 	"accounts@popular": "Популярный выбор",
 	"settings@animation": "Анимация поинтов",
 	"settings@animation-disabled": "Выключена",
-	"settings@animation-enabled": "Включена"
+	"settings@animation-enabled": "Включена",
+	"earnings-season": "Earnings season"
 }

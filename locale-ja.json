@@ -802,5 +802,6 @@
 	"accounts@popular": "人気のある選択肢",
 	"settings@animation": "ポイントアニメーション",
 	"settings@animation-disabled": "無効",
-	"settings@animation-enabled": "有効"
+	"settings@animation-enabled": "有効",
+	"earnings-season": "Earnings season"
 }

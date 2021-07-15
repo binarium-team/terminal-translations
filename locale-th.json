@@ -802,5 +802,6 @@
 	"accounts@popular": "ตัวเลือกยอดนิยม",
 	"settings@animation": "จุดภาพเคลื่อนไหว",
 	"settings@animation-disabled": "ปิดการใช้งาน",
-	"settings@animation-enabled": "เปิดการใช้งาน"
+	"settings@animation-enabled": "เปิดการใช้งาน",
+	"earnings-season": "Earnings season"
 }

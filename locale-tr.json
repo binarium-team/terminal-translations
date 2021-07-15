@@ -802,5 +802,6 @@
 	"accounts@popular": "Popüler seçim",
 	"settings@animation": "Puan animasyonu",
 	"settings@animation-disabled": "Devre dışı",
-	"settings@animation-enabled": "Etkin"
+	"settings@animation-enabled": "Etkin",
+	"earnings-season": "Earnings season"
 }

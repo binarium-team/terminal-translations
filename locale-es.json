@@ -802,5 +802,6 @@
 	"accounts@popular": "Opción popular",
 	"settings@animation": "Animación de puntuación",
 	"settings@animation-disabled": "Deshabilitado",
-	"settings@animation-enabled": "Habilitado"
+	"settings@animation-enabled": "Habilitado",
+	"earnings-season": "Earnings season"
 }
